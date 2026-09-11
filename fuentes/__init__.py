@@ -1,4 +1,4 @@
 """Cada módulo expone fetch() -> lista de dicts con las claves:
-num, title, buyer, country, pub, deadline, place, url, source (+ proc, desc opcionales)"""
-from . import bouwmeester, boletines, konkurado
-FUENTES = [bouwmeester, boletines, konkurado]
+num, title, buyer, country, pub, deadline, place, url, source (+ proc, desc, value, cur opcionales)"""
+from . import bouwmeester, boletines, konkurado, bma
+FUENTES = [bouwmeester, boletines, konkurado, bma]

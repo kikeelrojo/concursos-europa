@@ -75,3 +75,10 @@ queda con concursos de proyectos, Planerwahlverfahren, Studienaufträge y
 Gesamtleistungswettbewerbe (descarta las «Offerte»), y abre cada ficha para
 sacar plazo, descripción, anonimato y restricción regional (WTO/GPA = abierto a
 extranjeros). Prueba: `python3 -m fuentes.konkurado`.
+
+## BMA Bruselas (`fuentes/bma.py`)
+
+Appels à candidatures del bouwmeester maître architecte de Bruselas
+(bma.brussels/news). De cada ficha saca maître d'ouvrage, programa,
+presupuesto, honorarios, retribución por participar y fecha límite. Prueba:
+`python3 -m fuentes.bma`.
