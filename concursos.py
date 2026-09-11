@@ -126,8 +126,20 @@ def page_url():
     return os.getenv("PAGE_URL", "")
 
 
+def es_open_oproep(c):
+    t = (c.get("title", "") + " " + c.get("buyer", "")).lower()
+    return "open oproep" in t or str(c.get("num", "")).startswith("OO")
+
+
 def html(items):
     today = dt.date.today().strftime("%d.%m.%Y")
+    oo = [c for c in items if es_open_oproep(c)]
+    aviso = ""
+    if oo:
+        lineas = "".join(f"<br><a href='{c['url']}' style='color:#000'>{c['title']}</a>"
+                         f"{(' · candidaturas hasta ' + c['deadline']) if c['deadline'] else ''}" for c in oo)
+        aviso = (f"<p style='border:1px solid #000;padding:10px;margin:0 0 18px'><b>OPEN OPROEP · Vlaams Bouwmeester</b>"
+                 f"<br>Convocatoria que solo sale una o dos veces al año.{lineas}</p>")
     css = ("font-family:Helvetica,Arial,sans-serif;color:#000;"
            "font-size:13px;line-height:1.4")
     rows = []
@@ -144,7 +156,7 @@ def html(items):
     table = ("<table style='border-collapse:collapse'>" + "".join(rows) + "</table>"
              if rows else "<p>Sin concursos nuevos esta semana.</p>")
     link = page_url()
-    return (f"<div style='{css}'><p><b>CONCURSOS DE ARQUITECTURA · EUROPA</b><br>"
+    return (f"<div style='{css}'>{aviso}<p><b>CONCURSOS DE ARQUITECTURA · EUROPA</b><br>"
             f"semana del {today} · {len(items)} nuevos</p>"
             + (f"<p><a href='{link}' style='color:#000'><b>Buscador con todo lo acumulado</b></a></p>" if link else "")
             + table + "<p style='margin-top:24px'>×</p></div>")
@@ -198,7 +210,10 @@ if __name__ == "__main__":
     with open("ultimo_listado.html", "w", encoding="utf-8") as f:
         f.write(out)
     if os.getenv("MAIL_TO"):
-        send(f"Concursos arquitectura Europa · {len(new)} nuevos", out)
+        asunto = f"Concursos arquitectura Europa · {len(new)} nuevos"
+        if any(es_open_oproep(c) for c in new):
+            asunto = "OPEN OPROEP · " + asunto
+        send(asunto, out)
         print("mail enviado a", os.environ["MAIL_TO"])
     else:
         print("MAIL_TO no definido: no se envía mail")
