@@ -96,3 +96,9 @@ Suecia: tävlingar aprobadas por Sveriges Arkitekter (solo estado «Ej
 påbörjad» / «Påbörjad», sin estudiantes ni markanvisningar), con plazo y tipo
 desde la ficha. Dinamarca, Noruega y Finlandia pendientes de añadir en este
 mismo módulo. Prueba: `python3 -m fuentes.nordicos`.
+
+## Italia (`fuentes/italia.py`)
+
+Piattaforma concorsi del CNAPPC (concorsiawn.it): concorsi di progettazione a
+due fasi y concorsi di idee activos, con ente, ciudad y plazo de inscripción
+de primera fase. Descarta los premios. Prueba: `python3 -m fuentes.italia`.
