@@ -89,3 +89,10 @@ Agregador architektura.info (konkursy architektoniczne: fecha de registro,
 entrega, ciudad; descarta premios e internacionales) y lista «Bieżące» del
 SARP Oddział Warszawski (plazos, premios, m²). Prueba:
 `python3 -m fuentes.polonia`.
+
+## Nórdicos (`fuentes/nordicos.py`)
+
+Suecia: tävlingar aprobadas por Sveriges Arkitekter (solo estado «Ej
+påbörjad» / «Påbörjad», sin estudiantes ni markanvisningar), con plazo y tipo
+desde la ficha. Dinamarca, Noruega y Finlandia pendientes de añadir en este
+mismo módulo. Prueba: `python3 -m fuentes.nordicos`.
