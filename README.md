@@ -67,3 +67,11 @@ Lee el buzón de Google indicado en los secretos `IMAP_USER` / `IMAP_PASS`
 alta en `PARSERS`. Hoy: newsfeed de architekturwettbewerb.at. Para añadir otro
 boletín: guardar un `.eml` de muestra, escribir su analizador y registrarlo.
 Prueba local con un mensaje: `python3 -m fuentes.boletines mensaje.eml`.
+
+## Konkurado (`fuentes/konkurado.py`)
+
+Lee la lista pública de procedimientos actuales de konkurado.ch (Suiza), se
+queda con concursos de proyectos, Planerwahlverfahren, Studienaufträge y
+Gesamtleistungswettbewerbe (descarta las «Offerte»), y abre cada ficha para
+sacar plazo, descripción, anonimato y restricción regional (WTO/GPA = abierto a
+extranjeros). Prueba: `python3 -m fuentes.konkurado`.
