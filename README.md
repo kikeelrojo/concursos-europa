@@ -105,6 +105,8 @@ de primera fase. Descarta los premios. Prueba: `python3 -m fuentes.italia`.
 
 ## Portugal (`fuentes/portugal.py`)
 
-Ordem dos Arquitectos: vigila la página «Concursos › Nacional» (en
-construcción) y avisa en el mail el día que se active, para escribir entonces
-el lector con su estructura real. Mientras tanto Portugal entra por el TED. Prueba: `python3 -m fuentes.portugal`.
+Tres piezas: plataforma da encomenda de la Secção Sul (encomenda.oasrs.org,
+concursos en curso con promotor, plazo, premios y valor de obra); lista de la
+Secção Norte (oasrn.org, solo «Concurso de Conceção» e ideias, descartando
+conceção-construção y licitaciones); y vigilante de la página nacional de la
+Ordem (en construcción), que avisa en el mail el día que se active. Prueba: `python3 -m fuentes.portugal`.
