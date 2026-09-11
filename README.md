@@ -110,3 +110,11 @@ concursos en curso con promotor, plazo, premios y valor de obra); lista de la
 Secção Norte (oasrn.org, solo «Concurso de Conceção» e ideias, descartando
 conceção-construção y licitaciones); y vigilante de la página nacional de la
 Ordem (en construcción), que avisa en el mail el día que se active. Prueba: `python3 -m fuentes.portugal`.
+
+## Francia · BOAMP (`fuentes/francia.py`)
+
+API abierta del BOAMP (Opendatasoft, licencia Etalab). Filtra los avisos de la
+semana y conserva concours de maîtrise d'œuvre / d'architecture y marchés de
+maîtrise d'œuvre con esquisse o jurado; descarta AMO, OPC, diagnósticos,
+redes, etc. Complementa al TED con lo que está por debajo del umbral europeo.
+Prueba: `python3 -m fuentes.francia`.
