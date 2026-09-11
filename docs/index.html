@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Concursos de arquitectura · Europa</title>
 <style>
-  :root{--fino:0.5px;--sep:1.5px}
+  :root{--fino:0.5px;--punto:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='3' height='1'><circle cx='0.5' cy='0.5' r='0.35' fill='black'/></svg>") repeat-x left bottom}
   *{box-sizing:border-box}
   html,body{margin:0;background:#fff;color:#000}
   body{font:13px/1.45 Helvetica,Arial,sans-serif;padding:32px 40px 60px}
@@ -13,7 +13,7 @@
   b{font-weight:700}
 
   /* marcas: aspa exterior arriba-derecha; escuadras que delimitan la caja */
-  .aspa{position:fixed;top:14px;right:16px;font-size:18px;line-height:1;font-weight:300}
+  .aspa{position:fixed;top:10px;right:14px;font-size:28px;line-height:1;font-weight:300}
   .caja{position:relative;padding:22px 18px}
   .esc{position:absolute;width:14px;height:14px;pointer-events:none}
   .esc.tl{left:0;top:0;border-left:var(--fino) solid #000;border-top:var(--fino) solid #000}
@@ -24,7 +24,7 @@
 
   /* filtros: una fila, sin cajas */
   .filtros{display:flex;flex-wrap:wrap;gap:14px 26px;align-items:baseline;padding-bottom:14px;
-           border-bottom:var(--sep) dotted #000}
+           background:var(--punto)}
   .filtros label{display:flex;gap:6px;align-items:baseline;white-space:nowrap}
   input[type=text],input[type=number],select{font:inherit;border:0;border-bottom:var(--fino) solid #000;
      background:none;padding:2px 0;outline:none;border-radius:0;color:#000}
@@ -43,10 +43,10 @@
   /* lista */
   table{width:100%;border-collapse:collapse}
   th{text-align:left;font-weight:700;padding:10px 12px 6px 0;cursor:pointer;white-space:nowrap;
-     border-bottom:var(--sep) dotted #000}
+     background:var(--punto)}
   th[data-k]:after{content:"";display:inline-block;width:0}
   th.asc:after{content:" ↑"} th.desc:after{content:" ↓"}
-  td{padding:8px 12px 8px 0;vertical-align:top;border-bottom:var(--sep) dotted #000}
+  td{padding:8px 12px 8px 0;vertical-align:top;background:var(--punto)}
   td.pais{font-weight:700;width:38px}
   td.marca{width:22px}
   td.plazo,td.valor{white-space:nowrap}
@@ -58,7 +58,7 @@
   tr.sel td.tit{font-weight:700}
   .tit a{text-decoration:none}
   .tit a:hover{text-decoration:underline}
-  .mas{cursor:pointer;border-bottom:var(--fino) dotted #000}
+  .mas{cursor:pointer;border-bottom:var(--fino) solid #000}
 
   @media (max-width:700px){
     body{padding:20px 14px 40px}
