@@ -45,7 +45,7 @@
   th{text-align:left;font-weight:700;padding:10px 12px 6px 0;cursor:pointer;white-space:nowrap;
      background:var(--punto)}
   th[data-k]:after{content:"";display:inline-block;width:0}
-  th.asc:after{content:" ↑"} th.desc:after{content:" ↓"}
+  th.s-asc:after{content:" ↑"} th.s-desc:after{content:" ↓"}
   td{padding:8px 12px 8px 0;vertical-align:top;background:var(--punto)}
   td.pais{font-weight:700;width:38px}
   td.marca{width:22px}
@@ -79,7 +79,7 @@
 
   <div class="filtros">
     <label><b>Buscar</b> <input type="text" id="q" placeholder="título, convocante, lugar"></label>
-    <label><b>Plazo</b>
+    <label><b>Entrega</b>
       <select id="plazo">
         <option value="abiertos">abiertos</option>
         <option value="30">vence en 30 días</option>
@@ -108,7 +108,7 @@
       <th></th>
       <th data-k="country">País</th>
       <th data-k="title">Concurso</th>
-      <th data-k="deadline" class="desc">Plazo</th>
+      <th data-k="deadline" class="s-asc">Entrega</th>
       <th data-k="value" class="opt">Presupuesto</th>
     </tr></thead>
     <tbody id="lista"></tbody>
@@ -196,8 +196,8 @@ function render(){
 $("paises").addEventListener("change",render);
 document.querySelectorAll("th[data-k]").forEach(th=>th.addEventListener("click",()=>{
   const k=th.dataset.k; if(sortK===k) sortDir*=-1; else {sortK=k;sortDir=1;}
-  document.querySelectorAll("th").forEach(t=>t.classList.remove("asc","desc"));
-  th.classList.add(sortDir>0?"asc":"desc"); render(); }));
+  document.querySelectorAll("th").forEach(t=>t.classList.remove("s-asc","s-desc"));
+  th.classList.add(sortDir>0?"s-asc":"s-desc"); render(); }));
 $("limpiar").addEventListener("click",()=>{ $("q").value="";$("plazo").value="abiertos";$("tipo").value="";$("vmin").value="";
   $("fuente").value="";$("desde").value="";$("solosel").checked=false;
   $("paises").querySelectorAll("input").forEach(i=>i.checked=true); render(); });
