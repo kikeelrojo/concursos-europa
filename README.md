@@ -44,7 +44,18 @@ uno suelto: `python -m fuentes.bouwmeester`.
   geïnteresseerden (OAG). Las OAG no salen en el TED. Excluye Meesterproef
   (solo recién titulados).
 
-`vistos.json` guarda los códigos ya enviados para que las fuentes nacionales no
-se repitan cada semana; el workflow lo commitea. Para que pueda hacer push,
-en Settings → Actions → General → Workflow permissions marca
-"Read and write permissions".
+## Base acumulada y buscador web
+
+Cada ejecución añade lo nuevo a `docs/concursos.json` (no se borra nada; lo ya
+visto se refresca) y el workflow lo commitea. `docs/index.html` es un buscador
+estático que lee esa base: filtros por país, plazo, tipo, presupuesto estimado,
+fuente y fecha de aparición; casilla para marcar lo que interesa (se guarda en
+el navegador) y botón para copiar lo marcado y pegarlo en un mail.
+
+Se publica con GitHub Pages desde la carpeta `docs/` (el repo tiene que ser
+público para Pages gratuito; no contiene secretos, están aparte). La dirección
+queda en https://USUARIO.github.io/concursos-europa/ y el mail semanal la
+enlaza.
+
+Para que Actions pueda hacer push: Settings → Actions → General → Workflow
+permissions → "Read and write permissions".

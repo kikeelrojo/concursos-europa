@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Concursos de arquitectura · Europa</title>
+<style>
+  :root{--fino:0.5px;--sep:1.5px}
+  *{box-sizing:border-box}
+  html,body{margin:0;background:#fff;color:#000}
+  body{font:13px/1.45 Helvetica,Arial,sans-serif;padding:32px 40px 60px}
+  a{color:#000}
+  b{font-weight:700}
+
+  /* marcas: aspa exterior arriba-derecha; escuadras que delimitan la caja */
+  .aspa{position:fixed;top:14px;right:16px;font-size:18px;line-height:1;font-weight:300}
+  .caja{position:relative;padding:22px 18px}
+  .esc{position:absolute;width:14px;height:14px;pointer-events:none}
+  .esc.tl{left:0;top:0;border-left:var(--fino) solid #000;border-top:var(--fino) solid #000}
+  .esc.br{right:0;bottom:0;border-right:var(--fino) solid #000;border-bottom:var(--fino) solid #000}
+
+  h1{font-size:13px;margin:0 0 2px}
+  .sub{margin:0 0 18px}
+
+  /* filtros: una fila, sin cajas */
+  .filtros{display:flex;flex-wrap:wrap;gap:14px 26px;align-items:baseline;padding-bottom:14px;
+           border-bottom:var(--sep) dotted #000}
+  .filtros label{display:flex;gap:6px;align-items:baseline;white-space:nowrap}
+  input[type=text],input[type=number],select{font:inherit;border:0;border-bottom:var(--fino) solid #000;
+     background:none;padding:2px 0;outline:none;border-radius:0;color:#000}
+  input[type=text]{width:220px}
+  input[type=number]{width:90px}
+  select{appearance:none;-webkit-appearance:none;padding-right:14px;
+     background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='6'><path d='M0 0h8L4 6z' fill='black'/></svg>") no-repeat right center}
+  .paises{display:flex;flex-wrap:wrap;gap:4px 10px}
+  .paises label{gap:3px}
+  input[type=checkbox]{margin:0;accent-color:#000}
+  button{font:inherit;background:none;border:0;border-bottom:var(--fino) solid #000;padding:2px 0;cursor:pointer;color:#000}
+  button:focus-visible,input:focus-visible,select:focus-visible{outline:var(--fino) solid #000;outline-offset:3px}
+
+  .estado{margin:12px 0 4px}
+
+  /* lista */
+  table{width:100%;border-collapse:collapse}
+  th{text-align:left;font-weight:700;padding:10px 12px 6px 0;cursor:pointer;white-space:nowrap;
+     border-bottom:var(--sep) dotted #000}
+  th[data-k]:after{content:"";display:inline-block;width:0}
+  th.asc:after{content:" ↑"} th.desc:after{content:" ↓"}
+  td{padding:8px 12px 8px 0;vertical-align:top;border-bottom:var(--sep) dotted #000}
+  td.pais{font-weight:700;width:38px}
+  td.marca{width:22px}
+  td.plazo,td.valor{white-space:nowrap}
+  td.valor{text-align:right;padding-right:0}
+  .venc{color:#000;text-decoration:line-through}
+  .meta{display:block}
+  .desc{display:none;margin-top:4px;max-width:70ch}
+  tr.abierto .desc{display:block}
+  tr.sel td.tit{font-weight:700}
+  .tit a{text-decoration:none}
+  .tit a:hover{text-decoration:underline}
+  .mas{cursor:pointer;border-bottom:var(--fino) dotted #000}
+
+  @media (max-width:700px){
+    body{padding:20px 14px 40px}
+    .caja{padding:18px 8px}
+    input[type=text]{width:100%}
+    th.opt,td.opt{display:none}
+    td.valor{white-space:normal}
+  }
+  @media (prefers-reduced-motion:no-preference){ tr.sel td.tit{transition:font-weight .1s} }
+</style>
+</head>
+<body>
+<div class="aspa" aria-hidden="true">×</div>
+<div class="caja">
+  <span class="esc tl" aria-hidden="true"></span>
+  <h1>Concursos de arquitectura · Europa</h1>
+  <p class="sub" id="sub">Cargando la base…</p>
+
+  <div class="filtros">
+    <label><b>Buscar</b> <input type="text" id="q" placeholder="título, convocante, lugar"></label>
+    <label><b>Plazo</b>
+      <select id="plazo">
+        <option value="abiertos">abiertos</option>
+        <option value="30">vence en 30 días</option>
+        <option value="todos">todos</option>
+        <option value="sin">sin plazo publicado</option>
+      </select></label>
+    <label><b>Tipo</b>
+      <select id="tipo">
+        <option value="">todos</option>
+        <option value="concurso">concurso de proyectos</option>
+        <option value="licitación con concurso">licitación con concurso</option>
+        <option value="oag">Oproep aan geïnteresseerden</option>
+      </select></label>
+    <label><b>Presupuesto mín.</b> <input type="number" id="vmin" placeholder="€" step="100000"></label>
+    <label><b>Fuente</b> <select id="fuente"><option value="">todas</option></select></label>
+    <label><b>Visto desde</b> <input type="text" id="desde" placeholder="2026-09-01" style="width:90px"></label>
+    <span class="paises" id="paises"><b>País</b></span>
+    <label><input type="checkbox" id="solosel"> <b>solo marcados</b></label>
+    <button id="copiar">Copiar marcados</button>
+    <button id="limpiar">Quitar filtros</button>
+  </div>
+
+  <p class="estado" id="estado"></p>
+  <table>
+    <thead><tr>
+      <th></th>
+      <th data-k="country">País</th>
+      <th data-k="title">Concurso</th>
+      <th data-k="deadline" class="desc">Plazo</th>
+      <th data-k="value" class="opt">Presupuesto</th>
+    </tr></thead>
+    <tbody id="lista"></tbody>
+  </table>
+  <span class="esc br" aria-hidden="true"></span>
+</div>
+
+<script>
+const PAISES={FRA:"Francia",BEL:"Bélgica",CHE:"Suiza",DEU:"Alemania",AUT:"Austria",NLD:"Países Bajos",
+  DNK:"Dinamarca",SWE:"Suecia",NOR:"Noruega",FIN:"Finlandia",ITA:"Italia",PRT:"Portugal",POL:"Polonia",
+  LUX:"Luxemburgo",ESP:"España"};
+let base=[], sortK="deadline", sortDir=1;
+const $=id=>document.getElementById(id);
+const hoy=new Date().toISOString().slice(0,10);
+const sel=new Set(JSON.parse(localStorage.getItem("sel")||"[]"));
+const saveSel=()=>localStorage.setItem("sel",JSON.stringify([...sel]));
+
+fetch("concursos.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  base=d;
+  const cc=[...new Set(base.map(c=>c.country))].sort();
+  cc.forEach(c=>{const l=document.createElement("label");
+    l.innerHTML=`<input type="checkbox" value="${c}" checked> ${c}`;
+    l.title=PAISES[c]||c;$("paises").appendChild(l)});
+  [...new Set(base.map(c=>c.source||"TED"))].sort().forEach(s=>{
+    const o=document.createElement("option");o.value=s;o.textContent=s;$("fuente").appendChild(o)});
+  const ult=base.map(c=>c.first_seen||"").sort().pop();
+  $("sub").textContent=`${base.length} convocatorias acumuladas · última actualización ${ult||"—"}`;
+  render();
+}).catch(()=>{$("sub").textContent="No se ha podido cargar concursos.json. Abre esta página desde la dirección de GitHub Pages, no desde el disco."});
+
+function tipoDe(c){ if((c.source||"")==="bouwmeester") return "oag"; return c.kind||"concurso"; }
+function fmtVal(c){ if(!c.value) return ""; const n=Number(String(c.value).replace(/[^\d.]/g,""));
+  return isNaN(n)?c.value:n.toLocaleString("es-ES",{maximumFractionDigits:0})+" "+(c.cur||""); }
+function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
+
+function filtrar(){
+  const q=$("q").value.trim().toLowerCase(), plazo=$("plazo").value, tipo=$("tipo").value,
+    vmin=Number($("vmin").value||0), fuente=$("fuente").value, desde=$("desde").value.trim(),
+    solo=$("solosel").checked,
+    pp=new Set([...$("paises").querySelectorAll("input:checked")].map(i=>i.value));
+  const lim30=new Date(Date.now()+30*864e5).toISOString().slice(0,10);
+  return base.filter(c=>{
+    if(!pp.has(c.country)) return false;
+    if(solo && !sel.has(c.num)) return false;
+    if(fuente && (c.source||"TED")!==fuente) return false;
+    if(tipo && tipoDe(c)!==tipo) return false;
+    if(desde && (c.first_seen||"")<desde) return false;
+    if(vmin){ const n=Number(String(c.value||"").replace(/[^\d.]/g,"")); if(!(n>=vmin)) return false; }
+    if(plazo==="abiertos" && !abierto(c)) return false;
+    if(plazo==="30" && !(c.deadline && c.deadline.slice(0,10)>=hoy && c.deadline.slice(0,10)<=lim30)) return false;
+    if(plazo==="sin" && c.deadline) return false;
+    if(q){ const t=[c.title,c.buyer,c.place,c.desc,c.num].join(" ").toLowerCase(); if(!t.includes(q)) return false; }
+    return true;
+  });
+}
+
+function render(){
+  const rows=filtrar();
+  rows.sort((a,b)=>{ let x=a[sortK]||"", y=b[sortK]||"";
+    if(sortK==="value"){x=Number(String(x).replace(/[^\d.]/g,""))||0;y=Number(String(y).replace(/[^\d.]/g,""))||0;}
+    if(sortK==="deadline"){ if(!x) x="9999"; if(!y) y="9999"; }
+    return (x>y?1:x<y?-1:0)*sortDir; });
+  $("estado").textContent=`${rows.length} de ${base.length} · ${sel.size} marcados`;
+  const tb=$("lista"); tb.innerHTML="";
+  for(const c of rows){
+    const tr=document.createElement("tr");
+    if(sel.has(c.num)) tr.classList.add("sel");
+    const dl=c.deadline?c.deadline.replace("T"," ").slice(0,16):"";
+    const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",c.proc||""].filter(Boolean).join(" · ");
+    tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
+      <td class="pais" title="${PAISES[c.country]||""}">${c.country}</td>
+      <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>
+        <span class="meta">${meta}${c.desc?` <span class="mas">más</span>`:""}</span>
+        ${c.desc?`<span class="desc">${c.desc}</span>`:""}</td>
+      <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>
+      <td class="valor opt">${fmtVal(c)}</td>`;
+    tr.querySelector("input").addEventListener("change",e=>{ e.target.checked?sel.add(c.num):sel.delete(c.num); saveSel();
+      tr.classList.toggle("sel",e.target.checked); $("estado").textContent=`${rows.length} de ${base.length} · ${sel.size} marcados`;});
+    const m=tr.querySelector(".mas"); if(m) m.addEventListener("click",()=>tr.classList.toggle("abierto"));
+    tb.appendChild(tr);
+  }
+}
+
+["q","plazo","tipo","vmin","fuente","desde","solosel"].forEach(id=>$(id).addEventListener("input",render));
+$("paises").addEventListener("change",render);
+document.querySelectorAll("th[data-k]").forEach(th=>th.addEventListener("click",()=>{
+  const k=th.dataset.k; if(sortK===k) sortDir*=-1; else {sortK=k;sortDir=1;}
+  document.querySelectorAll("th").forEach(t=>t.classList.remove("asc","desc"));
+  th.classList.add(sortDir>0?"asc":"desc"); render(); }));
+$("limpiar").addEventListener("click",()=>{ $("q").value="";$("plazo").value="abiertos";$("tipo").value="";$("vmin").value="";
+  $("fuente").value="";$("desde").value="";$("solosel").checked=false;
+  $("paises").querySelectorAll("input").forEach(i=>i.checked=true); render(); });
+$("copiar").addEventListener("click",()=>{
+  const t=base.filter(c=>sel.has(c.num)).map(c=>`${c.country} · ${c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
+  navigator.clipboard.writeText(t||"").then(()=>{$("copiar").textContent="Copiado";setTimeout(()=>$("copiar").textContent="Copiar marcados",1500);});
+});
+</script>
+</body>
+</html>

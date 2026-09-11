@@ -22,7 +22,8 @@ EXCLUDE = ["student", "étudiant", "studenten", "studenti", "estudiante",
 
 FIELDS = ["publication-number", "notice-title", "buyer-name", "buyer-country",
           "publication-date", "notice-type", "deadline", "deadline-receipt-request",
-          "deadline-receipt-tender-date-lot", "place-of-performance", "classification-cpv"]
+          "deadline-receipt-tender-date-lot", "place-of-performance", "classification-cpv",
+          "estimated-value-proc", "estimated-value-cur-proc", "procedure-type", "description-proc"]
 # Palabras que delatan un concurso aunque el aviso no sea "cn-desg"
 KEYWORDS = ["concours", "wettbewerb", "concurso", "concorso", "prijsvraag",
             "wedstrijd", "konkurs", "tävling", "konkurrence", "konkurranse",
@@ -107,10 +108,22 @@ def clean(n):
         "deadline": (lang(n.get("deadline")) or lang(n.get("deadline-receipt-request"))
                      or lang(n.get("deadline-receipt-tender-date-lot")))[:16],
         "kind": n.get("_kind", ""),
+        "value": lang(n.get("estimated-value-proc")),
+        "cur": lang(n.get("estimated-value-cur-proc")),
+        "proc": lang(n.get("procedure-type")),
+        "desc": lang(n.get("description-proc"))[:400],
         "place": lang(n.get("place-of-performance")),
         "url": f"https://ted.europa.eu/es/notice/-/detail/{n.get('publication-number','')}",
         "source": "TED",
     }
+
+
+def page_url():
+    repo = os.getenv("GITHUB_REPOSITORY", "")      # owner/repo en Actions
+    if "/" in repo:
+        o, r = repo.split("/", 1)
+        return f"https://{o}.github.io/{r}/"
+    return os.getenv("PAGE_URL", "")
 
 
 def html(items):
@@ -119,18 +132,22 @@ def html(items):
            "font-size:13px;line-height:1.4")
     rows = []
     for c in sorted(items, key=lambda x: (x["country"], x["deadline"] or "z")):
+        v = f" · {c['value']} {c['cur']}" if c.get("value") else ""
         rows.append(
             f"<tr><td style='padding:6px 8px 6px 0;vertical-align:top'><b>{c['country']}</b></td>"
             f"<td style='padding:6px 8px;vertical-align:top'><a href='{c['url']}' "
             f"style='color:#000'>{c['title']}</a><br>{c['buyer']}"
-            f"{(' · ' + c['place']) if c['place'] else ''}</td>"
+            f"{(' · ' + c['place']) if c['place'] else ''}{v}"
+            f"{(' · ' + c['source']) if c.get('source') and c['source'] != 'TED' else ''}</td>"
             f"<td style='padding:6px 0 6px 8px;vertical-align:top;white-space:nowrap'>"
             f"{'límite ' + c['deadline'] if c['deadline'] else ('pub. ' + c['pub'] if c['pub'] else 'en cartera')}</td></tr>")
     table = ("<table style='border-collapse:collapse'>" + "".join(rows) + "</table>"
              if rows else "<p>Sin concursos nuevos esta semana.</p>")
+    link = page_url()
     return (f"<div style='{css}'><p><b>CONCURSOS DE ARQUITECTURA · EUROPA</b><br>"
-            f"semana del {today} · {len(items)} nuevos · TED + fuentes nacionales</p>{table}"
-            f"<p style='margin-top:24px'>×</p></div>")
+            f"semana del {today} · {len(items)} nuevos</p>"
+            + (f"<p><a href='{link}' style='color:#000'><b>Buscador con todo lo acumulado</b></a></p>" if link else "")
+            + table + "<p style='margin-top:24px'>×</p></div>")
 
 
 def send(subject, body_html):
@@ -145,14 +162,14 @@ def send(subject, body_html):
         s.sendmail(msg["From"], msg["To"].split(","), msg.as_string())
 
 
-SEEN = "vistos.json"
+BASE = "docs/concursos.json"
 
 
-def load_seen():
+def load_base():
     try:
-        return set(json.load(open(SEEN)))
+        return json.load(open(BASE, encoding="utf-8"))
     except Exception:
-        return set()
+        return []
 
 
 if __name__ == "__main__":
@@ -163,13 +180,25 @@ if __name__ == "__main__":
         extra = f.fetch()
         print(f"{f.__name__}: {len(extra)}")
         items += extra
-    seen = load_seen()
-    items = [c for c in items if c["num"] not in seen]
-    json.dump(sorted(seen | {c["num"] for c in items}), open(SEEN, "w"))
-    out = html(items)
+    base = load_base()
+    known = {c["num"]: c for c in base}
+    today = dt.date.today().isoformat()
+    new = []
+    for c in items:
+        if c["num"] in known:
+            known[c["num"]].update({k: v for k, v in c.items() if v})  # refresca plazo, etc.
+        else:
+            c["first_seen"] = today
+            base.append(c)
+            new.append(c)
+    os.makedirs("docs", exist_ok=True)
+    json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    print(f"base: {len(base)} en total, {len(new)} nuevos")
+    out = html(new)
     with open("ultimo_listado.html", "w", encoding="utf-8") as f:
         f.write(out)
     if os.getenv("MAIL_TO"):
-        send(f"Concursos arquitectura Europa · {len(items)} nuevos", out)
+        send(f"Concursos arquitectura Europa · {len(new)} nuevos", out)
+        print("mail enviado a", os.environ["MAIL_TO"])
     else:
-        print(json.dumps(items, ensure_ascii=False, indent=1))
+        print("MAIL_TO no definido: no se envía mail")
