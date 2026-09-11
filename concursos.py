@@ -126,6 +126,14 @@ def page_url():
     return os.getenv("PAGE_URL", "")
 
 
+ISO2 = {"FRA": "FR", "BEL": "BE", "CHE": "CH", "DEU": "DE", "AUT": "AT", "NLD": "NL", "DNK": "DK",
+        "SWE": "SE", "NOR": "NO", "FIN": "FI", "ITA": "IT", "PRT": "PT", "POL": "PL", "LUX": "LU", "ESP": "ES"}
+
+
+def pais(c):
+    return ISO2.get(c.get("country", ""), c.get("country", ""))
+
+
 def es_open_oproep(c):
     t = (c.get("title", "") + " " + c.get("buyer", "")).lower()
     return "open oproep" in t or str(c.get("num", "")).startswith("OO")
@@ -146,7 +154,7 @@ def html(items):
     for c in sorted(items, key=lambda x: (x["country"], x["deadline"] or "z")):
         v = f" · {c['value']} {c['cur']}" if c.get("value") else ""
         rows.append(
-            f"<tr><td style='padding:6px 8px 6px 0;vertical-align:top'><b>{c['country']}</b></td>"
+            f"<tr><td style='padding:6px 8px 6px 0;vertical-align:top'><b>{pais(c)}</b></td>"
             f"<td style='padding:6px 8px;vertical-align:top'><a href='{c['url']}' "
             f"style='color:#000'>{c['title']}</a><br>{c['buyer']}"
             f"{(' · ' + c['place']) if c['place'] else ''}{v}"

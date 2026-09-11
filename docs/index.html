@@ -125,6 +125,8 @@
 const PAISES={FRA:"Francia",BEL:"Bélgica",CHE:"Suiza",DEU:"Alemania",AUT:"Austria",NLD:"Países Bajos",
   DNK:"Dinamarca",SWE:"Suecia",NOR:"Noruega",FIN:"Finlandia",ITA:"Italia",PRT:"Portugal",POL:"Polonia",
   LUX:"Luxemburgo",ESP:"España"};
+const ISO2={FRA:"FR",BEL:"BE",CHE:"CH",DEU:"DE",AUT:"AT",NLD:"NL",DNK:"DK",SWE:"SE",NOR:"NO",FIN:"FI",ITA:"IT",PRT:"PT",POL:"PL",LUX:"LU",ESP:"ES"};
+const cc2=c=>ISO2[c]||c;
 let base=[], sortK="deadline", sortDir=1;
 const $=id=>document.getElementById(id);
 const hoy=new Date().toISOString().slice(0,10);
@@ -135,7 +137,7 @@ fetch("concursos.json?"+Date.now()).then(r=>r.json()).then(d=>{
   base=d;
   const cc=[...new Set(base.map(c=>c.country))].sort();
   cc.forEach(c=>{const l=document.createElement("label");
-    l.innerHTML=`<input type="checkbox" value="${c}" checked> ${c}`;
+    l.innerHTML=`<input type="checkbox" value="${c}" checked> ${cc2(c)}`;
     l.title=PAISES[c]||c;$("paises").appendChild(l)});
   [...new Set(base.map(c=>c.source||"TED"))].sort().forEach(s=>{
     const o=document.createElement("option");o.value=s;o.textContent=s;$("fuente").appendChild(o)});
@@ -203,7 +205,7 @@ function render(){
     const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",
       ac==="abierto"?"abierto":ac==="seleccion"?"por selección":"", mm?mm.toLocaleString("es-ES")+" m²":"", v].filter(Boolean).join(" · ");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
-      <td class="pais" title="${PAISES[c.country]||""}">${c.country}</td>
+      <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
       <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>
         <span class="meta">${meta}${c.desc?` <span class="mas">más</span>`:""}</span>
         ${c.desc?`<span class="desc">${c.desc}</span>`:""}</td>
@@ -225,7 +227,7 @@ $("limpiar").addEventListener("click",()=>{ $("q").value="";$("plazo").value="ab
   $("fuente").value="";$("desde").value="";$("solosel").checked=false;$("acceso").value="";$("m2min").value="";
   $("paises").querySelectorAll("input").forEach(i=>i.checked=true); render(); });
 $("copiar").addEventListener("click",()=>{
-  const t=base.filter(c=>sel.has(c.num)).map(c=>`${c.country} · ${c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
+  const t=base.filter(c=>sel.has(c.num)).map(c=>`${cc2(c.country)} · ${c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
   navigator.clipboard.writeText(t||"").then(()=>{$("copiar").textContent="Copiado";setTimeout(()=>$("copiar").textContent="Copiar marcados",1500);});
 });
 </script>
