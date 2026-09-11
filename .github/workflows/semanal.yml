@@ -17,6 +17,8 @@ jobs:
           MAIL_TO:   ${{ secrets.MAIL_TO }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
       - name: guardar base acumulada
         run: |
           git config user.name concursos-bot

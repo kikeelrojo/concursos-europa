@@ -151,7 +151,8 @@ function acceso(c){
   const p=(c.proc||"").toLowerCase(), t=((c.title||"")+" "+(c.desc||"")).toLowerCase();
   if((c.source||"")==="bouwmeester") return "seleccion";
   if(/restricted|neg-w-call|comp-dial|innovation/.test(p)) return "seleccion";
-  if(/^open$/.test(p)) return "abierto";
+  if(p==="open"||p==="abierto") return "abierto";
+  if(p==="seleccion") return "seleccion";
   if(/restreint|nicht ?offen|selektiv|restringid|ristrett|besloten|niet-open|inbjud|kutsu|invited|invitation|prekwalif|präqualif|candidatures|zaproszen|begränsad|indbudt/.test(t)) return "seleccion";
   if(/\boffen|ouvert|abierto|aperto|\bopen\b|åpen|öppen|avoin|otwart/.test(t)) return "abierto";
   return "nd"; }

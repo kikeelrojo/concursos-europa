@@ -59,3 +59,11 @@ enlaza.
 
 Para que Actions pueda hacer push: Settings → Actions → General → Workflow
 permissions → "Read and write permissions".
+
+## Boletines por correo (`fuentes/boletines.py`)
+
+Lee el buzón de Google indicado en los secretos `IMAP_USER` / `IMAP_PASS`
+(contraseña de aplicación) y analiza los boletines de los remitentes dados de
+alta en `PARSERS`. Hoy: newsfeed de architekturwettbewerb.at. Para añadir otro
+boletín: guardar un `.eml` de muestra, escribir su analizador y registrarlo.
+Prueba local con un mensaje: `python3 -m fuentes.boletines mensaje.eml`.
