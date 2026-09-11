@@ -111,7 +111,7 @@ def clean(n):
         "value": lang(n.get("estimated-value-proc")),
         "cur": lang(n.get("estimated-value-cur-proc")),
         "proc": lang(n.get("procedure-type")),
-        "desc": lang(n.get("description-proc"))[:400],
+        "desc": lang(n.get("description-proc"))[:1500],
         "place": lang(n.get("place-of-performance")),
         "url": f"https://ted.europa.eu/es/notice/-/detail/{n.get('publication-number','')}",
         "source": "TED",

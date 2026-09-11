@@ -64,8 +64,6 @@
     body{padding:20px 14px 40px}
     .caja{padding:18px 8px}
     input[type=text]{width:100%}
-    th.opt,td.opt{display:none}
-    td.valor{white-space:normal}
   }
   @media (prefers-reduced-motion:no-preference){ tr.sel td.tit{transition:font-weight .1s} }
 </style>
@@ -93,6 +91,14 @@
         <option value="licitación con concurso">licitación con concurso</option>
         <option value="oag">Oproep aan geïnteresseerden</option>
       </select></label>
+    <label><b>Acceso</b>
+      <select id="acceso">
+        <option value="">todos</option>
+        <option value="abierto">abierto</option>
+        <option value="seleccion">por selección / invitación</option>
+        <option value="nd">sin dato</option>
+      </select></label>
+    <label><b>m² mín.</b> <input type="number" id="m2min" placeholder="m²" step="500"></label>
     <label><b>Presupuesto mín.</b> <input type="number" id="vmin" placeholder="€" step="100000"></label>
     <label><b>Fuente</b> <select id="fuente"><option value="">todas</option></select></label>
     <label><b>Visto desde</b> <input type="text" id="desde" placeholder="2026-09-01" style="width:90px"></label>
@@ -109,7 +115,6 @@
       <th data-k="country">País</th>
       <th data-k="title">Concurso</th>
       <th data-k="deadline" class="s-asc">Entrega</th>
-      <th data-k="value" class="opt">Presupuesto</th>
     </tr></thead>
     <tbody id="lista"></tbody>
   </table>
@@ -142,11 +147,25 @@ fetch("concursos.json?"+Date.now()).then(r=>r.json()).then(d=>{
 function tipoDe(c){ if((c.source||"")==="bouwmeester") return "oag"; return c.kind||"concurso"; }
 function fmtVal(c){ if(!c.value) return ""; const n=Number(String(c.value).replace(/[^\d.]/g,""));
   return isNaN(n)?c.value:n.toLocaleString("es-ES",{maximumFractionDigits:0})+" "+(c.cur||""); }
+function acceso(c){
+  const p=(c.proc||"").toLowerCase(), t=((c.title||"")+" "+(c.desc||"")).toLowerCase();
+  if((c.source||"")==="bouwmeester") return "seleccion";
+  if(/restricted|neg-w-call|comp-dial|innovation/.test(p)) return "seleccion";
+  if(/^open$/.test(p)) return "abierto";
+  if(/restreint|nicht ?offen|selektiv|restringid|ristrett|besloten|niet-open|inbjud|kutsu|invited|invitation|prekwalif|präqualif|candidatures|zaproszen|begränsad|indbudt/.test(t)) return "seleccion";
+  if(/\boffen|ouvert|abierto|aperto|\bopen\b|åpen|öppen|avoin|otwart/.test(t)) return "abierto";
+  return "nd"; }
+function m2(c){
+  const t=(c.title||"")+" "+(c.desc||""); let best=0;
+  for(const m of t.matchAll(/(\d[\d.,\s]{0,10}\d|\d)\s*(m²|m2|m\^2|qm|mq|m\u00b2)(?![a-z])/gi)){
+    let x=m[1].replace(/[\s.]/g,""); if(/,\d{3}$/.test(x)) x=x.replace(",",""); else x=x.replace(",",".");
+    const n=parseFloat(x); if(n>best&&n<5e6) best=n; }
+  return best; }
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
 
 function filtrar(){
   const q=$("q").value.trim().toLowerCase(), plazo=$("plazo").value, tipo=$("tipo").value,
-    vmin=Number($("vmin").value||0), fuente=$("fuente").value, desde=$("desde").value.trim(),
+    vmin=Number($("vmin").value||0), fuente=$("fuente").value, acc=$("acceso").value, mmin=Number($("m2min").value||0), desde=$("desde").value.trim(),
     solo=$("solosel").checked,
     pp=new Set([...$("paises").querySelectorAll("input:checked")].map(i=>i.value));
   const lim30=new Date(Date.now()+30*864e5).toISOString().slice(0,10);
@@ -157,6 +176,8 @@ function filtrar(){
     if(tipo && tipoDe(c)!==tipo) return false;
     if(desde && (c.first_seen||"")<desde) return false;
     if(vmin){ const n=Number(String(c.value||"").replace(/[^\d.]/g,"")); if(!(n>=vmin)) return false; }
+    if(acc && acceso(c)!==acc) return false;
+    if(mmin && !(m2(c)>=mmin)) return false;
     if(plazo==="abiertos" && !abierto(c)) return false;
     if(plazo==="30" && !(c.deadline && c.deadline.slice(0,10)>=hoy && c.deadline.slice(0,10)<=lim30)) return false;
     if(plazo==="sin" && c.deadline) return false;
@@ -177,14 +198,15 @@ function render(){
     const tr=document.createElement("tr");
     if(sel.has(c.num)) tr.classList.add("sel");
     const dl=c.deadline?c.deadline.replace("T"," ").slice(0,16):"";
-    const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",c.proc||""].filter(Boolean).join(" · ");
+    const ac=acceso(c), mm=m2(c), v=fmtVal(c);
+    const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",
+      ac==="abierto"?"abierto":ac==="seleccion"?"por selección":"", mm?mm.toLocaleString("es-ES")+" m²":"", v].filter(Boolean).join(" · ");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${c.country}</td>
       <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>
         <span class="meta">${meta}${c.desc?` <span class="mas">más</span>`:""}</span>
         ${c.desc?`<span class="desc">${c.desc}</span>`:""}</td>
-      <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>
-      <td class="valor opt">${fmtVal(c)}</td>`;
+      <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>`;
     tr.querySelector("input").addEventListener("change",e=>{ e.target.checked?sel.add(c.num):sel.delete(c.num); saveSel();
       tr.classList.toggle("sel",e.target.checked); $("estado").textContent=`${rows.length} de ${base.length} · ${sel.size} marcados`;});
     const m=tr.querySelector(".mas"); if(m) m.addEventListener("click",()=>tr.classList.toggle("abierto"));
@@ -192,14 +214,14 @@ function render(){
   }
 }
 
-["q","plazo","tipo","vmin","fuente","desde","solosel"].forEach(id=>$(id).addEventListener("input",render));
+["q","plazo","tipo","vmin","fuente","desde","solosel","acceso","m2min"].forEach(id=>$(id).addEventListener("input",render));
 $("paises").addEventListener("change",render);
 document.querySelectorAll("th[data-k]").forEach(th=>th.addEventListener("click",()=>{
   const k=th.dataset.k; if(sortK===k) sortDir*=-1; else {sortK=k;sortDir=1;}
   document.querySelectorAll("th").forEach(t=>t.classList.remove("s-asc","s-desc"));
   th.classList.add(sortDir>0?"s-asc":"s-desc"); render(); }));
 $("limpiar").addEventListener("click",()=>{ $("q").value="";$("plazo").value="abiertos";$("tipo").value="";$("vmin").value="";
-  $("fuente").value="";$("desde").value="";$("solosel").checked=false;
+  $("fuente").value="";$("desde").value="";$("solosel").checked=false;$("acceso").value="";$("m2min").value="";
   $("paises").querySelectorAll("input").forEach(i=>i.checked=true); render(); });
 $("copiar").addEventListener("click",()=>{
   const t=base.filter(c=>sel.has(c.num)).map(c=>`${c.country} · ${c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
