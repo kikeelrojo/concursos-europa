@@ -82,3 +82,10 @@ Appels à candidatures del bouwmeester maître architecte de Bruselas
 (bma.brussels/news). De cada ficha saca maître d'ouvrage, programa,
 presupuesto, honorarios, retribución por participar y fecha límite. Prueba:
 `python3 -m fuentes.bma`.
+
+## Polonia (`fuentes/polonia.py`)
+
+Agregador architektura.info (konkursy architektoniczne: fecha de registro,
+entrega, ciudad; descarta premios e internacionales) y lista «Bieżące» del
+SARP Oddział Warszawski (plazos, premios, m²). Prueba:
+`python3 -m fuentes.polonia`.
