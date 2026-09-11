@@ -1,0 +1,50 @@
+# Concursos de arquitectura · Europa · aviso semanal
+
+Cada lunes a las 08:00 consulta el TED (boletín oficial UE + Suiza vía simap.ch),
+filtra los *concursos de proyectos* (design contest) con CPV 71 (arquitectura /
+ingeniería) de los países elegidos y te manda un mail con título, convocante,
+lugar, plazo y enlace. Reenviable tal cual.
+
+## Puesta en marcha (10 min, gratis)
+
+1. Crea un repositorio en GitHub (privado vale) y sube estos tres archivos
+   respetando la carpeta `.github/workflows/`.
+2. En Gmail: cuenta → Seguridad → Verificación en dos pasos → **Contraseñas de
+   aplicación** → crea una para "concursos". Copia los 16 caracteres.
+3. En el repo: Settings → Secrets and variables → Actions → New repository secret:
+   - `MAIL_FROM`  tu gmail
+   - `SMTP_USER`  tu gmail
+   - `SMTP_PASS`  la contraseña de aplicación
+   - `MAIL_TO`    destinatarios separados por coma (p. ej. info@arrova.eu,koldo@...)
+4. Actions → "concursos semanales" → **Run workflow** para probar. Llega el mail
+   y además queda el HTML como artefacto descargable.
+
+## Ajustes
+
+- Países: lista `COUNTRIES` en `concursos.py` (ISO-3). Quita ESP si no lo quieres.
+- Ventana: `DAYS_BACK` (7 por defecto). Para la primera vez pon 30 y verás fondo.
+- Hora: la línea `cron` del workflow.
+- Filtro de estudiantes: lista `EXCLUDE`.
+
+## Límites conocidos
+
+- El TED solo recoge concursos por encima del umbral europeo o publicados
+  voluntariamente. Lo pequeño (Bouwmeester Open Oproep, concursos municipales
+  alemanes en competitionline, Konkurado suizo) queda fuera; está previsto como
+  fuente secundaria en una v2.
+- Si el TED cambia nombres de campo, el script reintenta con un juego mínimo de
+  campos. Si un lunes no llega mail, mira el log en Actions.
+
+## Fuentes nacionales (v2)
+
+Carpeta `fuentes/`: un módulo por portal, cada uno con `fetch()`. Para probar
+uno suelto: `python -m fuentes.bouwmeester`.
+
+- `bouwmeester.py` — Vlaams Bouwmeester: Open Oproep (OO) y Oproep aan
+  geïnteresseerden (OAG). Las OAG no salen en el TED. Excluye Meesterproef
+  (solo recién titulados).
+
+`vistos.json` guarda los códigos ya enviados para que las fuentes nacionales no
+se repitan cada semana; el workflow lo commitea. Para que pueda hacer push,
+en Settings → Actions → General → Workflow permissions marca
+"Read and write permissions".

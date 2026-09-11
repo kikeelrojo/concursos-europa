@@ -1,0 +1,27 @@
+name: concursos semanales
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # lunes 06:00 UTC = 08:00 Pamplona
+  workflow_dispatch:       # botón "Run workflow" para probar
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4
+      - run: python concursos.py
+        env:
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      - name: guardar lista de vistos
+        run: |
+          git config user.name concursos-bot
+          git config user.email bot@users.noreply.github.com
+          git add vistos.json && git commit -m "vistos $(date +%F)" || true
+          git push || true
+      - uses: actions/upload-artifact@v4
+        with: { name: listado, path: ultimo_listado.html }
