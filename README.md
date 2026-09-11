@@ -102,3 +102,9 @@ mismo módulo. Prueba: `python3 -m fuentes.nordicos`.
 Piattaforma concorsi del CNAPPC (concorsiawn.it): concorsi di progettazione a
 due fasi y concorsi di idee activos, con ente, ciudad y plazo de inscripción
 de primera fase. Descarta los premios. Prueba: `python3 -m fuentes.italia`.
+
+## Portugal (`fuentes/portugal.py`)
+
+Ordem dos Arquitectos: vigila la página «Concursos › Nacional» (en
+construcción) y avisa en el mail el día que se active, para escribir entonces
+el lector con su estructura real. Mientras tanto Portugal entra por el TED. Prueba: `python3 -m fuentes.portugal`.

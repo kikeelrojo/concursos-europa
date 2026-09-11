@@ -1,0 +1,5 @@
+*.html
+!docs/*.html
+*.eml
+*.js
+__pycache__/
