@@ -186,7 +186,7 @@ function ficha(c){
     ${c.desc?`<div class="ficha-desc">${esc(c.desc)}</div>`:""}
     <div class="ficha-acciones">
       <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="Descarga la documentación a Descargas/concursos-docs; si el portal exige cuenta, abre la plataforma">Descargar documentación</a>
-      <a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>${alt}
+      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>`:""}${alt}
     </div></div>`;
 }
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
@@ -233,7 +233,7 @@ function render(){
       +(c.alt||[]).map(a=>` · también en <a href="${a.url}" target="_blank" rel="noopener">${a.source||"otra fuente"}</a>`).join("");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
-      <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>
+      <td class="tit">${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>`:c.title}
         <span class="meta">${meta} <span class="mas">ficha</span></span></td>
       <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>`;
     tr.querySelector("input").addEventListener("change",e=>{ e.target.checked?sel.add(c.num):sel.delete(c.num); saveSel();

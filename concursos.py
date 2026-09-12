@@ -4,7 +4,7 @@ Buscador semanal de concursos de arquitectura en Europa (TED).
 Consulta la Search API pública del TED (sin clave), filtra concursos de
 proyectos (design contest) de los países elegidos y envía un mail HTML.
 """
-import os, re, sys, smtplib, datetime as dt, json
+import os, re, sys, smtplib, datetime as dt, json, urllib.parse
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import requests
@@ -232,6 +232,27 @@ def fusionar(dest, src):
     return dest
 
 
+DOMINIOS = {"arkitekt.se": "https://www.arkitekt.se", "safa.fi": "https://www.safa.fi", "bouwmeester": "https://www.vlaamsbouwmeester.be",
+            "konkurado": "https://konkurado.ch", "bma.brussels": "https://bma.brussels", "cellule.archi": "https://cellule.archi",
+            "concorsiawn.it": "https://concorsiawn.it", "architektura.info": "https://architektura.info", "sarp.warszawa.pl": "https://sarp.warszawa.pl",
+            "arkitektforbundet.no": "https://arkitektforbundet.no", "oasrs encomenda": "https://encomenda.oasrs.org", "oasrn": "http://www.oasrn.org",
+            "architekturwettbewerb.at": "https://www.architekturwettbewerb.at"}
+
+
+def fix_url(c):
+    u = str(c.get("url") or "").strip()
+    if u and not u.lower().startswith("http"):
+        dom = DOMINIOS.get(c.get("source", ""), "")
+        u = (dom + ("" if u.startswith("/") else "/") + u) if dom else ""
+    c["url"] = u
+    if str(c.get("source", "")).startswith("COAVN"):
+        q = urllib.parse.quote(f'"{c.get("title", "")[:120]}"')
+        c.setdefault("alt", [])
+        if not any(a.get("source") == "buscar el anuncio" for a in c["alt"]):
+            c["alt"].append({"source": "buscar el anuncio", "url": f"https://www.google.com/search?q={q}", "num": ""})
+    return c
+
+
 def dedupe(items, base):
     """Fusiona repetidos entre fuentes; prefiere la fuente nacional al TED."""
     res = []
@@ -267,6 +288,7 @@ if __name__ == "__main__":
         extra = f.fetch()
         print(f"{f.__name__}: {len(extra)}")
         items += extra
+    items = [fix_url(c) for c in items]
     base = load_base()
     known = {c["num"]: c for c in base}
     items = [c for c in items if c["num"] not in known] + [known[c["num"]] and c for c in items if c["num"] in known]
