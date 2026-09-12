@@ -173,6 +173,10 @@ function m2(c){
     const n=parseFloat(x); if(n>best&&n<5e6) best=n; }
   return best; }
 function esc(t){ return String(t||"").replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+function descargable(c){
+  if(c.docs&&c.docs.length) return true;
+  return /^(TenderNed|bma\.brussels|cellule\.archi|oasrs encomenda|PLACE)/.test(c.source||"");
+}
 function ficha(c){
   const ac=acceso(c), mm=m2(c), v=fmtVal(c);
   const filas=[["Título original",c.title_es?c.title:""],["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
@@ -184,8 +188,7 @@ function ficha(c){
   return `<div class="ficha-box">${filas}
     ${c.desc?`<div class="ficha-desc">${esc(c.desc_es||c.desc)}${c.desc_es?`<br><br><span style="opacity:.75">${esc(c.desc)}</span>`:""}</div>`:""}
     <div class="ficha-acciones">
-      <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="Descarga la documentación a Descargas/concursos-docs; si el portal exige cuenta, abre la plataforma">Descargar documentación</a>
-      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener noreferrer">abrir en la plataforma</a>`:""}${alt}
+      <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="${descargable(c)?"Baja los documentos a Descargas/concursos-docs y genera el resumen":"Abre el anuncio en su plataforma"}">${descargable(c)?"Descargar documentación":"Abrir en la plataforma"}</a>${alt}
     </div></div>`;
 }
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
