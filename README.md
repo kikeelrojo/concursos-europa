@@ -95,8 +95,9 @@ SARP Oddział Warszawski (plazos, premios, m²). Prueba:
 Suecia: tävlingar aprobadas por Sveriges Arkitekter (solo estado «Ej
 påbörjad» / «Påbörjad», sin estudiantes ni markanvisningar), con plazo y tipo
 desde la ficha. Finlandia: kilpailukalenteri de SAFA (yleiset = abiertos,
-kutsukilpailut = invitación; estados próximo / en curso). Dinamarca y Noruega
-solo por TED y boletines. Prueba: `python3 -m fuentes.nordicos`.
+kutsukilpailut = invitación; estados próximo / en curso). Noruega: concursos en curso con NAL como
+secretaría (arkitektforbundet.no), un registro por concurso con su última
+noticia. Dinamarca solo por TED. Prueba: `python3 -m fuentes.nordicos`.
 
 ## Italia (`fuentes/italia.py`)
 

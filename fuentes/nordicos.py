@@ -137,8 +137,65 @@ def finlandia():
     return out
 
 
+NO_LIST = "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/"
+NO_MESES = {"januar": 1, "februar": 2, "mars": 3, "april": 4, "mai": 5, "juni": 6, "juli": 7, "august": 8,
+            "september": 9, "oktober": 10, "november": 11, "desember": 12}
+NO_DATE = re.compile(r"(\d{1,2})\.\s*([a-zæøå]+)\s*(\d{2,4})", re.I)
+
+
+def _no_fecha(t):
+    m = NO_DATE.search(t or "")
+    if not m or m.group(2).lower() not in NO_MESES:
+        return ""
+    y = m.group(3) if len(m.group(3)) == 4 else "20" + m.group(3)
+    return f"{y}-{NO_MESES[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+
+
+def noruega():
+    """NAL · pågående konkurranser (concursos con NAL como secretaría): un
+    registro por concurso, con la noticia más reciente."""
+    out = {}
+    try:
+        r = requests.get(NO_LIST, headers=UA, timeout=60)
+        r.raise_for_status()
+    except Exception as e:
+        print("nal:", e)
+        return []
+    soup = BeautifulSoup(r.text, "html.parser")
+    for a in soup.find_all("a", href=True):
+        h = a["href"]
+        m = re.match(r"(?:https://arkitektforbundet\.no)?/konkurranser/paagaaende-konkurranser/([^/]+)/([^/]+)/?$", h)
+        if not m:
+            continue
+        slug = m.group(1)
+        t = " ".join(a.get_text(" ", strip=True).split())
+        fecha = _no_fecha(t)
+        noticia = re.sub(r"^.*?Konkurranse\s+\d{1,2}\.\s*[a-zæøå]+\s*\d{2,4}\s*", "", t, flags=re.I).strip() or t
+        url = h if h.startswith("http") else "https://arkitektforbundet.no" + h
+        prev = out.get(slug)
+        if prev and prev["pub"] >= fecha:
+            continue
+        titulo = slug.replace("-", " ").capitalize()
+        low = (noticia + " " + titulo).lower()
+        proc = "abierto" if re.search(r"open |åpen|idékonkurranse|idekonkurranse", low) else \
+               "seleccion" if re.search(r"prekvalifi|innbudt|begrenset", low) else ""
+        out[slug] = {"num": "NO-" + slug[:50], "title": titulo, "buyer": "", "country": "NOR", "pub": fecha,
+                     "deadline": "", "place": "", "url": url, "source": "arkitektforbundet.no",
+                     "proc": proc, "desc": noticia[:300]}
+    # nombres legibles desde los encabezados de grupo
+    for h2 in soup.find_all("h2"):
+        a = h2.find("a", href=True)
+        if a and a["href"].startswith("#collapse"):
+            nombre = a.get_text(strip=True)
+            for it in out.values():
+                if it["title"].lower().replace(" ", "") in nombre.lower().replace(" ", "").replace("-", "") or \
+                   nombre.lower().replace(" ", "").replace("-", "") in it["num"].lower().replace("-", ""):
+                    it["title"] = nombre
+    return list(out.values())
+
+
 def fetch():
-    return suecia() + finlandia()
+    return suecia() + finlandia() + noruega()
 
 
 if __name__ == "__main__":
