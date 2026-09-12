@@ -198,7 +198,7 @@
 "cur": "",
 "proc": "open",
 "desc": "Redacción de anteproyecto, proyecto básico, proyecto ejecutivo, plan especial de mejora urbanística y dirección de obra en dos fases de las obras de remodelación del mercado y alojamientos dotacionales, más la asistencia al inicio del funcionamiento de las obras de remodelación del mercado y seguimiento de la fase de garantia de los alojamientos dotacionales en el distrito de Gracia de Barcelona, y posible redacción del proyecto y dirección de obra de paradas interiores.",
-"place": "ES511",
+"place": "Barcelona",
 "url": "https://ted.europa.eu/es/notice/-/detail/611658-2026",
 "source": "TED",
 "first_seen": "2026-09-11",
@@ -291,7 +291,7 @@
 "cur": "",
 "proc": "open",
 "desc": "26/050 Concurso de proyectos para la contratación de los servicios de redacción de proyectos y dirección de las obras de construcción de los edificios de viviendas situados en la calle Castillejos 190 (UMP2) y calle Entença 250-282 (UP-C), promovidos poe el Institut Municipal de l'Habitatge i Rehabilitació de Barcelona, dividido en 2 lotes",
-"place": "ES511",
+"place": "Barcelona",
 "url": "https://ted.europa.eu/es/notice/-/detail/625007-2026",
 "source": "TED",
 "first_seen": "2026-09-11"
@@ -325,7 +325,7 @@
 "cur": "",
 "proc": "open",
 "desc": "Concurso de proyectos y posterior procedimiento negociado para el contrato de servicios de redacción del proyecto básico con definición constructiva para las obras a \"La Farinera\"",
-"place": "ES511",
+"place": "Barcelona",
 "url": "https://ted.europa.eu/es/notice/-/detail/621063-2026",
 "source": "TED",
 "first_seen": "2026-09-11"
@@ -3686,7 +3686,7 @@
 "country": "ESP",
 "pub": "2026-09-10",
 "deadline": "2026-10-13 13:00",
-"place": "ES511",
+"place": "Barcelona",
 "url": "https://contractaciopublica.cat/ca/detall-publicacio/7b678589-7c51-4aaa-acfe-9c251f76ec09/300877962",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -3699,11 +3699,6 @@
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
 "alt": [
-{
-"source": "TED",
-"url": "https://ted.europa.eu/es/notice/-/detail/625007-2026",
-"num": "625007-2026"
-},
 {
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261396ES",
@@ -4265,6 +4260,175 @@
 "source": "PLACE (CCAA)",
 "url": "https://contractaciopublica.cat/ca/detall-publicacio/e1db3f42-6e4c-4aab-8d37-9dffb66999cb/300875523",
 "num": "PLACE-CTN2600266"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CATEGORÍA 3",
+"title": "Categoría 3: Redacciones de proyectos y/o direcciones facultativas y otros servicios de arquitectura, construcción, ingeniería e inspección con valor estimado entre 120.001€ y 180.000 €.",
+"buyer": "Consejo de Gobierno Insular del Cabildo Insular de Tenerife",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2029-08-04 23:59",
+"place": "Tenerife",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BQYQSHHzXLdPpzdqOdhuWg%3D%3D",
+"source": "PLACE",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "0",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jKZP7my1eBL/6VUcW0nl9tI961nSGC5LOGUYIM7CC8T/XbthXbqXAcV3B3QJLcx6zu7aG5F1m2SVanw9RDjwwlml0rSfzAE265t/iMQ3WqKCx2e6p7hqtlp2aFupgHMr",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=Xgsa0m1M0fSjlb73bhEG563huly0%2B9Fcg%2Bl3dVi4CSWaCEL7VM1FwWqOorGzCyDxmfx91M5iy7gRJCsACmLdUMth0Kq5Ho8askU6cv%2BJKw/fdyQgZAdTm3EfcUAC7CJ6&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=wh6o%2Bxsp877PAGtfNmRImBnRMVniTs6elUe2aEXK5g4WKCdEXea2sZ0%2BVrWtmNL/3JiN4Q6KVOvPZ9s94upzb5G9bI4HEoJGtYl5%2BGzce1/3GVhXrFFqN7yFncy7YfRK&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=O36Z9O18o6DsUkbxAUU95gXLxpTVTj7z/Cn012p7t0UNy2HcJ0EYKin7i973UJqHrjgsZ3TM%2BRYaH4OAl9DOqjRzRugEJ4%2BvCtlqZaBKEA8C1/zDIE0Kw/PWNnLS0Z0z"
+],
+"desc": "Restringido · Servicios · CPV 71240000, 71000000",
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XcibYRcXFTm2gkLQ8TeYKA%3D%3D",
+"num": "PLACE-CATEGORÍA 2"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Njgxd%2FwenFv%2Fa9DgO%2BoYKQ%3D%3D",
+"num": "PLACE-CATEGORÍA 1"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kXmTZC5vFfGcCF8sV%2BqtYA%3D%3D",
+"num": "PLACE-CATEGORÍA 4"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026ZAUN0080",
+"title": "Dirección de las obras para mejorar la accesibilidad en la zona alta de Errotazar.",
+"buyer": "Ayuntamiento de Irun -Alcalde",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-25 10:00",
+"place": "Irun",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740610/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "30514",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238600&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238601&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71520000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260295G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260295G",
+"num": "COAVN-20260295G"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740638/es_doc/index.html",
+"num": "PLACE-000039/2026-CONT"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PC. UR-26409",
+"title": "Contrato de servicios para la asistencia técnica para la redacción del proyecto constructivo de la modernización dels Canals d'Urgell. Red primaria de los sectores A-02, A-03 y B-01. Clave: UR-26409",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-14 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/d843324b-4122-4ad2-b08e-a96d98b7d99d/300878024",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "646500",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302577829/7504D473337CCEA4C600A1FB83DAC972",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302577833/21D217651150DB17D0F2AC1F2A507ACA"
+],
+"desc": "Abierto · Servicios · CPV 71311000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7228dc5a-8b40-4957-b7de-99cbad48effa/300878035",
+"num": "PLACE-PC. UX-26418"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CTN2600381",
+"title": "La necessitat que es pretén satisfer mitjançant aquesta contractació és la redacció d’un projecte constructiu que defineixi en detall les obres a projectar, tant en els aspectes tècnics, de disseny, econòmics, ambientals",
+"buyer": "Agència Catalana de l'Aigua (ACA)",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-10-02 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9c10181c-dfdb-4971-911d-046fb33a1a68/300875524",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "82010",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569376/ADF66BC23A75A7537B611F6CC3962038",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569377/98CC00EF9BA168A8CD67D3993F762D9F"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71242000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/e1db3f42-6e4c-4aab-8d37-9dffb66999cb/300875523",
+"num": "PLACE-CTN2600266"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/8c0d18f7-6fa8-4142-8bef-dd06690c0445/300875525",
+"num": "PLACE-CTN2600348"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/0012261",
+"title": "Redacció i tramitació de l’Avanç de Pla d’ordenació urbanística municipal rural de Perafita i Casserres, dividit en 2 lots",
+"buyer": "Diputació de Barcelona",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-23 14:00",
+"place": "Barcelona",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/bc1680aa-0e56-4a7a-a78f-96aa75aab307/300874432",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "67221",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302566453/A0567874882E8AF5B4943DE0C1C96EC9",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302566454/56664FA561886B4669992EBC457AD1D2"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71410000, 71400000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES",
+"num": "COAVN-20261368ES"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9eda3732-314f-4038-a3e1-e6d2b641f313/300874723",
+"num": "PLACE-2026/0012270"
 }
 ],
 "first_seen": "2026-09-12"
