@@ -283,7 +283,8 @@ def limpiar_alt(c):
     vistos, alt = set(), []
     for a in c.get("alt", []) or []:
         u = a.get("url", "")
-        if not u or u == c.get("url") or a.get("source") == c.get("source") or u in vistos:
+        if not u or u == c.get("url") or a.get("source") == c.get("source") or u in vistos \
+                or a.get("source") in ("buscar el anuncio", "COAVN (con sesión)") or "google.com/search" in u:
             continue
         vistos.add(u); alt.append(a)
     if alt:
@@ -384,7 +385,7 @@ if __name__ == "__main__":
         print(f"{f.__name__}: {len(extra)}")
         items += extra
     items = [limpiar_lugar(fix_url(c)) for c in items]
-    base = [limpiar_lugar(c) for c in load_base()]
+    base = [limpiar_lugar(fix_url(c)) for c in load_base()]
     known = {c["num"]: c for c in base}
     items = [c for c in items if c["num"] not in known] + [known[c["num"]] and c for c in items if c["num"] in known]
     items = dedupe(items, [b for b in base if all(b["num"] != c["num"] for c in items)])
