@@ -53,12 +53,19 @@
   td.valor{text-align:right;padding-right:0}
   .venc{color:#000;text-decoration:line-through}
   .meta{display:block}
-  .desc{display:none;margin-top:4px;max-width:70ch}
-  tr.abierto .desc{display:block}
   tr.sel td.tit{font-weight:700}
   .tit a{text-decoration:none}
   .tit a:hover{text-decoration:underline}
   .mas{cursor:pointer;border-bottom:var(--fino) solid #000}
+  tr.ficha td{padding:14px 0 18px 60px;background:var(--punto)}
+  .ficha-box{display:grid;grid-template-columns:130px 1fr;gap:6px 18px;max-width:90ch}
+  .ficha-box b{font-weight:700}
+  .ficha-desc{grid-column:1/-1;margin-top:6px;white-space:pre-wrap}
+  .ficha-acciones{grid-column:1/-1;margin-top:14px;display:flex;gap:26px;flex-wrap:wrap}
+  .ficha-acciones a{border-bottom:var(--fino) solid #000;text-decoration:none;padding-bottom:2px}
+  .ficha-acciones a.fuerte{font-weight:700}
+  td.tit .abrir{cursor:pointer}
+  @media (max-width:700px){ tr.ficha td{padding-left:0} .ficha-box{grid-template-columns:1fr} }
 
   @media (max-width:700px){
     body{padding:20px 14px 40px}
@@ -166,6 +173,22 @@ function m2(c){
     let x=m[1].replace(/[\s.]/g,""); if(/,\d{3}$/.test(x)) x=x.replace(",",""); else x=x.replace(",",".");
     const n=parseFloat(x); if(n>best&&n<5e6) best=n; }
   return best; }
+function esc(t){ return String(t||"").replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+function ficha(c){
+  const ac=acceso(c), mm=m2(c), v=fmtVal(c);
+  const filas=[["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
+    ["Entrega",c.deadline?c.deadline.replace("T"," ").slice(0,16):""],["Presupuesto",v],["Superficie",mm?mm.toLocaleString("es-ES")+" m²":""],
+    ["Acceso",ac==="abierto"?"abierto":ac==="seleccion"?"por selección / invitación":""],["Procedimiento",c.proc&&!/^(abierto|seleccion)$/.test(c.proc)?c.proc:""],
+    ["Tipo",c.kind||"concurso"],["Fuente",c.source||"TED"],["Referencia",c.num]]
+    .filter(([k,v])=>v).map(([k,v])=>`<b>${k}</b><span>${esc(v)}</span>`).join("");
+  const alt=(c.alt||[]).map(a=>`<a href="${a.url}" target="_blank" rel="noopener">abrir en ${esc(a.source||"otra fuente")}</a>`).join("");
+  return `<div class="ficha-box">${filas}
+    ${c.desc?`<div class="ficha-desc">${esc(c.desc)}</div>`:""}
+    <div class="ficha-acciones">
+      <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="Descarga la documentación a Descargas/concursos-docs; si el portal exige cuenta, abre la plataforma">Descargar documentación</a>
+      <a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>${alt}
+    </div></div>`;
+}
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
 
 function filtrar(){
@@ -211,13 +234,17 @@ function render(){
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
       <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>
-        <span class="meta">${meta}${c.desc?` <span class="mas">más</span>`:""}</span>
-        ${c.desc?`<span class="desc">${c.desc}</span>`:""}</td>
+        <span class="meta">${meta} <span class="mas">ficha</span></span></td>
       <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>`;
     tr.querySelector("input").addEventListener("change",e=>{ e.target.checked?sel.add(c.num):sel.delete(c.num); saveSel();
       tr.classList.toggle("sel",e.target.checked); $("estado").textContent=`${rows.length} de ${base.length} · ${sel.size} marcados`;});
-    const m=tr.querySelector(".mas"); if(m) m.addEventListener("click",()=>tr.classList.toggle("abierto"));
     tb.appendChild(tr);
+    const m=tr.querySelector(".mas"); if(m) m.addEventListener("click",()=>{
+      const sig=tr.nextElementSibling;
+      if(sig&&sig.classList.contains("ficha")){ sig.remove(); m.textContent="ficha"; return; }
+      const f=document.createElement("tr"); f.className="ficha"; f.innerHTML=`<td colspan="4">${ficha(c)}</td>`;
+      tr.after(f); m.textContent="cerrar";
+    });
   }
 }
 
