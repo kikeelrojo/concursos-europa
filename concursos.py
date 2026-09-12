@@ -356,9 +356,18 @@ def dedupe(items, base):
 
 def load_base():
     try:
-        return json.load(open(BASE, encoding="utf-8"))
+        txt = open(BASE, encoding="utf-8").read()
     except Exception:
         return []
+    try:
+        return json.loads(txt)
+    except Exception:
+        limpio = "\n".join(l for l in txt.split("\n") if not re.match(r"^(<<<<<<<|=======|>>>>>>>)", l))
+        try:
+            return json.loads(limpio)
+        except Exception:
+            print("base ilegible; se reconstruye", file=sys.stderr)
+            return []
 
 
 if __name__ == "__main__":
@@ -383,7 +392,7 @@ if __name__ == "__main__":
             c["first_seen"] = today
             base.append(c)
             new.append(c)
-    traducir(new)
+    traducir([c for c in base if c.get("country") != "ESP" and not c.get("title_es")])   # nuevos y pendientes
     os.makedirs("docs", exist_ok=True)
     json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"base: {len(base)} en total, {len(new)} nuevos")
