@@ -4200,11 +4200,6 @@
 "desc": "Abierto simplificado · Servicios · CPV 71410000, 71400000",
 "alt": [
 {
-"source": "PLACE (CCAA)",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/bc1680aa-0e56-4a7a-a78f-96aa75aab307/300874432",
-"num": "PLACE-2026/0012261"
-},
-{
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261369ES",
 "num": "COAVN-20261369ES"
@@ -4329,11 +4324,6 @@
 "source": "COAVN Euskadi-Navarra",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260295G",
 "num": "COAVN-20260295G"
-},
-{
-"source": "PLACE (CCAA)",
-"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740638/es_doc/index.html",
-"num": "PLACE-000039/2026-CONT"
 }
 ],
 "first_seen": "2026-09-12"
@@ -4424,11 +4414,199 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES",
 "num": "COAVN-20261368ES"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34325",
+"title": "Un nuovo volto per il lungomare di Villammare, sul golfo di Policastro",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-08-05",
+"deadline": "2026-09-28",
+"place": "Campania",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34325/skyline-villammare",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso di progettazione a procedura aperta due fasi Montepremi: 18.000 euro · Consegna 1a fase entro il 28 settembre 2026 · Il Comune di Vibonati (SA) ha bandito un concorso di progettazione per riqualificare il lungomare di Villammare, trasformandolo in un waterfront continuo, accessibile e riconoscibile, con nuovi percorsi, spazi pubblici, aree verdi e interventi di mitigazione del rischio idraulico.",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34253",
+"title": "Riqualificare il Parco Pavilnionių a Vilnius, in Lituania",
+"buyer": "",
+"country": "INT",
+"pub": "2026-07-13",
+"deadline": "2026-09-18",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34253/riqualificare-il-parco-pavilnioni-a-vilnius-in-lituania",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso internazionale di progettazione, procedura aperta · Montepremi: 18.000 euro · Consegna entro le ore 15 del 18 settembre 2026 · Concorso internazionale di progettazione, procedura aperta · Montepremi: 18.000 euro",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34377",
+"title": "Una copertura per 10.000 anni di storia: il concorso UNESCO per Tell es-Sultan, in Palestina",
+"buyer": "",
+"country": "INT",
+"pub": "2026-09-07",
+"deadline": "2026-12-15",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34377/una-copertura-per-10-000-anni-di-storia-il-concorso-unesco-per-tell-es-sultan-in-palestina",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso internazionale di idee, una fase · Montepremi: 60.000$ · Consegna entro le ore 17 del 15 dicembre 2026 · L'UNESCO ha bandito un concorso internazionale di idee per la realizzazione di una copertura protettiva sulla Trench I di Tell es-Sultan, a Gerico, sito Patrimonio Mondiale dal 2023. L'intervento, reversibile e sostenibile, dovrà proteggere quasi 10.000 anni di storia e migliorare la la fruizione dell'area.",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34341",
+"title": "Barcellona, un mercato di quartiere e un hub culturale nell'area della Sagrada Família",
+"buyer": "",
+"country": "INT",
+"pub": "2026-08-12",
+"deadline": "2026-12-16",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34341/barcellona-un-mercato-di-quartiere-e-un-hub-culturale-nell-area-della-sagrada-familia",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee + Corso di formazione sull'AI by Archstorming · Registrazione last minute e Consegna entro il 16 dicembre 2026 · Fundació Antoni Gaudí e Archademy hanno lanciato un concorso internazionale di idee che invita a ripensare lo spazio pubblico intorno alla Sagrada Família. La sfida chiede di progettare The Gaudí Nexus, un nuovo mercato di quartiere e centro di cultura digitale, insieme alla riconfigurazione della piazza.",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34336",
+"title": "Un padiglione per lo yoga nel paesaggio dell'Italia centrale, tra Lazio e Abruzzo",
+"buyer": "",
+"country": "INT",
+"pub": "2026-08-12",
+"deadline": "2027-01-28",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34336/un-padiglione-per-lo-yoga-nel-paesaggio-dell-italia-centrale-tra-lazio-e-abruzzo",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee by Buildner e Yoga Farm Italy · Montepremi: 8.000 euro · Registrazione entro il 28 gennaio 2027 | Consegna entro il 1 marzo 2027 · Buildner e Yoga Farm Italy lanciano un concorso di idee per progettare un padiglione dedicato allo yoga nella campagna dell'Italia centrale, tra Lazio e Abruzzo. La proposta dovrà integrarsi nel paesaggio con una struttura lignea sostenibile sotto una quercia secolare, pensata per la meditazione, la pratica e la vita comunitaria.",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34312",
+"title": "Un masterplan per il futuro di Lariofiere, sul Lago di Como",
+"buyer": "",
+"country": "INT",
+"pub": "2026-08-04",
+"deadline": "2026-10-28",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34312/un-masterplan-per-il-futuro-di-lariofiere-sul-lago-di-como",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Al vincitore un premio di 5.000 euro · Consegna entro le ore 12 del 28 ottobre 2026 · La Fondazione Lariofiere ha bandito un concorso di idee per la redazione del masterplan di sviluppo del polo fieristico a Erba (CO), con l'obiettivo di definire una strategia di crescita flessibile e sostenibile per il complesso. Le proposte dovranno valorizzare il patrimonio esistente e migliorare l'organizzazione di spazi, mobilità e servizi",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34302",
+"title": "Milano, l'abitare accessibile a Zara-Salomone",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-07-29",
+"deadline": "2026-10-26",
+"place": "Lombardia",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34302/milano-l-abitare-accessibile-a-zara-salomone",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Montepremi: 19.500 euro · Consegna entro il 26 ottobre 2026 · Nella stessa giornata, il Comune di Milano pubblica anche un secondo concorso di idee dedicato alla rigenerazione dell'area Zama-Salomone attraverso un nuovo modello di abitare sociale integrato. L'obiettivo è sviluppare un complesso residenziale innovativo, con servizi, spazi pubblici, connessioni con il verde e soluzioni abitative flessibili e inclusive.",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PA-34300",
+"title": "Milano, social housing a Porto di Mare",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-07-29",
+"deadline": "2026-10-26",
+"place": "Lombardia",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34300/milano-social-housing-a-porto-di-mare",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Montepremi: ≅84.000 euro · Consegna entro il 26 ottobre 2026 · Il Comune di Milano ha bandito un concorso di idee per acquisire proposte relative alla trasformazione dell'area di Porto di Mare in un nuovo quartiere di edilizia residenziale sociale a canone calmierato. L'obiettivo è sviluppare un masterplan che integri residenzia, servizi e spazi pubblici, rafforzando la connessione con il sistema dei parchi circostante",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CATEGORÍA 2",
+"title": "Categoría 2: Redacciones de proyectos y/o direcciones facultativas y otros servicios de arquitectura, construcción, ingeniería e inspección con valor estimado entre 60.001 € y 120.000€.",
+"buyer": "Consejo de Gobierno Insular del Cabildo Insular de Tenerife",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2029-08-04 23:59",
+"place": "Canarias",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XcibYRcXFTm2gkLQ8TeYKA%3D%3D",
+"source": "PLACE",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "0",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=LgjCdebNPz3aw07daV6YULv4qMi29yYt0qsEfavyvnhTQ0id87oZJSZX%2BgDdE71RhipQBBuiyGlHlrYLyrzbsfEchZnR9vwjpXZ7iPfDoxKB0nvVKRzfe4rpHcnlPhSZ",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=rniIcqrTkT7nDYAGTuXlgaF9PUxvTHq7KGZL6LD1S0mOwtM/a2AhOhs1GeUkHQemm6yjHcjI0x1nJ3rAp6kAcTYaP7B9pkgjLMnxPGJLfG2Cx2e6p7hqtlp2aFupgHMr&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=fn09LlJm9ssmucppGrTU4UdhfNJjUDBQZhRPlefVRwKLSi51DglF35bAhtSMAK4HokcrTPAGamCZb3h9pwQ2fMm1jnRS/ZVcSZIsUd0e4X97QB3HKyQaFUExmUVQCerk&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=arGvEl1FhhFcArjW2ySW%2Bjt3EcTLSJMYTn%2ByXAD1yCOypXCqFGsuruh24Ocl6qPjEmDB7dKuJPXtlj3WC7%2BOhiSVGBhPTePs4NSmE5tluEf3GVhXrFFqN7yFncy7YfRK"
+],
+"desc": "Restringido · Servicios · CPV 71240000, 71000000",
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Njgxd%2FwenFv%2Fa9DgO%2BoYKQ%3D%3D",
+"num": "PLACE-CATEGORÍA 1"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kXmTZC5vFfGcCF8sV%2BqtYA%3D%3D",
+"num": "PLACE-CATEGORÍA 4"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BQYQSHHzXLdPpzdqOdhuWg%3D%3D",
+"num": "PLACE-CATEGORÍA 3"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CTN2600266",
+"title": "La necessitat que es pretén satisfer mitjançant aquesta contractació és la redacció d’un projecte constructiu que permeti la posterior execució de les obres necessàries per a millorar la capacitat de sortida del canal de",
+"buyer": "Agència Catalana de l'Aigua (ACA)",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-10-02 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/e1db3f42-6e4c-4aab-8d37-9dffb66999cb/300875523",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "48508",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569356/14FA5E7E70BE09F088020DAF56FC5A44",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569357/1704342C5F51A35C75840154FA739179"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71242000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/8c0d18f7-6fa8-4142-8bef-dd06690c0445/300875525",
+"num": "PLACE-CTN2600348"
 },
 {
 "source": "PLACE (CCAA)",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/9eda3732-314f-4038-a3e1-e6d2b641f313/300874723",
-"num": "PLACE-2026/0012270"
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9c10181c-dfdb-4971-911d-046fb33a1a68/300875524",
+"num": "PLACE-CTN2600381"
 }
 ],
 "first_seen": "2026-09-12"
