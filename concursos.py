@@ -265,7 +265,7 @@ def dedupe(items, base):
                 continue
             res.append(c)
             continue
-        if m.get("source") == "TED" and c.get("source") != "TED":
+        if (m.get("source") == "TED" and c.get("source") != "TED") or (c.get("docs") and not m.get("docs")):
             i = res.index(m)
             res[i] = fusionar(c, m)
         else:

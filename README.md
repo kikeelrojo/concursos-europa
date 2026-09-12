@@ -141,3 +141,13 @@ texto vivo) dentro de la misma carpeta, y lo abre. Modelo por defecto
 escaneados sin texto no se pueden resumir. Uso suelto:
 `python3 resumen.py ~/Downloads/concursos-docs/<referencia>`.
 Dependencias: `pypdf`, `reportlab`, `requests`, `beautifulsoup4`.
+
+## España · Plataforma de Contratación (`fuentes/espana.py`)
+
+Datos abiertos de PLACSP en Atom/CODICE: perfiles alojados en la Plataforma
+del Estado (sindicación 643) y plataformas autonómicas agregadas (Euskadi,
+Navarra, Cataluña…). Conserva servicios de arquitectura y urbanismo (CPV
+712/714 o palabras clave) y concursos de proyectos (procedimiento 8); descarta
+menores, obras y adjudicadas. Guarda los enlaces a los pliegos (`docs`), que el
+descargador baja directamente. Se fusiona con lo que llega del COAVN.
+Prueba: `python3 -m fuentes.espana` (tarda: recorre varias páginas del feed).

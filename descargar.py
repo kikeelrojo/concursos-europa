@@ -102,7 +102,9 @@ def main():
     url = item.get("url", "")
     urls = []
     try:
-        if num.startswith("TN-"):
+        if item.get("docs"):
+            urls = list(item["docs"])
+        elif num.startswith("TN-"):
             urls = docs_tenderned(num[3:])
         elif url:
             urls = docs_pagina(url)
