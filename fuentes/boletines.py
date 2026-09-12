@@ -100,7 +100,7 @@ def parse_coavn(msg, html_):
         if reg in hrefs:
             cur["Enlace"] = hrefs[reg]
         out.append({"num": num, "title": objeto[:220], "buyer": cur.get("Organismo", ""), "country": country,
-                    "pub": pub, "deadline": dl, "place": loc, "url": cur.get("Enlace", ""), "source": source,
+                    "pub": pub, "deadline": dl, "place": loc, "url": cur.get("Enlace", ""), "coavn_url": cur.get("Enlace", ""), "source": source,
                     "proc": "seleccion" if re.search(r"restringido|invitaci[oó]n", objeto, re.I) else "abierto" if CONCURSO_ES.search(objeto) else "",
                     "kind": "concurso" if CONCURSO_ES.search(objeto) else "licitación",
                     "value": val, "cur": "EUR" if val else "",

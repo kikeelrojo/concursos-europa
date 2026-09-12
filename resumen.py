@@ -251,6 +251,12 @@ def main():
         ficha = json.load(open(fj, encoding="utf-8"))
     except Exception:
         pass
+    previo = os.path.join(carpeta, "_resumen.json")
+    if os.path.exists(previo) and "--nuevo" not in sys.argv:
+        d = json.load(open(previo, encoding="utf-8"))
+        ok = maquetar(d, os.path.join(carpeta, "resumen.pdf"), ficha)
+        print("resumen.pdf remaquetado desde _resumen.json (usa --nuevo para volver a pedirlo)")
+        return
     texto, archivos = recoger_texto(carpeta)
     if len(texto) < 500:
         print("sin texto legible en la documentación (¿PDF escaneado?)")
