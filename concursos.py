@@ -247,11 +247,9 @@ def fix_url(c):
     c["url"] = u
     if str(c.get("source", "")).startswith("COAVN"):
         # la ficha del COAVN pide sesión de colegiado; la búsqueda del anuncio va como alternativa
-        q = urllib.parse.quote(f'"{c.get("title", "")[:120]}"')
         if "coavn.org" not in c.get("url", "") and c.get("coavn_url"):
             c["url"] = c["coavn_url"]
         c["alt"] = [a for a in c.get("alt", []) if a.get("source") not in ("buscar el anuncio", "COAVN (con sesión)")]
-        c["alt"].append({"source": "buscar el anuncio", "url": f"https://www.google.com/search?q={q}", "num": ""})
     return c
 
 
