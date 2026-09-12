@@ -150,7 +150,9 @@ def maquetar(d, ruta_pdf, ficha=None):
     W, H = landscape(A4)
     M = 14 * mm                      # margen exterior
     aspa_x, aspa_y = W - M, H - M    # el aspa: elemento más exterior, arriba a la derecha
-    cx0, cy0, cx1, cy1 = M + 4 * mm, M + 4 * mm, W - M - 4 * mm, H - M - 7 * mm   # caja de contenido
+    bx0, by0, bx1, by1 = M + 4 * mm, M + 4 * mm, W - M - 4 * mm, H - M - 7 * mm   # caja delimitada por las escuadras
+    P = 6 * mm                                                                     # el contenido va por dentro de la caja
+    cx0, cy0, cx1, cy1 = bx0 + P, by0 + P, bx1 - P, by1 - P
     FINO = 0.05 * mm
     PUNTO = 0.07 * mm
 
@@ -159,8 +161,8 @@ def maquetar(d, ruta_pdf, ficha=None):
         c.setFont("Helvetica", 11)
         c.drawRightString(aspa_x, aspa_y - 3, "×")
         L = 4 * mm
-        c.line(cx0, cy1, cx0 + L, cy1); c.line(cx0, cy1, cx0, cy1 - L)          # escuadra arriba-izquierda
-        c.line(cx1, cy0, cx1 - L, cy0); c.line(cx1, cy0, cx1, cy0 + L)          # escuadra abajo-derecha
+        c.line(bx0, by1, bx0 + L, by1); c.line(bx0, by1, bx0, by1 - L)          # escuadra arriba-izquierda
+        c.line(bx1, by0, bx1 - L, by0); c.line(bx1, by0, bx1, by0 + L)          # escuadra abajo-derecha
 
     def punteado(c, x0, x1, y):
         c.saveState(); c.setLineWidth(PUNTO); c.setLineCap(1); c.setDash([0.01, 2.2]); c.line(x0, y, x1, y); c.restoreState()
@@ -218,6 +220,20 @@ def maquetar(d, ruta_pdf, ficha=None):
         # pie
         pie = " · ".join(x for x in [ficha.get("num", "") if ficha else "", ficha.get("source", "") if ficha else "", "resumen automático: verificar siempre contra las bases"] if x)
         c.setFont("Helvetica", 6.5); c.drawString(cx0, cy0 + 1.5 * mm, pie)
+        # enlaces vivos al concurso
+        enlaces = [(ficha.get("source", "TED") or "plataforma", ficha.get("url", ""))] if ficha and ficha.get("url") else []
+        enlaces += [(a.get("source", "otra fuente"), a.get("url", "")) for a in (ficha.get("alt", []) if ficha else []) if a.get("url")]
+        x = cx0
+        y_l = cy0 + 1.5 * mm + 9
+        c.setFont("Helvetica-Bold", 6.5)
+        for nombre, url in enlaces[:4]:
+            etiqueta = f"abrir en {nombre}: {url}"
+            w = c.stringWidth(etiqueta, "Helvetica-Bold", 6.5)
+            if x + w > cx1:
+                break
+            c.drawString(x, y_l, etiqueta)
+            c.linkURL(url, (x, y_l - 2, x + w, y_l + 7), relative=0)
+            x += w + 12
         c.save()
         if sobrante == 0:
             return True
