@@ -120,3 +120,10 @@ semana y conserva concours de maîtrise d'œuvre / d'architecture y marchés de
 maîtrise d'œuvre con esquisse o jurado; descarta AMO, OPC, diagnósticos,
 redes, etc. Complementa al TED con lo que está por debajo del umbral europeo.
 Prueba: `python3 -m fuentes.francia`.
+
+## Países Bajos · TenderNed (`fuentes/holanda.py`)
+
+Webservice pública TNS de TenderNed (JSON). Conserva prijsvragen,
+ontwerpwedstrijden, architectenselecties y opdrachten con CPV 712; descarta
+consultas de mercado, rectificaciones y adjudicaciones. Prueba:
+`python3 -m fuentes.holanda`.
