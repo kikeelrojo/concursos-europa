@@ -83,8 +83,62 @@ def suecia():
     return out
 
 
+FI_LIST = "https://www.safa.fi/kilpailut/"
+FI_DATE = re.compile(r"(\d{1,2})\.(\d{1,2})\.\s*(\d{4})?|(\d{1,2})/\s*(\d{4})")
+
+
+def _fi_fecha(s, ref_year):
+    m = FI_DATE.search(s or "")
+    if not m:
+        return ""
+    if m.group(1):
+        y = m.group(3) or str(ref_year)
+        return f"{y}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+    return f"{m.group(5)}-{int(m.group(4)):02d}-01"
+
+
+def finlandia():
+    """SAFA · kilpailukalenteri: yleiset (abiertos) y kutsukilpailut (invitación)."""
+    out = []
+    try:
+        r = requests.get(FI_LIST, headers=UA, timeout=60)
+        r.raise_for_status()
+    except Exception as e:
+        print("safa:", e)
+        return out
+    soup = BeautifulSoup(r.text, "html.parser")
+    lines = [" ".join(l.split()) for l in soup.get_text("\n").split("\n") if l.strip()]
+    links = {}
+    for a in soup.find_all("a", href=True):
+        if "/kilpailu/" in a["href"] and a.get_text(strip=True):
+            links.setdefault(" ".join(a.get_text(" ", strip=True).split()), a["href"])
+    hoy = dt.date.today()
+    seccion = ""
+    for i, l in enumerate(lines):
+        if l in ("Yleiset kilpailut", "Kutsukilpailut", "Muut"):
+            seccion = l
+            continue
+        if l in links and seccion in ("Yleiset kilpailut", "Kutsukilpailut"):
+            prev = lines[max(0, i - 4):i]
+            fechas = [x for x in prev if FI_DATE.search(x)]
+            status = next((x for x in prev if x in ("Tulevat", "Käynnissä", "Sisällä", "Ratkenneet")), "")
+            if status not in ("Tulevat", "Käynnissä"):
+                continue
+            ini = _fi_fecha(fechas[0], hoy.year) if fechas else ""
+            fin = _fi_fecha(fechas[1], hoy.year) if len(fechas) > 1 else ""
+            if fin and fin < ini:                       # cambio de año sin cifra
+                fin = str(hoy.year + 1) + fin[4:]
+            url = links[l]
+            out.append({"num": "FI-" + url.rstrip("/").rsplit("/", 1)[-1][:50],
+                        "title": l + (" (kutsukilpailu)" if seccion == "Kutsukilpailut" else " (yleinen kilpailu)"),
+                        "buyer": "", "country": "FIN", "pub": ini, "deadline": fin, "place": "", "url": url,
+                        "source": "safa.fi", "proc": "abierto" if seccion == "Yleiset kilpailut" else "seleccion",
+                        "desc": "próximo" if status == "Tulevat" else "en curso"})
+    return out
+
+
 def fetch():
-    return suecia()
+    return suecia() + finlandia()
 
 
 if __name__ == "__main__":
