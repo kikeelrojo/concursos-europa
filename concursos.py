@@ -239,6 +239,29 @@ DOMINIOS = {"arkitekt.se": "https://www.arkitekt.se", "safa.fi": "https://www.sa
             "architekturwettbewerb.at": "https://www.architekturwettbewerb.at"}
 
 
+NUTS_ES = {"ES111": "A Coruña", "ES112": "Lugo", "ES113": "Ourense", "ES114": "Pontevedra", "ES120": "Asturias", "ES130": "Cantabria",
+           "ES211": "Álava", "ES212": "Gipuzkoa", "ES213": "Bizkaia", "ES220": "Navarra", "ES230": "La Rioja", "ES241": "Huesca",
+           "ES242": "Teruel", "ES243": "Zaragoza", "ES300": "Madrid", "ES411": "Ávila", "ES412": "Burgos", "ES413": "León",
+           "ES414": "Palencia", "ES415": "Salamanca", "ES416": "Segovia", "ES417": "Soria", "ES418": "Valladolid", "ES419": "Zamora",
+           "ES421": "Albacete", "ES422": "Ciudad Real", "ES423": "Cuenca", "ES424": "Guadalajara", "ES425": "Toledo", "ES431": "Badajoz",
+           "ES432": "Cáceres", "ES511": "Barcelona", "ES512": "Girona", "ES513": "Lleida", "ES514": "Tarragona", "ES521": "Alicante",
+           "ES522": "Castellón", "ES523": "Valencia", "ES531": "Eivissa-Formentera", "ES532": "Mallorca", "ES533": "Menorca",
+           "ES611": "Almería", "ES612": "Cádiz", "ES613": "Córdoba", "ES614": "Granada", "ES615": "Huelva", "ES616": "Jaén",
+           "ES617": "Málaga", "ES618": "Sevilla", "ES620": "Murcia", "ES630": "Ceuta", "ES640": "Melilla", "ES703": "El Hierro",
+           "ES704": "Fuerteventura", "ES705": "Gran Canaria", "ES706": "La Gomera", "ES707": "La Palma", "ES708": "Lanzarote",
+           "ES709": "Tenerife", "ES11": "Galicia", "ES12": "Asturias", "ES13": "Cantabria", "ES21": "País Vasco", "ES22": "Navarra",
+           "ES23": "La Rioja", "ES24": "Aragón", "ES30": "Madrid", "ES41": "Castilla y León", "ES42": "Castilla-La Mancha",
+           "ES43": "Extremadura", "ES51": "Cataluña", "ES52": "Comunidad Valenciana", "ES53": "Baleares", "ES61": "Andalucía",
+           "ES62": "Murcia", "ES63": "Ceuta", "ES64": "Melilla", "ES70": "Canarias", "ES": "España"}
+
+
+def limpiar_lugar(c):
+    p = str(c.get("place") or "").strip()
+    if re.fullmatch(r"ES\d{0,3}", p):
+        c["place"] = NUTS_ES.get(p, p)
+    return c
+
+
 def fix_url(c):
     u = str(c.get("url") or "").strip()
     if u and not u.lower().startswith("http"):
@@ -288,8 +311,8 @@ if __name__ == "__main__":
         extra = f.fetch()
         print(f"{f.__name__}: {len(extra)}")
         items += extra
-    items = [fix_url(c) for c in items]
-    base = load_base()
+    items = [limpiar_lugar(fix_url(c)) for c in items]
+    base = [limpiar_lugar(c) for c in load_base()]
     known = {c["num"]: c for c in base}
     items = [c for c in items if c["num"] not in known] + [known[c["num"]] and c for c in items if c["num"] in known]
     items = dedupe(items, [b for b in base if all(b["num"] != c["num"] for c in items)])
