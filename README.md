@@ -105,7 +105,9 @@ noticia. Dinamarca solo por TED. Prueba: `python3 -m fuentes.nordicos`.
 
 Piattaforma concorsi del CNAPPC (concorsiawn.it): concorsi di progettazione a
 due fasi y concorsi di idee activos, con ente, ciudad y plazo de inscripción
-de primera fase. Descarta los premios. Prueba: `python3 -m fuentes.italia`.
+de primera fase. Descarta los premios. Además, agregador professionearchitetto.it
+(etiquetas «concorsi di progettazione» y «concorsi di idee»), sin diseño,
+gráfica, estudiantes ni premios. Prueba: `python3 -m fuentes.italia`.
 
 ## Portugal (`fuentes/portugal.py`)
 
