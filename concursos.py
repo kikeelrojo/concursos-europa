@@ -141,6 +141,45 @@ def rango(c):
     return (1, 0)
 
 
+MODELO_TRAD = os.getenv("MODELO_TRADUCCION", "claude-haiku-4-5-20251001")
+
+
+def traducir(items):
+    """Traduce al español los títulos (y la descripción corta) de lo que no está en español.
+    Guarda title_es / desc_es; necesita ANTHROPIC_API_KEY. Sin clave, no hace nada."""
+    k = os.getenv("ANTHROPIC_API_KEY", "")
+    pend = [c for c in items if c.get("country") != "ESP" and not c.get("title_es") and c.get("title")]
+    if not k or not pend:
+        return
+    for i in range(0, len(pend), 40):
+        lote = pend[i:i + 40]
+        entrada = [{"i": j, "t": c["title"][:300], "d": (c.get("desc") or "")[:350]} for j, c in enumerate(lote)]
+        prompt = ("Traduce al español estos títulos y descripciones de concursos y licitaciones de arquitectura. "
+                  "Mantén nombres propios y de lugares; sé literal y breve. Responde SOLO con un JSON: "
+                  "una lista de objetos {\"i\": n, \"t\": título en español, \"d\": descripción en español}.\n\n"
+                  + json.dumps(entrada, ensure_ascii=False))
+        try:
+            r = requests.post("https://api.anthropic.com/v1/messages",
+                              headers={"x-api-key": k, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+                              json={"model": MODELO_TRAD, "max_tokens": 8000,
+                                    "messages": [{"role": "user", "content": prompt}]}, timeout=180)
+            r.raise_for_status()
+            out = "".join(b.get("text", "") for b in r.json().get("content", []))
+            a, b = out.find("["), out.rfind("]")
+            for t in json.loads(out[a:b + 1], strict=False):
+                c = lote[int(t["i"])]
+                if t.get("t"):
+                    c["title_es"] = t["t"].strip()
+                if t.get("d"):
+                    c["desc_es"] = t["d"].strip()
+        except Exception as e:
+            print("traducción:", e, file=sys.stderr)
+
+
+def titulo(c):
+    return c.get("title_es") or c.get("title", "")
+
+
 def es_open_oproep(c):
     t = (c.get("title", "") + " " + c.get("buyer", "")).lower()
     return "open oproep" in t or str(c.get("num", "")).startswith("OO")
@@ -151,7 +190,7 @@ def html(items):
     oo = [c for c in items if es_open_oproep(c)]
     aviso = ""
     if oo:
-        lineas = "".join(f"<br><a href='{c['url']}' style='color:#000'>{c['title']}</a>"
+        lineas = "".join(f"<br><a href='{c['url']}' style='color:#000'>{titulo(c)}</a>"
                          f"{(' · candidaturas hasta ' + c['deadline']) if c['deadline'] else ''}" for c in oo)
         aviso = (f"<p style='border:1px solid #000;padding:10px;margin:0 0 18px'><b>OPEN OPROEP · Vlaams Bouwmeester</b>"
                  f"<br>Convocatoria que solo sale una o dos veces al año.{lineas}</p>")
@@ -163,7 +202,7 @@ def html(items):
         rows.append(
             f"<tr><td style='padding:6px 8px 6px 0;vertical-align:top'><b>{pais(c)}</b></td>"
             f"<td style='padding:6px 8px;vertical-align:top'><a href='{c['url']}' "
-            f"style='color:#000'>{c['title']}</a><br>{c['buyer']}"
+            f"style='color:#000'>{titulo(c)}</a><br>{c['buyer']}"
             f"{(' · ' + c['place']) if c['place'] else ''}{v}"
             f"{(' · ' + c['source']) if c.get('source') and c['source'] != 'TED' else ''}"
             f"{''.join(' · también en <a href=' + chr(39) + a['url'] + chr(39) + ' style=' + chr(39) + 'color:#000' + chr(39) + '>' + (a['source'] or 'otra fuente') + '</a>' for a in c.get('alt', []))}</td>"
@@ -325,6 +364,7 @@ if __name__ == "__main__":
             c["first_seen"] = today
             base.append(c)
             new.append(c)
+    traducir(new)
     os.makedirs("docs", exist_ok=True)
     json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"base: {len(base)} en total, {len(new)} nuevos")

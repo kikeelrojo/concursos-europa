@@ -21,8 +21,6 @@
 
   h1{font-size:13px;margin:0 0 2px}
   .sub{margin:0 0 18px}
-  .sub.guia{margin:-12px 0 18px}
-  .sub.guia a{text-decoration:none;border-bottom:var(--fino) solid #000;padding-bottom:1px}
 
   /* filtros: una fila, sin cajas */
   .filtros{display:flex;flex-wrap:wrap;gap:14px 26px;align-items:baseline;padding-bottom:14px;
@@ -83,7 +81,6 @@
   <span class="esc tl" aria-hidden="true"></span>
   <h1>Concursos de arquitectura · Europa</h1>
   <p class="sub" id="sub">Cargando la base…</p>
-  <p class="sub guia"><a href="guia-paises.pdf" target="_blank" rel="noopener">Guía por países: qué piden y cómo presentarse desde España (PDF, A4 apaisado)</a></p>
 
   <div class="filtros">
     <label><b>Buscar</b> <input type="text" id="q" placeholder="título, convocante, lugar"></label>
@@ -100,7 +97,6 @@
         <option value="concurso">concurso de proyectos</option>
         <option value="licitación con concurso">licitación con concurso</option>
         <option value="licitación">licitación (sin concurso)</option>
-        <option value="oag">Oproep aan geïnteresseerden</option>
       </select></label>
     <label><b>Acceso</b>
       <select id="acceso">
@@ -158,7 +154,7 @@ fetch("concursos.json?"+Date.now()).then(r=>r.json()).then(d=>{
   render();
 }).catch(()=>{$("sub").textContent="No se ha podido cargar concursos.json. Abre esta página desde la dirección de GitHub Pages, no desde el disco."});
 
-function tipoDe(c){ if((c.source||"")==="bouwmeester") return "oag"; return c.kind||"concurso"; }
+function tipoDe(c){ return c.kind||"concurso"; }
 function fmtVal(c){ if(!c.value) return ""; const n=Number(String(c.value).replace(/[^\d.]/g,""));
   return isNaN(n)?c.value:n.toLocaleString("es-ES",{maximumFractionDigits:0})+" "+(c.cur||""); }
 function acceso(c){
@@ -177,22 +173,19 @@ function m2(c){
     const n=parseFloat(x); if(n>best&&n<5e6) best=n; }
   return best; }
 function esc(t){ return String(t||"").replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
-const GUIA_PAG={FRA:3,BEL:4,CHE:5,DEU:6,AUT:7,NLD:8,SWE:9,DNK:9,FIN:10,NOR:10,ITA:11,PRT:12,POL:13};
-function guiaLink(c){ const pg=GUIA_PAG[c.country]; if(!pg) return "";
-  return `<a href="guia-paises.pdf#page=${pg}" target="_blank" rel="noopener">cómo presentarse en ${esc(PAISES[c.country]||c.country)}</a>`; }
 function ficha(c){
   const ac=acceso(c), mm=m2(c), v=fmtVal(c);
-  const filas=[["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
+  const filas=[["Título original",c.title_es?c.title:""],["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
     ["Entrega",c.deadline?c.deadline.replace("T"," ").slice(0,16):""],["Presupuesto",v],["Superficie",mm?mm.toLocaleString("es-ES")+" m²":""],
     ["Acceso",ac==="abierto"?"abierto":ac==="seleccion"?"por selección / invitación":""],["Procedimiento",c.proc&&!/^(abierto|seleccion)$/.test(c.proc)?c.proc:""],
     ["Tipo",c.kind||"concurso"],["Fuente",c.source||"TED"],["Referencia",c.num]]
     .filter(([k,v])=>v).map(([k,v])=>`<b>${k}</b><span>${esc(v)}</span>`).join("");
   const alt=(c.alt||[]).map(a=>`<a href="${a.url}" target="_blank" rel="noopener">abrir en ${esc(a.source||"otra fuente")}</a>`).join("");
   return `<div class="ficha-box">${filas}
-    ${c.desc?`<div class="ficha-desc">${esc(c.desc)}</div>`:""}
+    ${c.desc?`<div class="ficha-desc">${esc(c.desc_es||c.desc)}${c.desc_es?`<br><br><span style="opacity:.75">${esc(c.desc)}</span>`:""}</div>`:""}
     <div class="ficha-acciones">
       <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="Descarga la documentación a Descargas/concursos-docs; si el portal exige cuenta, abre la plataforma">Descargar documentación</a>
-      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>`:""}${alt}${guiaLink(c)}
+      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>`:""}${alt}
     </div></div>`;
 }
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
@@ -215,7 +208,7 @@ function filtrar(){
     if(plazo==="abiertos" && !abierto(c)) return false;
     if(plazo==="30" && !(c.deadline && c.deadline.slice(0,10)>=hoy && c.deadline.slice(0,10)<=lim30)) return false;
     if(plazo==="sin" && c.deadline) return false;
-    if(q){ const t=[c.title,c.buyer,c.place,c.desc,c.num].join(" ").toLowerCase(); if(!t.includes(q)) return false; }
+    if(q){ const t=[c.title,c.title_es,c.buyer,c.place,c.desc,c.desc_es,c.num].join(" ").toLowerCase(); if(!t.includes(q)) return false; }
     return true;
   });
 }
@@ -239,7 +232,7 @@ function render(){
       +(c.alt||[]).map(a=>` · también en <a href="${a.url}" target="_blank" rel="noopener">${a.source||"otra fuente"}</a>`).join("");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
-      <td class="tit">${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>`:c.title}
+      <td class="tit">${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener" title="${esc(c.title)}">${esc(c.title_es||c.title)}</a>`:esc(c.title_es||c.title)}
         <span class="meta">${meta} <span class="mas">ficha</span></span></td>
       <td class="plazo ${c.deadline&&!abierto(c)?"venc":""}">${dl||"—"}</td>`;
     tr.querySelector("input").addEventListener("change",e=>{ e.target.checked?sel.add(c.num):sel.delete(c.num); saveSel();
@@ -264,7 +257,7 @@ $("limpiar").addEventListener("click",()=>{ $("q").value="";$("plazo").value="ab
   $("fuente").value="";$("desde").value="";$("solosel").checked=false;$("acceso").value="";$("m2min").value="";
   $("paises").querySelectorAll("input").forEach(i=>i.checked=true); render(); });
 $("copiar").addEventListener("click",()=>{
-  const t=base.filter(c=>sel.has(c.num)).map(c=>`${cc2(c.country)} · ${c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
+  const t=base.filter(c=>sel.has(c.num)).map(c=>`${cc2(c.country)} · ${c.title_es||c.title}\n${c.buyer}${c.deadline?" · límite "+c.deadline.slice(0,16).replace("T"," "):""}\n${c.url}`).join("\n\n");
   navigator.clipboard.writeText(t||"").then(()=>{$("copiar").textContent="Copiado";setTimeout(()=>$("copiar").textContent="Copiar marcados",1500);});
 });
 </script>

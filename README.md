@@ -153,3 +153,12 @@ Navarra, Cataluña…). Conserva servicios de arquitectura y urbanismo (CPV
 menores, obras y adjudicadas. Guarda los enlaces a los pliegos (`docs`), que el
 descargador baja directamente. Se fusiona con lo que llega del COAVN.
 Prueba: `python3 -m fuentes.espana` (tarda: recorre varias páginas del feed).
+
+## Traducción de títulos
+
+Con el secreto `ANTHROPIC_API_KEY` en GitHub, cada lunes se traducen al español
+los títulos y descripciones cortas de los concursos nuevos que no son
+españoles (`title_es`, `desc_es`, una sola vez por concurso). El mail y la
+lista muestran el título en español; la ficha conserva el original. Modelo
+`claude-haiku-4-5-20251001` (variable `MODELO_TRADUCCION`). Para traducir lo
+ya acumulado: `python3 -c "import concursos,json;b=concursos.load_base();concursos.traducir(b);json.dump(b,open(concursos.BASE,'w',encoding='utf-8'),ensure_ascii=False,indent=0)"`.
