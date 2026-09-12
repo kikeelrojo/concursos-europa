@@ -41,8 +41,99 @@ def parse_architekturwettbewerb(msg, html):
     return out
 
 
+import html as htmlmod
+
+CAMPO = re.compile(r"^(N[ºo°]\s*Registro|Localizaci[oó]n|Objeto|Organismo|Presupuesto|Licitaci[oó]n|Publicado(?: en)?|Plazo|Enlace|Observaciones)\s*:\s*(.*)$", re.I)
+DMY = re.compile(r"(\d{1,2})/(\d{2})/(\d{4})(?:\D{0,12}(\d{1,2})[:.](\d{2}))?")
+CONCURSO_ES = re.compile(r"concurso (p[úu]blico |restringido |abierto |internacional )?de (proyectos|ideas|anteproyectos|arquitectura|direcci[oó]n de obra)|"
+                         r"concurso (de arquitectura|arquitect[oó]nico)|concurs (p[úu]blic )?de projectes|concurso de proxectos", re.I)
+PAISES_INT = {"francia": "FRA", "france": "FRA", "alemania": "DEU", "germany": "DEU", "italia": "ITA", "portugal": "PRT",
+              "suiza": "CHE", "switzerland": "CHE", "austria": "AUT", "bélgica": "BEL", "belgica": "BEL", "belgium": "BEL",
+              "holanda": "NLD", "países bajos": "NLD", "netherlands": "NLD", "polonia": "POL", "suecia": "SWE",
+              "dinamarca": "DNK", "noruega": "NOR", "finlandia": "FIN", "luxemburgo": "LUX", "reino unido": "GBR", "uk": "GBR"}
+
+
+def _texto_html(html_):
+    t = re.sub(r"<style.*?</style>", "", html_, flags=re.S)
+    t = re.sub(r"<br\s*/?>", "\n", t, flags=re.I)
+    t = re.sub(r"</(p|div|tr|li|h\d|td)>", "\n", t, flags=re.I)
+    t = re.sub(r"<[^>]+>", "", t)
+    t = htmlmod.unescape(t)
+    return [" ".join(l.split()) for l in t.split("\n") if l.strip()]
+
+
+def parse_coavn(msg, html_):
+    """Oficina de Concursos del COAVN: boletín Euskadi-Navarra y boletín
+    estatal/internacional (mismo remitente, distinto asunto)."""
+    asunto = str(msg.get("Subject", ""))
+    estatal = re.search(r"estatal|internacional", asunto, re.I) is not None
+    lines = _texto_html(html_)
+    out, cur, seccion = [], None, ""
+    def cerrar():
+        if not cur or not cur.get("Objeto"):
+            return
+        if re.search(r"actualizad", seccion, re.I):
+            return
+        loc = cur.get("Localización", "")
+        if estatal:
+            internacional = re.search(r"internacional", seccion, re.I) is not None
+            country = "ESP"
+            if internacional:
+                country = next((v for k, v in PAISES_INT.items() if k in loc.lower()), "INT")
+            source = "COAVN internacional" if internacional else "COAVN estatal"
+        else:
+            country, source = "ESP", "COAVN Euskadi-Navarra"
+        m = DMY.search(cur.get("Plazo", ""))
+        dl = f"{m.group(3)}-{m.group(2)}-{int(m.group(1)):02d}" + (f" {int(m.group(4)):02d}:{m.group(5)}" if m.group(4) else "") if m else ""
+        mp = DMY.search(cur.get("Publicado", ""))
+        pub = f"{mp.group(3)}-{mp.group(2)}-{int(mp.group(1)):02d}" if mp else _fecha(msg)
+        presu = cur.get("Presupuesto") or cur.get("Licitación") or ""
+        mv = re.search(r"([\d.\s]+(?:,\d{2})?)\s*euros", presu)
+        val = re.sub(r"[.\s]", "", mv.group(1)).split(",")[0] if mv else ""
+        objeto = cur["Objeto"]
+        num = "COAVN-" + (cur.get("Nº Registro") or re.sub(r"\W", "", objeto)[:30])
+        out.append({"num": num, "title": objeto[:220], "buyer": cur.get("Organismo", ""), "country": country,
+                    "pub": pub, "deadline": dl, "place": loc, "url": cur.get("Enlace", ""), "source": source,
+                    "proc": "seleccion" if re.search(r"restringido|invitaci[oó]n", objeto, re.I) else "abierto" if CONCURSO_ES.search(objeto) else "",
+                    "kind": "concurso" if CONCURSO_ES.search(objeto) else "licitación",
+                    "value": val, "cur": "EUR" if val else "",
+                    "desc": " · ".join(x for x in [f"Presupuesto: {presu}" if presu else "", f"Publicado en: {cur.get('Publicado','')}" if cur.get("Publicado") else ""] if x)})
+    i = 0
+    while i < len(lines):
+        l = lines[i]
+        i += 1
+        ms = re.match(r"^(Nuevos Concursos|Concursos Actualizados|Concursos Estatales|Concursos Internacionales)\s*:?\s*(.*)$", l, re.I)
+        if ms:
+            cerrar(); cur = None
+            seccion = ms.group(1)
+            l = ms.group(2)
+            if not l:
+                continue
+        m = CAMPO.match(l)
+        if not m:
+            if cur is not None and "Objeto" in cur and not any(k in cur for k in ("Organismo", "Enlace")):
+                cur["Objeto"] += " " + l        # objeto de varias líneas (lotes)
+            continue
+        campo, valor = m.group(1), m.group(2).strip()
+        if not valor and i < len(lines) and not CAMPO.match(lines[i]) \
+                and not re.match(r"^(Nuevos Concursos|Concursos Actualizados|Concursos Estatales|Concursos Internacionales)", lines[i], re.I):
+            valor = lines[i]                    # etiqueta y valor en líneas separadas
+            i += 1
+        campo = re.sub(r"^N.\s*Registro$", "Nº Registro", campo, flags=re.I)
+        campo = {"localizacion": "Localización", "licitacion": "Licitación"}.get(campo.lower(), campo)
+        campo = "Publicado" if campo.lower().startswith("publicado") else campo
+        if campo == "Nº Registro":
+            cerrar(); cur = {}
+        if cur is None:
+            cur = {}
+        cur[campo] = valor
+    cerrar()
+    return out
+
+
 PARSERS = {
     "noreply@architekturwettbewerb.at": parse_architekturwettbewerb,
+    "decanatoconcursos@coavn.org": parse_coavn,
 }
 
 

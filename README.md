@@ -64,7 +64,9 @@ permissions → "Read and write permissions".
 
 Lee el buzón de Google indicado en los secretos `IMAP_USER` / `IMAP_PASS`
 (contraseña de aplicación) y analiza los boletines de los remitentes dados de
-alta en `PARSERS`. Hoy: newsfeed de architekturwettbewerb.at. Para añadir otro
+alta en `PARSERS`. Hoy: newsfeed de architekturwettbewerb.at y los dos
+boletines de la Oficina de Concursos del COAVN (Euskadi-Navarra; estatal e
+internacional), con tipo «concurso» o «licitación» según el objeto. Para añadir otro
 boletín: guardar un `.eml` de muestra, escribir su analizador y registrarlo.
 Prueba local con un mensaje: `python3 -m fuentes.boletines mensaje.eml`.
 

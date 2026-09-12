@@ -89,6 +89,7 @@
         <option value="">todos</option>
         <option value="concurso">concurso de proyectos</option>
         <option value="licitación con concurso">licitación con concurso</option>
+        <option value="licitación">licitación (sin concurso)</option>
         <option value="oag">Oproep aan geïnteresseerden</option>
       </select></label>
     <label><b>Acceso</b>
@@ -124,8 +125,8 @@
 <script>
 const PAISES={FRA:"Francia",BEL:"Bélgica",CHE:"Suiza",DEU:"Alemania",AUT:"Austria",NLD:"Países Bajos",
   DNK:"Dinamarca",SWE:"Suecia",NOR:"Noruega",FIN:"Finlandia",ITA:"Italia",PRT:"Portugal",POL:"Polonia",
-  LUX:"Luxemburgo",ESP:"España"};
-const ISO2={FRA:"FR",BEL:"BE",CHE:"CH",DEU:"DE",AUT:"AT",NLD:"NL",DNK:"DK",SWE:"SE",NOR:"NO",FIN:"FI",ITA:"IT",PRT:"PT",POL:"PL",LUX:"LU",ESP:"ES"};
+  LUX:"Luxemburgo",ESP:"España",INT:"otros países",GBR:"Reino Unido"};
+const ISO2={FRA:"FR",BEL:"BE",CHE:"CH",DEU:"DE",AUT:"AT",NLD:"NL",DNK:"DK",SWE:"SE",NOR:"NO",FIN:"FI",ITA:"IT",PRT:"PT",POL:"PL",LUX:"LU",ESP:"ES",GBR:"UK",INT:"INT"};
 const cc2=c=>ISO2[c]||c;
 let base=[], sortK="deadline", sortDir=1;
 const rango=c=>c.country==="ESP"?(/euskadi|navarra/i.test(c.source||"")?0:1):2;   // España primero, PV-NA antes
@@ -205,7 +206,8 @@ function render(){
     const dl=c.deadline?c.deadline.replace("T"," ").slice(0,16):"";
     const ac=acceso(c), mm=m2(c), v=fmtVal(c);
     const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",
-      ac==="abierto"?"abierto":ac==="seleccion"?"por selección":"", mm?mm.toLocaleString("es-ES")+" m²":"", v].filter(Boolean).join(" · ");
+      ac==="abierto"?"abierto":ac==="seleccion"?"por selección":"", mm?mm.toLocaleString("es-ES")+" m²":"", v].filter(Boolean).join(" · ")
+      +(c.alt||[]).map(a=>` · también en <a href="${a.url}" target="_blank" rel="noopener">${a.source||"otra fuente"}</a>`).join("");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
       <td class="tit"><a href="${c.url}" target="_blank" rel="noopener">${c.title}</a>

@@ -127,7 +127,7 @@ def page_url():
 
 
 ISO2 = {"FRA": "FR", "BEL": "BE", "CHE": "CH", "DEU": "DE", "AUT": "AT", "NLD": "NL", "DNK": "DK",
-        "SWE": "SE", "NOR": "NO", "FIN": "FI", "ITA": "IT", "PRT": "PT", "POL": "PL", "LUX": "LU", "ESP": "ES"}
+        "SWE": "SE", "NOR": "NO", "FIN": "FI", "ITA": "IT", "PRT": "PT", "POL": "PL", "LUX": "LU", "ESP": "ES", "GBR": "UK"}
 
 
 def pais(c):
@@ -165,7 +165,8 @@ def html(items):
             f"<td style='padding:6px 8px;vertical-align:top'><a href='{c['url']}' "
             f"style='color:#000'>{c['title']}</a><br>{c['buyer']}"
             f"{(' · ' + c['place']) if c['place'] else ''}{v}"
-            f"{(' · ' + c['source']) if c.get('source') and c['source'] != 'TED' else ''}</td>"
+            f"{(' · ' + c['source']) if c.get('source') and c['source'] != 'TED' else ''}"
+            f"{''.join(' · también en <a href=' + chr(39) + a['url'] + chr(39) + ' style=' + chr(39) + 'color:#000' + chr(39) + '>' + (a['source'] or 'otra fuente') + '</a>' for a in c.get('alt', []))}</td>"
             f"<td style='padding:6px 0 6px 8px;vertical-align:top;white-space:nowrap'>"
             f"{'límite ' + c['deadline'] if c['deadline'] else ('pub. ' + c['pub'] if c['pub'] else 'en cartera')}</td></tr>")
     table = ("<table style='border-collapse:collapse'>" + "".join(rows) + "</table>"
@@ -190,6 +191,65 @@ def send(subject, body_html):
 
 
 BASE = "docs/concursos.json"
+import unicodedata
+
+STOP = set("de del la el los las en y a al para por con un una the of and for et le les des du der die das und für von im zum zur van het een voor en og i for til af på".split())
+
+
+def _norm(t):
+    t = unicodedata.normalize("NFKD", str(t or "")).encode("ascii", "ignore").decode().lower()
+    return {w for w in re.findall(r"[a-z0-9]{3,}", t) if w not in STOP}
+
+
+def _jac(a, b):
+    return len(a & b) / len(a | b) if a and b else 0.0
+
+
+def duplicados(a, b):
+    if a.get("country") != b.get("country"):
+        return False
+    da, db = (a.get("deadline") or "")[:10], (b.get("deadline") or "")[:10]
+    plazo_ok = (not da or not db or da == db)
+    ta, tb = _norm(a.get("title")) | _norm(a.get("place")), _norm(b.get("title")) | _norm(b.get("place"))
+    ba, bb = _norm(a.get("buyer")), _norm(b.get("buyer"))
+    if _jac(ta, tb) >= 0.5 and plazo_ok:
+        return True
+    if ba and bb and _jac(ba, bb) >= 0.5 and da and db and da == db:
+        return True
+    if ba and bb and _jac(ba, bb) >= 0.6 and _jac(ta, tb) >= 0.2 and plazo_ok:
+        return True
+    return False
+
+
+def fusionar(dest, src):
+    """Completa dest con lo que le falte de src y anota la fuente alternativa."""
+    for k, v in src.items():
+        if v and not dest.get(k) and k not in ("num", "source", "url", "first_seen", "alt"):
+            dest[k] = v
+    alt = dest.setdefault("alt", [])
+    if src.get("url") and all(x.get("url") != src["url"] for x in alt):
+        alt.append({"source": src.get("source", ""), "url": src["url"], "num": src.get("num", "")})
+    return dest
+
+
+def dedupe(items, base):
+    """Fusiona repetidos entre fuentes; prefiere la fuente nacional al TED."""
+    res = []
+    for c in items:
+        m = next((r for r in res if duplicados(r, c)), None)
+        if m is None:
+            m = next((r for r in base if duplicados(r, c)), None)
+            if m is not None:
+                fusionar(m, c)               # ya en la base de otra semana
+                continue
+            res.append(c)
+            continue
+        if m.get("source") == "TED" and c.get("source") != "TED":
+            i = res.index(m)
+            res[i] = fusionar(c, m)
+        else:
+            fusionar(m, c)
+    return res
 
 
 def load_base():
@@ -209,6 +269,8 @@ if __name__ == "__main__":
         items += extra
     base = load_base()
     known = {c["num"]: c for c in base}
+    items = [c for c in items if c["num"] not in known] + [known[c["num"]] and c for c in items if c["num"] in known]
+    items = dedupe(items, [b for b in base if all(b["num"] != c["num"] for c in items)])
     today = dt.date.today().isoformat()
     new = []
     for c in items:
