@@ -21,6 +21,8 @@
 
   h1{font-size:13px;margin:0 0 2px}
   .sub{margin:0 0 18px}
+  .sub.guia{margin:-12px 0 18px}
+  .sub.guia a{text-decoration:none;border-bottom:var(--fino) solid #000;padding-bottom:1px}
 
   /* filtros: una fila, sin cajas */
   .filtros{display:flex;flex-wrap:wrap;gap:14px 26px;align-items:baseline;padding-bottom:14px;
@@ -81,6 +83,7 @@
   <span class="esc tl" aria-hidden="true"></span>
   <h1>Concursos de arquitectura · Europa</h1>
   <p class="sub" id="sub">Cargando la base…</p>
+  <p class="sub guia"><a href="guia-paises.pdf" target="_blank" rel="noopener">Guía por países: qué piden y cómo presentarse desde España (PDF, A4 apaisado)</a></p>
 
   <div class="filtros">
     <label><b>Buscar</b> <input type="text" id="q" placeholder="título, convocante, lugar"></label>
@@ -174,6 +177,9 @@ function m2(c){
     const n=parseFloat(x); if(n>best&&n<5e6) best=n; }
   return best; }
 function esc(t){ return String(t||"").replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+const GUIA_PAG={FRA:3,BEL:4,CHE:5,DEU:6,AUT:7,NLD:8,SWE:9,DNK:9,FIN:10,NOR:10,ITA:11,PRT:12,POL:13};
+function guiaLink(c){ const pg=GUIA_PAG[c.country]; if(!pg) return "";
+  return `<a href="guia-paises.pdf#page=${pg}" target="_blank" rel="noopener">cómo presentarse en ${esc(PAISES[c.country]||c.country)}</a>`; }
 function ficha(c){
   const ac=acceso(c), mm=m2(c), v=fmtVal(c);
   const filas=[["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
@@ -186,7 +192,7 @@ function ficha(c){
     ${c.desc?`<div class="ficha-desc">${esc(c.desc)}</div>`:""}
     <div class="ficha-acciones">
       <a class="fuerte" href="concursos://descargar/${encodeURIComponent(c.num)}" title="Descarga la documentación a Descargas/concursos-docs; si el portal exige cuenta, abre la plataforma">Descargar documentación</a>
-      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>`:""}${alt}
+      ${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener">abrir en la plataforma</a>`:""}${alt}${guiaLink(c)}
     </div></div>`;
 }
 function abierto(c){ return !c.deadline || c.deadline.slice(0,10)>=hoy; }
