@@ -177,6 +177,7 @@ function descargable(c){
   if(c.docs&&c.docs.length) return true;
   return /^(TenderNed|bma\.brussels|cellule\.archi|oasrs encomenda|PLACE)/.test(c.source||"");
 }
+function altsUtiles(c){ return (c.alt||[]).filter(a=>a.url&&!/google\.com\/search/.test(a.url)&&a.source!=="buscar el anuncio"&&a.source!=="COAVN (con sesión)"&&a.source!==c.source); }
 function ficha(c){
   const ac=acceso(c), mm=m2(c), v=fmtVal(c);
   const filas=[["Título original",c.title_es?c.title:""],["Convocante",c.buyer],["Lugar",c.place],["País",PAISES[c.country]||c.country],["Publicado",c.pub],
@@ -184,7 +185,7 @@ function ficha(c){
     ["Acceso",ac==="abierto"?"abierto":ac==="seleccion"?"por selección / invitación":""],["Procedimiento",c.proc&&!/^(abierto|seleccion)$/.test(c.proc)?c.proc:""],
     ["Tipo",c.kind||"concurso"],["Fuente",c.source||"TED"],["Referencia",c.num]]
     .filter(([k,v])=>v).map(([k,v])=>`<b>${k}</b><span>${esc(v)}</span>`).join("");
-  const alt=(c.alt||[]).map(a=>`<a href="${a.url}" target="_blank" rel="noopener noreferrer">abrir en ${esc(a.source||"otra fuente")}</a>`).join("");
+  const alt=altsUtiles(c).map(a=>`<a href="${a.url}" target="_blank" rel="noopener noreferrer">abrir en ${esc(a.source||"otra fuente")}</a>`).join("");
   return `<div class="ficha-box">${filas}
     ${c.desc?`<div class="ficha-desc">${esc(c.desc_es||c.desc)}${c.desc_es?`<br><br><span style="opacity:.75">${esc(c.desc)}</span>`:""}</div>`:""}
     <div class="ficha-acciones">
@@ -232,7 +233,7 @@ function render(){
     const ac=acceso(c), mm=m2(c), v=fmtVal(c);
     const meta=[c.buyer,c.place,(c.source&&c.source!=="TED")?c.source:"",c.kind==="licitación con concurso"?c.kind:"",
       ac==="abierto"?"abierto":ac==="seleccion"?"por selección":"", mm?mm.toLocaleString("es-ES")+" m²":"", v].filter(Boolean).join(" · ")
-      +(c.alt||[]).map(a=>` · también en <a href="${a.url}" target="_blank" rel="noopener noreferrer">${a.source||"otra fuente"}</a>`).join("");
+      +altsUtiles(c).map(a=>` · también en <a href="${a.url}" target="_blank" rel="noopener noreferrer">${a.source||"otra fuente"}</a>`).join("");
     tr.innerHTML=`<td class="marca"><input type="checkbox" ${sel.has(c.num)?"checked":""} aria-label="marcar"></td>
       <td class="pais" title="${PAISES[c.country]||""}">${cc2(c.country)}</td>
       <td class="tit">${/^https?:/.test(c.url||"")?`<a href="${c.url}" target="_blank" rel="noopener noreferrer" title="${esc(c.title)}">${esc(c.title_es||c.title)}</a>`:esc(c.title_es||c.title)}
