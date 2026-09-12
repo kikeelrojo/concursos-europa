@@ -129,3 +129,15 @@ Webservice pública TNS de TenderNed (JSON). Conserva prijsvragen,
 ontwerpwedstrijden, architectenselecties y opdrachten con CPV 712; descarta
 consultas de mercado, rectificaciones y adjudicaciones. Prueba:
 `python3 -m fuentes.holanda`.
+
+## Resumen de una página de las bases (`resumen.py`)
+
+Al descargar la documentación, si existe la clave de API de Anthropic
+(`~/.concursos-api-key` o variable `ANTHROPIC_API_KEY`), el descargador lee los
+documentos (PDF, DOCX, ZIP), pide un resumen estructurado y lo maqueta en
+`resumen.pdf` (A4 apaisado, Helvetica, blanco y negro, marcas de registro,
+texto vivo) dentro de la misma carpeta, y lo abre. Modelo por defecto
+`claude-sonnet-5` (variable `MODELO_RESUMEN` para cambiarlo). Los PDF
+escaneados sin texto no se pueden resumir. Uso suelto:
+`python3 resumen.py ~/Downloads/concursos-docs/<referencia>`.
+Dependencias: `pypdf`, `reportlab`, `requests`, `beautifulsoup4`.

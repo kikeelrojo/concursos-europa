@@ -113,6 +113,20 @@ def main():
         with open(os.path.join(carpeta, "_ficha.txt"), "w", encoding="utf-8") as f:
             f.write(json.dumps(item, ensure_ascii=False, indent=1))
         abrir(carpeta)
+        # resumen de una página si hay clave de API
+        try:
+            import resumen
+            if resumen.clave():
+                texto, _ = resumen.recoger_texto(carpeta)
+                if len(texto) >= 500:
+                    d = resumen.resumir("FICHA DEL BUSCADOR: " + json.dumps({k: item.get(k) for k in ("title", "buyer", "place", "deadline", "value", "cur", "proc", "desc") if item.get(k)}, ensure_ascii=False) + "\n\n" + texto)
+                    json.dump(d, open(os.path.join(carpeta, "_resumen.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                    resumen.maquetar(d, os.path.join(carpeta, "resumen.pdf"), item)
+                    abrir(os.path.join(carpeta, "resumen.pdf"))
+                else:
+                    print("sin texto legible para resumir")
+        except Exception as e:
+            print("resumen no generado:", e)
     else:
         for u in [url] + [a.get("url") for a in item.get("alt", [])]:
             if u:
