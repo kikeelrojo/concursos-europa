@@ -247,13 +247,15 @@ def _jac(a, b):
 def duplicados(a, b):
     if a.get("country") != b.get("country"):
         return False
+    if a.get("source") and a.get("source") == b.get("source"):
+        return False                      # misma fuente: son anuncios distintos
     da, db = (a.get("deadline") or "")[:10], (b.get("deadline") or "")[:10]
     plazo_ok = (not da or not db or da == db)
     ta, tb = _norm(a.get("title")) | _norm(a.get("place")), _norm(b.get("title")) | _norm(b.get("place"))
     ba, bb = _norm(a.get("buyer")), _norm(b.get("buyer"))
     if _jac(ta, tb) >= 0.5 and plazo_ok:
         return True
-    if ba and bb and _jac(ba, bb) >= 0.5 and da and db and da == db:
+    if ba and bb and _jac(ba, bb) >= 0.5 and da and db and da == db and _jac(ta, tb) >= 0.2:
         return True
     if ba and bb and _jac(ba, bb) >= 0.6 and _jac(ta, tb) >= 0.2 and plazo_ok:
         return True
@@ -266,9 +268,24 @@ def fusionar(dest, src):
         if v and not dest.get(k) and k not in ("num", "source", "url", "first_seen", "alt"):
             dest[k] = v
     alt = dest.setdefault("alt", [])
-    if src.get("url") and all(x.get("url") != src["url"] for x in alt):
+    if src.get("url") and src.get("url") != dest.get("url") and src.get("source") != dest.get("source") \
+            and all(x.get("url") != src["url"] for x in alt):
         alt.append({"source": src.get("source", ""), "url": src["url"], "num": src.get("num", "")})
     return dest
+
+
+def limpiar_alt(c):
+    vistos, alt = set(), []
+    for a in c.get("alt", []) or []:
+        u = a.get("url", "")
+        if not u or u == c.get("url") or a.get("source") == c.get("source") or u in vistos:
+            continue
+        vistos.add(u); alt.append(a)
+    if alt:
+        c["alt"] = alt
+    else:
+        c.pop("alt", None)
+    return c
 
 
 DOMINIOS = {"arkitekt.se": "https://www.arkitekt.se", "safa.fi": "https://www.safa.fi", "bouwmeester": "https://www.vlaamsbouwmeester.be",
@@ -298,7 +315,9 @@ def limpiar_lugar(c):
     p = str(c.get("place") or "").strip()
     if re.fullmatch(r"ES\d{0,3}", p):
         c["place"] = NUTS_ES.get(p, p)
-    return c
+    elif re.fullmatch(r"[A-Z]{2}[0-9A-Z]{1,3}", p):
+        c["place"] = ""                   # código NUTS de otro país sin nombre
+    return limpiar_alt(c)
 
 
 def fix_url(c):

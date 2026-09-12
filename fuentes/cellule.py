@@ -31,9 +31,13 @@ def _ficha(url):
     place, _, t = title.partition(",")
     if not t:
         place, t = "", title
-    h2 = soup.find_all("h2")
-    sub = next((h.get_text(" ", strip=True) for h in h2 if h.get_text(strip=True) not in ("cellule.archi", "Formulaire de recherche")
-                and not h.get_text(strip=True).startswith("Intégrations")), "")
+    sub = ""
+    if h1:
+        for h in h1.find_all_next("h2"):
+            t = " ".join(h.get_text(" ", strip=True).split())
+            if 3 < len(t) < 120 and not re.search(r"menu|recherche|cellule\.archi|intégrations", t, re.I):
+                sub = t
+                break
     lines = [" ".join(l.split()) for l in soup.get_text("\n").split("\n") if l.strip()]
     texto = "\n".join(lines)
     dl = ""
