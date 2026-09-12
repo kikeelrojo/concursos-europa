@@ -3158,5 +3158,1115 @@
 }
 ],
 "first_seen": "2026-09-12"
+},
+{
+"num": "BOAMP-26-87885",
+"title": "concours de maitrise d'oeuvre  pour la réhabilitation du hangar quai de l'épi à SAINT-TROPEZ",
+"buyer": "VILLE DE SAINT-TROPEZ",
+"country": "FRA",
+"pub": "2026-09-12",
+"deadline": "",
+"place": "dép. 83",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-87885",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-ACE407.08/26/PROY/02",
+"title": "A.T. elaboracion estudio de alternativas, estudios ambientales y redaccion proyecto de construccion integrado en la actuación Ampliacion EDAR de Ciudad Real y Miguelturra y colectores correspondientes a la incorporacion ",
+"buyer": "Consejo de Administración de Sociedad Mercantil Estatal Aguas de las Cuencas de España, S.A. (ACUAES)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-09-25 13:00",
+"place": "Ciudad Real",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=unwI0HKCxHiS81gZFETWmA%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "348631",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vAg%2BraQ6bb765oBpb0AwOylWWDTJKF4JMnjlRUwRyFU5FNk1EFTwUpz9NnfYaxXt6caMb7Xu3X1Dd1m3Op/VSdFRQ3XYRW3gnezg9p%2BqLSOHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=6MUn/EDjThsuv1ILZBHW6EjKL97/iBnOeaX5BZPU3GQKzjGyfupugICNHceEQ1LzOkdgdzsl10pfn7kSfybGkqwnfKAOSpqS5ddnQSNYfmMZyAJWGsSt0OzTSTyw9JAs"
+],
+"desc": "Abierto · Servicios · CPV 71322000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CATEGORÍA 4",
+"title": "CATEGORÍA 4: Redacciones de proyectos y/o direcciones facultativas y otros servicios de arquitectura, construcción, ingeniería e inspección con valor estimado entre 180.001 € y 240.000 €.",
+"buyer": "Consejo de Gobierno Insular del Cabildo Insular de Tenerife",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2029-08-04 23:59",
+"place": "Canarias",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kXmTZC5vFfGcCF8sV%2BqtYA%3D%3D",
+"source": "PLACE",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "0",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=F2x36n79ul7fY7J/wMbn7J/YwtzQz142gute2af7LABfz/1MtNQPLg95P3tWoH706p%2BFCmXAaB6NlIwFHPyHrBcf%2BybIs0zc6trtL7p13zY//q7NB2iMZvNyf0xrJmjt",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=AAfgENEAD8VRvr2ndaJafKd72tJtU9U0%2BRCiZJvHvvOiSYnzotpRhDY6WuF9is5sG6JooAO/xdMimeeMlj6%2BFYRhNN5%2BgWfAqUf03Bx5rEWB0nvVKRzfe4rpHcnlPhSZ&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=WyWJcJG9Te8BKwoXr3IX9qNYXlro7LsvbDqo3iTdiX5XhsPE6zZleJOtymP%2BRlTrKlJ%2B2ECjYwh0s/IUwGDGbfcEpDnk2Yc8S/zCO8Qis7MZyAJWGsSt0OzTSTyw9JAs&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=U6eIwGzn/UbRAsTDyRrKVvVEmtQuw%2BezIarcufNjevUicBkIbjmA/pmvVm%2Bvcod%2B0aK0wrQ%2BPSlbZjSr7Oyqti1wjT3LMmzX/xjEdjEeoHWB0nvVKRzfe4rpHcnlPhSZ"
+],
+"desc": "Restringido · Servicios · CPV 71240000, 71000000",
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BQYQSHHzXLdPpzdqOdhuWg%3D%3D",
+"num": "PLACE-CATEGORÍA 3"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XcibYRcXFTm2gkLQ8TeYKA%3D%3D",
+"num": "PLACE-CATEGORÍA 2"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Njgxd%2FwenFv%2Fa9DgO%2BoYKQ%3D%3D",
+"num": "PLACE-CATEGORÍA 1"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/SP01460020/00002196E",
+"title": "Asistencia técnica para la redacción del proyecto de la unidad de grandes quemados en bloque quirúrgico en el HCD",
+"buyer": "Inspección General de Sanidad de la Defensa",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-09-19 23:59",
+"place": "Madrid",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=D7jYUWoKMYJSYrkJkLlFdw%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "59875",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=430yN5he8xed3bl36sfX8ZQAgj33v6fmcfflVnfk2abqJv7bfYTYGxKLoVJAfl/%2BIePRsf14yLVzrZScVg35NKYWrRCV42AD3hB3qw%2B13W73GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1VR3hOvsmzk2BkeZftdMtGcwpppiL359Zoafg4yzaw54ZD9xfnz2lh%2BZZWHbx7ZZMEm01ak1yTNfTsFfiGkCx%2B67yR3ahWSpbrgg6NMwoh945ClyWkoJ44mKM70IFcOu"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71245000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CMAYOR/2026/30Y03/0018",
+"title": "Servicios de impresión y correspondencia postal para la difusión el informe de evaluación del edificio de viviendas en la Comunitat Valenciana (IEEV.CV).",
+"buyer": "Vicepresidencia Primera y Conselleria de Vivienda, Empleo, Juventud e Igualdad",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-09-15 14:00",
+"place": "Valencia/València",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9a9E%2FMYzWk8UqXM96WStVA%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "139944",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=O1ztHKLXSJngMFMKpgAy5k/dj5%2Bnvq4t7I%2BvPHOv6jMJi6bmO%2BGyEDs0YurXYVlsEVJY1gXXKH74rLE7qdbTDDEda45HShMPZPjXWUVo4viCx2e6p7hqtlp2aFupgHMr",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0cGX1gGDX9tbeqFxSgs86UkHCc9H3D2zUFyaJUSEl2s4GwdnDFqke85JDiSrGGeP299JwmytjglynbCjht9BiMAOcdnJIO43glH9Je7iL5d45ClyWkoJ44mKM70IFcOu",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2WJUbN%2BTHl4snvKetqNDplu0/XfGzHABDRLPp8VRcakXFUCGSY5dwHnI9hhGHY8kmRorGHBaYj7M5S2Hxp1ERpHqk0LecO7lwfBc0cQeI4d7QB3HKyQaFUExmUVQCerk"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71315400, 79800000, 64000000, 64110000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-02-2026-ADUANA",
+"title": "Servicio de vigilancia y seguridad del Edificio Administrativo Antigua Aduana",
+"buyer": "Subdelegación del Gobierno en Bizkaia",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-19 23:59",
+"place": "Bizkaia",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FX24w2JsuQtrSd8H4b2soA%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "371586",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OWJpjPrbbBSrke9k3H56whEaRZANPQMxSpRVuY1jnDX6aTBvWyCQDssF%2BP6z0a0ndrLHNUG3OotPI/W3L4PoHxQzy3MvH54y5iAo9x8HlZU//q7NB2iMZvNyf0xrJmjt",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PwgASHdfczvY6caDvMX7eTOemKfvprnw18nn1sn2pP21yQb40hQSJsFAvDlgpphKaXW81vYoXbhYHcXqzElHWJVitActQnX%2BRSmAbUmeh5LVTD3T98KC0nSgQFM0q%2B5s",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7%2BiuIY%2BDcPt7b3L/36CjHpMjB3P7atVeXERFBPFs/VjR%2B3l2pZEdLAaosqiHLAnO5mA/NoaRxZqT6TmPlboqVfSiap%2BRgtyD%2BrfIIm2sZJwZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5xlvmC3YbvFZ9tiHc6IYA97kbo3ROjPGM5PxrBCQ1n0tVN8izFaS/IWVR0hoNydnTh//1chDIEi96ivQowYsVC%2BJfg0bsca9qpLz9yhCd1l7QB3HKyQaFUExmUVQCerk"
+],
+"desc": "Abierto · Servicios · CPV 79710000, 79714000, 50610000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-300/2026/01478",
+"title": "Vigilancia y Seguridad del edificio de Plaza de Legazpi Nº7, adscrito al Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad",
+"buyer": "Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad del Ayuntamiento de Madrid",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-28 23:59",
+"place": "Madrid",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1cg8SgeJNaO9Hd5zqvq9cg%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "11311954",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3y3LA6sCaW8pU%2BukJNq47vlk0HMMhTbvzXQPh0aKYJgeYGGftGubngeGA7H43b1MffAU3h2j3jZBrWoXe9xqjnt8vtwGjJr7l/PEYDHRwjnfdyQgZAdTm3EfcUAC7CJ6",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qljKrMEFsyA7ZXhHWl0EXrPSHJsEHJ1il6GCOd8QPgkRrb6MoTXBuDAqtmOs4KK6nZlbIt8hwVesoR/uacesQLTlyDUvyukFovOvEHX/CwAC1/zDIE0Kw/PWNnLS0Z0z"
+],
+"desc": "Abierto · Servicios · CPV 79710000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-195/26",
+"title": "Sistema Dinámico de Adquisición para selección de proveedores de asistencias técnicas en materia de ingeniería, arquitectura y consultoría en energía y lucha contra el cambio climático demandados por los municipios de la",
+"buyer": "Presidencia de la Diputación de Badajoz",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2029-06-25 00:00",
+"place": "Badajoz",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hIdQuHULekGKeVWTb9Scog%3D%3D",
+"source": "PLACE",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "0",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=A1kdOvi1yWC5oNdDjDjU8CjHF%2B34J1AwRBxOBEBNYYmRBGNI5PHWcZks01tNj%2BP28R%2BSW9%2BgAg1rMQq1xUz8ywhMF7D2/IlM/CZ83kF6XDsZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mck%2BvvBxJCT44bOKuwJHbHw0PpIVY1e6ioSiJTSjrU3lMFNgdCGTEhT87iYA9wTpG3AedTdNZOeqv9lwn/xeTu%2BBJCmLpDJZjNaYfvm3k1ZJOVDbGCDM%2BMigrvuVS7Rv"
+],
+"desc": "Restringido · Servicios · CPV 71356000, 71356200",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CC 1/2026 SDA",
+"title": "servicio de vigilancia y seguridad de edificios e instalaciones",
+"buyer": "Central de Contratación de la Administración de la Comunidad Autónoma de las Illes Balears",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2028-05-13 15:00",
+"place": "Illes Balears",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=WiKaScLBYA5%2FR5QFTlaM4A%3D%3D",
+"source": "PLACE",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "0",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=764BcO73gHjDqyOhdZ06X1F1Sc6ft/aMM3km43bwek3SGpK2CbOkhwL2s4I62P1EVCoOAFtZtuZOpb9g9Ssr2AJpcz8r22Q3DiZZAkSDZ2T3GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qdgmZVIq1ayvO8GRluPiHMpoZisJdrqW0dFx8l300cCc1/PkTHmk4KEybt/pj%2BFuBVwXWqPK/eIbLDe%2BdbYAM/Gl/%2BlxGml65uJbr5HxknPfdyQgZAdTm3EfcUAC7CJ6",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dwjDuXp4eQPxrMEB7iCYQLzesLuRk9ft%2Btx3cjgeRvKQuluX/fUy1xujXh1WZSa073wv3AFQCQ2VA2PNZDW7Bu8iJZ7uxxs2z5PDUG8ds7b3GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I/vXAtyXZgASiwLTlbD7bdQbDEonXZx3u6Fs5jWvUhVFveibV6rAmiOj7wO5IMLg1xk6bl51wLq3tHkUYz0r%2BCyFDpLUQLZWGYbp1ToKynaHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ZMkULMHkkaZlI%2BO2AZecGce%2BF6/%2BVGaI/QGQ%2BQQWQBWE4/JSBLLVD0yFc%2BqY095I%2BKER2QHKC1UkU%2BC1/zTPWOzFqVMqN0pLDYzbVkqSAYvfdyQgZAdTm3EfcUAC7CJ6",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FXChfKfhAdpgu/MgBJ6Gb2nmHO5ZVwcFV%2BoB280hNcqEQzvOacuf0ne1kDfZNypEi7x7SQR0Ao4L1do0nwOHBi4x/CxADZ1kqobEqBrg77lt/o8fNevwsujgRzaBbugn"
+],
+"desc": "Restringido · Servicios · CPV 79713000, 50610000, 79715000, 50413200",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-AYAL-2026000175",
+"title": "Contratación de servicios de Asistencia técnica para la redacción del proyecto básico y estudios estratégicos para el diseño integral de los espacios públicos de las barriadas de San Miguel de Cabo de Gata, La Almadraba ",
+"buyer": "Junta de Gobierno del Ayuntamiento de Almería",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-16 23:59",
+"place": "Almería",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=t9JvK1ovpXDyoM4us5k4vw%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "192664",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Nq1oQ8S/6ER7u3AFIJM1xOKEQ/NZxVBPhhUvSL%2BL8xhXHbsklsYPVH86VNpmqTYQpWxn/6ySyQP8K0G5LY4feOTBdaDsDKdCE2otQdyxhmAZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/2py3wOjUu3xDAha%2BPLLp0r0ceXvwFRz14im1myT7UZKjHutLtyWhMpFT/9AewdD6MBYUlMoW58F3cBWAwEN%2Bio4G5Lny19wNTwc5uJokR/3GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=v9F7vGH2nxGMU5kiRETTNcUd5duf4cUksIYYeMrLjXLzflPbgcmizuOd0sWxBQ1CJh2C9Q7ZF4dinss3mH58vJe8x%2B7D8wcOenKdM/LidJn6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dV4vn48SKaTt9gTh1yq5CCzeDffmD0lTZ7ZsU7TCbHfrbtPcb8S6sNzSM6v058zsICQxtPeFrRbfwTG2p1uCpR%2BOvRQpEEuNYG31kTA3BWB7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=E%2B2PqfSm98lilsICUGV2Q152jriFejVxw93J%2Btkjde3O5tVvD1skSDfkJ7uEFuCKQVqS2lEfhYea1K64z3uEn21K5ObcixKfLU1fLgRNwbAZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f84wnrH1eWNVStJk8amW4tPAwFwH1%2B4jiEqybtOolI37ozWwZGIIhpCBDrT7MoA2%2Brd5VGJZLAtGTyx4YWVSxa6e82q00Tocndrux72n%2BML3GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=k%2B2ANa3XzEpiBhgI1BnKHGPiP%2BrAhgUGw5vWxJLbEv%2BP3A61P0QS0w%2B4sb3Di8L2Qs%2BE13wwrmm1UeqkNzj5RdKngRj8mEG189JxiUNyHbV45ClyWkoJ44mKM70IFcOu",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iQuH6NISHBD2ZNfjgG3z7UK0SChrH03Hu7NnvdbrScU5Zr9AwZAX1xxAI9gcAFWzdg6JnT%2BN6OQBH4s9xpavrsVoIG7xSip6XwmI6mmhfa6HAj0WEJrB5sP7amrh2jBD"
+],
+"desc": "Abierto · Servicios · CPV 71240000, 71400000, 71241000, 90712100",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261355ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261355ES",
+"num": "COAVN-20261355ES"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-300/2026/00445",
+"title": "Inspección y seguimiento de actuaciones en los pasos a distinto nivel y estructuras del Ayuntamiento de Madrid",
+"buyer": "Área de Gobierno de Obras y Equipamientos",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-23 14:00",
+"place": "Madrid",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Kuj%2FDKqiAaXkY6rls5tG9A%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "3309163",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lSLCuEx9aRwzjUzw6RgOSSKnFrYmML7MvsLkwLvajwuuuBCZA0S08g2m7oBk5myfuoNLSztgzUd/wKPxOM%2BazoOFhYQTB2c1GgPrWZZe99F7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=WsznJf5VzanX1y53GdpqnMCprhxPMJxhnptCY1xJOPzxMKJqqXcBhxZQ%2BnUJaOsWVvaacYs8rMofOTGgFcagP8rI4fW6cKrtmGqSc8aRZsdt/o8fNevwsujgRzaBbugn",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=uWfkEQ8ktWShO21H8L4TQlDobMAxDjYpwXA/NFw78cPs8HS4yAXZpTTGW64prrrMkmInLCvfjXwZ2edB64/RLV9Ik%2BPKXxcKieMb3X7/EG9JOVDbGCDM%2BMigrvuVS7Rv",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ybjCKs4004jNQ01mm76RW4JytxW3zHZu%2BDMIByUlW0IUQ3pat0q7VOK1XdehJLtqKhpBoxYDTkgA76V3%2B1DHIfKs7fgrjf24ltlVTke8TYFJOVDbGCDM%2BMigrvuVS7Rv"
+],
+"desc": "Abierto · Servicios · CPV 71356300, 71240000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-3.26/27507.0153",
+"title": "Servicios de consultoría y asistencia técnica para la redacción del proyecto de construcción de la duplicación de vía y electrificación de la línea 500. Tramo: Humanes – Illescas y remodelación de la estación de Griñón",
+"buyer": "ADIF - Presidencia",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-28 13:00",
+"place": "España",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kQsyw7FLXfcadbH3CysQuQ%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "2186105",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EMWTGotLWzOVrn/ySlVcm0UfB2LymiN45Iane1IMSnzAdy8%2BcWjWx8nw8%2B4813z5ORykjWCNqA3LObzLHUjaCRPh22RMb/g/81LQLJIP%2BLQC1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Ni8vmjYGnY7TfhTmvCJxkB9t/OlvwAdXGBmGtwKAb/N9J8Mlq/Wa5zuCfGXAFnxd4fJN42WxDL8o67kGH2XGu9sMxfihNXSkov6/bKB2YJUC1/zDIE0Kw/PWNnLS0Z0z"
+],
+"desc": "Abierto · Servicios · CPV 71311230",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-XP0216/2026",
+"title": "Dirección facultativa de la obra \"Acondicionamiento de salón de plenos y sala de Exposiciones del edificio cultural anexo a la Casa Palacio del Cabildo de Gran Canaria\"",
+"buyer": "Consejería de Gobierno de Obras Públicas, Infraestructuras, Arquitectura y Vivienda del Cabildo de Gran Canaria",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-25 12:00",
+"place": "",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=v0qkReaATuikU02jNGj1Fw%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "270749",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=W2qz9lnh5euS08MEejPDiGm8Ez6ZtK2o/SMqNvDzC2GH4BwTkjA5hv6T6oU9FfOrscWu1RDR5i8/kVdQQ8U3PkOaGQWNB/mzlDjTiKGxfXd7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1DeiwT3CtDqMFO67Z37Z09Pm3jKAiTeAxXShIs83F6IJ52GjwVtFu8y/7pEmXsW7n0i67jxyAQSoHbkkSvozxs1L1AYrRZcZmxDXfDAt1/N45ClyWkoJ44mKM70IFcOu"
+],
+"desc": "Abierto · Servicios · CPV 71000000, 71247000, 71317200",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CLT/2026/723",
+"title": "L'objecte del contracte és la prestació de serveis tècnics especialitzats per a la redacció del projecte museològic del centre de museus Sabadell Centre de Cultura que inclou el pla museològic i museogràfic del Museu d'H",
+"buyer": "Ajuntament de Sabadell",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-22 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/6100ed97-ca45-44ae-a487-d800e0f859a5/300875136",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "82000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302568339/68A4AD24B58A00D75D0859BE9B1B503F",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302568340/A8E933C4FED97B394D85E7846EDA07BC"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71241000, 71242000, 92521100",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-000039/2026-CONT",
+"title": "Servicio de Montaje del alumbrado navideño en las calles y edificios de Portugalete.",
+"buyer": "Ayuntamiento de Portugalete -Alcalde",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-25 14:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740638/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "45454",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13239259&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13239261&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 45310000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740610/es_doc/index.html",
+"num": "PLACE-2026ZAUN0080"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/CO_ASER/0087",
+"title": "Dirección facultativa de las obras de rehabilitación energética bajo el estándar enerphit passivhaus del edificio social del Centro Cívico Aldabe de Vitoria-Gasteiz; y obras de adecuación/adaptación a la normativa actual",
+"buyer": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-14 14:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso732783/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "186000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238252&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238253&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-3051_CONT_SERVICIOS/2026/50",
+"title": "Concurso de proyectos para la rehabilitación del edificio Guelbenzu como centro sociocultural y climático del barrio de la Milagrosa cofinanciada por la Unión Europea a través del Fondo Europeo de Desarrollo Regional (FE",
+"buyer": "JUNTA DE GOBIERNO LOCAL DEL AYTO DE PAMPLONA",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoConcursoProyectos.aspx?cod=26062509574650E65176",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "33057",
+"cur": "EUR",
+"docs": [],
+"desc": "Concurso de proyectos · Servicios · CPV 71242000, 71200000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-904567/26",
+"title": "Servei consistent en la redacció del projecte constructiu d’adequació de l’àrea de maduració, construcció de 3 sitges d’aeració, de la planta de compostatge de Torrelles de Llobregat i direcció de l’obra",
+"buyer": "Àrea Metropolitana de Barcelona",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-28 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9b698281-c162-47c6-8ada-dc1fd5f267ae/300879201",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "46678",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302581179/B0992F5F167A2A0A22B814507EBF7822",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302581182/BE2CFCE3BCFEFB47CFCE097E66D91388"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71300000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-C-333A/022-26 (A/SER-035584/2026)",
+"title": "Servicios de montaje y desmontaje de la exposición “María Gómez. Cada cierto tiempo se lee el mismo libro”. La muestra, comisariada por la directora del Museo, Tania Pardos, se celebrará del 30 de enero al 13 de junio de",
+"buyer": "Consejería de Cultura, Turismo y Deporte",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-01 23:59",
+"place": "",
+"url": "https://contratos-publicos.comunidad.madrid/contrato-publico/montaje-desmontaje-exposicion-maria-gomez-cada-cierto-tiempo-lee-mismo-libro-museo",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "62611",
+"cur": "EUR",
+"docs": [
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-09/2_333a-022-26_pcap.pdf",
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-09/pptp.pdf"
+],
+"desc": "Abierto simplificado · Servicios · CPV 79956000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PcPG/2026/829102",
+"title": "SER-2026-0016: Contratación de los servicios de redacción del proyecto y dirección de obra de las obras de renovación de las instalaciones del Hospital Público de Verín.",
+"buyer": "Consellería de Sanidade- SERGAS",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-02 23:59",
+"place": "",
+"url": "https://www.contratosdegalicia.gal/licitacion?N=829102",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "99074",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 45454000, 45300000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CE181960054/26",
+"title": "Contratación de la segunda fase del plan director de Cetursa Sierra Nevada S.A.: Actualización del máster plan y estudios de capacidad, remontes e integración urbana del dominio esquiable de Sierra Nevada",
+"buyer": "Cetursa Sierra Nevada, S.A.",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-09-30 15:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005974",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "100000",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 72220000, 90712200, 71241000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PcPG/2026/829092",
+"title": "VPG-2026-0065: Control de calidad de las obras para la construcción de un edificio de edificio de 12 viviendas de promoción pública (VPP), garajes y trasteros, en la parcela en la parcela 14 del plan parcial del sector A",
+"buyer": "Sociedade de Vivenda Pública de Galicia, S.A.",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-30 14:00",
+"place": "",
+"url": "https://www.contratosdegalicia.gal/licitacion?N=829092",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "32861",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71600000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PC. UX-26418",
+"title": "Contrato de servicios para la asistencia técnica para la redacción del proyecto constructivo de la modernización de Canals d'Urgell. Red de distribución de los sectores A-02, A-03 y B-01. Clave: UX-26418",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-14 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7228dc5a-8b40-4957-b7de-99cbad48effa/300878035",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "759742",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578499/1F3D72993F3B60B20C6522A2D22816F9",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578526/C399667DE8ED3252A883DE97DCC48591"
+],
+"desc": "Abierto · Servicios · CPV 71311000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/d843324b-4122-4ad2-b08e-a96d98b7d99d/300878024",
+"num": "PLACE-PC. UR-26409"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-26/050",
+"title": "26/050 Concurso de proyectos para la contratación de los servicios de redacción de proyectos y dirección de las obras de construcción de los edificios de viviendas situados en la calle Castillejos 190 (UMP2) y calle Ente",
+"buyer": "Institut Municipal de l'Habitatge i Rehabilitació de Barcelona",
+"country": "ESP",
+"pub": "2026-09-10",
+"deadline": "2026-10-13 13:00",
+"place": "ES511",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7b678589-7c51-4aaa-acfe-9c251f76ec09/300877962",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "795109",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302577199/F1E0AFA8B5E82F7EBB5DB1A4FF2C000B",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302577200/2BB7ECDED892AD3ABAAE0EC82BE3AC21"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/625007-2026",
+"num": "625007-2026"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261396ES",
+"num": "COAVN-20261396ES"
+}
+],
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261396ES",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026OB0018",
+"title": "El objeto del presente contrato es la prestación de los servicios de redacción de proyectos (anteproyecto, proyecto básico y proyecto ejecutivo) y dirección de las obras para la implantación de los nuevos accesos a MERCA",
+"buyer": "Mercados de Abastecimientos de Barcelona, S.A",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-28 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/de8a9031-9e65-4343-9285-d02ae315379d/300879103",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "440468",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302580834/66C285562A087D0B9455F74C9E6226B9",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302580835/EB1CB9309CAD9213E8F0AABDC79E0932"
+],
+"desc": "Abierto · Servicios · CPV 71520000, 71200000, 71300000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/000040842",
+"title": "Servei de trasllat i condicionament final dels objectes patrimonials de grans i mitjanes dimensions de la col·lecció Vilaseca del Museu de Mataró a les reserves del Museu de Mataró. S'inclouen totes les tasques que el se",
+"buyer": "Ajuntament de Mataró",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-24 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/11d94fde-a70d-40e3-a173-1fbac982045f/300878656",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "123824",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302579491/3F6692F2387564359EC643F5F77C5435",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302579493/94FC930CACC812244A1DCF9933D5E5EE"
+],
+"desc": "Abierto · Servicios · CPV 92521000, 98392000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-B014-2026-00003",
+"title": "Asistencia y asesoramiento tecnico juridico en actuacion prioritaria",
+"buyer": "Ayuntamiento de Barrika-Alcalde",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-18 09:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3634924/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "72912",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223887&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223889&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71410000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/CO_ASER/0097",
+"title": "Diseño, elaboración y redaccióndel proyecto museográfico del espacio Memoria de la Ciudad y del correspondiente anteproyecto arquitectónico del Palacio Maturana Verastegui para acoger dicho espacio",
+"buyer": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-28 14:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso731056/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "155000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223142&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223143&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 92521000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026.00130",
+"title": "Contratación de un servicio de Contact Center para la atención a cualquier persona interesada de dudas y/o consultas relacionadas con la rehabilitación de viviendas gestionada por el Consorcio de la Vivienda del Área Met",
+"buyer": "Consorci de l'Habitatge de l'Àrea Metropolitana de Barcelona",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-13 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/1ceda64d-423b-4c8e-967f-b315c6f3ee4e/300878497",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "133570",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578888/C1B28272E37655FBDE06C80FD9D70F12",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578889/B16C5DDE95EF1B02A5E29D7971C6B714"
+],
+"desc": "Abierto · Servicios · CPV 64214200",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/000037687",
+"title": "La prestació té per objecte la redacció del projecte bàsic amb definició constructiva per a les obres de reforma de l’antic recinte industrial “La Farinera”, destinat a Arxiu Comarcal del Maresme i Espais Culturals. La p",
+"buyer": "Ajuntament de Mataró",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-16 23:59",
+"place": "Mataró (Barcelona)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/a5cca51b-da5b-4295-8187-4e8c68d2e596/300878482",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "100347",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578829/616D7DEB2A52877EB4AB311748B9ACFE",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578830/FE4C277C62803DC98791F770EEC483EC"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71240000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261384ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261384ES",
+"num": "COAVN-20261384ES"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CONTR 2026 0000271991",
+"title": "df obras urbanización 1ª fase área logística majarbique",
+"buyer": "Agencia Pública de Puertos de Andalucía (APPA)",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-14 13:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005905",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "484409",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026PRIZ0016",
+"title": "Contratación del servicio de redacción del proyecto de construcción y dirección de obras de las instalaciones deportivas del campo de rugby Landare de Hernani",
+"buyer": "Ayuntamiento de Hernani-Alcalde",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-24 14:00",
+"place": "Hernani",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso739852/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "70000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13220857&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13220858&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71000000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260288G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260288G",
+"num": "COAVN-20260288G"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PcPG/2026/829085",
+"title": "VPG-2026-0068: Control de calidad de las obras para la construcción de un edificio de edificio de 24 viviendas de promoción pública (VPP), garajes y trasteros, en la Parcela UA N7 de la Rúa Angelo Collocci (Urpi 9) del A",
+"buyer": "Sociedade de Vivenda Pública de Galicia, S.A.",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-26 14:00",
+"place": "",
+"url": "https://www.contratosdegalicia.gal/licitacion?N=829085",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "62624",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71600000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026-0193-OSE",
+"title": "La contractació dels serveis d’enginyeria de Redacció projecte de renovació dels laboratoris de control i procés de l’ETAP Ter, ITAM Llobregat I ITAM Tordera. LI-00400",
+"buyer": "Ens d'Abastament d'Aigua Ter-Llobregat (ATL)",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-06 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/e72ed105-96f8-4639-8ba8-7bc704115fd6/300877695",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "109349",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302578347/FB3F31E6CF981A03BE8B0620D4DE6918",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302576266/8D2D8A0BF7DE74D02BC12C7E69656F66"
+],
+"desc": "Abierto · Servicios · CPV 71311000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-PTOP-2027-23",
+"title": "Redacció de projectes d’enderroc de construcció o instal·lacions afectades per\nexpedients de protecció de la legalitat urbanística.",
+"buyer": "Departament de Territori, Habitatge i Transició Ecològica",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-09-28 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7a918d7c-b4e3-41ab-9ab0-bb5aaf93d339/300876336",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "63208",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302571964/829080011C58894E6D71292CCE40556C",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302571966/3134F4BB5DC5EA2AEBC8D812738D1DA2"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71410000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-610.2026.126",
+"title": "Servicio de dirección de las obras para la reurbanización de la c. Taulat entre las calles de Bilbao y Laguna, (separata Ámbito 1, entre Rambla del Poblenou y C. Bilbao) en el distrito de Sant Martí, en Barcelona.",
+"buyer": "Barcelona d'Infraestructures Municipals SA",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "2026-10-09 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/f1e52fe0-11d3-4334-ac37-942d6d3ce255/300877548",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "180657",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302575838/B1EC3AEB9BFF737F306B4C613F3AC5CC",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302575839/591F13416074F38C5260054BDA8F953C"
+],
+"desc": "Abierto · Servicios · CPV 71520000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-3157_5/2026/JA_CONAD",
+"title": "Asistencia técnica, dirección facultativa y coordinación de seguridad y salud de las obras de remodelación de la subestación de 66 kv y centro de control de 6,3 kv en la ETAP de Canraso, en Tudela (Navarra).",
+"buyer": "JUNTA DE GOBIERNO JUNTA MUNICIPAL DE AGUAS DE TUDELA",
+"country": "ESP",
+"pub": "2026-09-09",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2608191029086ED51CDF",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "24950",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71242000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026-0199-OSE",
+"title": "Servei d’enginyeria per a la redacció de sis projectes per les següents actuacions:\n- Unitat de verificació de membranes per a un sistema de neteja de les membranes i per a un sistema de neteja de les membranes de la osm",
+"buyer": "Ens d'Abastament d'Aigua Ter-Llobregat (ATL)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-10-08 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/0c5d6567-73c2-4132-af4a-2c5209309aa0/300877814",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "198945",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302576630/22B1A6E8B60B9F9078C1E532C3FD83AA",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302576631/70AD37E89A430CFF0EB20AAE59FAEF2A"
+],
+"desc": "Abierto · Servicios · CPV 71311000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-E2343",
+"title": "Sistema Dinàmic d’Adquisició per a l’acreditació de proveïdors de serveis de desenvolupament de programari i de consultoria per a la governança tecnològica.\n\nL’àmbit subjectiu del present SDA el conformen: \n• Institut de",
+"buyer": "Consorci de Serveis Universitaris de Catalunya (CSUC)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2027-03-28 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c86be5d2-7690-4229-b743-fb6419a5b788/300877708",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "17280000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302576274/D4CF139E65D822B7965AA3FD67D2041E",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302576275/40DF4BB910D8BBE4A68935345DCE3F67"
+],
+"desc": "Restringido · Servicios · CPV 72000000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-ICSOL-2026-83",
+"title": "MRU/PHB Serveis de direcció d'obra, adjunts a la direcció de les obres, seguiment BIM i coordinació de seguretat i salut de les obres d'urbanització, abastament d'aigua de les subfases 1B i 1C i canalització del Torrent ",
+"buyer": "Institut Català del Sòl (INCASÒL)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-09-23 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c0dd6851-bdf7-4ca8-846b-f1277cebf1d5/300875954",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "69814",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302570613/0636E1AB86BD6481CF019D11F1807311",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302570685/25500E726CCED68865025BD22A00D63B"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71220000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-3001_327993X",
+"title": "Licitación de dirección de obra acondicionamiento Camino Mirabete - Allo",
+"buyer": "Ayuntamiento de Allo",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260824140528DABFC43D",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "17000",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71356200",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2012_2026/20",
+"title": "Redacción de proyecto y en su caso dirección de las obras de reurbanización de la plaza Río Arga de Barañain",
+"buyer": "NAVARRA DE SUELO Y VIVIENDA S.A.(NASUVINSA)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2608061246343ECCFD01",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "39000",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/000022532",
+"title": "Concurs de projectes i posterior contractació negociada per a la construcció del nou Centre Comunitari d'Innovació i Cultura i Urbanització del seus entorns - Fase I,finançat pel Fons de Recuperació urbana, Ambiental i S",
+"buyer": "Ajuntament de Mataró",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-09-14 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/de304a2f-4f02-4407-b7a9-6a95a46de56c/300876961",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "202583",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302573892/E329E1B48074964DE93A329BE06598BD",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302573893/2E86347B84EF2E3C3E3101A1251DDBE9"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71240000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CPO26070003",
+"title": "Contracte de serveis de direcció facultativa de les obres relatives al Projecte d’Urbanització del Pla de Millora Urbana del Sector entorn Sagrera, terraplenat del lateral muntanya entre els Carrers Garcilaso i Clara Zet",
+"buyer": "Institut Municipal d'Urbanisme de Barcelona (EPEL)",
+"country": "ESP",
+"pub": "2026-09-08",
+"deadline": "2026-10-05 23:59",
+"place": "Barcelona",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/2bf7172d-51a4-46a9-9f9d-487d01287df1/300866503",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "104070",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302541456/225E893D47C6F3AD61D192BA992B6153",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302570342/E936F95836EDD1A44B772394C92664FC"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261383ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261383ES",
+"num": "COAVN-20261383ES"
+}
+],
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/KC06",
+"title": "Servicio de aparejador – arquitecto técnico para la dirección de ejecución de obra de 10 viviendas tasadas de régimen municipal, garajes, anejos y equipamiento en el subámbito “1.1. Azpikoetxe” del a.u. “1. herrigunea” d",
+"buyer": "Etorlur Gipuzkoako Lurra S.A.-Director General-Gerente",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-21 09:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso735506/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "41650",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13190882&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13190884&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71500000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-AZPGK/S/26-0010",
+"title": "Redacción del proy. básico, proy. de ejecución y dirección facultativa y coordinación de SyS de las obras de edif, y de urb. necesarias para la adecuación del CD Día Plazakoetxe, en Galdakao a las exigencias básicas de a",
+"buyer": "AZPIEGITURAK, S.A.M.P.-Consejo de administración",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-14 12:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3578038/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "38000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13190141&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13190143&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71240000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-2026/0012270",
+"title": "Redacció del Pla especial de catàleg de masies, cases rurals i altres construccions en sòl no urbanitzable (PEM) dels municipis de Santa Fe del Penedès i Castellar del Riu i de la Modificació puntual del POUM relativa al",
+"buyer": "Diputació de Barcelona",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-23 14:00",
+"place": "Barcelona",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9eda3732-314f-4038-a3e1-e6d2b641f313/300874723",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "118570",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302570221/6A2D94CF48E31688B9E4A9DEE2EA9FE4",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302570223/F24B2C618801B10429729855CA509132"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71410000, 71400000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/bc1680aa-0e56-4a7a-a78f-96aa75aab307/300874432",
+"num": "PLACE-2026/0012261"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261369ES",
+"num": "COAVN-20261369ES"
+}
+],
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261369ES",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CONTR 2026 0000255757",
+"title": "servicio vigilancia y seguridad delegación territorial_arquitecto berges 7",
+"buyer": "Delegación Territorial de Turismo, Cultura y Deporte en Jaén",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-09-15 14:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005284",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "46179",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto simplificado · Servicios · CPV 79710000, 79714000",
+"first_seen": "2026-09-12"
+},
+{
+"num": "PLACE-CTN2600348",
+"title": "La necessitat que es pretén satisfer mitjançant aquesta contractació és la redacció d’un projecte constructiu que permeti la posterior execució de les obres de rehabilitació dels edificis afectats de l’EDAR de Terrassa",
+"buyer": "Agència Catalana de l'Aigua (ACA)",
+"country": "ESP",
+"pub": "2026-09-07",
+"deadline": "2026-10-02 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/8c0d18f7-6fa8-4142-8bef-dd06690c0445/300875525",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "79552",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569395/C3C785D58C3111C1AD58955ACC41E29D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302569396/0441A95AEE40D9133C27B289263DD6E5"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71242000",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9c10181c-dfdb-4971-911d-046fb33a1a68/300875524",
+"num": "PLACE-CTN2600381"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/e1db3f42-6e4c-4aab-8d37-9dffb66999cb/300875523",
+"num": "PLACE-CTN2600266"
+}
+],
+"first_seen": "2026-09-12"
 }
 ]
