@@ -128,6 +128,7 @@ const PAISES={FRA:"Francia",BEL:"Bélgica",CHE:"Suiza",DEU:"Alemania",AUT:"Austr
 const ISO2={FRA:"FR",BEL:"BE",CHE:"CH",DEU:"DE",AUT:"AT",NLD:"NL",DNK:"DK",SWE:"SE",NOR:"NO",FIN:"FI",ITA:"IT",PRT:"PT",POL:"PL",LUX:"LU",ESP:"ES"};
 const cc2=c=>ISO2[c]||c;
 let base=[], sortK="deadline", sortDir=1;
+const rango=c=>c.country==="ESP"?(/euskadi|navarra/i.test(c.source||"")?0:1):2;   // España primero, PV-NA antes
 const $=id=>document.getElementById(id);
 const hoy=new Date().toISOString().slice(0,10);
 const sel=new Set(JSON.parse(localStorage.getItem("sel")||"[]"));
@@ -135,7 +136,7 @@ const saveSel=()=>localStorage.setItem("sel",JSON.stringify([...sel]));
 
 fetch("concursos.json?"+Date.now()).then(r=>r.json()).then(d=>{
   base=d;
-  const cc=[...new Set(base.map(c=>c.country))].sort();
+  const cc=[...new Set(base.map(c=>c.country))].sort((a,b)=>(a==="ESP"?-1:b==="ESP"?1:a<b?-1:1));
   cc.forEach(c=>{const l=document.createElement("label");
     l.innerHTML=`<input type="checkbox" value="${c}" checked> ${cc2(c)}`;
     l.title=PAISES[c]||c;$("paises").appendChild(l)});
@@ -191,7 +192,8 @@ function filtrar(){
 
 function render(){
   const rows=filtrar();
-  rows.sort((a,b)=>{ let x=a[sortK]||"", y=b[sortK]||"";
+  rows.sort((a,b)=>{ const ra=rango(a), rb=rango(b); if(ra!==rb) return ra-rb;
+    let x=a[sortK]||"", y=b[sortK]||"";
     if(sortK==="value"){x=Number(String(x).replace(/[^\d.]/g,""))||0;y=Number(String(y).replace(/[^\d.]/g,""))||0;}
     if(sortK==="deadline"){ if(!x) x="9999"; if(!y) y="9999"; }
     return (x>y?1:x<y?-1:0)*sortDir; });

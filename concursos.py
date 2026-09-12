@@ -134,6 +134,13 @@ def pais(c):
     return ISO2.get(c.get("country", ""), c.get("country", ""))
 
 
+def rango(c):
+    """Orden: España primero (y dentro, País Vasco-Navarra), luego el resto por país."""
+    if c.get("country") == "ESP":
+        return (0, 0 if "euskadi" in str(c.get("source", "")).lower() or "navarra" in str(c.get("source", "")).lower() else 1)
+    return (1, 0)
+
+
 def es_open_oproep(c):
     t = (c.get("title", "") + " " + c.get("buyer", "")).lower()
     return "open oproep" in t or str(c.get("num", "")).startswith("OO")
@@ -151,7 +158,7 @@ def html(items):
     css = ("font-family:Helvetica,Arial,sans-serif;color:#000;"
            "font-size:13px;line-height:1.4")
     rows = []
-    for c in sorted(items, key=lambda x: (x["country"], x["deadline"] or "z")):
+    for c in sorted(items, key=lambda x: (rango(x), x["country"], x["deadline"] or "z")):
         v = f" · {c['value']} {c['cur']}" if c.get("value") else ""
         rows.append(
             f"<tr><td style='padding:6px 8px 6px 0;vertical-align:top'><b>{pais(c)}</b></td>"
