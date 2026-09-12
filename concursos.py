@@ -148,6 +148,9 @@ def traducir(items):
     """Traduce al español los títulos (y la descripción corta) de lo que no está en español.
     Guarda title_es / desc_es; necesita ANTHROPIC_API_KEY. Sin clave, no hace nada."""
     k = os.getenv("ANTHROPIC_API_KEY", "")
+    for c in items:                       # rehacer traducciones antiguas de nombres de procedimiento
+        if re.search(r"llamada a (los )?interesados|llamada abierta|open oproep", c.get("title_es", ""), re.I):
+            c.pop("title_es", None)
     pend = [c for c in items if c.get("country") != "ESP" and not c.get("title_es") and c.get("title")]
     if not k or not pend:
         return
@@ -155,7 +158,9 @@ def traducir(items):
         lote = pend[i:i + 40]
         entrada = [{"i": j, "t": c["title"][:300], "d": (c.get("desc") or "")[:350]} for j, c in enumerate(lote)]
         prompt = ("Traduce al español estos títulos y descripciones de concursos y licitaciones de arquitectura. "
-                  "Mantén nombres propios y de lugares; sé literal y breve. Responde SOLO con un JSON: "
+                  "Mantén nombres propios y de lugares. Traduce 'Open Oproep' como 'Open Call' y 'Oproep aan geïnteresseerden' como 'Convocatoria a interesados'. Deja SIN traducir los demás nombres de procedimientos propios de cada país "
+                  "(Studienauftrag, Planerwahlverfahren, Parallellt uppdrag, kutsukilpailu, concours restreint, architectenselectie); "
+                  "sé literal y breve. Responde SOLO con un JSON: "
                   "una lista de objetos {\"i\": n, \"t\": título en español, \"d\": descripción en español}.\n\n"
                   + json.dumps(entrada, ensure_ascii=False))
         try:
@@ -392,7 +397,7 @@ if __name__ == "__main__":
             c["first_seen"] = today
             base.append(c)
             new.append(c)
-    traducir([c for c in base if c.get("country") != "ESP" and not c.get("title_es")])   # nuevos y pendientes
+    traducir([c for c in base if c.get("country") != "ESP"])   # nuevos y pendientes (los ya traducidos se saltan)
     os.makedirs("docs", exist_ok=True)
     json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"base: {len(base)} en total, {len(new)} nuevos")
