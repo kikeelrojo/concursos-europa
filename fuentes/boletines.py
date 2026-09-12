@@ -68,6 +68,10 @@ def parse_coavn(msg, html_):
     asunto = str(msg.get("Subject", ""))
     estatal = re.search(r"estatal|internacional", asunto, re.I) is not None
     lines = _texto_html(html_)
+    # hrefs reales de las fichas, indexados por número de registro
+    hrefs = {}
+    for m in re.finditer(r'href="([^"]*fichaConcurso[^"]*numeroRegistro=([A-Za-z0-9]+)[^"]*)"', html_):
+        hrefs[m.group(2)] = htmlmod.unescape(m.group(1))
     out, cur, seccion = [], None, ""
     def cerrar():
         if not cur or not cur.get("Objeto"):
@@ -91,7 +95,10 @@ def parse_coavn(msg, html_):
         mv = re.search(r"([\d.\s]+(?:,\d{2})?)\s*euros", presu)
         val = re.sub(r"[.\s]", "", mv.group(1)).split(",")[0] if mv else ""
         objeto = cur["Objeto"]
-        num = "COAVN-" + (cur.get("Nº Registro") or re.sub(r"\W", "", objeto)[:30])
+        reg = cur.get("Nº Registro", "")
+        num = "COAVN-" + (reg or re.sub(r"\W", "", objeto)[:30])
+        if reg in hrefs:
+            cur["Enlace"] = hrefs[reg]
         out.append({"num": num, "title": objeto[:220], "buyer": cur.get("Organismo", ""), "country": country,
                     "pub": pub, "deadline": dl, "place": loc, "url": cur.get("Enlace", ""), "source": source,
                     "proc": "seleccion" if re.search(r"restringido|invitaci[oó]n", objeto, re.I) else "abierto" if CONCURSO_ES.search(objeto) else "",

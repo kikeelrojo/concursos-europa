@@ -105,19 +105,37 @@ A partir de la documentación adjunta (bases, pliegos, programa), responde SOLO 
 Sé concreto y breve: todo el resumen tiene que caber en una página A4."""
 
 
+def _parse(out):
+    out = out.strip()
+    i, j = out.find("{"), out.rfind("}")
+    if i >= 0 and j > i:
+        out = out[i:j + 1]
+    return json.loads(out, strict=False)
+
+
+def _llamar(k, contenido, max_tokens):
+    r = requests.post("https://api.anthropic.com/v1/messages",
+                      headers={"x-api-key": k, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+                      json={"model": MODELO, "max_tokens": max_tokens,
+                            "messages": [{"role": "user", "content": contenido}]},
+                      timeout=300)
+    r.raise_for_status()
+    j = r.json()
+    return "".join(b.get("text", "") for b in j.get("content", [])), j.get("stop_reason", "")
+
+
 def resumir(texto):
     k = clave()
     if not k:
         raise SystemExit("Falta la clave: ANTHROPIC_API_KEY o ~/.concursos-api-key")
-    r = requests.post("https://api.anthropic.com/v1/messages",
-                      headers={"x-api-key": k, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-                      json={"model": MODELO, "max_tokens": 2500,
-                            "messages": [{"role": "user", "content": PROMPT + "\n\nDOCUMENTACIÓN:\n" + texto}]},
-                      timeout=300)
-    r.raise_for_status()
-    out = "".join(b.get("text", "") for b in r.json().get("content", []))
-    out = re.sub(r"^```(json)?|```$", "", out.strip(), flags=re.M).strip()
-    return json.loads(out)
+    out, stop = _llamar(k, PROMPT + "\n\nDOCUMENTACIÓN:\n" + texto, 6000)
+    try:
+        return _parse(out)
+    except Exception:
+        if stop != "max_tokens":
+            raise
+    out, _ = _llamar(k, PROMPT + "\nIMPORTANTE: respuesta muy breve, máximo 2 frases por campo y 6 elementos por lista.\n\nDOCUMENTACIÓN:\n" + texto[:80_000], 6000)
+    return _parse(out)
 
 
 # ---------------- maquetación ----------------
