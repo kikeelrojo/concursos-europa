@@ -38,8 +38,8 @@ def _ficha(url):
     defr = _campo(texto, "DÉFRAIEMENT", "DEFRAIEMENT", "VERGOEDING", "COMPENSATION")
     addr = _campo(texto, "ADRESSE", "ADRES", "ADDRESS")
     dl = ""
-    m = re.search(r"DATE LIMITE[^\n]*?(\d{2})\.(\d{2})\.(\d{4})(?:\s*à\s*(\d{1,2})H(\d{2})?)?", texto, re.I) \
-        or re.search(r"(?:UITERSTE|DEADLINE)[^\n]*?(\d{2})\.(\d{2})\.(\d{4})", texto, re.I)
+    m = re.search(r"DATE LIMITE[^\d]{0,80}?(\d{2})\.(\d{2})\.(\d{4})(?:\s*à\s*(\d{1,2})\s*[Hh]\s*(\d{2})?)?", texto, re.I | re.S) \
+        or re.search(r"(?:UITERSTE|DEADLINE)[^\d]{0,80}?(\d{2})\.(\d{2})\.(\d{4})", texto, re.I | re.S)
     if m:
         dl = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
         if m.lastindex and m.lastindex >= 4 and m.group(4):
