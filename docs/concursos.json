@@ -624,23 +624,6 @@
 "desc_es": "Recualificación fluvial del río Breggia. El presente mandato se convoca para encontrar soluciones a los siguientes temas: identificar una solución a la necesidad de proceder periódicamente al vaciado de la Laguna del Ghitello, operación que actualmente conlleva costos elevados"
 },
 {
-"num": "BMA-news",
-"title": "APPELS",
-"buyer": "",
-"country": "BEL",
-"pub": "",
-"deadline": "",
-"place": "Bruselas",
-"url": "https://bma.brussels/news/",
-"source": "bma.brussels",
-"proc": "seleccion",
-"value": "",
-"cur": "",
-"desc": "",
-"first_seen": "2026-09-11",
-"title_es": "CONVOCATORIAS"
-},
-{
 "num": "CA-ensemble-immobilier-place-du-centre",
 "title": "Marché d’étude, de réalisation, de financement et de commercialisation d’un ensemble immobilier – Place du Centre — Marché d’étude, de réalisation, de financement et de commercialisation d’un ensemble immobilier – Place du Centre",
 "buyer": "Cellule architecture FWB",
@@ -2270,7 +2253,7 @@
 },
 {
 "num": "FI-kruunuvuorenrannan-haakoninlahden-asuinkorttelin-4",
-"title": "Kruunuvuorenrannan Haakoninlahden asuinkorttelin 49290 tontit 2, 3 ja 4 (kutsukilpailu)",
+"title": "Kruunuvuorenrannan Haakoninlahden asuinkortteli 49290 tontit 2, 3 ja 4 (kutsukilpailu)",
 "buyer": "",
 "country": "FIN",
 "pub": "2026-09-14",
@@ -2286,7 +2269,7 @@
 },
 {
 "num": "FI-jatkasaaren-melkinlaiturin-asuinkorttelin-20086",
-"title": "Jätkäsaaren Melkinlaiturin asuinkorttelin 20086 (kutsukilpailu)",
+"title": "Jätkäsaaren Melkinlaiturin asuinkortteli 20086 (kutsukilpailu)",
 "buyer": "",
 "country": "FIN",
 "pub": "2026-12-07",
