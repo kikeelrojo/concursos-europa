@@ -91,9 +91,12 @@ def fetch():
             continue
         if not it["deadline"] and not it["buyer"]:
             continue                                   # sin fecha límite ni maître d'ouvrage: no es una ficha de appel
-        if it["pub"] and it["pub"] < since:
-            break
-        out.append(it)
+        hoy = dt.date.today().isoformat()
+        if it["deadline"] and it["deadline"][:10] < hoy:
+            continue                                   # plazo vencido
+        if not it["deadline"] and it["pub"] and it["pub"] < since:
+            continue                                   # sin plazo y antiguo
+        out.append(it)                                 # abierto: entra aunque se publicara hace semanas
     return out
 
 
