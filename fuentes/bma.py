@@ -82,11 +82,15 @@ def fetch():
                 and h not in urls:
             urls.append(h)
     for u in urls[:MAX]:
+        if re.search(r"/news/?$|/appels/?$|/oproepen/?$|/calls/?$", u):
+            continue                                   # página de listado, no un appel
         try:
             it = _ficha(u)
         except Exception as e:
             print("bma ficha:", u, e)
             continue
+        if not it["deadline"] and not it["buyer"]:
+            continue                                   # sin fecha límite ni maître d'ouvrage: no es una ficha de appel
         if it["pub"] and it["pub"] < since:
             break
         out.append(it)
