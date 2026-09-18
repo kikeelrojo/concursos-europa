@@ -1,7 +1,8 @@
-name: concursos semanales
+name: concursos diarios
 on:
   schedule:
-    - cron: "0 6 * * 1"   # lunes 06:00 UTC = 08:00 Pamplona
+    - cron: "0 6 * * *"    # todos los días 06:00 UTC = 08:00 Pamplona (el mail sale en esta pasada, los lunes)
+    - cron: "0 14 * * *"   # todos los días 14:00 UTC = 16:00 Pamplona
   workflow_dispatch:       # botón "Run workflow" para probar
 jobs:
   enviar:

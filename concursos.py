@@ -403,12 +403,19 @@ if __name__ == "__main__":
     os.makedirs("docs", exist_ok=True)
     json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"base: {len(base)} en total, {len(new)} nuevos")
-    out = html(new)
+    # mail: los lunes (o forzado con MAIL_SIEMPRE=1) con todo lo nuevo de los últimos 7 días
+    hace7 = (dt.date.today() - dt.timedelta(days=7)).isoformat()
+    semana = [c for c in base if (c.get("first_seen") or "") >= hace7]
+    es_lunes = dt.date.today().weekday() == 0 and dt.datetime.utcnow().hour < 12   # solo la pasada de la mañana
+    out = html(semana if es_lunes else new)
     with open("ultimo_listado.html", "w", encoding="utf-8") as f:
         f.write(out)
-    if os.getenv("MAIL_TO"):
-        asunto = f"Concursos arquitectura Europa · {len(new)} nuevos"
-        if any(es_open_oproep(c) for c in new):
+    if os.getenv("MAIL_TO") and not (es_lunes or os.getenv("MAIL_SIEMPRE")):
+        print(f"día entre semana: base actualizada ({len(new)} nuevos), sin mail hasta el lunes")
+    elif os.getenv("MAIL_TO"):
+        lote = semana if es_lunes else new
+        asunto = f"Concursos arquitectura Europa · {len(lote)} nuevos"
+        if any(es_open_oproep(c) for c in lote):
             asunto = "OPEN OPROEP · " + asunto
         send(asunto, out)
         print("mail enviado a", os.environ["MAIL_TO"])

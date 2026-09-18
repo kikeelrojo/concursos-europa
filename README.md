@@ -1,6 +1,6 @@
 # Concursos de arquitectura · Europa · aviso semanal
 
-Cada lunes a las 08:00 consulta el TED (boletín oficial UE + Suiza vía simap.ch),
+Cada día a las 08:00 consulta el TED (boletín oficial UE + Suiza vía simap.ch),
 filtra los *concursos de proyectos* (design contest) con CPV 71 (arquitectura /
 ingeniería) de los países elegidos y te manda un mail con título, convocante,
 lugar, plazo y enlace. Reenviable tal cual.
@@ -164,3 +164,10 @@ lista muestran el título en español; la ficha conserva el original. Modelo
 acumulado que siga sin traducir. Regla: la base `docs/concursos.json` no se
 edita en local; si una fusión de git la rompe, `python3 reparar_base.py`
 recupera la última versión válida.
+
+## Cadencia
+
+El robot corre a diario a las 08:00 y a las 16:00 y actualiza la base y la
+página. El mail sale solo los lunes por la mañana, con todo lo nuevo de los
+últimos siete días. Para forzar un
+mail en otro día: variable `MAIL_SIEMPRE=1` (o lanzar el workflow un lunes).
