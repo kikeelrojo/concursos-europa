@@ -35,7 +35,15 @@
 "source": "TED",
 "first_seen": "2026-09-11",
 "title_es": "Francia – Estudio de viabilidad, servicios de asesoramiento, análisis – Concurso de dirección de obra para construcción nueva de casas de niños y funciones de apoyo, calle principal, 62560 AVROULT",
-"desc_es": "La misión de dirección de obra atribuida tras el concurso se compone de: La misión básica cuyo contenido se define en los artículos R.2431-4 y R.2431-5 del CCP; Las siguientes misiones complementarias: OPC, CSSI, Mobiliario, STD/SED"
+"desc_es": "La misión de dirección de obra atribuida tras el concurso se compone de: La misión básica cuyo contenido se define en los artículos R.2431-4 y R.2431-5 del CCP; Las siguientes misiones complementarias: OPC, CSSI, Mobiliario, STD/SED",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261397IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261397IN",
+"num": "COAVN-20261397IN"
+}
+]
 },
 {
 "num": "623976-2026",
@@ -4472,11 +4480,6 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/640300-2026",
 "num": "640300-2026"
-},
-{
-"source": "TED",
-"url": "https://ted.europa.eu/es/notice/-/detail/629254-2026",
-"num": "629254-2026"
 }
 ],
 "first_seen": "2026-09-18",
@@ -6064,19 +6067,26 @@
 "buyer": "Stadt Haldensleben",
 "country": "DEU",
 "pub": "2026-09-18",
-"deadline": "",
+"deadline": "2026-10-13T10:00",
 "place": "Haldensleben (Alemania)",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261433IN",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261433IN",
 "source": "COAVN internacional",
-"proc": "",
+"proc": "restricted",
 "kind": "licitación",
 "value": "",
 "cur": "",
 "desc": "Publicado en: DOUE",
 "first_seen": "2026-09-18",
 "title_es": "Planerwahlverfahren para la guardería «Max und Moritz» en Haldensleben",
-"desc_es": "Publicado en: DOUE"
+"desc_es": "Publicado en: DOUE",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/629254-2026",
+"num": "629254-2026"
+}
+]
 },
 {
 "num": "COAVN-20261434IN",
@@ -8378,5 +8388,57 @@
 "docs": [],
 "desc": "999 · Servicios · CPV 71520000",
 "first_seen": "2026-09-18"
+},
+{
+"num": "PLACE-3019_1025/2026",
+"title": "Asesoramiento al ayuntamiento de Cascantreen materia de urbanismo y otras actividades administrativas",
+"buyer": "ALCALDE",
+"country": "ESP",
+"pub": "2026-09-16",
+"deadline": "2026-10-05 23:59",
+"place": "Cascante",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260916140725DA321555",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "28200",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71530000, 71500000, 71510000, 71410000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260305N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260305N",
+"num": "COAVN-20260305N"
+}
+],
+"first_seen": "2026-09-19"
+},
+{
+"num": "PLACE-8195_SERVICIOS 2606",
+"title": "Servicio de redacción de proyecto y dirección facultativa para la reforma del Frontón de Echagüe e instalación de cubierta",
+"buyer": "Pleno del Ayuntamiento de Olóriz",
+"country": "ESP",
+"pub": "2026-09-16",
+"deadline": "2026-10-30 23:59",
+"place": "Oloriz",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260916113420DC250626",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "60000",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71247000, 71000000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260303N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260303N",
+"num": "COAVN-20260303N"
+}
+],
+"first_seen": "2026-09-19"
 }
 ]
