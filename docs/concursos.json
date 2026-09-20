@@ -1442,17 +1442,29 @@
 "buyer": "Ayuntamiento de Chulilla",
 "country": "ESP",
 "pub": "2026-09-11",
-"deadline": "",
+"deadline": "2026-09-21 23:59",
 "place": "Chulilla (Valencia)",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261363ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "52115",
 "cur": "EUR",
 "desc": "Presupuesto: 52.115,38 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261363ES"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261363ES",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=LxpL6N4hmEZIj1hFXo/QIHLRFiAW4DcMt2ibZbQfkzYW2QPRGMAjrdeVBn/t3O7xBFpntFATeCXbP8ivhDNMckdgY4G/JctNntbcVs53r/PfdyQgZAdTm3EfcUAC7CJ6",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7FuXJ3VWHQYEe%2B%2BdSvxAF/JrHB%2BlLOgPvl%2BC4PJBRhA1LzhldyB/OhxmEIDyguFtsDEmAsERBGAQsHmlkr/HtJPkdUM/Q4n/0jzUKPAx74p7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YyWdjUpYZX6YXQGm2OZiA%2B66QLFtzJXCG9UeNKKUysKok2TT5FdXBJhh0e2hQiYjfdofNL5OVmVBN0y0QkOje4EXeKY%2BqG5X/3b51eo/jdPDdQD9RyhUmzT4jZ2In4zL"
+],
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=h8gw6yCC1%2B1SYrkJkLlFdw%3D%3D",
+"num": "PLACE-366/2026"
+}
+]
 },
 {
 "num": "COAVN-20261364ES",
@@ -1496,17 +1508,28 @@
 "buyer": "Diputación de Barcelona",
 "country": "ESP",
 "pub": "2026-09-11",
-"deadline": "",
+"deadline": "2026-09-23 14:00",
 "place": "Barcelona",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "67221",
 "cur": "EUR",
 "desc": "Presupuesto: 67.221,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261368ES",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302595533/A0567874882E8AF5B4943DE0C1C96EC9",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302595534/56664FA561886B4669992EBC457AD1D2"
+],
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/bc1680aa-0e56-4a7a-a78f-96aa75aab307/300883997",
+"num": "PLACE-2026/0012261"
+}
+]
 },
 {
 "num": "COAVN-20261369ES",
@@ -1568,17 +1591,31 @@
 "buyer": "Dirección General de la Fundación para el Impulso de la Investigación Aplicada y la Innovación Tecnológica en Castilla-La Mancha",
 "country": "ESP",
 "pub": "2026-09-11",
-"deadline": "",
+"deadline": "2026-10-04 14:20",
 "place": "Ciudad Real",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261372ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "145005",
 "cur": "EUR",
 "desc": "Presupuesto: 145.005,28 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261372ES"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261372ES",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=RsNrCM7bHIGDFU6rwllbOiXpsaEDkR0v2LhbQ/g4nLoHYzYbX%2Bh8aVlTxkYFp7847nk0Il3WdQEUXLmsqIowdaTtDhIObMeIe/03%2BJYzDRrVTD3T98KC0nSgQFM0q%2B5s",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=voTDc3DgMq7Xdukz2hyII4xZJAUzZ0kzE0w3Ddm9sy95jXv74OV%2BZi7MHXwKhV3mFCyyaSUA9E/by5p32uondwtaLtgextlcMmk6fqof3h17QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ccpLXjVb6K7w3iIuziR9js9ESh4UyUA/kmm6%2BOQIHWTX0qO00M47%2BJhSpldNyeuE%2BXR4TbIh0dA3CBv%2BY1JyHgEryQUSGq4a8aiRf8/yCxcC1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=D0YJp5dcx6imuJIyV5h6Hi6m4aeEwqE5LniHuzozl%2B5/MIi9rb5sDsh2ZERoBacJIKMLrW0vu5FQzbtR9OelQg8uLJ9LVX1PCz7yxNhS95DVTD3T98KC0nSgQFM0q%2B5s",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SFhKfZGueWjOMW3aOc2VJIm9sRjRuztEiMsHiay3zbMybg6akHJ8pQbkWG2GiEs6NP2HiinGxZ3KGJbYxX1jOpOc6xcx6U/m%2BCBGrZxtYlcC1/zDIE0Kw/PWNnLS0Z0z"
+],
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=D9X45lJzrWMIYE3ZiZ%2BxmQ%3D%3D",
+"num": "PLACE-2026/036938"
+}
+]
 },
 {
 "num": "COAVN-20261373ES",
@@ -3079,18 +3116,18 @@
 "title": "L'objecte del contracte és la prestació de serveis tècnics especialitzats per a la redacció del projecte museològic del centre de museus Sabadell Centre de Cultura que inclou el pla museològic i museogràfic del Museu d'H",
 "buyer": "Ajuntament de Sabadell",
 "country": "ESP",
-"pub": "2026-09-10",
+"pub": "2026-09-18",
 "deadline": "2026-09-22 23:59",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/6100ed97-ca45-44ae-a487-d800e0f859a5/300875136",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/6100ed97-ca45-44ae-a487-d800e0f859a5/300886466",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "82000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302568339/68A4AD24B58A00D75D0859BE9B1B503F",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302568340/A8E933C4FED97B394D85E7846EDA07BC"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302603437/A185A590F6651244098D79AF37A485C6",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302603340/A8E933C4FED97B394D85E7846EDA07BC"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71241000, 71242000, 92521100",
 "first_seen": "2026-09-12"
@@ -3369,7 +3406,7 @@
 "title": "Diseño, elaboración y redaccióndel proyecto museográfico del espacio Memoria de la Ciudad y del correspondiente anteproyecto arquitectónico del Palacio Maturana Verastegui para acoger dicho espacio",
 "buyer": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
 "country": "ESP",
-"pub": "2026-09-09",
+"pub": "2026-09-18",
 "deadline": "2026-09-28 14:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso731056/es_doc/index.html",
@@ -3379,8 +3416,8 @@
 "value": "155000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223142&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13223143&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322650&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322651&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 92521000",
 "first_seen": "2026-09-12"
@@ -4304,7 +4341,7 @@
 "title": "Asistencia para la elaboración de una propuesta de usosy subsiguiente estudio de viabilidad previo a la concesión de obras del equipamiento municipal Iradier Arena.",
 "buyer": "Ayuntamiento de Vitoria-Gasteiz-Concejala Delegada del Departamento de Cultura y Educación",
 "country": "ESP",
-"pub": "2026-09-11",
+"pub": "2026-09-18",
 "deadline": "2026-09-21 14:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso739307/es_doc/index.html",
@@ -4314,8 +4351,8 @@
 "value": "70000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13251103&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13251104&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328473&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328474&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71241000",
 "first_seen": "2026-09-14"
@@ -4854,7 +4891,7 @@
 "title": "Es objeto del presente contrato la prestación de un servicio de revisión y actualización del sistema de información del patrimonio cultural vasco, mediante la revisión y, si es necesario, ampliación mediante la creación ",
 "buyer": "Gobierno Vasco-Viceconsejero/a de Cultura",
 "country": "ESP",
-"pub": "2026-09-15",
+"pub": "2026-09-19",
 "deadline": "2026-10-15 08:00",
 "place": "C.A.V.",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso738060/es_doc/index.html",
@@ -4864,7 +4901,7 @@
 "value": "648995",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13270742&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13332244&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260297CV",
@@ -8440,5 +8477,152 @@
 }
 ],
 "first_seen": "2026-09-19"
+},
+{
+"num": "PLACE-GES 478 / 2026",
+"title": "És objecte del present Plec de Clàusules Administratives Particulars (PCAP) la contractació\npromoguda per l’Ajuntament de La Pobla de Segur dels serveis de redacció del Projecte Bàsic\ni Executiu, la Direcció Facultativa ",
+"buyer": "Ajuntament de la Pobla de Segur",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-05 18:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/6292d921-438b-410e-babe-d7e7d83ea3cb/300887078",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "11098",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302605875/EA165FB623A0A83328D9990C826DC36E",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302605876/559CEDFCE93E3846D257AEA16F14F25A"
+],
+"desc": "Abierto simplificado · Servicios · CPV 50514200",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-X26019",
+"title": "Acuerdo marco para la contratación del servicio de logística para el Palacio Foral y edificios de la Diputación Foral de Gipuzkoa.",
+"buyer": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-15 16:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740987/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "662168",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13331014&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13331016&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 98392000",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-X26021",
+"title": "Acuerdo marco para la contratación, a través de la Central de Contratación Foral de Gipuzkoa, del servicio de vigilancia y seguridad de edificios de la Diputación Foral de Gipuzkoa, Juntas Generales de Gipuzkoa e IZFE, S",
+"buyer": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-16 16:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742667/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "5520193",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13329742&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13329744&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 79710000",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-FAD/2676",
+"title": "Redacción del anteproyecto, proyecto basico, proyecto de ejecución y documentos complementarios para el nuevo edificio de tenis y padel de fadura, getxo (bizkaia)",
+"buyer": "Getxo Kirolak-Presidente",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-09-25 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgegetxo3002676/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "145674",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328190&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328191&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-2026/000024584",
+"title": "El present contracte té per objecte el subministrament i la instal·lació de la nova gespa artificial, segons el projecte executiu de les obres de la renovació i millores de la instal·lació esportiva del camp municipal de",
+"buyer": "Ajuntament de Mataró",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-19 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/2d023e28-a562-4f4a-bb97-cdeb0fd80c3a/300886325",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "272727",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302602808/C2910DEC595146CCD21FA899B2C41C0D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302602818/61E94821DBB5ABD4D921464992E83977"
+],
+"desc": "Abierto · Suministros · CPV 71421000, 31518600, 39293400, 45212290",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-P20028197",
+"title": "Servicio de apoyo a la dirección de obra del proyecto de supresión del paso a nivel de Torretxo, p.k. 37+154 de la línea Bilbao-Donosti",
+"buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-19 12:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742781/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "270000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322408&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322410&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71311100",
+"first_seen": "2026-09-20"
+},
+{
+"num": "PLACE-012SV/2026",
+"title": "Redacción de la revisión del Plan Territorial Parcial del área funcional de Ayala",
+"buyer": "Gobierno Vasco-Dirección de Servicios",
+"country": "ESP",
+"pub": "2026-09-18",
+"deadline": "2026-10-19 10:30",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso739309/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "360000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13317413&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13317415&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"first_seen": "2026-09-20"
 }
 ]
