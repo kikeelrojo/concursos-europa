@@ -1979,8 +1979,8 @@
 "source": "COAVN estatal",
 "proc": "oth-mult",
 "kind": "licitación",
-"value": "",
-"cur": "",
+"value": "834624",
+"cur": "EUR",
 "desc": "Publicado en: DOUE",
 "first_seen": "2026-09-12",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261399ES",
@@ -1989,7 +1989,16 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/650071-2026",
 "num": "650071-2026"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/939a4a34-baa9-4815-8f75-5a6a52c3eafc/300885767",
+"num": "PLACE-PE+DO CAP-26324"
 }
+],
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302601456/F73336E13E9B2961ED77C7D89A713393",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302601459/4EE905B0600BFDB7976F210CC094545F"
 ]
 },
 {
@@ -2374,7 +2383,7 @@
 "url": "https://www.safa.fi/kilpailu/itakeskuksen-joukkoliikenneterminaali/",
 "source": "safa.fi",
 "proc": "abierto",
-"desc": "próximo",
+"desc": "en curso",
 "first_seen": "2026-09-12",
 "title_es": "Terminal de transporte público Itäkeskus (concurso público)",
 "desc_es": "próximo"
@@ -3281,7 +3290,7 @@
 "title": "SER-2026-0016: Contratación de los servicios de redacción del proyecto y dirección de obra de las obras de renovación de las instalaciones del Hospital Público de Verín.",
 "buyer": "Consellería de Sanidade- SERGAS",
 "country": "ESP",
-"pub": "2026-09-10",
+"pub": "2026-09-21",
 "deadline": "2026-10-02 23:59",
 "place": "",
 "url": "https://www.contratosdegalicia.gal/licitacion?N=829102",
@@ -4257,12 +4266,20 @@
 "cur": "",
 "proc": "restricted",
 "desc": "Die Stadt Haldensleben führt einen Realisierungswettbewerb zur Planung des Neubaus der Kindertagesstätte \"Max und Moritz\" durch. Anlass für den Wettbewerb ist der sanierungsbedürftige Zustand des Bestandsgebäudes. Zur Umsetzung ist das Vorhaben im städtischen Haushalt für die Jahre 2029 - 2031 vorgesehen und soll durch Mittel aus dem Städtebauförderprogramm \"Sozialer Zusammenhalt\" finanziert werden. Das dreistöckige Bestandsgebäude wurde 1985 in Großtafelbauweise (\"Plattenbau\") als Wohngebäude des Typs WBS70 errichtet und ist vollständig unterkellert. Das hochgelagerte Erdgeschoss ist nur über Außentreppen zu erreichen, was die Barrierefreiheit erheblich einschränkt. Die baulich bedingte Verteilung der Kindertagesstätte (Kita) auf drei Etagen, beeinträchtigt den Alltagsbetrieb. Der Neubau ist so auf dem Grundstück zu platzieren, dass das bestehende Kitagebäude während der Bauphase erhalten bleiben und weitergenutzt werden kann. Eine Überbauung bzw. Inanspruchnahme der Bestandsfläche durch den Neubau ist daher nicht möglich. Der Abriss des Bestandsgebäudes und etwaige Zwischenlösungen sind nicht Bestandteil der Wettbewerbsaufgabe. Eine Nachnutzung des Bestandsgebäudes ist nicht vorgesehen. Im Rahmen des Wettbewerbs ist der Neubau eines Kitagebäudes inklusive Krippe für 160 Kinder und 27 Mitarbeitende mit folgender Gruppenstruktur zu planen: - 6 Kita-Gruppen - 3 Krippengruppen Mindestens eine Krippengruppe und eine Kita-Gruppe sind einschließlich der jeweils zugehörigen Räume u",
-"place": "",
+"place": "Haldensleben (Alemania)",
 "url": "https://ted.europa.eu/es/notice/-/detail/629254-2026",
 "source": "TED",
 "first_seen": "2026-09-14",
 "title_es": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Planungswettbewerb KITA Max und Moritz Haldensleben",
-"desc_es": "La ciudad de Haldensleben realiza un concurso de realización para la planificación de la nueva construcción de la guardería \"Max und Moritz\". El motivo del concurso es el estado del edificio existente que requiere renovación. Para la ejecución, el proyecto está previsto en el presupuesto municipal para los años 2029-2031 y debe financiarse con fondos de promoción urbana."
+"desc_es": "La ciudad de Haldensleben realiza un concurso de realización para la planificación de la nueva construcción de la guardería \"Max und Moritz\". El motivo del concurso es el estado del edificio existente que requiere renovación. Para la ejecución, el proyecto está previsto en el presupuesto municipal para los años 2029-2031 y debe financiarse con fondos de promoción urbana.",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261433IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261433IN",
+"num": "COAVN-20261433IN"
+}
+]
 },
 {
 "num": "PL-persian_garden_suite",
@@ -8013,8 +8030,8 @@
 "title": "Contrato mixto de servicio de redacción del proyecto, dirección y ejecución de obra de 8 viviendas, trasteros y garajes de régimen tasado municipal en la parcela del caserío Zaldibarren, Bidania gunea 18, del municipio d",
 "buyer": "Etorlur Gipuzkoako Lurra S.A.-Director General-Gerente y Consejo de Administración",
 "country": "ESP",
-"pub": "2026-09-17",
-"deadline": "2026-09-25 15:00",
+"pub": "2026-09-21",
+"deadline": "2026-10-02 15:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso731061/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -8023,8 +8040,8 @@
 "value": "1651940",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13312131&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13312127&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13339911&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13339907&R01HNoPortal=true"
 ],
 "desc": "Abierto · 999 · CPV 45000000",
 "first_seen": "2026-09-18"
@@ -8589,7 +8606,7 @@
 "title": "Redacción del anteproyecto, proyecto basico, proyecto de ejecución y documentos complementarios para el nuevo edificio de tenis y padel de fadura, getxo (bizkaia)",
 "buyer": "Getxo Kirolak-Presidente",
 "country": "ESP",
-"pub": "2026-09-18",
+"pub": "2026-09-21",
 "deadline": "2026-09-25 23:59",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgegetxo3002676/es_doc/index.html",
@@ -8599,8 +8616,8 @@
 "value": "145674",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328190&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13328191&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13333494&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13333495&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
 "first_seen": "2026-09-20"
@@ -8631,7 +8648,7 @@
 "title": "Servicio de apoyo a la dirección de obra del proyecto de supresión del paso a nivel de Torretxo, p.k. 37+154 de la línea Bilbao-Donosti",
 "buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
 "country": "ESP",
-"pub": "2026-09-18",
+"pub": "2026-09-21",
 "deadline": "2026-10-19 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742781/es_doc/index.html",
@@ -8641,8 +8658,8 @@
 "value": "270000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322408&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322410&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13337517&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13337514&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71311100",
 "first_seen": "2026-09-20"
@@ -9533,5 +9550,164 @@
 ],
 "desc": "Abierto · Concesión de servicios · CPV 45233120, 50230000, 71322000, 45233141",
 "first_seen": "2026-09-21"
+},
+{
+"num": "650246-2026",
+"title": "Alemania – Servicios de salud y seguridad – Arbeitssicherheit und Arbeitsmedizin",
+"buyer": "Stiftung Oper in Berlin",
+"country": "DEU",
+"pub": "2026-09-22",
+"deadline": "2026-10-19T10:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Arbeitssicherheit und Arbeitsmedizin",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/650246-2026",
+"source": "TED",
+"first_seen": "2026-09-22",
+"title_es": "Alemania – Servicios de salud y seguridad – Seguridad laboral y medicina del trabajo",
+"desc_es": "Seguridad laboral y medicina del trabajo"
+},
+{
+"num": "BOAMP-26-91077",
+"title": "CONCOURS RESTREINT DE MAITRISE D'OEUVRE POUR LA LA RECONSTRUCTION DE LA CUISINE MUNICIPALE DE BOULAZAC ISLE MANOIRE",
+"buyer": "Commune de Boulazac Isle Manoire",
+"country": "FRA",
+"pub": "2026-09-22",
+"deadline": "",
+"place": "dép. 24",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-91077",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-09-22",
+"title_es": "concours restreint de dirección de obra para la reconstrucción de la cocina municipal de Boulazac Isle Manoire",
+"desc_es": "Procedimiento restringido · Dirección de obra"
+},
+{
+"num": "PLACE-1004_0005-CP01-2026-000137",
+"title": "IES LODOSA_Proyecto y Direccion de Obra de ampliacion",
+"buyer": "el director general de Infraestructuras, Digitalización y Servicios Educativos",
+"country": "ESP",
+"pub": "2026-09-22",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2608061348326869DF82",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "131317",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71200000",
+"first_seen": "2026-09-22"
+},
+{
+"num": "PLACE-LEABURU A.1.4 TORREBERRI",
+"title": "Redacción del proyecto básico y de ejecución del proyecto constructivo de las viviendas previstas en el área a.1.4 Torreberri del casco Leaburu y el proyecto de la urbanización.",
+"buyer": "Ayuntamiento de Leaburu-Txarama-Pleno",
+"country": "ESP",
+"pub": "2026-09-21",
+"deadline": "2026-10-06 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso737647/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "107438",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13338099&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13338092&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"first_seen": "2026-09-22"
+},
+{
+"num": "PLACE-FCSMSEG2027",
+"title": "Concurso de seguros con dos lotes : \nLote1: seguro de todo riesgo construcción y seguro de edificios-combinada industrial \nLote 2: seguro de responsabilidad civil",
+"buyer": "Fundación Catedral Santa María-Presidente y Vocal apoderados",
+"country": "ESP",
+"pub": "2026-09-21",
+"deadline": "2026-10-05 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740754/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "",
+"kind": "licitación",
+"value": "26000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13333621&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13333622&R01HNoPortal=true"
+],
+"desc": "999 · Servicios · CPV 66510000",
+"first_seen": "2026-09-22"
+},
+{
+"num": "PLACE-3023_282145T",
+"title": "Redacción Plan Especial de actuación urbana de la unidad de ejecución UE10 (La Merced) del Plan General Municipal de Estella-Lizarra",
+"buyer": "Junta Gobierno Local",
+"country": "ESP",
+"pub": "2026-09-21",
+"deadline": "2026-10-06 23:59",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2609210829373615D0FF",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "28925",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71410000",
+"first_seen": "2026-09-22"
+},
+{
+"num": "PLACE-CONTR 2026 0000239512",
+"title": "Redacción de proyecto completo y Direccion Facultativa Obra LA Rambla",
+"buyer": "Dirección Provincial del Servicio Andaluz de Empleo de Córdoba",
+"country": "ESP",
+"pub": "2026-09-21",
+"deadline": "2026-10-21 18:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005249",
+"source": "PLACE (CCAA)",
+"proc": "",
+"kind": "licitación",
+"value": "80983",
+"cur": "EUR",
+"docs": [],
+"desc": "999 · Servicios · CPV 71000000, 71242000, 71247000",
+"first_seen": "2026-09-22"
+},
+{
+"num": "PLACE-F260000433",
+"title": "Concurso de proyectos relativo a los servicios de redacción del proyecto de rehabilitación y ampliación de la Casa Sanchís, situada en el paseo Enric Sanchís número 25, para equipamiento municipal.",
+"buyer": "Foment de Ciutat SA",
+"country": "ESP",
+"pub": "2026-09-21",
+"deadline": "2026-09-22 14:00",
+"place": "Barcelona",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9c4da10a-c444-45a7-8217-7c6589edd9fd/300886987",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "32524",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302605357/C37676DB3477B5B297D7E75160F8E981",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302605358/14F0458CFE981C6CF80BFA7F90E8B9CE"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71000000, 71240000",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/649934-2026",
+"num": "649934-2026"
+}
+],
+"first_seen": "2026-09-22"
 }
 ]
