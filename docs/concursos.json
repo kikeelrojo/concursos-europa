@@ -10109,5 +10109,38 @@
 ],
 "desc": "Restringido · Servicios · CPV 71200000",
 "first_seen": "2026-09-23"
+},
+{
+"num": "FI-liedon-keskusta",
+"title": "Liedon keskusta (yleinen kilpailu)",
+"buyer": "",
+"country": "FIN",
+"pub": "",
+"deadline": "",
+"place": "",
+"url": "https://www.safa.fi/kilpailu/liedon-keskusta/",
+"source": "safa.fi",
+"proc": "abierto",
+"desc": "próximo",
+"first_seen": "2026-09-23",
+"title_es": "Centro de Liedon (concurso general)",
+"desc_es": "próximo"
+},
+{
+"num": "PA-34444",
+"title": "Un parco costiero attrezzato per il Litorale Salerno Sud",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-09-23",
+"deadline": "2026-10-21",
+"place": "Campania",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34444/un-parco-costiero-attrezzato-per-il-litorale-salerno-sud",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Montepremi: 43.000 euro · Consegna entro il 21 ottobre 2026 · la Provincia di Salerno bandisce un concorso di idee per individuare soluzioni replicabili e scalabili in grado di trasformare la fascia costiera di Pontecagnano Faiano, Battipaglia ed Eboli in un'unica infrastruttura verde che connetta mare, insediamenti, servizi, mobilità lenta e campagna, con attenzione all'ecoturismo e al futuro della litoranea SP 175.",
+"first_seen": "2026-09-23",
+"title_es": "Un parque costero equipado para el Litoral Salerno Sur",
+"desc_es": "concurso de ideas · Concurso de ideas · Dotación: 43.000 euros · Entrega antes del 21 de octubre de 2026 · la Provincia di Salerno convoca un concurso de ideas para identificar soluciones replicables y escalables capaces de transformar la franja costera de Pontecagnano Faiano, Battipaglia y Eboli en una única infraestructura verde que conecte mar, asentamientos"
 }
 ]
