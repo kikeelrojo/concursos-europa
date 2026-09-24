@@ -8704,7 +8704,7 @@
 "country": "ESP",
 "pub": "2026-09-18",
 "deadline": "2026-10-19 10:30",
-"place": "",
+"place": "Ayala",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso739309/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -8716,7 +8716,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13317415&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
-"first_seen": "2026-09-20"
+"first_seen": "2026-09-20",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260306A",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260306A",
+"num": "COAVN-20260306A"
+}
+]
 },
 {
 "num": "646612-2026",
@@ -9644,7 +9652,7 @@
 "country": "ESP",
 "pub": "2026-09-21",
 "deadline": "2026-10-06 23:59",
-"place": "",
+"place": "Leaburu-Txarama",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso737647/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -9656,7 +9664,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13338092&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000",
-"first_seen": "2026-09-22"
+"first_seen": "2026-09-22",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260309G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260309G",
+"num": "COAVN-20260309G"
+}
+]
 },
 {
 "num": "PLACE-FCSMSEG2027",
@@ -9686,7 +9702,7 @@
 "country": "ESP",
 "pub": "2026-09-21",
 "deadline": "2026-10-06 23:59",
-"place": "",
+"place": "Estella",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2609210829373615D0FF",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -9695,7 +9711,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71410000",
-"first_seen": "2026-09-22"
+"first_seen": "2026-09-22",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260307N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260307N",
+"num": "COAVN-20260307N"
+}
+]
 },
 {
 "num": "PLACE-CONTR 2026 0000239512",
@@ -9997,7 +10021,7 @@
 "country": "ESP",
 "pub": "2026-09-22",
 "deadline": "2026-10-07 23:59",
-"place": "",
+"place": "Hondarribia",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743193/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -10009,7 +10033,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13379679&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
-"first_seen": "2026-09-23"
+"first_seen": "2026-09-23",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260308G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260308G",
+"num": "COAVN-20260308G"
+}
+]
 },
 {
 "num": "PLACE-23/2023-2664R-CB8",
@@ -10256,5 +10288,130 @@
 "first_seen": "2026-09-24",
 "title_es": "architectenselectie ampliación/nueva construcción Montessori Vaklyceum",
 "desc_es": "Anuncio de licitación · Diálogo competitivo · La licitación se refiere a la elaboración arquitectónica de la nueva construcción, incluido el espacio exterior, del Montessori Vaklyceum en Vondellaan 83 en Groningen. La tarea incluye la preparación, el proyecto y la posterior elaboración de una instalación educativa sostenible, acorde con"
+},
+{
+"num": "COAVN-20260310G",
+"title": "Azpeitiko Soreasu antzokiko sarreretako batean kanpo-estalki berri bat eraikitzeko obren zuzendaritza fakultatiboaren zerbitzu osoa ematea eta obrak egitea. Dirección de las obras de construcción de una nueva cubierta ex",
+"buyer": "Azpeitia Ayuntamiento",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-19 23:59",
+"place": "Azpeitia",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260310G",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260310G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "87437",
+"cur": "EUR",
+"desc": "Presupuesto: 87.437,21 euros (IVA excluido) · Publicado en: www.euskadi.eus (23/09/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "COAVN-20260311A",
+"title": "Una plaza de Arquitecto/a, perteneciente a la escala de Administración Especial, subescala Técnica y clase Superior, por el sistema de concurso-oposición, en turno libre.",
+"buyer": "Cuadrilla de Añana",
+"country": "ESP",
+"pub": "2026-03-25",
+"deadline": "2026-10-23",
+"place": "Añana",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260311A",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260311A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: B.O.T.H.A. (25/03/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "COAVN-20260312A",
+"title": "Contratación del Servicio de Asistencia Técnica, Redacción de Proyectos ,Dirección de Obra y Otros Trabajos Técnicos para las obras de Renovación de Pavimentación e Infraestructuras de la Calle Castillo en Lapuebla de La",
+"buyer": "Lapuebla de Labarca Ayuntamiento",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 14:00",
+"place": "Lapuebla de Labarca",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260312A",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260312A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Presupuesto: 23.600 Euros (IVA excluido) · Publicado en: www.euskadi.eus (23/09/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "COAVN-20260313B",
+"title": "Contratación de los servicios de redacción, tramitación, asistencia y consultoría del PGOU de Dima",
+"buyer": "Ayuntamiento de Dima",
+"country": "ESP",
+"pub": "2026-09-24",
+"deadline": "2026-10-24 14:00",
+"place": "Dima",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260313B",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260313B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "206000",
+"cur": "EUR",
+"desc": "Presupuesto: 206.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (24/09/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "COAVN-20260314A",
+"title": "Contratación de la redacción del proyecto de ejecución y la dirección de las obras de acondicionamiento de los locales de equipamiento sitos en la calle Beheko nº 19 y 21 de Legutio, titularidad del Ayuntamiento de Legut",
+"buyer": "Legutio Ayuntamiento",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 23:59",
+"place": "Legutio",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "96637",
+"cur": "EUR",
+"desc": "Presupuesto: 96.637,41 euros (IVA excluido) · Publicado en: www.euskadi.eus (23/09/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "COAVN-20260315B",
+"title": "La Dirección Facultativa de las obras del proyecto de construcción \"Vial de Conexión de la BI-739 con la ronda del BEC en Barakaldo\"",
+"buyer": "Barakaldo Ayuntamiento",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 13:00",
+"place": "Barakaldo",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260315B",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260315B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "70500",
+"cur": "EUR",
+"desc": "Presupuesto: 70.500 euros (IVA excluido) · Publicado en: www.euskadi.eus (23/09/2026)",
+"first_seen": "2026-09-24"
+},
+{
+"num": "PA-34447",
+"title": "Sassari, l'ex carcere di San Sebastiano diventa il nuovo polo giudiziario della città",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-09-24",
+"deadline": "2027-02-19",
+"place": "Sardegna",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34447/sassari-l-ex-carcere-di-san-sebastiano-diventa-il-nuovo-polo-giudiziario-della-citta",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso di progettazione · procedura aperta · due fasi · Montepremi: ≅ 2.200.000 euro · Consegna 1a fase entro il 19 febbraio 2027, ore 14 · Concorso di progettazione · procedura aperta · due fasi · Montepremi: ≅ 2.200.000 euro",
+"first_seen": "2026-09-24",
+"title_es": "Sassari, la ex cárcel de San Sebastiano se convierte en el nuevo polo judicial de la ciudad",
+"desc_es": "concurso de proyectos · Concurso de proyectos · procedimiento abierto · dos fases · Dotación: ≅ 2.200.000 euros · Entrega 1ª fase antes del 19 de febrero de 2027, 14:00 · Concurso de proyectos · procedimiento abierto · dos fases · Dotación: ≅ 2.200.000 euros"
 }
 ]
