@@ -10593,5 +10593,29 @@
 "first_seen": "2026-09-25",
 "title_es": "Futuro Ópera - Sala principal, concurso de proyectos selectivo (Concurso de proyectos, procedimiento selectivo)",
 "desc_es": "Anónimo · Futuro Ópera – Sala principal Concurso de proyectos en procedimiento selectivo La Opernhaus Zürich AG"
+},
+{
+"num": "BOAMP-26-92409",
+"title": "Concours de maîtrise d'oeuvre relative à la construction du futur Centre Technique de RIOZ",
+"buyer": "Département de la Haute-Saône",
+"country": "FRA",
+"pub": "2026-09-26",
+"deadline": "2026-10-28 16:00",
+"place": "dép. 70",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-92409",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/656049-2026",
+"num": "656049-2026"
+}
+],
+"first_seen": "2026-09-26",
+"title_es": "Concurso de dirección de obra para la construcción del futuro Centro Técnico de RIOZ",
+"desc_es": "Concours restreint · Dirección de obra"
 }
 ]
