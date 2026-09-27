@@ -11160,5 +11160,21 @@
 ],
 "desc": "Abierto · Servicios · CPV 71310000",
 "first_seen": "2026-09-27"
+},
+{
+"num": "BOAMP-26-93103",
+"title": "CONCOURS RESTREINT DE MAÎTRISE D'UVRE POUR LA CONSTRUCTION D'UNE ECOLE MATERNELLE INTEGRANT UN ACCUEIL DE LOISIRS MATERNEL SUR LE SITE DE L'ECOLE PASTEUR A CHILLY-MAZARIN (91)",
+"buyer": "Commune de Chilly-Mazarin",
+"country": "FRA",
+"pub": "2026-09-27",
+"deadline": "",
+"place": "dép. 91",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-93103",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure NC · Bâtiment",
+"first_seen": "2026-09-27",
+"title_es": "Concours restreint de maestría de obra para la construcción de una escuela maternal integrando un centro de ocio maternal en el sitio de la Escuela Pasteur en Chilly-Mazarin (91)",
+"desc_es": "Procedimiento NC · Edificación"
 }
 ]
