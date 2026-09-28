@@ -1356,13 +1356,20 @@
 "place": "Pamplona",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260281N",
 "source": "COAVN Euskadi-Navarra",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
-"value": "",
-"cur": "",
+"value": "60109",
+"cur": "EUR",
 "desc": "Presupuesto: 60.109,01 Euros (IVA excluido) · Publicado en: www.navarra.es (02/09/2026)",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260281N"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260281N",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260902152007B3DAFC8A",
+"num": "PLACE-1001_0005-CP01-2026-000169"
+}
+]
 },
 {
 "num": "COAVN-20260263A",
@@ -1392,13 +1399,20 @@
 "place": "Navarra",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260283N",
 "source": "COAVN Euskadi-Navarra",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
-"value": "",
-"cur": "",
+"value": "410160",
+"cur": "EUR",
 "desc": "Presupuesto: 410.160,00 Euros (IVA excluido) · Publicado en: www.navarra.es (18/08/2026)",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260283N"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260283N",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260817135932C093EB92",
+"num": "PLACE-2012_2026/21"
+}
+]
 },
 {
 "num": "COAVN-20260284N",
@@ -3490,7 +3504,7 @@
 "title": "Diseño, elaboración y redaccióndel proyecto museográfico del espacio Memoria de la Ciudad y del correspondiente anteproyecto arquitectónico del Palacio Maturana Verastegui para acoger dicho espacio",
 "buyer": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
 "country": "ESP",
-"pub": "2026-09-18",
+"pub": "2026-09-25",
 "deadline": "2026-09-28 14:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso731056/es_doc/index.html",
@@ -3500,8 +3514,8 @@
 "value": "155000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322650&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13322651&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13414489&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13414488&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 92521000",
 "first_seen": "2026-09-12"
@@ -3749,18 +3763,18 @@
 "title": "MRU/PHB Serveis de direcció d'obra, adjunts a la direcció de les obres, seguiment BIM i coordinació de seguretat i salut de les obres d'urbanització, abastament d'aigua de les subfases 1B i 1C i canalització del Torrent ",
 "buyer": "Institut Català del Sòl (INCASÒL)",
 "country": "ESP",
-"pub": "2026-09-22",
+"pub": "2026-09-23",
 "deadline": "2026-09-29 12:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/c0dd6851-bdf7-4ca8-846b-f1277cebf1d5/300888988",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c0dd6851-bdf7-4ca8-846b-f1277cebf1d5/300890012",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "69814",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302612614/0636E1AB86BD6481CF019D11F1807311",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302612615/25500E726CCED68865025BD22A00D63B"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302615464/77BE1D49088142DE3CC32A8C928ECA99",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302615450/25500E726CCED68865025BD22A00D63B"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71220000",
 "first_seen": "2026-09-12"
@@ -4399,8 +4413,8 @@
 "title": "Redacción de proyectos y dirección facultativa de obras de complejo inmobiliario en la Parcela RZ-9",
 "buyer": "Parque Científico y Tecnológico de Bizkaia, S.A.-Consejo de administración",
 "country": "ESP",
-"pub": "2026-09-11",
-"deadline": "2026-09-25 12:00",
+"pub": "2026-09-24",
+"deadline": "2026-09-30 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso737606/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -4409,8 +4423,8 @@
 "value": "2000000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13257132&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13257134&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13399350&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13399352&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-09-14"
@@ -4459,8 +4473,8 @@
 "title": "Redacción del proyecto básico, estudio de viabilidad, proyectos de actividad, proyecto de ejecución dirección facultativa de las obras de edificación y de urbanización complementarias de la edificaciónen Abadiño",
 "buyer": "AZPIEGITURAK, S.A.M.P.-Consejo de administración",
 "country": "ESP",
-"pub": "2026-09-11",
-"deadline": "2026-09-28 12:00",
+"pub": "2026-09-23",
+"deadline": "2026-10-02 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3585903/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -4469,8 +4483,8 @@
 "value": "1400000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13249034&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13249036&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13391246&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13391248&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-09-14"
@@ -5016,7 +5030,7 @@
 "title": "Contratación del servicio de asesoramiento urbanístico y arquitectónico de Ziortza-Bolibar",
 "buyer": "Ayuntamiento de Ziortza-Bolibar-Pleno",
 "country": "ESP",
-"pub": "2026-09-17",
+"pub": "2026-09-24",
 "deadline": "2026-09-29 23:59",
 "place": "Ziortza-Bolibar",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3639165/es_doc/index.html",
@@ -5026,8 +5040,8 @@
 "value": "74880",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13313670&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13313669&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13403117&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13403118&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71210000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260298B",
@@ -8068,7 +8082,7 @@
 "title": "Contrato mixto de servicio de redacción del proyecto, dirección y ejecución de obra de 8 viviendas, trasteros y garajes de régimen tasado municipal en la parcela del caserío Zaldibarren, Bidania gunea 18, del municipio d",
 "buyer": "Etorlur Gipuzkoako Lurra S.A.-Director General-Gerente y Consejo de Administración",
 "country": "ESP",
-"pub": "2026-09-21",
+"pub": "2026-09-24",
 "deadline": "2026-10-02 15:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso731061/es_doc/index.html",
@@ -8078,8 +8092,8 @@
 "value": "1651940",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13339911&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13339907&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13400386&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13400390&R01HNoPortal=true"
 ],
 "desc": "Abierto · 999 · CPV 45000000",
 "first_seen": "2026-09-18"
@@ -8412,20 +8426,20 @@
 "title": "Seguro de daños a edificios e instalaciones - Seguro de vida del personal laboral, funcionario y cargos electos - Seguro de accidentes del personal laboral, funcionario y cargos electos - Seguro de responsabilidad de car",
 "buyer": "Mancomunitat DeltaGestió",
 "country": "ESP",
-"pub": "2026-09-15",
-"deadline": "2026-09-21 14:00",
+"pub": "2026-09-23",
+"deadline": "2026-09-29 23:59",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/7695952b-cb91-4570-b274-9f5a27e55159/300881465",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7695952b-cb91-4570-b274-9f5a27e55159/300889547",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "1200000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302587620/4BA9F9E807BB2B69E901645897F2EB68",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302587621/9CDA8775B797DF637CDCEA3028EA1D9C"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302614369/4BA9F9E807BB2B69E901645897F2EB68",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302614370/9CDA8775B797DF637CDCEA3028EA1D9C"
 ],
-"desc": "Abierto · Servicios · CPV 66510000, 66511000, 66516000, 66516500",
+"desc": "Abierto · Servicios · CPV 66513100, 66512100, 66511000, 66516000",
 "first_seen": "2026-09-18"
 },
 {
@@ -9731,7 +9745,7 @@
 "title": "Redacción de proyecto completo y Direccion Facultativa Obra LA Rambla",
 "buyer": "Dirección Provincial del Servicio Andaluz de Empleo de Córdoba",
 "country": "ESP",
-"pub": "2026-09-21",
+"pub": "2026-09-24",
 "deadline": "2026-10-21 18:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005249",
@@ -9741,7 +9755,7 @@
 "value": "80983",
 "cur": "EUR",
 "docs": [],
-"desc": "999 · Servicios · CPV 71000000, 71242000, 71247000",
+"desc": "999 · Servicios · CPV 71247000, 71000000, 71242000",
 "first_seen": "2026-09-22"
 },
 {
@@ -10610,8 +10624,8 @@
 "alt": [
 {
 "source": "TED",
-"url": "https://ted.europa.eu/es/notice/-/detail/656049-2026",
-"num": "656049-2026"
+"url": "https://ted.europa.eu/es/notice/-/detail/664986-2026",
+"num": "664986-2026"
 }
 ],
 "first_seen": "2026-09-26",
@@ -11176,5 +11190,759 @@
 "first_seen": "2026-09-27",
 "title_es": "Concours restreint de maestría de obra para la construcción de una escuela maternal integrando un centro de ocio maternal en el sitio de la Escuela Pasteur en Chilly-Mazarin (91)",
 "desc_es": "Procedimiento NC · Edificación"
+},
+{
+"num": "664751-2026",
+"title": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – 2026-10 Concours de projet restreint :extension, restructuration école ML Dissard",
+"buyer": "Ville de Saint-Jean",
+"country": "FRA",
+"pub": "2026-09-28",
+"deadline": "2026-11-23T09:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Extension, restructuration de l'école Marie Louise Dissard",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/664751-2026",
+"source": "TED",
+"first_seen": "2026-09-28",
+"title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – 2026-10 concours restreint: extensión, reestructuración escuela ML Dissard",
+"desc_es": "Extensión, reestructuración de la escuela Marie Louise Dissard"
+},
+{
+"num": "667005-2026",
+"title": "Francia – Servicios de organización de concursos de proyectos de arquitectura – Mission de maîtrise d'oeuvre pour la restructuration et l'extension de l'école élémentaire Saint-Exupéry à Savigny-sur-Orge.",
+"buyer": "Savigny sur Orge",
+"country": "FRA",
+"pub": "2026-09-28",
+"deadline": "2026-10-30T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Mission de maîtrise d'oeuvre pour la restructuration et l'extension de l'école élémentaire Saint-Exupéry à Savigny-sur-Orge.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/667005-2026",
+"source": "TED",
+"first_seen": "2026-09-28",
+"title_es": "Francia – Servicios de organización de concursos de proyectos de arquitectura – Misión de dirección de obra para la reestructuración y extensión de la escuela primaria Saint-Exupéry en Savigny-sur-Orge",
+"desc_es": "Misión de dirección de obra para la reestructuración y extensión de la escuela primaria Saint-Exupéry en Savigny-sur-Orge"
+},
+{
+"num": "664881-2026",
+"title": "Francia – Servicios de arquitectura y servicios conexos – Maîtrise d'oeuvre pour la construction d'un groupe scolaire, d'un périscolaire et d'une bibliothèque",
+"buyer": "MAIRIE DE LEAZ",
+"country": "FRA",
+"pub": "2026-09-28",
+"deadline": "2026-10-21T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "La consultation ne fait pas l'objet d'une décomposition en lots. Les prestations donneront lieu à un marché unique. Le présent marché ne fait pas non plus l'objet d'un fractionnement en tranches ou bons de commande. La consultation s'adresse à un maître d'oeuvre ou une équipe de Maîtrise d'oeuvre disposant de compétences en matière de : Architecte, Paysagiste concepteur ou équivalent, Economie de la construction, Structure, Fluides y compris thermiques, Acoustique, Cuisiniste, OPC (si l'OPC est géré par un co-traitant du groupement qui assure une autre compétence, l'OPC désigné pour ce dossier devra être indépendant de toutes autres missions de conception et de DET). Montant estimatif des travaux : 4 712 000 euros HT (valeur Septembre 2026). Planning prévisionnel : Démarrage des études : Début Mai 2027. Démarrage travaux : Juillet 2028.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/664881-2026",
+"source": "TED",
+"first_seen": "2026-09-28",
+"title_es": "Francia – Servicios de arquitectura y servicios conexos – Dirección de obra para la construcción de un grupo escolar, servicio extraescolar y biblioteca",
+"desc_es": "La consulta no se divide en lotes. Las prestaciones darán lugar a un contrato único. Este contrato tampoco se divide en tramos u órdenes de compra. La consulta se dirige a un director de obra o equipo de dirección de obra con competencias en: Arquitecto"
+},
+{
+"num": "664849-2026",
+"title": "Polonia – Supervisión del trabajo de construcción – Pełnienie funkcji Inżyniera Kontraktu dla strategicznej inwestycji budowlanej pn. Przebudowa i rozbudowa wraz z doposażeniem Pabianickiego Centrum Psychiatrycznego dla projektu strategicznego wskazanego do finansowania ze środków Funduszu Medycznego w konkursie nr FM-SIS.03.PSYCH.2024",
+"buyer": "Pabianickie Centrum Medyczne Sp. z o.o.",
+"country": "POL",
+"pub": "2026-09-28",
+"deadline": "2026-10-12T11:00",
+"kind": "licitación con concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Przedmiotem zamówienia jest świadczenie kompleksowych usług w zakresie pełnienia funkcji Inżyniera Kontraktu dla inwestycji pn. „Przebudowa i rozbudowa wraz z doposażeniem Pabianickiego Centrum Psychiatrycznego w Pabianickim Centrum Medycznym”, zgodnego z Opisem Przedmiotu Zamówienia (dalej: OPZ) stanowiącym Załączniki nr 2 do SWZ.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/664849-2026",
+"source": "TED",
+"first_seen": "2026-09-28",
+"title_es": "Polonia – Supervisión del trabajo de construcción – Desempeño de funciones de Ingeniero del Contrato para la inversión estratégica de construcción denominada Reconstrucción y ampliación con equipamiento del Centro Psiquiátrico de Pabianice para el proyecto estratégico indicado para financiamiento con fondos del Fondo Médico",
+"desc_es": "El objeto del contrato es la prestación de servicios integrales en el desempeño de funciones de Ingeniero del Contrato para la inversión denominada «Reconstrucción y ampliación con equipamiento del Centro Psiquiátrico de Pabianice en el Centro Médico de Pabianice», de conformidad con la Descripción del Objeto del Contrato (en adelante: DOC) que constituye los Anexos n.º 2 de la SWZ"
+},
+{
+"num": "KO-sbb-immobilien-projektwettbewerb-ersatzneubau-bollwerk-2-8",
+"title": "SBB Immobilien, Projektwettbewerb Ersatzneubau Bollwerk 2-8 (Projektwettbewerb, selektives Verfahren)",
+"buyer": "SBB Immobilien, Development Olten",
+"country": "CHE",
+"pub": "",
+"deadline": "2027-07-07",
+"place": "3011 Bern",
+"url": "https://konkurado.ch/de/sbb-immobilien-projektwettbewerb-ersatzneubau-bollwerk-2-8",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "anónimo · Die bestehenden Liegenschaften Bollwerk 2–8 unmittelbar nördlich des Bahnhofs Bern sollen durch einen Neubau ersetzt werden. Der Standort liegt innerhalb des UNESCO-Weltkulturerbeperimeters der Altstadt von Bern und besitzt eine hohe städtebauliche, architektonische und denkmalpflegerische Bedeutung. Gesucht wird eine überzeugende Gesamtlösung, die den heute unter Kritik stehenden Stadtraum am Bollwerk aufwertet, an die historischen Strukturen der Altstadt anknüpft und gleichzeitig die Anforderungen an Nutzung, Wirtschaftlichkeit und Nachhaltigkeit erfüllt. Die Aufgabe umfasst die Entwicklung ",
+"first_seen": "2026-09-28",
+"title_es": "SBB Immobilien, concurso de proyectos Reemplazo Bollwerk 2-8 (concurso de proyectos, procedimiento selectivo)",
+"desc_es": "Anónimo · Las propiedades existentes Bollwerk 2–8 inmediatamente al norte de la estación de Berna deben ser reemplazadas por una nueva construcción. La ubicación se encuentra dentro del perímetro del Patrimonio de la Humanidad UNESCO de la Ciudad Antigua de Berna y tiene una gran importancia urbanística, arquitectónica y de conservación del patrimonio. Se busca una solución general convincente"
+},
+{
+"num": "KO-schulraumerweiterung-aesch-planerwahlverfahren-generalplaner",
+"title": "Schulraumerweiterung Aesch - Planerwahlverfahren (Generalplaner) (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "Gemeinde Maur (Brandenberger + Ruosch AG)",
+"country": "CHE",
+"pub": "2026-09-28",
+"deadline": "2027-01-29",
+"place": "8127 Forch",
+"url": "https://konkurado.ch/de/schulraumerweiterung-aesch-planerwahlverfahren-generalplaner",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Die Auftraggeberschaft beabsichtigt, die bestehende Schulanlage in Aesch durch einen Ersatzneubau eines Schulhauses «Ersatzneubau Trakt D» zu erweitern sowie ein denkmalgeschütztes Bestandsgebäude «Altes Schulhaus» zu einem Kindergarten umzubauen. Ziel des Projekts ist die Schaffung eines zeitgemässen, flexiblen und zukunftsfähigen Bildungs- und Betreuungsangebots, das den steigenden Anforderungen an den Schulund Kindergartenbetrieb gerecht wird. Zur Projektierung und Realisierung wird ein Generalplanerteam (GP) gemäss vorliegender Ausschreibung gesucht. Der GP übernimmt die integrale Gesamtpl",
+"first_seen": "2026-09-28",
+"title_es": "Ampliación de espacio escolar Aesch - Planerwahlverfahren (Planificador general) (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "La entidad contratante tiene la intención de ampliar la instalación escolar existente en Aesch mediante una nueva construcción de una escuela «Reemplazo Ala D» y convertir un edificio histórico protegido «Escuela Antigua» en un jardín de infancia. El objetivo del proyecto es crear una educación moderna, flexible y preparada para el futuro y un"
+},
+{
+"num": "TN-441795",
+"title": "Integraal ontwerpteam Wilhelminaschool in Rotterdam",
+"buyer": "St. Protestants-Christelijk Basis- en Orthopedagogisch Onderwijs",
+"country": "NLD",
+"pub": "2026-09-28",
+"deadline": "2026-11-04 12:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/441795",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Concurrentiegerichte dialoog · Integraal ontwerpteam voor de herontwikkeling van de Wilhelminaschool in Rotterdam",
+"first_seen": "2026-09-28",
+"title_es": "Equipo de diseño integral Wilhelminaschool en Rotterdam",
+"desc_es": "Anuncio de contrato · Diálogo competitivo · Equipo de diseño integral para la redevelopment de la Wilhelminaschool en Rotterdam"
+},
+{
+"num": "PLACE-Contratodeserviciosparaelaseso",
+"title": "Contrato de servicios para el asesoramiento en materia de urbanismo al Ayuntamiento de Villatuerta",
+"buyer": "Alcaldía del Ayuntamiento de Villatuerta",
+"country": "ESP",
+"pub": "2026-09-25",
+"deadline": "",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoFichaAnuncioPrevisto.aspx?cod=2609251131588070A53B",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "14603",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71410000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-PcPG/2026/829057",
+"title": "VPG-2026-0061: Dirección de ejecución y coordinación de seguridad y salud de las obras para la construcción de un edificio de 168 viviendas de promoción pública (VPP), garajes y trasteros en la parcela La de la Unidad de",
+"buyer": "Sociedade de Vivenda Pública de Galicia, S.A.",
+"country": "ESP",
+"pub": "2026-09-25",
+"deadline": "2026-10-20 14:00",
+"place": "",
+"url": "https://www.contratosdegalicia.gal/licitacion?N=829057",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "468190",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71221000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-05A_2026",
+"title": "Sustitución de carpintería exterior y aislamiento del edificio de educación primaria en el CEIP Unamunzaga de Ribabellosa",
+"buyer": "Ayuntamiento de Ribera Baja -Alcaldía",
+"country": "ESP",
+"pub": "2026-09-25",
+"deadline": "2026-10-10 14:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743823/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "135798",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13409061&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13409056&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Suministros · CPV 45421130",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-C174-2026-8679",
+"title": "Prestació del servei per l’estudi de patologies i la redacció del projecte executiu de consolidació estructural i estanqueïtat de l’edifici “Cooperativa La Unió”, situat al carrer Sant Pau, número 13 i carrer de l’Aurora",
+"buyer": "Ajuntament de Premià de Mar",
+"country": "ESP",
+"pub": "2026-09-25",
+"deadline": "2026-10-13 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/8469956f-fb54-4505-99b8-4df3103d2928/300891108",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "48059",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302618466/9CAA093F3E50EA1ADB65F2A427383821",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302618469/847BF3758F1FF94354FC42430C4DB70D"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-3060_7/2026",
+"title": "Contratación de los servicios de redacción de proyecto y dirección de facultativa de las obras de rehabilitación de un edificio residencial para albergar 3 viviendas de alquiler en AUZA, Ultzama.",
+"buyer": "Alcaldía del Ayuntamiento de Ultzama",
+"country": "ESP",
+"pub": "2026-09-25",
+"deadline": "2026-10-13 10:00",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260924145207E693F8D3",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "43241",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000, 71000000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-X2026002002",
+"title": "La prestació consisteix en els serveis d’assessorament tècnic en matèria d’urbanisme i gestió d’obres de l'Ajuntament de Vidreres.",
+"buyer": "Ajuntament de Vidreres",
+"country": "ESP",
+"pub": "2026-09-24",
+"deadline": "2026-10-13 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c78dc79b-52b9-45cc-8e0f-4eba6e08fe3e/300887680",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "33196",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302607972/07BA2899911F9AEF4E9DDB8E1A5EA50B",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302607973/CB6EFF1D75FD0B1C8D15DE7AC7290A2F"
+],
+"desc": "Abierto · Servicios · CPV 71356200",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-PcPG/2026/829222",
+"title": "PXD-2026-0084: Servicio, por precios unitarios, de vigilancia y seguridad en los edificios de la Administración de Justicia en Galicia",
+"buyer": "Consellería de Presidencia, Xustiza e Deportes",
+"country": "ESP",
+"pub": "2026-09-24",
+"deadline": "2026-10-08 14:00",
+"place": "",
+"url": "https://www.contratosdegalicia.gal/licitacion?N=829222",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "70639",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto simplificado · Servicios · CPV 79710000, 79714000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-2026SERV011",
+"title": "Servicio de detección y eliminación de filtraciones mediante la rehabilitación interior de infraestructuras (arquetas y conducciones) en el área transfronteriza de la red de saneamiento de aguas residuales de Servicios d",
+"buyer": "TXINZER-Directora-Gerente",
+"country": "ESP",
+"pub": "2026-09-24",
+"deadline": "2026-10-09 11:30",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743511/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "99510",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13401549&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13401550&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 90491000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-B026-2026-00003",
+"title": "Contratación de los servicios de redacción, tramitación, asistencia y consultoría del PGOU de Dima",
+"buyer": "Ayuntamiento de Dima-Pleno",
+"country": "ESP",
+"pub": "2026-09-24",
+"deadline": "2026-10-24 14:00",
+"place": "Dima",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3654617/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "206000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13400574&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13400576&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71410000",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260313B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260313B",
+"num": "COAVN-20260313B"
+}
+],
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-MNAC-2026-178",
+"title": "Servei de seguiment i control de compliment dels protocols, estàndards i requeriments en matèria BIM que ha de seguir el projecte d’ampliació i rehabilitació del Museu Nacional d’Art de Catalunya, amb mesures de contract",
+"buyer": "Consorci Museu Nacional d'Art de Catalunya",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-09 11:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/f61f817f-709d-4db9-9acf-eb38c087949d/300889691",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "90000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302617000/928FF4793B9572C90F38225600F82B97",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302617001/6229C2F265F57ACB451CAA922B776533"
+],
+"desc": "Abierto · Servicios · CPV 71248000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-240/2026",
+"title": "Contratación del Servicio de Asistencia Técnica, Redacción de Proyectos ,Dirección de Obra y Otros Trabajos Técnicos para las obras de Renovación de Pavimentación e Infraestructuras de la Calle Castillo en Lapuebla de La",
+"buyer": "Ayuntamiento de Lapuebla de Labarca-Alcalde",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 14:00",
+"place": "Lapuebla de Labarca",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742890/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "23600",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13391954&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13391955&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260312A",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260312A",
+"num": "COAVN-20260312A"
+}
+],
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB21",
+"title": "Vigésimoprimero contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743534/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "20839",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389671&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389672&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB20",
+"title": "Vigésimo contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743532/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "28172",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389302&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389303&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-C15-26-007",
+"title": "Renovación de carpintería interior del edificio de educación primaria del centro Inazio Zubizarreta de Igorre.",
+"buyer": "Ayuntamiento de Igorre-Alcalde",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso721314/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "39604",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389256&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389257&R01HNoPortal=true"
+],
+"desc": "Abierto · Suministros · CPV 44221200",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB19",
+"title": "Decimonoveno contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743526/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "25987",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389004&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13389005&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB18",
+"title": "Decimoctavo contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743523/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "19158",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388573&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388574&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-2026/624",
+"title": "Contratación de la redacción del proyecto de ejecución y la dirección de las obras de acondicionamiento de los locales de equipamiento sitos en la calle Beheko nº 19 y 21 de Legutio, titularidad del Ayuntamiento de Legut",
+"buyer": "Ayuntamiento de Legutio-Alcaldía",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 23:59",
+"place": "Legutio",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743489/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "96637",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388543&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388544&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71221000",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
+"num": "COAVN-20260314A"
+}
+],
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB17",
+"title": "Decimoséptimo cuarto contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743522/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "7506",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388232&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388233&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB16",
+"title": "Decimosexto contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743517/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "41519",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388075&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13388076&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB15",
+"title": "Decimoquinto contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743516/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "5100",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13387831&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13387832&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB14",
+"title": "Decimocuarto contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743512/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "10691",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13387263&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13387264&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB13",
+"title": "Decimotercero contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743501/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "1600",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13386015&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13386016&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-OS102612.002",
+"title": "La Dirección Facultativa de las obras del proyecto de construcción \"Vial de Conexión de la BI-739 con la ronda del BEC en Barakaldo.",
+"buyer": "Ayuntamiento de Barakaldo-Alcalde",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-08 13:00",
+"place": "Barakaldo",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743286/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "70500",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13385669&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13385670&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260315B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260315B",
+"num": "COAVN-20260315B"
+}
+],
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-2026/415",
+"title": "Redacció del Pla Integral de Gestió dels sistemes de sanejament (PIGSS) de Portbou, Colera, Llançà, Cadaqués, Tossa de Mar, Roses, Castelló d'Empúries, L'Escala, Torroella de Montgrí i Castell-Platja d'Aro.",
+"buyer": "Consorci d'Aigües Costa Brava Girona",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-23 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/b76ccca6-ed44-4252-ad84-d7b4aaa3f98c/300889850",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "1481983",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302615087/361703097CDC986458382AFF21A20B61",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302615088/D7F7F73CEBF9BAEF8A0C9155ED17CAAB"
+],
+"desc": "Abierto · Servicios · CPV 71351810, 71240000, 90491000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB12",
+"title": "Duodécimo contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743482/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "29370",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384935&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384936&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB11",
+"title": "Undécimo contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743478/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "13261",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384846&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384847&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB10",
+"title": "Décimo contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743474/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "28354",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384455&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384456&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-B092-2026-00004",
+"title": "Contrato administrativo de servicios de Asesoramiento Urbanístico y Arquitectónico de Bedia",
+"buyer": "Ayuntamiento de Bedia-Alcaldía",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3619875/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "43683",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384239&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384240&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71410000",
+"first_seen": "2026-09-28"
+},
+{
+"num": "PLACE-23/2023-2664R-CB9",
+"title": "Noveno contrato basado del acuerdo Marco de Servicios de \"Asistencia técnica al Ayuntamiento de Leioa en la redacción de proyectos y dirección facultativa de obras de edificación y urbanización\"",
+"buyer": "Ayuntamiento de Leioa-Alcaldia",
+"country": "ESP",
+"pub": "2026-09-23",
+"deadline": "2026-10-07 17:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743467/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "seleccion",
+"kind": "licitación",
+"value": "15844",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13383751&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13383752&R01HNoPortal=true"
+],
+"desc": "Restringido · Servicios · CPV 71200000",
+"first_seen": "2026-09-28"
 }
 ]
