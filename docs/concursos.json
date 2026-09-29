@@ -5059,7 +5059,7 @@
 "title": "Servicios de redacción de proyecto de ejecución y de dirección facultativa de las obras de reparación de patologías del edificio de la zona comercial del puerto deportivo de Hondarribia.",
 "buyer": "Ente Público Euskadiko Kirol Portuak-Dirección de Euskadiko Kirol Portuak",
 "country": "ESP",
-"pub": "2026-09-14",
+"pub": "2026-09-28",
 "deadline": "2026-10-05 13:00",
 "place": "Hondarribia",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740945/es_doc/index.html",
@@ -5069,8 +5069,8 @@
 "value": "96650",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13268649&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13268651&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13424604&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13424606&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260299G",
@@ -10130,8 +10130,8 @@
 "title": "PRG-2026-0120: Servicio de asistencia técnica para la dirección facultativa, control, vigilancia y coordinación de seguridad y salud de la obra PRG-2025-0116 - Campaña 2026: Reposición y refuerzo de pavimentos agotados e",
 "buyer": "Portos de Galicia",
 "country": "ESP",
-"pub": "2026-09-22",
-"deadline": "2026-10-07 23:59",
+"pub": "2026-09-28",
+"deadline": "2026-10-20 23:59",
 "place": "",
 "url": "https://www.contratosdegalicia.gal/licitacion?N=829196",
 "source": "PLACE (CCAA)",
@@ -11509,18 +11509,18 @@
 "title": "Servei de seguiment i control de compliment dels protocols, estàndards i requeriments en matèria BIM que ha de seguir el projecte d’ampliació i rehabilitació del Museu Nacional d’Art de Catalunya, amb mesures de contract",
 "buyer": "Consorci Museu Nacional d'Art de Catalunya",
 "country": "ESP",
-"pub": "2026-09-23",
+"pub": "2026-09-28",
 "deadline": "2026-10-09 11:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/f61f817f-709d-4db9-9acf-eb38c087949d/300889691",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/f61f817f-709d-4db9-9acf-eb38c087949d/300893181",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "90000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302617000/928FF4793B9572C90F38225600F82B97",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302617001/6229C2F265F57ACB451CAA922B776533"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302625249/928FF4793B9572C90F38225600F82B97",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302625250/6229C2F265F57ACB451CAA922B776533"
 ],
 "desc": "Abierto · Servicios · CPV 71248000",
 "first_seen": "2026-09-28"
@@ -11911,7 +11911,7 @@
 "title": "Contrato administrativo de servicios de Asesoramiento Urbanístico y Arquitectónico de Bedia",
 "buyer": "Ayuntamiento de Bedia-Alcaldía",
 "country": "ESP",
-"pub": "2026-09-23",
+"pub": "2026-09-28",
 "deadline": "2026-10-07 23:59",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3619875/es_doc/index.html",
@@ -11921,8 +11921,8 @@
 "value": "43683",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384239&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13384240&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13419042&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13419043&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71410000",
 "first_seen": "2026-09-28"
@@ -13327,5 +13327,40 @@
 ],
 "desc": "Abierto · Servicios · CPV 55330000",
 "first_seen": "2026-09-28"
+},
+{
+"num": "668805-2026",
+"title": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Nicht offener einphasiger hochbaulich-freiraumplanerischer Realisierungswettbewerb \"Neubau Grundschule & Zweifach-Sporthalle\" in Issum Sevelen nach RPW 2013 im Rahmen der VgV",
+"buyer": "Gemeinde Issum, Der Bürgermeister",
+"country": "DEU",
+"pub": "2026-09-29",
+"deadline": "2026-10-13T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Die Gemeinde Issum beabsichtigt im Ortsteil Sevelen den Neubau einer dreizügigen Grundschule mit einer Zweifach-Sporthalle, Stellplätzen und Freianlagen. Die Sporthalle soll sowohl dem Schulbetrieb als auch der Nutzung durch örtliche Vereine dienen. Die Freianlagen sollen naturnah gestaltet werden und ein vielfältiges Angebot an Spiel-, Sport-, und Aufenthaltsmöglichkeiten umfassen. Ziel ist es, attraktive Außenräume mit hoher Aufenthaltsqualität zu schaffen, die Erholung ermöglichen und das soziale Miteinander fördern. Das Plangebiet umfasst eine etwa zwei Hektar große Fläche nördlich der Hoerstgener Straße und östlich der Straße Koetherdyk. Die Fläche wird derzeit landwirtschaftlich genutzt. Die Planung umfasst für das Schulgebäude eine NUF von ca. 3.360 qm und für die Zweifach-Sporthalle ca. 1.750 qm. Das zur Verfügung stehende Grundstück hat eine Gesamtfläche von ca. 2 ha. Erwartet wird ein flächensparender und wirtschaftlicher Umgang mit dem Grundstück. Die Freianlagenplanung umfasst sämtliche zur Umsetzung des Entwurfes erforderlichen Außenanlagen, insbesondere Schulhof-, Spiel-, Sport- und Aufenthaltsflächen, Stellplatzanlagen, Erschließungsflächen sowie Pflanz- und Begrünungsmaßnahmen. Ein Bebauungsplan existiert für die Fläche bislang nicht, die planungsrechtliche Absicherung für das Vorhaben wird jedoch aktuell bearbeitet. Zudem wird neben der Aufstellung des Bebauungsplanes auch eine Änderung des Flächennutzungsplanes sowie des Regionalplanes angestrebt. __________",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/668805-2026",
+"source": "TED",
+"first_seen": "2026-09-29",
+"title_es": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Concurso de realización cerrado monofásico de arquitectura y diseño de espacios libres \"Nueva construcción Escuela Primaria y Pabellón Deportivo Doble\" en Issum Sevelen según RPW 2013 en el marco de la VgV",
+"desc_es": "El municipio de Issum tiene la intención de construir en el distrito de Sevelen una nueva escuela primaria de tres aulas con un pabellón deportivo doble, espacios de estacionamiento y áreas libres. El pabellón deportivo debe servir tanto para las operaciones escolares como para el uso por parte de asociaciones locales. Las áreas libres deben diseñarse de manera cercana a la naturaleza y ofrecer una amplia gama de juego, deporte y"
+},
+{
+"num": "BOAMP-26-93207",
+"title": "Concours restreint de maîtrise d'oeuvre pour la construction de Modulaire du groupe scolaire de la ZAC de Maison Neuve, éco-quartier",
+"buyer": "Ville de Guerande",
+"country": "FRA",
+"pub": "2026-09-29",
+"deadline": "",
+"place": "dép. 44",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-93207",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-09-29",
+"title_es": "Concours restreint de diseño de proyecto para la construcción de Módulo del grupo escolar de la ZAC de Maison Neuve, ecocuartier",
+"desc_es": "Procedimiento restringido · Diseño de proyecto"
 }
 ]
