@@ -3355,8 +3355,8 @@
 "title": "Contratación de la segunda fase del plan director de Cetursa Sierra Nevada S.A.: Actualización del máster plan y estudios de capacidad, remontes e integración urbana del dominio esquiable de Sierra Nevada",
 "buyer": "Cetursa Sierra Nevada, S.A.",
 "country": "ESP",
-"pub": "2026-09-10",
-"deadline": "2026-09-30 15:00",
+"pub": "2026-09-30",
+"deadline": "2026-10-22 09:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005974",
 "source": "PLACE (CCAA)",
@@ -3365,7 +3365,7 @@
 "value": "100000",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 72220000, 90712200, 71241000",
+"desc": "Abierto · Servicios · CPV 71241000, 72220000, 90712200",
 "first_seen": "2026-09-12"
 },
 {
@@ -4434,7 +4434,7 @@
 "title": "Contrato de servicios para la dirección de obra y coordinación de Seguridad y Salud del Proyecto de recuperación del espacio fluvial del río Aragón por el T.M. de Caparroso (Navarra). Actuaciones A2-C4.",
 "buyer": "la Directora General de Medio Ambiente",
 "country": "ESP",
-"pub": "2026-09-11",
+"pub": "2026-10-01",
 "deadline": "2026-09-30 23:59",
 "place": "",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26091112375301D92953",
@@ -4444,7 +4444,7 @@
 "value": "19000",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 71317200, 71520000",
+"desc": "Abierto · Servicios · CPV 71520000, 71317200",
 "first_seen": "2026-09-14"
 },
 {
@@ -4652,6 +4652,11 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/639473-2026",
 "num": "639473-2026"
+},
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/677513-2026",
+"num": "677513-2026"
 }
 ],
 "first_seen": "2026-09-18",
@@ -8642,7 +8647,7 @@
 "title": "Acuerdo marco para la contratación, a través de la Central de Contratación Foral de Gipuzkoa, del servicio de vigilancia y seguridad de edificios de la Diputación Foral de Gipuzkoa, Juntas Generales de Gipuzkoa e IZFE, S",
 "buyer": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
 "country": "ESP",
-"pub": "2026-09-18",
+"pub": "2026-09-30",
 "deadline": "2026-10-16 16:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742667/es_doc/index.html",
@@ -8652,8 +8657,8 @@
 "value": "5520193",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13329742&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13329744&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13453560&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13453562&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 79710000",
 "first_seen": "2026-09-20"
@@ -9883,6 +9888,11 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/656049-2026",
 "num": "656049-2026"
+},
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/664986-2026",
+"num": "664986-2026"
 }
 ],
 "first_seen": "2026-09-23",
@@ -11511,18 +11521,18 @@
 "title": "Servei de seguiment i control de compliment dels protocols, estàndards i requeriments en matèria BIM que ha de seguir el projecte d’ampliació i rehabilitació del Museu Nacional d’Art de Catalunya, amb mesures de contract",
 "buyer": "Consorci Museu Nacional d'Art de Catalunya",
 "country": "ESP",
-"pub": "2026-09-29",
-"deadline": "2026-10-13 11:00",
+"pub": "2026-09-30",
+"deadline": "2026-10-20 11:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/f61f817f-709d-4db9-9acf-eb38c087949d/300894434",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/f61f817f-709d-4db9-9acf-eb38c087949d/300895967",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "90000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302629317/1482BB0B8AB9F11123721C6AF39EF577",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302629223/6229C2F265F57ACB451CAA922B776533"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302635686/0ABB686F2D8387F7ABA8390CBEEF1D24",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302634732/6229C2F265F57ACB451CAA922B776533"
 ],
 "desc": "Abierto · Servicios · CPV 71248000",
 "first_seen": "2026-09-28"
@@ -13774,16 +13784,16 @@
 },
 {
 "num": "KO-neubau-feuerwehr-werkhof-und-polizeigebaude-ruswil-planerwah",
-"title": "Neubau Feuerwehr, Werkhof- und Polizeigebäude Ruswil - Planerwahlverfahren für Generalplanerteams (Planerwahlverfahren, selektives Verfahren)",
-"buyer": "Gemeinde Ruswil",
+"title": "Neubau Feuerwehr, Werkhof- und Polizeigebäude Ruswil - Planerwahlverfahren für Generalplanerteams (Projektwettbewerb, offenes Verfahren)",
+"buyer": "Gemeinde Ruswil (Jung Meyerhans AG)",
 "country": "CHE",
 "pub": "2026-09-30",
 "deadline": "2026-11-09",
 "place": "6017 Ruswil",
 "url": "https://konkurado.ch/de/neubau-feuerwehr-werkhof-und-polizeigebaude-ruswil-planerwahlverfahren-fur-generalplanerteams",
 "source": "konkurado",
-"proc": "seleccion",
-"desc": "Restricción regional: WTO/GPA · Auf dem gemeindeeigenen Areal im Gewerbegebiet Bielbachmatte sollen künftig Feuerwehr, Werkdienst und Luzerner Polizei gemeinsam untergebracht werden. Die räumliche Konzentration der verschiedenen Nutzungen ermöglicht betriebliche und infrastrukturelle Synergien. Insbesondere Feuerwehr und Werkdienst weisen in ihren betrieblichen Abläufen sowie hinsichtlich ihrer Raumprogramme zahlreiche Gemeinsamkeiten auf, welche im Neubau gezielt genutzt werden sollen. In der Phase der Präqualifikation können sich Teams aus den Fachrichtungen",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · anónimo · Auf dem gemeindeeigenen Areal im Gewerbegebiet Bielbachmatte sollen künftig Feuerwehr, Werkdienst und Luzerner Polizei gemeinsam untergebracht werden. Die räumliche Konzentration der verschiedenen Nutzungen ermöglicht betriebliche und infrastrukturelle Synergien. Insbesondere Feuerwehr und Werkdienst weisen in ihren betrieblichen Abläufen sowie hinsichtlich ihrer Raumprogramme zahlreiche Gemeinsamkeiten auf, welche im Neubau gezielt genutzt werden sollen. In der Phase der Präqualifikation können sich Teams aus den Fachrichtungen",
 "first_seen": "2026-09-30",
 "title_es": "Construcción nueva Bomberos, taller municipal y edificio de policía Ruswil - Planerwahlverfahren para equipos de planificación general (Planerwahlverfahren, procedimiento selectivo)",
 "desc_es": "Restricción regional: OMC/APP · En el área municipal en la zona industrial Bielbachmatte se alojarán conjuntamente Bomberos, servicios municipales y policía de Lucerna. La concentración espacial de los diversos usos permite sinergias operacionales e infraestructurales. Especialmente Bomberos y servicios municipales presentan en sus"
@@ -13862,7 +13872,7 @@
 "title": "servicios de seguridad edificio de usos múltiples de málaga",
 "buyer": "Delegación Territorial de Economía, Hacienda, Fondos Europeos y de Industria, Energía y Minas en Málaga",
 "country": "ESP",
-"pub": "2026-09-29",
+"pub": "2026-09-30",
 "deadline": "2026-10-16 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1009279",
@@ -13872,7 +13882,7 @@
 "value": "433534",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 79711000, 79713000, 50610000, 79710000",
+"desc": "Abierto · Servicios · CPV 79711000, 79713000, 79710000, 50610000",
 "first_seen": "2026-09-30"
 },
 {
@@ -14283,5 +14293,207 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 70331100, 98341130",
 "first_seen": "2026-09-30"
+},
+{
+"num": "BOAMP-26-94329",
+"title": "Concours de maîtrise d'oeuvre pour la construction d'une salle polyvalente à but socio-culturelle à DEVECEY (25)",
+"buyer": "Territoire 25",
+"country": "FRA",
+"pub": "2026-10-01",
+"deadline": "2026-11-02 11:00",
+"place": "dép. 25",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94329",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/675755-2026",
+"num": "675755-2026"
+}
+],
+"first_seen": "2026-10-01",
+"title_es": "Concurso de dirección de obra para la construcción de una sala polivalente de carácter sociocultural en DEVECEY (25)",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "675176-2026",
+"title": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Weimar, Im Merketale II, Städtebaulicher Realisierungswettbewerb",
+"buyer": "Landesentwicklungsgesellschaft Thüringen mbH (LEG Thüringen)",
+"country": "DEU",
+"pub": "2026-10-01",
+"deadline": "2026-11-02T11:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Die Stadt Weimar und die Landesentwicklungsgesellschaft Thüringen mbH (LEG Thüringen) werden in den kommenden Jahren am Standort Merketal im Ortsteil Oberweimar-Ehringsdorf ein neues Wohngebiet entwickeln. Die planerische Zielstellung für die Entwicklung leitet sich aus dem rechtskräftigen Flächennutzungsplan der Stadt Weimar ab. Die LEG Thüringen ist der größte Flächeneigentümer und hat mit der Stadt Weimar einen städtebaulichen Vertrag zur Entwicklung des Wohnbaugebietes abgeschlossen. Das Wettbewerbsgebiet umfasst rund 10 ha. Für den zukünftigen Wohnstandort ist ein städtebauliches Konzept zu entwickeln, welches als Grundlage für das anschließende Bebauungsplanverfahren dienen soll.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/675176-2026",
+"source": "TED",
+"first_seen": "2026-10-01",
+"title_es": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Weimar, Im Merketale II, Städtebaulicher Realisierungswettbewerb",
+"desc_es": "La ciudad de Weimar y la sociedad de desarrollo territorial de Turingia LEG Thüringen mbH desarrollarán en los próximos años en la ubicación Merketal en el distrito de Oberweimar-Ehringsdorf una nueva zona residencial. La orientación planificadora para el desarrollo se deriva del plan de uso del suelo vigente de la ciudad de Weimar. LEG Thüringen"
+},
+{
+"num": "675562-2026",
+"title": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Mobilitätsdrehscheibe Bahnhof Plochingen - Nichtoffener Realisierungswettbewerb mit Ideenteilen und TNWB und anschließendem Verhandlungsverfahren nach VgV - Objektplanung Freianlagen/ Verkehrsanlagen",
+"buyer": "Stadt Plochingen",
+"country": "DEU",
+"pub": "2026-10-01",
+"deadline": "2026-10-27T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Übergeordnetes Ziel des Wettbewerbsverfahrens ist die Entwicklung eines attraktiven und zukunftsfähigen Bahnhofsumfelds als Visitenkarte der Stadt Plochingen. Als bedeutender Mobilitätsknoten kommt dem Bahnhofsumfeld eine zentrale Bedeutung für das Ankommen in der Stadt sowie für die Verknüpfung unterschiedlicher Mobilitätsformen zu. Durch ein qualitätsvolles freiraum- und verkehrsplanerisches Konzept soll das Bahnhofsareal seiner Funktion als multimodale Verkehrsdrehscheibe künftig in einem attraktiv gestalteten Umfeld gerecht werden. Mit der Neugestaltung des Bahnhofsumfelds sollen attraktive, barrierefreie und klimaangepasste öffentliche Räume mit sicheren und übersichtlichen Wegeverbindungen für alle Verkehrsteilnehmenden geschaffen werden. Dabei sind die unterschiedlichen Anforderungen der verschiedenen Mobilitätsformen auf engem Raum zu berücksichtigen. Ziel ist die Entwicklung einer leistungsfähigen und multimodalen Verkehrsdrehscheibe, die eine sichere, effiziente und intuitive Verknüpfung aller Verkehrsarten gewährleistet und zugleich neue Mobilitätsangebote integriert. Insgesamt sollen das Stadtbild verbessert und die Aufenthaltsqualität im öffentlichen Raum nachhaltig gestärkt werden, sodass das Bahnhofsumfeld künftig mehr ist als ein reiner Transitraum. Der Realisierungswettbewerb zielt auf eine Vielzahl von freiräumlichen und funktional ganzheitlich betrachteten Lösungsansätzen sowie auf die Vergabe eines Planungsauftrags für die Objektplanung Freianlagen und Ver",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/675562-2026",
+"source": "TED",
+"first_seen": "2026-10-01",
+"title_es": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Mobilitätsdrehscheibe Bahnhof Plochingen - Nichtoffener Realisierungswettbewerb con partes de ideas y TNWB y posterior procedimiento de negociación conforme a VgV - Planificación de objetos Espacios libres/Instalaciones de tráfico",
+"desc_es": "El objetivo general del procedimiento de concurso es el desarrollo de un entorno de estación atractivo y preparado para el futuro como tarjeta de presentación de la ciudad de Plochingen. Como nodo de movilidad significativo, el entorno de la estación tiene importancia central para la llegada a la ciudad así como para la conexión de diferentes formas de movilidad. A través de un cual"
+},
+{
+"num": "677625-2026",
+"title": "Francia – Servicios de impresión y entrega – Prestations d'impression numérique, offset, rotative, signalétique, sérigraphie et grands formats",
+"buyer": "Campus Condorcet",
+"country": "FRA",
+"pub": "2026-10-01",
+"deadline": "2026-11-04T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Le présent marché a pour objet des prestations d'impression Offset et numérique. Néanmoins, le Campus Condorcet peut également, dans le contexte de ce marché, demander au titulaire de réaliser des impressions selon d'autres techniques.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/677625-2026",
+"source": "TED",
+"first_seen": "2026-10-01",
+"title_es": "Francia – Servicios de impresión y entrega – Prestaciones de impresión digital, offset, rotativa, señalética, serigrafía y grandes formatos",
+"desc_es": "El presente contrato tiene por objeto prestaciones de impresión offset y digital. Sin embargo, Campus Condorcet puede también, en el contexto de este contrato, solicitar al adjudicatario la realización de impresiones según otras técnicas."
+},
+{
+"num": "BOAMP-26-93994",
+"title": "Concours restreint de maîtrise d'oeuvre sur esquisse pour l'extension du pôle culturel et sportif des 7 arpents à Souffelweyersheim",
+"buyer": "COMMUNE DE SOUFFELWEYERSHEIM",
+"country": "FRA",
+"pub": "2026-10-01",
+"deadline": "2026-11-02T12:00",
+"place": "dép. 67",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-93994",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "licitación con concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/677752-2026",
+"num": "677752-2026"
+}
+],
+"first_seen": "2026-10-01",
+"title_es": "concours restreint de dirección de obra en anteproyecto para la ampliación del polo cultural y deportivo de los 7 arpents en Souffelweyersheim",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-93882",
+"title": "CONCOURS RESTREINT DE MAITRISE D’OEUVRE - BATIMENT GEODE REHABILITATION, AMELIORATION ENERGETIQUE ET RESTRUCTURATION PARTIELLE CAMPUS LYONTECH – LA DOUA VILLEURBANNE (69)",
+"buyer": "COMUE LYON SAINT ETIENNE",
+"country": "FRA",
+"pub": "2026-10-01",
+"deadline": "",
+"place": "dép. 69",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-93882",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-01",
+"title_es": "concours restreint de dirección de obra - Edificio GEODE Rehabilitación, mejora energética y reestructuración parcial Campus Lyontech – La Doua Villeurbanne (69)",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "PLACE-2026/97",
+"title": "Contratación por procedimiento abierto de la redacción del proyecto para la rehabilitación del edifcio Errota y la dirección facultativa de las obras.",
+"buyer": "Ayuntamiento de Mungia-Alcalde",
+"country": "ESP",
+"pub": "2026-09-30",
+"deadline": "2026-10-20 18:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744471/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "60000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13452602&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13452604&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-01"
+},
+{
+"num": "PLACE-2026-052821",
+"title": "servicios de Desratización, Desinfección y Desinsectación en los edificios municipales del Ayuntamiento de Bilbao",
+"buyer": "Ayuntamiento de Bilbao-Concejal Delegado de Contratación",
+"country": "ESP",
+"pub": "2026-09-30",
+"deadline": "2026-10-16 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744270/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "104051",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13450681&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13450684&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 90923000",
+"first_seen": "2026-10-01"
+},
+{
+"num": "PLACE-23/26",
+"title": "Servicios de seguridad, vigilancia y control del edificio de Cocheraspropiedad de la CTSS, ubicado en C/Fernando Sasiain, 7 de Donostia-San Sebastián",
+"buyer": "Compañía del Tranvía de San Sebastián, S.A.U.-Director",
+"country": "ESP",
+"pub": "2026-09-30",
+"deadline": "2026-10-15 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744150/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "235270",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13448944&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13448946&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 79710000",
+"first_seen": "2026-10-01"
+},
+{
+"num": "PLACE-15-7-9.01-0072/2026",
+"title": "Servicio de redacción de proyecto básico y de ejecución de la fase I y fase II de las obras de adecuación de espacios en planta baja del edificio de gestión y actual ubicación del gimnasio de rehabilitación en el Hospita",
+"buyer": "Hospital de Calahorra, Servicio Riojano de Salud",
+"country": "ESP",
+"pub": "2026-09-30",
+"deadline": "2026-10-19 14:00",
+"place": "",
+"url": "https://www.larioja.org/contratacion-publica/es/licitaciones/consulta-expedientes?homepage=?p_colateral%3D15-7-9.01-0072%2F2026%26p_dia_ini%3D29%26p_mes_ini%3D09%26p_ano_ini%3D2026%26p_dia_fin%3D29%26p_mes_fin%3D09%26p_ano_fin%3D2026%26p_todas%3DN",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "82500",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"first_seen": "2026-10-01"
 }
 ]
