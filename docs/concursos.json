@@ -16616,5 +16616,53 @@
 ],
 "desc": "Abierto · Servicios · CPV 71541000",
 "first_seen": "2026-10-03"
+},
+{
+"num": "BOAMP-26-94993",
+"title": "Concours restreint de maîtrise d'oeuvre sur \"esquisse\" relatif aux travaux de construction du marché aux poissons, légumes et viandes de la Ville de Fort-de-France",
+"buyer": "CACEM - Communauté d'Agglomération Centre Martinique (mandataire de la Ville de Fort-de-France)",
+"country": "FRA",
+"pub": "2026-10-03",
+"deadline": "",
+"place": "dép. 972",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94993",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-03",
+"title_es": "Concours restreint de maîtrise d'oeuvre sobre \"esquisse\" relativo a los trabajos de construcción del mercado de pescados, verduras y carnes de la Ciudad de Fort-de-France",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-94911",
+"title": "Concours restreint de maîtrise d’œuvre – Construction d’une salle omnisport à dominante sports de raquettes à Bapaume.",
+"buyer": "Communauté de Communes du Sud-Artois",
+"country": "FRA",
+"pub": "2026-10-03",
+"deadline": "",
+"place": "dép. 62",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94911",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-03",
+"title_es": "Concours restreint de maîtrise d'œuvre – Construcción de una sala polideportiva con dominante de deportes de raqueta en Bapaume",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-94915",
+"title": "Concours restreint de maîtrise d'oeuvre pour la réalisation d'une maison de santé et de bureaux administratifs en R+1 à Fécamp.",
+"buyer": "SHEMA",
+"country": "FRA",
+"pub": "2026-10-03",
+"deadline": "",
+"place": "dép. 76",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94915",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Ingénierie",
+"first_seen": "2026-10-03",
+"title_es": "Concours restreint de maîtrise d'oeuvre para la realización de una casa de salud y oficinas administrativas en R+1 en Fécamp",
+"desc_es": "Procedimiento Restringido · Ingeniería"
 }
 ]
