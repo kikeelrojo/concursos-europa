@@ -1083,17 +1083,24 @@
 "buyer": "Gobierno de La Rioja",
 "country": "ESP",
 "pub": "2026-09-04",
-"deadline": "",
+"deadline": "2026-10-20 14:00",
 "place": "Logroño (La Rioja)",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261337ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
-"value": "",
-"cur": "",
+"value": "1713081",
+"cur": "EUR",
 "desc": "Presupuesto: 1 713 081,05 EUR (IVA excluido) · Publicado en: DOUE",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261337ES"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261337ES",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.larioja.org/contratacion-publica/es/licitaciones/consulta-expedientes?homepage=?p_colateral%3D08-7-2.01-0035%2F2026%26p_dia_ini%3D14%26p_mes_ini%3D08%26p_ano_ini%3D2026%26p_dia_fin%3D14%26p_mes_fin%3D08%26p_ano_fin%3D2026%26p_todas%3DN",
+"num": "PLACE-08-7-2.01-0035/2026"
+}
+]
 },
 {
 "num": "COAVN-20261338ES",
@@ -8321,18 +8328,18 @@
 "title": "Servicio de vigilancia y seguridad de los Campus y edificios de la Universitat de Girona.",
 "buyer": "Universitat de Girona",
 "country": "ESP",
-"pub": "2026-09-16",
-"deadline": "2026-10-15 14:00",
+"pub": "2026-10-02",
+"deadline": "2026-11-02 14:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/2ca6908c-af96-493c-83f7-9e16fd5ac5ec/300876451",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/2ca6908c-af96-493c-83f7-9e16fd5ac5ec/300896655",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "373931",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302592315/8516DDFC52A131E4398405425D9E7571",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302572375/E55DB501B2507F499DDE58A65D676783"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637180/C743440B12DD09FE6BF0A346D6DC9550",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637137/E55DB501B2507F499DDE58A65D676783"
 ],
 "desc": "Abierto · Servicios · CPV 79714000",
 "first_seen": "2026-09-18"
@@ -10118,7 +10125,7 @@
 "title": "La redacción de proyecto y dirección de obra de la urbanización de la calle Arkolla",
 "buyer": "Ayuntamiento de Hondarribia-Alcaldía",
 "country": "ESP",
-"pub": "2026-09-29",
+"pub": "2026-10-02",
 "deadline": "2026-10-07 23:59",
 "place": "Hondarribia",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743193/es_doc/index.html",
@@ -10128,8 +10135,8 @@
 "value": "57409",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13430179&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13430180&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13477953&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13477954&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
 "first_seen": "2026-09-23",
@@ -10225,18 +10232,18 @@
 "title": "Serveis relacionats amb l’àmbit de l’arquitectura per a l’activitat puntual de redacció del projecte, i la posterior direcció d’obra per a realitzar una intervenció als entorns de la Ciutadella Ibèrica.",
 "buyer": "Ajuntament de Calafell",
 "country": "ESP",
-"pub": "2026-09-22",
-"deadline": "2026-10-07 14:00",
+"pub": "2026-10-02",
+"deadline": "2026-10-13 14:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/36ad9dfe-fb92-4e89-bf77-1a142a9174d8/300887499",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/36ad9dfe-fb92-4e89-bf77-1a142a9174d8/300897910",
 "source": "PLACE (CCAA)",
 "proc": "seleccion",
 "kind": "licitación",
 "value": "142516",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302606966/2C665D47B8D9AE70C4C0F2B50DE3536E",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302606967/8A7050D65EC57A2BE35C0856BBD3FF7D"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302641008/2C665D47B8D9AE70C4C0F2B50DE3536E",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302641009/8A7050D65EC57A2BE35C0856BBD3FF7D"
 ],
 "desc": "Restringido · Servicios · CPV 71200000",
 "first_seen": "2026-09-23"
@@ -10471,12 +10478,23 @@
 "url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
 "coavn_url": "https://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260314A",
 "source": "COAVN Euskadi-Navarra",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "96637",
 "cur": "EUR",
 "desc": "Presupuesto: 96.637,41 euros (IVA excluido) · Publicado en: www.euskadi.eus (23/09/2026)",
-"first_seen": "2026-09-24"
+"first_seen": "2026-09-24",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13464098&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13464099&R01HNoPortal=true"
+],
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743489/es_doc/index.html",
+"num": "PLACE-2026/624"
+}
+]
 },
 {
 "num": "COAVN-20260315B",
@@ -11492,7 +11510,7 @@
 "country": "ESP",
 "pub": "2026-09-25",
 "deadline": "2026-10-13 10:00",
-"place": "",
+"place": "Ultzama",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260924145207E693F8D3",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -11501,7 +11519,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71240000, 71000000",
-"first_seen": "2026-09-28"
+"first_seen": "2026-09-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260316N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260316N",
+"num": "COAVN-20260316N"
+}
+]
 },
 {
 "num": "PLACE-X2026002002",
@@ -16077,11 +16103,6 @@
 "desc": "Concurso de proyectos · Servicios · CPV 71200000",
 "alt": [
 {
-"source": "TED",
-"url": "https://ted.europa.eu/es/notice/-/detail/680651-2026",
-"num": "680651-2026"
-},
-{
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261489ES",
 "num": "COAVN-20261489ES"
@@ -16451,5 +16472,149 @@
 }
 ],
 "first_seen": "2026-10-02"
+},
+{
+"num": "PLACE-SAB_2026000046",
+"title": "L’objecte d’aquest contracte consisteix en la redacció d’un Projecte Bàsic i d’Execució i l’estudi de Seguretat i Salut de la remodelació de la piscina del Poliesportiu Ricart, que desenvolupi l’avantprojecte elaborat pe",
+"buyer": "Ajuntament de Sant Adrià de Besòs",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-17 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/51675cde-eaf5-4f76-b2ae-c1858ad57709/300898770",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "147136",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302644413/C1459FCFC63A59478F8FDD72F3D72BBA",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302644474/46D726A654295BE5AAD2DCB316BA94E2"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-3202/2026",
+"title": "Servicio de dirección facultativa en las obras de \"Galdakaoko emakumeen etxea\"",
+"buyer": "Ayuntamiento de Galdakao-Alcalde",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-22 18:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744842/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "180129",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13478149&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13478150&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71356200",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-606.2026.036",
+"title": "Servei de direcció de les obres per al servei de redacció del projecte executiu, memòria ambiental, estudi de seguretat i salut, i execució de les obres de col·locació de gespa natural del camp de futbol Nou Sardenya, al",
+"buyer": "Barcelona d'Infraestructures Municipals SA",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-19 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/74341e59-93b2-4434-ba90-8ddecb8cd0f9/300898635",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "96809",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302643415/96A03EBD82DA061E47D3F43AB38EB0D5",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302643419/2968D45E7C10ABEA284A23D5AA6E7468"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71520000",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-CYII 2026/56",
+"title": "Servicios de Asistencia Técnica para la Redacción del Proyecto “Renovación de la Red de Saneamiento en el municipio de Colmenar del Arroyo. Fase II (Plan Sanea 2500)”. CYII 2026/56.",
+"buyer": "Canal de Isabel II, Ente Público",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-20 14:00",
+"place": "",
+"url": "https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-asistencia-tecnica-redaccion-proyecto-renovacion-red-saneamiento-3",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "61875",
+"cur": "EUR",
+"docs": [
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/2026_09sep_29_pcap_colmenar_del_arroyo_fase_ii_signed.pdf",
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/2026_10oct_01_ppt_colmenar_del_arroyo_fase_ii_signed.pdf"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71310000, 71311000, 71311100",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-3088_340080J",
+"title": "redacción proyecto técnico y dirección de obra de ampliación de las instalaciones deportivas municipales",
+"buyer": "Junta de Gobierno Local",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-31 23:59",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610020950284CAF8BCA",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "78750",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-2026-044766",
+"title": "Acuerdo Marco para la redacción de proyectos y/o direcciones de obra, asistencias y estudios técnicos de edificación",
+"buyer": "Ayuntamiento de Bilbao-Junta de Gobierno de la Villa de Bilbao",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-11-02 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744105/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "1319630",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13467157&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13467160&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71311300",
+"first_seen": "2026-10-03"
+},
+{
+"num": "PLACE-DO. TM-02609.1-C1.2B.A",
+"title": "Contrato de servicios para la dirección de las obras del proyecto constructivo de la red de transmisión inalámbrica de banda ancha de la Línea 9 de Metro de Barcelona para la transmisión en tiempo real de vídeo embarcado",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-11-04 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/e7cb46ec-68d9-41ad-b521-9945d88c7603/300895973",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "1096498",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637736/3AAF7ED6905FD8F7687ABD4F32D85D35",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637738/568D2B894EA21DD3BEC59F869C7D8B9B"
+],
+"desc": "Abierto · Servicios · CPV 71541000",
+"first_seen": "2026-10-03"
 }
 ]
