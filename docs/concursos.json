@@ -12025,7 +12025,7 @@
 "title": "Contrato administrativo de servicios de Asesoramiento Urbanístico y Arquitectónico de Bedia",
 "buyer": "Ayuntamiento de Bedia-Alcaldía",
 "country": "ESP",
-"pub": "2026-09-28",
+"pub": "2026-10-03",
 "deadline": "2026-10-07 23:59",
 "place": "Bedia",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3619875/es_doc/index.html",
@@ -12035,8 +12035,8 @@
 "value": "43683",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13419042&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13419043&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13485196&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13485197&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71410000",
 "first_seen": "2026-09-28",
@@ -16664,5 +16664,55 @@
 "first_seen": "2026-10-03",
 "title_es": "Concours restreint de maîtrise d'oeuvre para la realización de una casa de salud y oficinas administrativas en R+1 en Fécamp",
 "desc_es": "Procedimiento Restringido · Ingeniería"
+},
+{
+"num": "PL-bulwary_klodnicy_w_gliwicach",
+"title": "Bulwary Kłodnicy w Gliwicach",
+"buyer": "",
+"country": "POL",
+"pub": "2026-10-03",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/bulwary_klodnicy_w_gliwicach",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-10-04",
+"title_es": "Bulwary Kłodnicy en Gliwice"
+},
+{
+"num": "TN-442723",
+"title": "19621 | Ontwerpteam vernieuwbouw Paleis van Justitie te Arnhem",
+"buyer": "Rijksvastgoedbedrijf",
+"country": "NLD",
+"pub": "2026-10-04",
+"deadline": "2026-11-03 10:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/442723",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Concurrentiegerichte dialoog · Het opstellen van een integraal ontwerp en bestek voor de vernieuwbouw van het monumentale Paleis van Justitie in Arnhem. De projectscope betreft de complete vernieuwbouw van het Paleis van Justitie terwijl het primaire proces doorgaat: Nieuwbouw aangrenzend aan het monument en in de huidige patio, ",
+"first_seen": "2026-10-04",
+"title_es": "19621 | Equipo de diseño para reconstrucción del Palacio de Justicia en Arnhem",
+"desc_es": "Anuncio de contratación · Diálogo competitivo · Elaboración de un diseño integral y presupuesto para la reconstrucción del monumental Palacio de Justicia en Arnhem. El alcance del proyecto comprende la reconstrucción completa del Palacio de Justicia mientras continúa el proceso primario: Obra nueva adyacente al monumento y en el actual pa"
+},
+{
+"num": "PLACE-C-03/2026",
+"title": "Contratación del  DISEÑO INTEGRAL de promoción de 39 Viviendas Protegidas en Régimen General, Garajes, Trasteros y Local, en parcela B-14.1 de la U.E. B-14 \"ZURBARÁN 1\", en la localidad de Barbate, Cádiz, partiendo de Pr",
+"buyer": "Consejería Delegada de la Empresa Provincial de Vivienda y Suelo de Cádiz S.A.",
+"country": "ESP",
+"pub": "2026-10-03",
+"deadline": "",
+"place": "Cádiz",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=96pa8uA9XqFPpzdqOdhuWg%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "248131",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71242000, 71240000, 71200000, 71000000",
+"first_seen": "2026-10-04"
 }
 ]
