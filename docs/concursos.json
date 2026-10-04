@@ -16714,5 +16714,37 @@
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71242000, 71240000, 71200000, 71000000",
 "first_seen": "2026-10-04"
+},
+{
+"num": "BOAMP-26-95544",
+"title": "Concours restreint de maîtrise d'œuvre sur esquisse pour la démolition et reconstruction de la HALLE PINEL à FLOIRAC",
+"buyer": "SRIA de l&#039;université de Bordeaux",
+"country": "FRA",
+"pub": "2026-10-04",
+"deadline": "",
+"place": "dép. 33",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-95544",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-04",
+"title_es": "concours restreint de dirección de obra en esquisse para demolición y reconstrucción de la HALLE PINEL en FLOIRAC",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-95637",
+"title": "Concours restreint de maîtrise d'oeuvre pour le projet de construction d'un équipement hybride « médiathèque-ludothèque » au quartier du Val à Athis-Mons",
+"buyer": "Etablissement public territorial Grand Orly Seine Bièvre",
+"country": "FRA",
+"pub": "2026-10-04",
+"deadline": "2026-11-20 11:00",
+"place": "dép. 94",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-95637",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-04",
+"title_es": "concours restreint de dirección de obra para el proyecto de construcción de un equipamiento híbrido «mediateca-ludoteca» en el barrio del Val en Athis-Mons",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
 }
 ]
