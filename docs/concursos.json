@@ -11214,8 +11214,8 @@
 "title": "Servicio de dirección facultativa y de ejecución material y coordinación de seguridad y salud de las obras de reconstrucción de los daños ocasionados por la DANA en el barranco de Picassent a su paso por el Barrio de la ",
 "buyer": "Alcaldía del Ayuntamiento de Picassent",
 "country": "ESP",
-"pub": "2026-09-22",
-"deadline": "2026-10-05 23:59",
+"pub": "2026-10-04",
+"deadline": "2026-10-16 23:59",
 "place": "Valencia/València",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0kgWdBzAwi54zIRvjBVCSw%3D%3D",
 "source": "PLACE",
@@ -11224,12 +11224,12 @@
 "value": "413268",
 "cur": "EUR",
 "docs": [
-"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BXZfvm69fR0IKnQINpOJO3aVzwg6MJLZegWLAuth%2BJeetjKR3mDDNPauqrvDTvt8fuoBHpGLgA67V10EE1066p5niNQdQSsT1BjbGycCq1H6CYyL7SIrUOBFfNf52ZqA",
-"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=frJtPz1zkrVv4LAIEIwJG3Edr6kI%2BqmgIyirU1k3j1o7hVgH7GC3g5JjI4HkOMrosQhnwDr/JOMO3jojAoJwgPa7h65EHeAavBsXQi3kuKXfdyQgZAdTm3EfcUAC7CJ6",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=U%2BXJ%2B5V4whCQHhaILy/hdnuIZoiqpOoBe/OIU%2BQ9xxx59D4dvfDfOHEbU6xuvwWen5ARFAhoQHGNzoRWWYe/Td5WQ0Nr1ov4Wssm/e5egsy1aXEvq3KHa/AEHgtDrQw0",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=n4wYgCG0ujc9J4Y9ISnMoALoj0HcAyje3B7luPDtT4hDf1CnQTTzk4rWmMe9dysN/iAHsBakhlOqFDgj1WARU%2Bafzc6bfLxGwQZX9wqLGSRJOVDbGCDM%2BMigrvuVS7Rv",
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fyEDuBh6NIyK86OtC/8iHpJMULfiZbBsjVDIJearVa9517jAXGtq8lZbzxhBy%2BzhlfhY5V9UtPa7AV6aIEMA0kBSt9Pv0Sk9M0Igr3snu08//q7NB2iMZvNyf0xrJmjt",
-"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FBG6MNa76UNZOql7BIsTh7MzuHL41XIt8Lzk85NZZficLzWUkh3nRHDnjpJ2dykOmJsCs/edxUb3YFPSrBgLpVa7h33keOA0fagvuY/LKBJ45ClyWkoJ44mKM70IFcOu"
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=wI0NVoQgMNlrGDazgCHbvvB7uNRUSa4FtxQc4/gaDFz1Mt9wEu1JrVOwKUzc/cOeypv3injpWgiE4Gibn7weRho6ujrhFtoBjqoFmPC557nVTD3T98KC0nSgQFM0q%2B5s"
 ],
-"desc": "Abierto · Servicios · CPV 71000000, 71310000, 71356200, 71540000",
+"desc": "Abierto · Servicios · CPV 71000000, 71356200, 71310000, 71520000",
 "first_seen": "2026-09-27"
 },
 {
@@ -16623,7 +16623,7 @@
 "buyer": "CACEM - Communauté d'Agglomération Centre Martinique (mandataire de la Ville de Fort-de-France)",
 "country": "FRA",
 "pub": "2026-10-03",
-"deadline": "",
+"deadline": "2026-11-04T12:00",
 "place": "dép. 972",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94993",
 "source": "BOAMP",
@@ -16631,7 +16631,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-03",
 "title_es": "Concours restreint de maîtrise d'oeuvre sobre \"esquisse\" relativo a los trabajos de construcción del mercado de pescados, verduras y carnes de la Ciudad de Fort-de-France",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/684794-2026",
+"num": "684794-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-94911",
@@ -16639,7 +16647,7 @@
 "buyer": "Communauté de Communes du Sud-Artois",
 "country": "FRA",
 "pub": "2026-10-03",
-"deadline": "",
+"deadline": "2026-11-02T12:00",
 "place": "dép. 62",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94911",
 "source": "BOAMP",
@@ -16647,7 +16655,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-03",
 "title_es": "Concours restreint de maîtrise d'œuvre – Construcción de una sala polideportiva con dominante de deportes de raqueta en Bapaume",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "licitación con concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/683169-2026",
+"num": "683169-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-94915",
@@ -16746,5 +16762,184 @@
 "first_seen": "2026-10-04",
 "title_es": "concours restreint de dirección de obra para el proyecto de construcción de un equipamiento híbrido «mediateca-ludoteca» en el barrio del Val en Athis-Mons",
 "desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "KO-waesserwiesen",
+"title": "Genossenschaftliches Wohnen auf der Wässerwisen (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Siedlungsgenossenschaft Eigengrund Zürich",
+"country": "CHE",
+"pub": "2026-10-05",
+"deadline": "2026-10-29",
+"place": "8604 Volketswil",
+"url": "https://konkurado.ch/de/waesserwiesen",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die Siedlungsgenossenschaft Eigengrund plant auf dem Areal Wässerwisen am Rand des historischen Ortskerns von Volketswil eine kompakte, nachhaltige genossenschaftliche Wohnüberbauung mit rund 75 Wohnungen. Etwa die Hälfte davon ist für die Generation 50 plus vorgesehen. Das Ensemble aus Bauernhaus, Scheune und Linde soll in die Siedlung integriert werden, und der Dorfbach wird offengelegt. Gesucht ist ein Gesamtkonzept, das Bestand, Freiraum und Bach zu einem identitätsstiftenden Ganzen verbindet. Es dient als Grundlage für ein Richtprojekt zum privaten Gestaltungsplan. Gesucht werden Teams au",
+"first_seen": "2026-10-05",
+"title_es": "Vivienda cooperativa en Wässerwisen (Concurso de proyectos, procedimiento selectivo)",
+"desc_es": "Restricción regional: WTO/GPA · La cooperativa de asentamientos Eigengrund planea en el área Wässerwisen, en el borde del centro histórico de Volketswil, un desarrollo residencial cooperativo compacto y sostenible con aproximadamente 75 viviendas. Aproximadamente la mitad está prevista para la generación 50 plus. El conjunto formado por casa de granja, granero y tilo"
+},
+{
+"num": "KO-eth-zurich-ll-hil-grosszyklische-erneuerung",
+"title": "ETH Zürich, LL HIL Grosszyklische Erneuerung (Gesamtleistungswettbewerb, selektives Verfahren)",
+"buyer": "ETH Zürich - Real Estate Management",
+"country": "CHE",
+"pub": "2026-10-05",
+"deadline": "2026-08-27",
+"place": "8093 Zürich",
+"url": "https://konkurado.ch/de/eth-zurich-ll-hil-grosszyklische-erneuerung",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Die Aufgabe dieser Ausschreibung besteht in der grosszyklischen Sanierung des HIL und der Flächenerweiterung mittels Aufstockungen und Umnutzung bzw. Erweiterung von Teilen der HIG-Garage. Das HIL stellt das zentrale Gebäude des D-ARCH und nebst dem Gebäude HIF auch für das D-BAUG dar. Heute verfügt das Gebäude über 840 Arbeitsplätze (490 FTE). Bis zum Bezug wird sich diese Personenzahl auf geschätzte 1’100 (630 FTE) erhöhen, bedingt durch leichtes Wachstum der beiden Departemente, sowie die Integration der D-ARCH Nutzenden aus den Gebäuden ONA und HIT, sowie wenige D-BAUG Nutzungen aus dem HP",
+"first_seen": "2026-10-05",
+"title_es": "ETH Zúrich, LL HIL Renovación de gran ciclo (Concurso de prestaciones completas, procedimiento selectivo)",
+"desc_es": "Restricción regional: WTO/GPA · anónimo · La tarea de esta convocatoria consiste en la renovación de gran ciclo del HIL y la ampliación de superficie mediante ampliaciones y cambio de uso o expansión de partes del garaje HIG. El HIL es el edificio central del D-ARCH y además del edificio HIF también para el D-BAUG. Hoy el edif"
+},
+{
+"num": "KO-neubau-wohnheim-und-arealentwicklung-landheim-bruttisellen",
+"title": "Neubau Wohnheim und Arealentwicklung  Landheim Brüttisellen (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Landheim Brüttisellen",
+"country": "CHE",
+"pub": "2026-10-05",
+"deadline": "2026-11-13",
+"place": "8303 Bassersdorf-Baltenswil",
+"url": "https://konkurado.ch/de/neubau-wohnheim-und-arealentwicklung-landheim-bruttisellen",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Das Landheim Brüttisellen ist ein Berufsbildungsheim für total 24 dissoziale männliche Jugendliche im Alter von 15 bis 22 Jahren. Es bietet ein stationäres und ambulantes Wohnangebot sowie Ausbildungen in handwerklichen Berufen. Neben einem Neubau des Wohnheims für 16 Jugendliche mit integrierter Küche und Speisesaal sind auch Umbauten bestehender Gebäude für Verwaltung, betreutes Wohnen und Tageswohnen geplant.",
+"first_seen": "2026-10-05",
+"title_es": "Nueva construcción de residencia y desarrollo de área Landheim Brüttisellen (Concurso de proyectos, procedimiento selectivo)",
+"desc_es": "Restricción regional: WTO/GPA · anónimo · Landheim Brüttisellen es un hogar de formación profesional para un total de 24 adolescentes varones disociales de 15 a 22 años. Ofrece alojamiento residencial y ambulatorio así como formación en oficios artesanales. Además de una nueva construcción de la residencia para 16 adolescentes con cocina integrada y"
+},
+{
+"num": "KO-erweiterungsneubau-primarschulhaus-schulanlage-sonnmatt",
+"title": "Erweiterungsneubau Primarschulhaus Schulanlage Sonnmatt (Projektwettbewerb, offenes Verfahren)",
+"buyer": "Gemeinde Oftringen",
+"country": "CHE",
+"pub": "2026-10-03",
+"deadline": "2027-01-29",
+"place": "4665 Oftringen",
+"url": "https://konkurado.ch/de/erweiterungsneubau-primarschulhaus-schulanlage-sonnmatt",
+"source": "konkurado",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · anónimo · Auf der Schulanlage Sonnmatt in Oftringen soll anstelle der beiden bestehenden Pavillons und des Containerprovisoriums ein Erweiterungsneubau entstehen, der Primarschule und Tagesstrukturen unter einem Dach zusammenführt und dabei an das bestehende, sanierte Hauptschulhaus anknüpft. Das neue Schulhaus soll ein lebendiger Ort werden, der den Schulalltag von Kindern und Lehrpersonen bereichert, Begegnungen fördert und den Bildungsauftrag auch architektonisch sichtbar macht. Gesucht werden Projektvorschläge für einen identitätsstiftenden, gut ins Schulareal und Quartier eingebundenen Bau mit hohe",
+"first_seen": "2026-10-05",
+"title_es": "Nueva construcción de ampliación Escuela primaria Complejo escolar Sonnmatt (Concurso de proyectos, procedimiento abierto)",
+"desc_es": "Restricción regional: WTO/GPA · anónimo · En el complejo escolar Sonnmatt en Oftringen debe surgir, en lugar de los dos pabellones existentes y el provisional de contenedores, una nueva construcción de ampliación que reúna la escuela primaria y las estructuras de día bajo un mismo techo, conectando con el edificio escolar principal existente y renovado. La nueva escuela debe"
+},
+{
+"num": "BMA-la-maison-tilleul",
+"title": "LA MAISON TILLEUL — Rénovation de trois bâtiments existants en logements sociaux et équipement de quartier polyvalent",
+"buyer": "Commune Evere",
+"country": "BEL",
+"pub": "2026-10-05",
+"deadline": "2026-11-16 12:00",
+"place": "Rue du Tilleul 293-297 – 1140 Evere",
+"url": "https://bma.brussels/la-maison-tilleul/",
+"source": "bma.brussels",
+"proc": "seleccion",
+"value": "1915750",
+"cur": "EUR",
+"desc": "Presupuesto: Le montant des travaux est estimé à € 1.915.750 HTVA · Honorarios: Les honoraires sont fixés à 12% HTVA du montant des travaux · Retribución: Un défraiement de € 5.000 sera attribué à chaque équipe ayant remis une offre régulière mais non retenue comme lauréate. · Rénovation de trois bâtiments existants en logements sociaux et équipement de quartier polyvalent Au cœur du Contrat de Quartier Durable Conscience, la commune d’Evere souhaite renforcer l’offre d’équipements et de logements abordables à travers la transformation de trois bâtiments situés rue du Tilleul. Depuis leur acquisition par la commune en 2023, ceux-ci accueillent aujourd’hui La Maison Tilleul , une antenne de quartier et un lieu de rencontre pour les habitant·e·s, les initiatives et les associations locales. Le projet prévoit la réalisation de trois logements sociaux aux étages, gérés par l’Agence Immobilière Sociale (AIS) Hector Denis : un logement familial de plus grande taille et deux unités plus petites. Au rez-de-chaussée, un équipement polyvalent accueillera des activités de quartier, la vie associative et diverses initiatives locales. Le réfectoire de l’école voisine Clair",
+"first_seen": "2026-10-05",
+"title_es": "LA MAISON TILLEUL — Renovación de tres edificios existentes en viviendas sociales y equipamiento de barrio polivalente",
+"desc_es": "Presupuesto: El monto de los trabajos se estima en € 1.915.750 HTVA · Honorarios: Los honorarios se fijan en 12% HTVA del monto de los trabajos · Retribución: Se asignará un reembolso de € 5.000 a cada equipo que haya presentado una oferta regular pero no haya sido seleccionado como ganador. · Renovación de tres edificios existentes en viviendas sociales y equipamiento"
+},
+{
+"num": "PLACE-2026-00231",
+"title": "Servicio de redacción del proyecto Muelles Catalunya y Jaume I. Clave de expediente: OB-GP-P-0945/2025",
+"buyer": "Presidencia del Consejo de Administración de la Autoridad Portuaria de Barcelona (PORT DE BARCELONA)",
+"country": "ESP",
+"pub": "2026-10-04",
+"deadline": "2026-11-23 12:00",
+"place": "Barcelona",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hyTl0ABupP8%2B1TMyIiZmzw%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "917498",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e0CfavjvmJxVZd9QUeoW6O8iRIzgI4pKRhn7ffUixox9dV%2B5i%2BJLXCsCCZyrxaezEfKIhtu052ZnaKrZJJMWCb6ApEfag0OW0QPnS6gtLvR45ClyWkoJ44mKM70IFcOu",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BHQXCeOFQDI%2BodQQUyxeVW4YAw6yLV1oFek1zTVnfC92Qy1Z8aYlxf4baizrmpGcgss/gRjeprq/hZyHDemD53F%2BSZx3aFYF8ECLb6l0Ldp45ClyWkoJ44mKM70IFcOu",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1sg%2BZX2mvvdvgDu4Rs8UsUuD5a7C5Kxli%2BOM1WjmWvUmhbjYWI76uyeYhSLMoajXyGyvuUwrsqqNi40gB%2BNZn0frcMrqrb5v/H85G15PT7%2B1aXEvq3KHa/AEHgtDrQw0",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kVTECiRAPv8gOngTQoJCX1TBw1FEScc4akaM6OJKMwlzgZzzBfuaToku/oKVDg3wOJ3xfLbLKKqDtlXFvejxCa1Re0XDdCCVDxzG7NxTNfR45ClyWkoJ44mKM70IFcOu",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UibNZx9LrabVi7xbudBaZQzdd5QdtdQr3rX/sjcTVm%2Bi0HrXRymUfLulQV3WgEb%2BU79APdr6ZBD33yI8zuRuZQl%2BEvw9M//equ%2BiVpPV4beHAj0WEJrB5sP7amrh2jBD"
+],
+"desc": "Abierto · Servicios · CPV 71242000",
+"first_seen": "2026-10-05"
+},
+{
+"num": "PLACE-7080/2026",
+"title": "Contratación del servicio Dirección facultativa y coordinación de SyS de obra Regeneración del Museo del Mar y su entorno P1.O1 del Plan de Actuación Integrado Torrevieja-, cofinanciado UE a través de FEDER en el marco d",
+"buyer": "Junta de Gobierno del Ayuntamiento de Torrevieja",
+"country": "ESP",
+"pub": "2026-10-04",
+"deadline": "2026-11-02 23:59",
+"place": "Alicante/Alacant",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8HeEWnPjCsQtm4eBPtV6eQ%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "516333",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kVEUseUGrITbhA7ssJw3C3fB5Hd9G/Ncmhc3ccqKd1ItLKtfuCO38SI3gZw%2B8uTh5r6ZyrGxLpwPuKT0EV9Tqj6WAbOOH9Pd/7tUcCLYlu%2BB0nvVKRzfe4rpHcnlPhSZ",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=47%2BQpbIocUfa3yzaXcSQaFUDjI9lgwWrfDZPGrlXsSurWwObv%2BnEeoLkgFHDSlL7BuORHo/%2B/Txv86PC6V1yL5L9kYg7DqZxSqWeUUU/fN2Cx2e6p7hqtlp2aFupgHMr",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vJ%2B0aT6Vpj5YO4Z9ORS%2BC1%2BT7dn%2BXRcuQoyhJGJiOku9AnVGc%2Bmf6a1%2BNZEDmAWyZyYdtJdYBqq8DUucCoNzQ%2BqJ1R2wkY73EDmrm5z0n0E//q7NB2iMZvNyf0xrJmjt"
+],
+"desc": "Abierto · Servicios · CPV 71000000, 71317200, 71541000",
+"first_seen": "2026-10-05"
+},
+{
+"num": "PLACE-PSS/2026/0000048928",
+"title": "Servicio de asistencia técnica de dirección de obra, coordinación de seguridad y salud, control y vigilancia de las obras de humanización de la Avenida Martín Palomino y de la Avenida de España, antigua N-630, en Plasenc",
+"buyer": "Consejería de Infraestructuras, Transporte y Vivienda",
+"country": "ESP",
+"pub": "2026-10-04",
+"deadline": "2026-11-09 15:00",
+"place": "Cáceres",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UJCBgBB4qHaqb7rCcv76BA%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "517982",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2CN7dQBNC5XavzbUZ9vLHCHhOaxbN8NOYoP7doSI/3hVDl9uWYc9BJggGNd3xIRRG3faoKQn5IwzJda0C%2BoU8GFFTdN/hOQx8BY0uBeLa7IZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=U%2BYCYySiNpFmaYIzSIs87SGIIHHu3HD4Mt07rLQvfBBJaSqMzzBqTOkPa/EbrjrQ9oQ2tdjMMEqOUpDYKdSv4RqgtxzLXAbMgZwk95EFkpIC1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nR%2BHU2OtfcPArY9VVL0%2BXEUelQN8xB/mloxN2wWLjMbcrBlpfaM0mLlH2DeJQHGWoDRalwsA7YizvdXqpByUgWbnQpvnVhxIg8uLfVaiRyA//q7NB2iMZvNyf0xrJmjt",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jh4NZLZQEMJUuuJQ5n75LwXDCk//a8bhyBssBsy0a3cQrVAphHlXPch8nwp1rBjIAkGCqaIlfDyobQrUn7ohlyLNffoCjNzBopJZ1cxSEd8C1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=rgljYGEmlLJy6bzI6dclqAnmHldxk62Ux0NGupCsF6TcVcet/Mh4ZWbvKzaoNBO8gq6YAq6c6ecdGPVDT8MOVKi6XrHwvk%2BwuyfMe9BRHFeCx2e6p7hqtlp2aFupgHMr",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1xt0aNAc54OVAafJm80Ub12DFg1jMy3koiFP6IsP2y%2Bg%2B8WYhaXNjs%2BbavSX1DEPmTLRUukwCHpWD36Twn8baEb%2BmiIXcpWSyRQh923wVrR7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDKMH41mGEwS556GAH8EWCgKSWwdVT06MycdatQxi0Q%2B2Ys3HRMGt1aiEDyYLWo7/fWPkNJ8z0g/sThqfF1n3zYdNLsc2LVbyDmNXEN3RuF7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IQzH7FMTjpCxZSykz2G6zaILhEUZKHwYVf4n1lITKCsEgltRHeebRK44uIYDnrc58RzA0shvnrN2xh5ZDPAqarAW0uBY7kfWMEpWZJVj8eTVTD3T98KC0nSgQFM0q%2B5s",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kcpVPWpZfxahg7Hj0CkR1e25E6hk5lmIUoPy1tqBQZ/s06XA02ELIH6pHOXgOWUUwFi7vlcvoh8o%2B3SaMwI0KaD3EbI4JRM0xpL2Y6CdSdeHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ThQYlzGeVc9lUxP5OdLugt4XZfgLqmxB25H0l/v0wrMmz13zJFAxNaUIx6wsiCLmkzfKDQjeVzNWOnufJR5lqTKPjWRrb996/ETmd4Fj3RNJOVDbGCDM%2BMigrvuVS7Rv",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AMKLiZ2me1%2BPAuSLKTvtFp3I0ccBnLtvtLlgHNOms8XjGvioDFY4GJawccmajN%2BuER5vnkodD0TzntKv4z2ehZnwuGlZ63S8Kl3qIM6nC48C1/zDIE0Kw/PWNnLS0Z0z"
+],
+"desc": "Abierto · Servicios · CPV 71311000",
+"first_seen": "2026-10-05"
+},
+{
+"num": "PLACE-N202600517",
+"title": "Servicios de Asistencia Técnica de Arquitectura e Ingeniería",
+"buyer": "Dirección General de la Mutual Midat Cyclops, Mutua Colaboradora con la Seguridad Social, nº 1",
+"country": "ESP",
+"pub": "2026-10-04",
+"deadline": "2026-11-04 23:59",
+"place": "Barcelona",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=6LBxFDDy8zNLAIVZdUs8KA%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "293287",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dbskzTMFgc2SRx%2BtUr0BF7eOm/JPQVoqXTLL2hnqV/ESz6682T89fvpVP8DK4zgyg3/mnk2WvI8gVbRgtsjCSXZ93rGF5N1WWL2HpqYdChb6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GLirAHj5AeX%2B1UOw1Hzso0vYWcJqgRJvJuxNMJRbYXNUNFLZ9NCNjHuQeiVVjucQooCiBUnKbmOhMMfw88fFpoVTYcGiTJsU5lH9MT69J9F45ClyWkoJ44mKM70IFcOu"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-05"
 }
 ]
