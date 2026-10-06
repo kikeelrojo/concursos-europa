@@ -2405,13 +2405,24 @@
 "place": "C.A.V.",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260293CV",
 "source": "COAVN Euskadi-Navarra",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "2000000",
 "cur": "EUR",
 "desc": "Presupuesto: 2.000.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (11/09/2026)",
 "first_seen": "2026-09-12",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260293CV"
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260293CV",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13493201&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13493203&R01HNoPortal=true"
+],
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740306/es_doc/index.html",
+"num": "PLACE-CON-260419"
+}
+]
 },
 {
 "num": "COAVN-20260294B",
@@ -4422,7 +4433,7 @@
 "title": "Servicio de apoyo a la dirección de las obras de varios proyectos en el entorno de pasaialdea (demolición del viaducto, penetracion al puerto de pasaia, refuerzo de los tuneles 9 y 11)",
 "buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
 "country": "ESP",
-"pub": "2026-10-01",
+"pub": "2026-10-05",
 "deadline": "2026-10-19 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740622/es_doc/index.html",
@@ -4432,8 +4443,8 @@
 "value": "845000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13460798&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13460800&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13491666&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13491668&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71311100",
 "first_seen": "2026-09-14"
@@ -6316,13 +6327,13 @@
 "title": "Planerwahlverfahren «Provisorium und Parkhaus für die Zuger Polizei sowie Ersatz Salzlager» auf dem Areal Hinterberg in Steinhausen (Planerwahlverfahren, selektives Verfahren)",
 "buyer": "Hochbauamt Kanton Zug",
 "country": "CHE",
-"pub": "2026-09-18",
+"pub": "2026-10-05",
 "deadline": "2026-11-18",
 "place": "6312 Steinhausen",
 "url": "https://konkurado.ch/de/planerwahlverfahren-provisorium-und-parkhaus-fur-die-zuger-polizei-sowie-ersatz-salzlager-auf-dem-areal-hinterberg-in-steinhausen",
 "source": "konkurado",
 "proc": "seleccion",
-"desc": "Restricción regional: WTO/GPA · Um die künftigen Anforderungen der Zuger Polizei (ZUPO) abzudecken und die Voraussetzungen für die Sanierung des Hauptstützpunkts «An der Aa» in Zug zu schaffen, ist ein zweiter Polizeistützpunkt erforderlich. Am verkehrstechnisch optimal gelegenen Standort Hinterberg in Steinhausen kann eine sicherheitstechnisch erwünschte Georedundanz sowie eine funktionale Entlastung des Hauptstandorts geschaffen werden. Im Vordergrund steht die kurzfristige Entlastung der ZUPO durch die Erstellung eines provisorischen Bürogebäudes sowie eines langfristig nutzbaren Parkhauses für Dienstfahrzeuge. Die baulic",
+"desc": "Restricción regional: WTO/GPA · anónimo · Um die künftigen Anforderungen der Zuger Polizei (ZUPO) abzudecken und die Voraussetzungen für die Sanierung des Hauptstützpunkts «An der Aa» in Zug zu schaffen, ist ein zweiter Polizeistützpunkt erforderlich. Am verkehrstechnisch optimal gelegenen Standort Hinterberg in Steinhausen kann eine sicherheitstechnisch erwünschte Georedundanz sowie eine funktionale Entlastung des Hauptstandorts geschaffen werden. Im Vordergrund steht die kurzfristige Entlastung der ZUPO durch die Erstellung eines provisorischen Bürogebäudes sowie eines langfristig nutzbaren Parkhauses für Dienstfahrzeuge. Die baulic",
 "first_seen": "2026-09-18",
 "title_es": "Planerwahlverfahren «Construcción provisional y aparcamiento para la policía de Zug así como reemplazo de la sal» en la zona Hinterberg en Steinhausen (Planerwahlverfahren, procedimiento selectivo)",
 "desc_es": "Restricción regional: OMC/OPA · Para cubrir los futuros requisitos de la policía de Zug (ZUPO) y crear las condiciones para la rehabilitación de la base operativa principal «An der Aa» en Zug, se requiere una segunda base operativa de policía. En la ubicación Hinterberg en Steinhausen, óptimamente situada desde el punto de vista del tráfico, se puede establecer una base de"
@@ -11331,12 +11342,20 @@
 "cur": "",
 "proc": "restricted",
 "desc": "Mission de maîtrise d'oeuvre pour la restructuration et l'extension de l'école élémentaire Saint-Exupéry à Savigny-sur-Orge.",
-"place": "",
+"place": "Savigny-sur-Orge (Francia)",
 "url": "https://ted.europa.eu/es/notice/-/detail/667005-2026",
 "source": "TED",
 "first_seen": "2026-09-28",
 "title_es": "Francia – Servicios de organización de concursos de proyectos de arquitectura – Misión de dirección de obra para la reestructuración y extensión de la escuela primaria Saint-Exupéry en Savigny-sur-Orge",
-"desc_es": "Misión de dirección de obra para la reestructuración y extensión de la escuela primaria Saint-Exupéry en Savigny-sur-Orge"
+"desc_es": "Misión de dirección de obra para la reestructuración y extensión de la escuela primaria Saint-Exupéry en Savigny-sur-Orge",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261449IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261449IN",
+"num": "COAVN-20261449IN"
+}
+]
 },
 {
 "num": "664881-2026",
@@ -11381,7 +11400,7 @@
 "title": "SBB Immobilien, Projektwettbewerb Ersatzneubau Bollwerk 2-8 (Projektwettbewerb, selektives Verfahren)",
 "buyer": "SBB Immobilien, Development Olten",
 "country": "CHE",
-"pub": "",
+"pub": "2026-10-06",
 "deadline": "2027-07-07",
 "place": "3011 Bern",
 "url": "https://konkurado.ch/de/sbb-immobilien-projektwettbewerb-ersatzneubau-bollwerk-2-8",
@@ -11508,8 +11527,8 @@
 "title": "Contratación de los servicios de redacción de proyecto y dirección de facultativa de las obras de rehabilitación de un edificio residencial para albergar 3 viviendas de alquiler en AUZA, Ultzama.",
 "buyer": "Alcaldía del Ayuntamiento de Ultzama",
 "country": "ESP",
-"pub": "2026-09-25",
-"deadline": "2026-10-13 10:00",
+"pub": "2026-10-05",
+"deadline": "2026-10-27 10:00",
 "place": "Ultzama",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=260924145207E693F8D3",
 "source": "PLACE (CCAA)",
@@ -11518,7 +11537,7 @@
 "value": "43241",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 71240000, 71000000",
+"desc": "Abierto · Servicios · CPV 71000000, 71240000",
 "first_seen": "2026-09-28",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260316N",
 "alt": [
@@ -12245,7 +12264,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71000000",
-"first_seen": "2026-09-28"
+"first_seen": "2026-09-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261458ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261458ES",
+"num": "COAVN-20261458ES"
+}
+]
 },
 {
 "num": "PLACE-2026/ETSAE0287/00000606E",
@@ -14073,20 +14100,20 @@
 "title": "Homologació d'empreses de consultoria, arquitectura i enginyeria, per a la prestació dels serveis següents en l'àmbit de les instal·lacions i infraestructures de la Fundació de Gestió Sanitària de l'Hospital de la Santa ",
 "buyer": "Fundació de Gestió Sanitària de l'Hospital de la Santa Creu i Sant Pau",
 "country": "ESP",
-"pub": "2026-09-29",
+"pub": "2026-10-05",
 "deadline": "2026-10-20 23:59",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/37a005a6-715a-414b-98b7-eafb77983fe1/300894070",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/37a005a6-715a-414b-98b7-eafb77983fe1/300899511",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "2900000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302627944/BBFB250D57B9072997471BC79820A228",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302627945/DB078A35FDE2A7C3EDD33F422D9AD384"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302646675/BBFB250D57B9072997471BC79820A228",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302646676/DB078A35FDE2A7C3EDD33F422D9AD384"
 ],
-"desc": "Abierto · Servicios · CPV 71000000, 71315000, 71317210, 71247000",
+"desc": "Abierto · Servicios · CPV 71000000, 71317210, 71315000, 71247000",
 "first_seen": "2026-09-30"
 },
 {
@@ -16033,7 +16060,7 @@
 "title": "Redacción de proyectos y otros estudios técnicos complementarios, así como la dirección de las obras correspondientes a la rehabilitación del salón de actos Andia de la Diputación Foral, sito en la calle Andia de Donosti",
 "buyer": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
 "country": "ESP",
-"pub": "2026-10-01",
+"pub": "2026-10-05",
 "deadline": "2026-11-02 18:00",
 "place": "Donostia-San Sebastian",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso738056/es_doc/index.html",
@@ -16043,8 +16070,8 @@
 "value": "401158",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13454852&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13454853&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13493644&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13493645&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71221000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260320G",
@@ -16759,7 +16786,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-04",
 "title_es": "concours restreint de dirección de obra para el proyecto de construcción de un equipamiento híbrido «mediateca-ludoteca» en el barrio del Val en Athis-Mons",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/686384-2026",
+"num": "686384-2026"
+}
+]
 },
 {
 "num": "KO-waesserwiesen",
@@ -17206,5 +17241,277 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000, 71319000, 71328000",
 "first_seen": "2026-10-05"
+},
+{
+"num": "686211-2026",
+"title": "Alemania – Servicios de arquitectura para edificios – WB_Neubau Feuerwehrstützpunkt + Feuerwehrhaus Holzhausen, Stadt Homberg (Efze)_Bewerbungsphase",
+"buyer": "Stadt Homberg (Efze)",
+"country": "DEU",
+"pub": "2026-10-06",
+"deadline": "2026-11-05T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Die Stadt Homberg (Efze) ist ein Mittelzentrum in Nordhessen im ländlich geprägten Schwalm-Eder-Kreis. Sie steht, wie viele andere Kommunen auch, vor den drängenden Herausforderungen des Strukturwandels und demografischer Veränderungsprozesse. Die Kreisstadt Homberg (Efze) veränderte daher in den vergangenen Jahren maßgeblich ihre städtebauliche Struktur und Funktion. Diese Entwicklungen machen auch vor der kommunalen Pflichtaufgabe, den Brandschutz auch in Zukunft zuverlässig und effektiv sicherzustellen nicht Halt. Aus diesem Grund hat die Stadtverordnetenversammlung beschlossen, einen neuen zentralen Feuerwehrstützpunkt zusammen mit dem Feuerwehrhaus Holzhausen auf dem Gelände des heutigen Sportplatzes in unmittelbar an die Kernstadt angrenzenden Stadtteil Holzhausen zu errichten. Der Standortentscheidung vorausgegangen sind verschiedene Untersuchungen, die schwerpunktmäßig die Belange des Brandschutzes bzw. der Feuerwehr in den Vordergrund gerückt haben. Aufgrund der Größe des Areals (ca. 19.000 m2) und seiner exponierten Lage wurde eine städtebauliche Rahmenplanung in Form einer Machbarkeitsstudie, unter Berücksichtigung angrenzender Flächen und Funktionsbereiche sowie der verkehrlichen Belange, erstellt. Dabei wurde eine breit angelegte Beteiligung der relevanten Stakeholder und der Öffentlichkeit durchgeführt. Die Ergebnisse dieser Machbarkeitsstudie bilden die Grundlage für das Vergabeverfahren der Architektenleistungen für den konkret zu planenden Neubau des Feuerweh",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/686211-2026",
+"source": "TED",
+"first_seen": "2026-10-06",
+"title_es": "Alemania – Servicios de arquitectura para edificios – WB_Neubau Feuerwehrstützpunkt + Feuerwehrhaus Holzhausen, Ciudad de Homberg (Efze)_Fase de solicitud",
+"desc_es": "La ciudad de Homberg (Efze) es un centro medio en el norte de Hesse en el distrito rural de Schwalm-Eder. Como muchas otras comunidades, enfrenta desafíos urgentes de transformación estructural y cambios demográficos. La ciudad de Homberg (Efze) ha modificado significativamente su estructura urbana en los últimos años"
+},
+{
+"num": "BOAMP-26-95965",
+"title": "Concours restreint de maîtrise d'oeuvre sur \"esquisse\" relatif aux travaux de construction du marché aux poissons, légumes et viandes de la Ville de Fort-de-France",
+"buyer": "CACEM - Communauté d'Agglomération Centre Martinique (mandataire de la Ville de Fort-de-France)",
+"country": "FRA",
+"pub": "2026-10-06",
+"deadline": "2026-11-05T12:00",
+"place": "dép. 972",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-95965",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/689095-2026",
+"num": "689095-2026"
+}
+],
+"first_seen": "2026-10-06",
+"title_es": "Concours restreint de dirección de obra sobre «esquisse» relativo a los trabajos de construcción del mercado de pescado, verduras y carnes de la Ciudad de Fort-de-France",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "688900-2026",
+"title": "Austria – Servicios de arquitectura, ingeniería y planificación – Mitte 15 / Westbanhof",
+"buyer": "Magistrat der Stadt Wien - Magistratsabteilung 21A",
+"country": "AUT",
+"pub": "2026-10-06",
+"deadline": "2026-11-12T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Städtebaulicher und freiraumplanerischer Realisierungswettbewerb",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/688900-2026",
+"source": "TED",
+"first_seen": "2026-10-06",
+"title_es": "Austria – Servicios de arquitectura, ingeniería y planificación – Mitte 15 / Westbanhof",
+"desc_es": "Concurso de realización urbanística y de planificación de espacios libres"
+},
+{
+"num": "KO-projektwettbewerb-schulanlage-felsberg",
+"title": "Projektwettbewerb Schulanlage Felsberg (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Gemeinde Felsberg (Fanzun AG)",
+"country": "CHE",
+"pub": "2026-10-06",
+"deadline": "2026-11-10",
+"place": "7012 Felsberg",
+"url": "https://konkurado.ch/de/projektwettbewerb-schulanlage-felsberg",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "anónimo · Eine Schule für Felsberg – heute und morgen Felsberg ist eine attraktive und wachsende Gemeinde im Bündner Rheintal. Zwischen Rhein und Calanda gelegen, verbindet der Ort die Nähe zu Chur mit einer hohen landschaftlichen Qualität und einem lebendigen Dorfleben. Die Schulanlage liegt zentral am Dorfeingang direkt entlang des Rheins mit dem Schutzwald. Ein attraktiver Freiraum für Naherholung und in diesem schönen Landschaftselement eingebettet liegt die Schule. Sie ist weit mehr als ein Ort für den täglichen Unterricht: Sie ist Bildungsort, Treffpunkt und Teil des öffentlichen Lebens der Gemein",
+"first_seen": "2026-10-06",
+"title_es": "Projektwettbewerb Complejo escolar Felsberg (Projektwettbewerb, procedimiento selectivo)",
+"desc_es": "Anónimo · Una escuela para Felsberg – hoy y mañana. Felsberg es una comunidad atractiva y en crecimiento en el valle del Rin en Grisones. Situada entre el Rin y Calanda, la localidad combina la proximidad a Chur con una alta calidad paisajística y una vida rural vibrante. El complejo escolar se ubica centralmente en la entrada del pueblo directamente a lo largo del Rin"
+},
+{
+"num": "BOAMP-26-95765",
+"title": "Concours restreint de maîtrise d'uvre sur « ESQ + » pour la construction du centre de restauration municipale à Noyelles-sous-Lens",
+"buyer": "Communauté d' Agglomération de Lens Lievin",
+"country": "FRA",
+"pub": "2026-10-06",
+"deadline": "",
+"place": "dép. 62",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-95765",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-06",
+"title_es": "Concours restreint de dirección de obra sobre «ESQ +» para la construcción del centro de restauración municipal en Noyelles-sous-Lens",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-95846",
+"title": "CONCOURS RESTREINT DE MAITRISE D'OEUVRE SUR ESQUISSE POUR LA RESTRUCTURATION ET L'EXTENSION DE LA CUISINE CENTRALE DE LA VILLE DE SAINT-JORY",
+"buyer": "COMMUNE  DE SAINT JORY",
+"country": "FRA",
+"pub": "2026-10-06",
+"deadline": "",
+"place": "dép. 31",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-95846",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-06",
+"title_es": "Concours restreint de dirección de obra sobre esquisse para la reestructuración y ampliación de la cocina central de la Ciudad de Saint-Jory",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "PLACE-3201_1124/2026",
+"title": "Servicio de redacción del Plan de infraestructura verde del Ayuntamiento de Orkoien",
+"buyer": "Alcaldía",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-10-20 23:59",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261005131626699F043B",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "21500",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000, 90712000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-2026K1150005",
+"title": "La contratación del servicio de DIRECCIÓN para las obras de pavimentación y mejora de caminos vecinales en el término municipal de Hondarribia",
+"buyer": "Ayuntamiento de Hondarribia-Alcaldía",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-10-21 12:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso747498/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "6200",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13492041&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13492042&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71247000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-PC. PC-AG-05087.2-A1-C1",
+"title": "Contracte de serveis per a l'assistència tècnica per a la redacció del projecte constructiu. Integració urbana de la GI-634 entre els PK 5+630 i 6+290. Colomers. Clau: AG-05087.2-A1-C1",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-10-26 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/a1e0291b-af81-4a66-b06c-eacec8862a3f/300899277",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "122571",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302646653/A7F0AD143F424145048A2139C815C26D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302646655/298479B8BD40C96CB39EE7C9A44A7C50"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71311000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-CONTR 2026 0000311570",
+"title": "rp y df reparación instal eléctrica y sustitución luminarias puerto mazagón",
+"buyer": "Agencia Pública de Puertos de Andalucía (APPA)",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-10-26 13:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1013727",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "13500",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-26/026",
+"title": "Asesoramiento jurídico especializado y defensa letrada de los intereses del IMHAB en materia de derecho de la edificación, tanto en la fase prejudicial como en la fase judicial, en las jurisdicciones civil y contencioso-",
+"buyer": "Institut Municipal de l'Habitatge i Rehabilitació de Barcelona",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-11-03 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/774e75bf-462b-49d0-ad13-cb2932468831/300898647",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "400000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302643464/7F82CD939CC3EAE042AEA5D6F88E95EC",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302643466/EBCBA0B939417C12567851B47978D872"
+],
+"desc": "Abierto · Servicios · CPV 79110000, 79111000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-DO. PC-FNT-22013.1.2.F3",
+"title": "Contrato de servicios para la dirección de las obras del Proyecto Constructivo \"Nuevo tranvía del Campo de Tarragona de los Ferrocarriles de la Generalidad de Cataluña. Fase 3: Viaducto en la Av. de Ramon de Olzina y nue",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-11-02 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/35ad8776-cc98-4123-87ac-ddaf3fcbfc18/300897682",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "534809",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302640229/33E930AF5681E95B48333AFDFF3E1406",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302640236/DC67225214B22679C78B8246794A04D8"
+],
+"desc": "Abierto · Servicios · CPV 71541000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-2026-SE-OH-33",
+"title": "Servicios de asistencia técnica consistentes en la redacción de proyecto ejecutivo, así como si procede, la dirección de obras dels proyecto de rehabilitación y mejora de la eficiencia energética del Pavellón Deportivo M",
+"buyer": "Ajuntament de Santa Coloma de Gramenet",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-11-02 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/4be4b33d-49a0-46bc-a2af-da3e38a70c93/300897374",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "338183",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302642694/AC8174C141C6BAEF82BD9EAA1A4D4FE5",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302642696/8DBEF6B8ACA42549F7F26A5B25172705"
+],
+"desc": "Abierto · Servicios · CPV 71242000, 71221000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "PLACE-UdG-2026-0024",
+"title": "La contratación, por parte de la Universidad de Girona (en adelante, UdG), como tomadora de la póliza de seguro a todo riesgo de pérdidas y daños materiales del patrimonio de la Universidad de Girona, bajo cualquiera de ",
+"buyer": "Universitat de Girona",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-11-02 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/0210eddd-04bf-4dd1-91b5-b1619ffc76f5/300896724",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "160000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637952/A43D8764651F676ED2D61106C72AC640",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302637303/50826597DEA5F32CEC3D00FA02036DA5"
+],
+"desc": "Abierto · Servicios · CPV 66515000",
+"first_seen": "2026-10-06"
 }
 ]
