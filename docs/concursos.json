@@ -16526,7 +16526,7 @@
 "country": "ESP",
 "pub": "2026-10-02",
 "deadline": "2026-10-22 18:00",
-"place": "",
+"place": "Galdakao",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744842/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -16538,7 +16538,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13478150&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71356200",
-"first_seen": "2026-10-03"
+"first_seen": "2026-10-03",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260326B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260326B",
+"num": "COAVN-20260326B"
+}
+]
 },
 {
 "num": "PLACE-606.2026.036",
@@ -16607,7 +16615,7 @@
 "country": "ESP",
 "pub": "2026-10-02",
 "deadline": "2026-11-02 13:00",
-"place": "",
+"place": "Bilbao",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso744105/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -16619,7 +16627,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13467160&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71311300",
-"first_seen": "2026-10-03"
+"first_seen": "2026-10-03",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260323B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260323B",
+"num": "COAVN-20260323B"
+}
+]
 },
 {
 "num": "PLACE-DO. TM-02609.1-C1.2B.A",
@@ -17512,6 +17528,92 @@
 "https://contractaciopublica.cat/portal-api/descarrega-document/302637303/50826597DEA5F32CEC3D00FA02036DA5"
 ],
 "desc": "Abierto · Servicios · CPV 66515000",
+"first_seen": "2026-10-06"
+},
+{
+"num": "COAVN-20260324G",
+"title": "Contratación de servicios para la actualización y mejora de auditorías y certificaciones energéticas de 36 edificios de la Diputación Foral de Gipuzkoa",
+"buyer": "Diputación Foral de Gipuzkoa",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-19 14:30",
+"place": "Gipuzkoa",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260324G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260324G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "170121",
+"cur": "EUR",
+"desc": "Presupuesto: 170.121,88 euros (IVA excluido) · Publicado en: Prensa (02/10/2026)",
+"first_seen": "2026-10-06"
+},
+{
+"num": "COAVN-20260325N",
+"title": "Redacción proyecto técnico y dirección de obra de ampliación de las instalaciones deportivas municipales",
+"buyer": "Ansoain Ayuntamiento",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-31 23:59",
+"place": "Ansoain",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260325N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260325N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "78750",
+"cur": "EUR",
+"desc": "Presupuesto: 78.750,00 Euros (IVA excluido) · Publicado en: www.navarra.es (02/10/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610020950284CAF8BCA",
+"num": "PLACE-3088_340080J"
+}
+],
+"first_seen": "2026-10-06"
+},
+{
+"num": "COAVN-20260327B",
+"title": "Dirección de la obra de renovación de las salas de calderas en la Central de Erandio",
+"buyer": "Gobierno Vasco - Eusko Jaurlaritza",
+"country": "ESP",
+"pub": "2026-10-02",
+"deadline": "2026-10-20 10:00",
+"place": "Erandio",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260327B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260327B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "33057",
+"cur": "EUR",
+"desc": "Presupuesto: 33.057,85 euros (IVA excluido) · Publicado en: www.euskadi.eus (02/10/2026)",
+"first_seen": "2026-10-06"
+},
+{
+"num": "COAVN-20260328N",
+"title": "Servicio de redacción del Plan de infraestructura verde del Ayuntamiento de Orkoien",
+"buyer": "Orkoien Ayuntamiento",
+"country": "ESP",
+"pub": "2026-10-05",
+"deadline": "2026-10-20 23:59",
+"place": "Orkoien",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260328N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260328N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "21500",
+"cur": "EUR",
+"desc": "Presupuesto: 21.500,00 Euros (IVA excluido) · Publicado en: www.euskadi.eus (05/10/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261005131626699F043B",
+"num": "PLACE-3201_1124/2026"
+}
+],
 "first_seen": "2026-10-06"
 }
 ]
