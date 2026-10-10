@@ -12014,20 +12014,20 @@
 "title": "Redacció del Pla Integral de Gestió dels sistemes de sanejament (PIGSS) de Portbou, Colera, Llançà, Cadaqués, Tossa de Mar, Roses, Castelló d'Empúries, L'Escala, Torroella de Montgrí i Castell-Platja d'Aro.",
 "buyer": "Consorci d'Aigües Costa Brava Girona",
 "country": "ESP",
-"pub": "2026-09-23",
+"pub": "2026-10-09",
 "deadline": "2026-10-23 14:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/b76ccca6-ed44-4252-ad84-d7b4aaa3f98c/300889850",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/b76ccca6-ed44-4252-ad84-d7b4aaa3f98c/300904782",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "1481983",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302615087/361703097CDC986458382AFF21A20B61",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302615088/D7F7F73CEBF9BAEF8A0C9155ED17CAAB"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302666444/361703097CDC986458382AFF21A20B61",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302666445/D7F7F73CEBF9BAEF8A0C9155ED17CAAB"
 ],
-"desc": "Abierto · Servicios · CPV 71351810, 71240000, 90491000",
+"desc": "Abierto · Servicios · CPV 90491000, 71351810, 71240000",
 "first_seen": "2026-09-28"
 },
 {
@@ -14109,7 +14109,7 @@
 "title": "Redacción del proyecto básico de edificación de viviendas dotacionales en Balenciaga",
 "buyer": "Ayuntamiento de Getaria-Alcaldía",
 "country": "ESP",
-"pub": "2026-09-29",
+"pub": "2026-10-09",
 "deadline": "2026-10-14 10:00",
 "place": "Getaria",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743221/es_doc/index.html",
@@ -14119,8 +14119,8 @@
 "value": "33057",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13439542&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13439543&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13539028&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13539027&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71200000",
 "first_seen": "2026-09-30",
@@ -14888,12 +14888,23 @@
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260320G",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260320G",
 "source": "COAVN Euskadi-Navarra",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "401158",
 "cur": "EUR",
 "desc": "Presupuesto: 401.158,32 euros (IVA excluido) · Publicado en: www.euskadi.eus (01/10/2026)",
-"first_seen": "2026-10-01"
+"first_seen": "2026-10-01",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13542261&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13542262&R01HNoPortal=true"
+],
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso738056/es_doc/index.html",
+"num": "PLACE-1-ET-57/2026-AT"
+}
+]
 },
 {
 "num": "COAVN-20260321CV",
@@ -16685,7 +16696,7 @@
 "country": "ESP",
 "pub": "2026-10-02",
 "deadline": "2026-10-31 23:59",
-"place": "",
+"place": "Ansoain",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610020950284CAF8BCA",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -16694,7 +16705,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71240000",
-"first_seen": "2026-10-03"
+"first_seen": "2026-10-03",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260325N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260325N",
+"num": "COAVN-20260325N"
+}
+]
 },
 {
 "num": "PLACE-2026-044766",
@@ -18112,7 +18131,7 @@
 "title": "Dirección facultativa, dirección de ejecución de obra y coordinación de seguridad y salud reurbanización plaza lehendakari Agirre",
 "buyer": "Ayuntamiento de Balmaseda-Alcalde",
 "country": "ESP",
-"pub": "2026-10-07",
+"pub": "2026-10-09",
 "deadline": "2026-10-22 23:59",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso748410/es_doc/index.html",
@@ -18122,8 +18141,8 @@
 "value": "39000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13520104&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13520105&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13543708&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13543707&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71247000",
 "first_seen": "2026-10-08"
@@ -20997,5 +21016,122 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71242000",
 "first_seen": "2026-10-09"
+},
+{
+"num": "PL-2027_skyscraper_competition",
+"title": "2027 Skyscraper Competition",
+"buyer": "",
+"country": "POL",
+"pub": "2026-10-10",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/2027_skyscraper_competition",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-10-10",
+"title_es": "Competencia de Rascacielos 2027"
+},
+{
+"num": "PLACE-CONTR 2026 0000305777",
+"title": "85-26SC Desmontaje, traslado y montaje edificios prefabricados 29009004",
+"buyer": "Agencia Pública Andaluza de Educación",
+"country": "ESP",
+"pub": "2026-10-09",
+"deadline": "2026-10-27 09:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1014598",
+"source": "PLACE (CCAA)",
+"proc": "",
+"kind": "licitación",
+"value": "97000",
+"cur": "EUR",
+"docs": [],
+"desc": "999 · Servicios · CPV 45223800",
+"first_seen": "2026-10-10"
+},
+{
+"num": "PLACE-A/SER-027780/2026",
+"title": "El objeto del presente contrato es la puesta en marcha y desarrollo de la III competición intermunicipal de Minecraft entre centros educativos contribuyendo al impulso de las competencias digitales, la creatividad y el c",
+"buyer": "Consejería de Digitalización",
+"country": "ESP",
+"pub": "2026-10-09",
+"deadline": "2026-10-26 23:59",
+"place": "",
+"url": "https://contratos-publicos.comunidad.madrid/contrato-publico/puesta-marcha-desarrollo-iii-edicion-liga-intermunicipal-minecraft-comunidad",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "78039",
+"cur": "EUR",
+"docs": [
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pcap_ser02778026_180926_091026.pdf",
+"https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/ppt_130726_anonimizado.pdf"
+],
+"desc": "Abierto simplificado · Servicios · CPV 79411000, 79952000, 79416100, 37532000",
+"first_seen": "2026-10-10"
+},
+{
+"num": "PLACE-2026/0002496",
+"title": "Serveis de suport tècnic per a la redacció d’informes tècnics de carreteres, dividit en dos lots",
+"buyer": "Diputació de Barcelona",
+"country": "ESP",
+"pub": "2026-10-09",
+"deadline": "2026-11-05 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/fa406e3c-dd9e-4045-a5cf-1b6cec652ef6/300904928",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "112475",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302666979/AF88CABEA1AA79254879D21794D631D3",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302666982/668D3F2000852D66754A5BD964A3CD64"
+],
+"desc": "Abierto · Servicios · CPV 71240000, 71300000, 71311000",
+"first_seen": "2026-10-10"
+},
+{
+"num": "PLACE-P20028307",
+"title": "Servicio de apoyo a la Dirección de las obras de señalización de las cocheras de Zumaia, Variante de Altzola y nuevos enclavamientos en Itsasbegi y Mundaka - Bermeo",
+"buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
+"country": "ESP",
+"pub": "2026-10-09",
+"deadline": "2026-11-09 12:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso748228/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "360000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13538693&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13538696&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71310000",
+"first_seen": "2026-10-10"
+},
+{
+"num": "PLACE-PE+DO. CGG-24357",
+"title": "Contrato de servicios para la redacción del proyecto básico, el proyecto ejecutivo y la posterior dirección de obra de las obras de Rehabilitación Integral de la antigua comisaría de Les Gavarres como Área Regional de lo",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-09",
+"deadline": "2026-11-09 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c946b3ea-d691-4ca2-897d-c9dd79175b20/300904352",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "193600",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302665062/BA859CCB3A3D8E81A9F887CA6FB6C275",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302665064/8B02B32391FFA32C3EB069DB5B997FE8"
+],
+"desc": "Abierto · Servicios · CPV 71541000, 71242000",
+"first_seen": "2026-10-10"
 }
 ]
