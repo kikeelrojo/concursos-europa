@@ -21223,5 +21223,21 @@
 ],
 "desc": "Abierto · Servicios · CPV 71300000",
 "first_seen": "2026-10-10"
+},
+{
+"num": "BOAMP-26-97975",
+"title": "Concours de maîtrise d'oeuvre pour la construction d'un centre d'exploitation mobilité à Herbignac",
+"buyer": "CAP ATLANTIQUE",
+"country": "FRA",
+"pub": "2026-10-11",
+"deadline": "2026-11-02 11:00",
+"place": "dép. 44",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-97975",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-11",
+"title_es": "Concurso de dirección de obra para la construcción de un centro de explotación de movilidad en Herbignac",
+"desc_es": "Concours restreint · Dirección de obra"
 }
 ]
