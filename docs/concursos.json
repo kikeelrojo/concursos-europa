@@ -15363,6 +15363,11 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/681315-2026",
 "num": "681315-2026"
+},
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/701297-2026",
+"num": "701297-2026"
 }
 ],
 "first_seen": "2026-10-02",
@@ -17045,7 +17050,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vJ%2B0aT6Vpj5YO4Z9ORS%2BC1%2BT7dn%2BXRcuQoyhJGJiOku9AnVGc%2Bmf6a1%2BNZEDmAWyZyYdtJdYBqq8DUucCoNzQ%2BqJ1R2wkY73EDmrm5z0n0E//q7NB2iMZvNyf0xrJmjt"
 ],
 "desc": "Abierto · Servicios · CPV 71000000, 71317200, 71541000",
-"first_seen": "2026-10-05"
+"first_seen": "2026-10-05",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261505ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261505ES",
+"num": "COAVN-20261505ES"
+}
+]
 },
 {
 "num": "PLACE-PSS/2026/0000048928",
@@ -17498,7 +17511,7 @@
 "url": "https://konkurado.ch/de/projektwettbewerb-schulanlage-felsberg",
 "source": "konkurado",
 "proc": "seleccion",
-"desc": "anónimo · Eine Schule für Felsberg – heute und morgen Felsberg ist eine attraktive und wachsende Gemeinde im Bündner Rheintal. Zwischen Rhein und Calanda gelegen, verbindet der Ort die Nähe zu Chur mit einer hohen landschaftlichen Qualität und einem lebendigen Dorfleben. Die Schulanlage liegt zentral am Dorfeingang direkt entlang des Rheins mit dem Schutzwald. Ein attraktiver Freiraum für Naherholung und in diesem schönen Landschaftselement eingebettet liegt die Schule. Sie ist weit mehr als ein Ort für den täglichen Unterricht: Sie ist Bildungsort, Treffpunkt und Teil des öffentlichen Lebens der Gemein",
+"desc": "Restricción regional: WTO/GPA · anónimo · Eine Schule für Felsberg – heute und morgen Felsberg ist eine attraktive und wachsende Gemeinde im Bündner Rheintal. Zwischen Rhein und Calanda gelegen, verbindet der Ort die Nähe zu Chur mit einer hohen landschaftlichen Qualität und einem lebendigen Dorfleben. Die Schulanlage liegt zentral am Dorfeingang direkt entlang des Rheins mit dem Schutzwald. Ein attraktiver Freiraum für Naherholung und in diesem schönen Landschaftselement eingebettet liegt die Schule. Sie ist weit mehr als ein Ort für den täglichen Unterricht: Sie ist Bildungsort, Treffpunkt und Teil des öffentlichen Lebens der Gemein",
 "first_seen": "2026-10-06",
 "title_es": "Projektwettbewerb Complejo escolar Felsberg (Projektwettbewerb, procedimiento selectivo)",
 "desc_es": "Anónimo · Una escuela para Felsberg – hoy y mañana. Felsberg es una comunidad atractiva y en crecimiento en el valle del Rin en Grisones. Situada entre el Rin y Calanda, la localidad combina la proximidad a Chur con una alta calidad paisajística y una vida rural vibrante. El complejo escolar se ubica centralmente en la entrada del pueblo directamente a lo largo del Rin"
@@ -21303,5 +21316,94 @@
 ],
 "desc": "Abierto · Servicios · CPV 71400000, 71410000",
 "first_seen": "2026-10-11"
+},
+{
+"num": "703122-2026",
+"title": "Dinamarca – Servicios de arquitectura, construcción, ingeniería e inspección – Projektkonkurrence Svanemølleværket DTM 4.0",
+"buyer": "Bygnings- og Udviklingsfonden DTM 4.0",
+"country": "DNK",
+"pub": "2026-10-12",
+"deadline": "2026-11-02T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Hermed udbydes projektkonkurrencen om transformationen af Svanemølleværket til Det nye Danmarks Tekniske Museum. Danmark er en af verdens mest teknologiintensive nationer, men det nationale tekniske museum har ikke rammer, der svarer til opgaven. Det nye museum skal på internationalt niveau samle og formidle teknologiens historie, nutid og fremtid og fungere som et åbent værksted og mødested for teknologisk dannelse, debat, læring og oplevelser. Svanemølleværket skal transformeres fra kraftværk til kraftcenter: et åbent, inviterende og levende hus, hvor Danmarks Tekniske Museum er husets bærende funktion og faglige omdrejningspunkt. TRANSFORMATIONEN skal tage udgangspunkt i værkets industrielle karakter, rumlige kvaliteter og bevaringsværdier. Bygningen skal selv være en aktiv del af museumsoplevelsen og transformationen skal være et forbillede for omdannelse af eksisterende industribyggeri med lav klimapåvirkning, høj genanvendelse og en tydelig sammenhæng mellem bevaring, ny anvendelse og arkitektonisk kvalitet. Konkurrencens centrale opgave er på idé- og konceptniveau at udvikle et samlet arkitektonisk og teknisk hovedgreb for transformationen. HOVEDGREBET skal samle den overordnede disponering af museum, publikumsfunktioner, mulig hub og drift, indgrebsniveauet, den klimatiske og tekniske strategi samt husets møde med byen og havnen. Huset skal kunne rumme en offentlighed, ikke kun et publikum, arbejde med det aktuelle og uafsluttede, tage imod skoler og læringsforløb i s",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/703122-2026",
+"source": "TED",
+"first_seen": "2026-10-12",
+"title_es": "Dinamarca – Servicios de arquitectura, construcción, ingeniería e inspección – Projectkonkurrence Svanemølleværket DTM 4.0",
+"desc_es": "Se convoca la projectkonkurrence para la transformación de Svanemølleværket en el Nuevo Museo Técnico de Dinamarca. Dinamarca es una de las naciones más intensivas en tecnología del mundo, pero el museo técnico nacional carece de infraestructura acorde con la tarea. El nuevo museo debe reunir y difundir a nivel internacional la historia, presente y futuro de la tecnología."
+},
+{
+"num": "702330-2026",
+"title": "Francia – Servicios de arquitectura, ingeniería y planificación – RESTRUCTURATION LOURDE ET RÉNOVATION ÉNERGÉTIQUE DU COLLÈGE DES 4 VENTS AU LUDE (72800)",
+"buyer": "Département de la Sarthe",
+"country": "FRA",
+"pub": "2026-10-12",
+"deadline": "2026-11-13T11:30",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Le présent concours restreint est organisé afin de choisir un projet en vue de l'attribution ultérieure du marché de maîtrise d'oeuvre pour la restructuration lourde et rénovation énergétique du collège des 4 Vents au Lude (72800). Le niveau de conception des prestations demandées est « l'esquisse + ». Le groupement devra disposer des compétences minimales suivantes : - Architecture - Démolition - Structure - VRD - CVC - Plomberie Sanitaire (compris STD et FLJ) - Électricité (compris VDI) - Acoustique - Cuisine collective - Économie de la construction - Synthèse - Coordination SSI - OPC La mission confiée au maître d'oeuvre est une mission de base pour les opérations de réhabilitation au sens du Livre IV du Code de la Commande Publique. La mission de base sera complétée par les missions complémentaires suivantes : - Coordination SSI - Simulation Thermique Dynamique (STD) - OPC La part de l'enveloppe financière prévisionnelle affectée aux travaux est estimée à 6 700 000 euro(s) HT (valeur juin 2026)",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/702330-2026",
+"source": "TED",
+"first_seen": "2026-10-12",
+"title_es": "Francia – Servicios de arquitectura, ingeniería y planificación – Restructuración pesada y renovación energética del Colegio de los 4 Vientos en Le Lude (72800)",
+"desc_es": "El presente concours restreint se organiza para elegir un proyecto con vistas a la posterior adjudicación del contrato de dirección de obra para la restructuración pesada y renovación energética del Colegio de los 4 Vientos en Le Lude (72800). El nivel de diseño de los servicios solicitados es «anteproyecto +». El agrupamiento deberá disponer de las competencias necesarias."
+},
+{
+"num": "701979-2026",
+"title": "Austria – Servicios de arquitectura y servicios conexos – EU-weiter, nicht offener Realisierungswettbewerb mit vorgeschaltetem Bewerbungsverfahren zur Erlangung von Vorentwurfskonzepten für die Sanierung und Erweiterung der Volksschule Arzl im Pitztal",
+"buyer": "Gemeinde Arzl im Pitztal",
+"country": "AUT",
+"pub": "2026-10-12",
+"deadline": "2026-11-12T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Gegenstand des Wettbewerbs ist die Erlangung von Vorentwurfskonzepten für die Erweiterung des bestehenden Volksschulgebäudes um einen Turnsaal mit den erforderlichen Umkleidebereichen sowie für die Sanierung und funktionale Reorganisation des Bestandsgebäudes im Sinne einer baulichen Clusterschule. Darüber hinaus umfasst die Aufgabenstellung die Sanierung der Räumlichkeiten des Horts.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/701979-2026",
+"source": "TED",
+"first_seen": "2026-10-12",
+"title_es": "Austria – Servicios de arquitectura y servicios conexos – Realisierungswettbewerb a nivel europeo, no abierto, con procedimiento previo de solicitud para obtener conceptos de anteproyecto para la rehabilitación y ampliación de la Escuela Primaria Arzl en Pitztal",
+"desc_es": "El objeto del concurso es obtener conceptos de anteproyecto para la ampliación del edificio escolar existente con un gimnasio y los vestuarios necesarios, así como para la rehabilitación y reorganización funcional del edificio existente en el sentido de una escuela primaria en cluster. Además, la tarea incluye la evaluación de sostenibilidad."
+},
+{
+"num": "KO-projet-de-transformation-et-dagrandissement-de-lecole-exista",
+"title": "Projet de transformation et d’agrandissement de l’école existante (Planerwahlverfahren, offenes Verfahren)",
+"buyer": "Commune de Remaufens",
+"country": "CHE",
+"pub": "2026-10-12",
+"deadline": "2026-11-23",
+"place": "1617 Remaufens",
+"url": "https://konkurado.ch/de/projet-de-transformation-et-dagrandissement-de-lecole-existante",
+"source": "konkurado",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · Le marché concerne un contrat avec un groupement pluridisciplinaire de mandataires composé des compétences d’un architecte (pilote), d’un ingénieur civil, d’un ingénieur bois et des ingénieurs spécialisés en installations techniques du bâtiment CVSE, physicien en bâtiment, spécialiste en concept énergétique et spécialiste AEAI. Toutes les phases SIA 31 à 53 doivent être chiffrées à part pour l'architecte dont la phase 31 est quasiment achevée et pour laquelle un quota d'heures est prévu pour l'étude des façades et la dépose du dossier de la demande préalable. Le projet est la transformation et",
+"first_seen": "2026-10-12",
+"title_es": "Proyecto de transformación y ampliación de la escuela existente (Planerwahlverfahren, procedimiento abierto)",
+"desc_es": "Restricción regional: OMC/ACP · El contrato concierne un mandato con un agrupamiento pluridisciplinario de mandatarios compuesto por competencias de un arquitecto (coordinador), un ingeniero civil, un ingeniero de madera e ingenieros especializados en instalaciones técnicas del edificio CVSE, físico de la construcción, especialista en concepto energético y especialistas técnicos."
+},
+{
+"num": "BOAMP-26-98448",
+"title": "Concours restreint de niveau ESQUISSE+ en vue d'un marché de maitrise d'oeuvre pour l'extension et la réhabilitation du Centre de Long Séjour St Pierre le Moutier - Phase 2",
+"buyer": "Centre Hospitalier de l&#039;Agglomération de Nevers",
+"country": "FRA",
+"pub": "2026-10-12",
+"deadline": "",
+"place": "dép. 58",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-98448",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure NC · Maîtrise d'oeuvre",
+"first_seen": "2026-10-12",
+"title_es": "concours restreint de nivel ANTEPROYECTO+ para un contrato de dirección de obra de la extensión y rehabilitación del Centro de Larga Estancia St Pierre le Moutier - Fase 2",
+"desc_es": "Procedimiento NC · Dirección de obra"
 }
 ]
