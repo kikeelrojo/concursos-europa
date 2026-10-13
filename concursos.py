@@ -403,21 +403,44 @@ if __name__ == "__main__":
     os.makedirs("docs", exist_ok=True)
     json.dump(base, open(BASE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"base: {len(base)} en total, {len(new)} nuevos")
-    # mail: los lunes (o forzado con MAIL_SIEMPRE=1) con todo lo nuevo de los últimos 7 días
-    hace7 = (dt.date.today() - dt.timedelta(days=7)).isoformat()
-    semana = [c for c in base if (c.get("first_seen") or "") >= hace7]
-    es_lunes = dt.date.today().weekday() == 0 and dt.datetime.utcnow().hour < 12   # solo la pasada de la mañana
-    out = html(semana if es_lunes else new)
+    # --- estado de envíos (lo escribe el robot): fecha del último mail semanal y Open Oproep ya avisados
+    ESTADO = "docs/estado.json"
+    try:
+        estado = json.load(open(ESTADO, encoding="utf-8"))
+    except Exception:
+        estado = {}
+    hoy = dt.date.today()
+    ultimo = estado.get("ultimo_mail_semanal", "")
+    # GitHub retrasa a menudo la pasada de las 8:00 varias horas, así que no se mira la hora:
+    # sale en la primera pasada del lunes, o en cualquier pasada si llevamos 7 días o más sin mail.
+    dias = (hoy - dt.date.fromisoformat(ultimo)).days if ultimo else 99
+    toca_semanal = (hoy.weekday() == 0 and ultimo != hoy.isoformat()) or dias >= 7
+    desde = ultimo if ultimo and dias < 14 else (hoy - dt.timedelta(days=7)).isoformat()
+    semana = [c for c in base if (c.get("first_seen") or "") >= desde]
+    # Open Oproep: aviso inmediato, cualquier día, en cuanto aparece uno no avisado y con plazo abierto
+    avisados = set(estado.get("oo_avisados", []))
+    oo_nuevos = [c for c in base if es_open_oproep(c) and c["num"] not in avisados
+                 and not (c.get("deadline") and c["deadline"][:10] < hoy.isoformat())]
+    out = html(semana if toca_semanal else new)
     with open("ultimo_listado.html", "w", encoding="utf-8") as f:
         f.write(out)
-    if os.getenv("MAIL_TO") and not (es_lunes or os.getenv("MAIL_SIEMPRE")):
-        print(f"día entre semana: base actualizada ({len(new)} nuevos), sin mail hasta el lunes")
-    elif os.getenv("MAIL_TO"):
-        lote = semana if es_lunes else new
-        asunto = f"Concursos arquitectura Europa · {len(lote)} nuevos"
-        if any(es_open_oproep(c) for c in lote):
-            asunto = "OPEN OPROEP · " + asunto
-        send(asunto, out)
-        print("mail enviado a", os.environ["MAIL_TO"])
-    else:
+    if not os.getenv("MAIL_TO"):
         print("MAIL_TO no definido: no se envía mail")
+    else:
+        if oo_nuevos:
+            send(f"OPEN OPROEP · Vlaams Bouwmeester · {len(oo_nuevos)} encargos", html(oo_nuevos))
+            avisados |= {c["num"] for c in oo_nuevos}
+            estado["oo_avisados"] = sorted(avisados)
+            print("aviso Open Oproep enviado:", [c["num"] for c in oo_nuevos])
+        if toca_semanal or os.getenv("MAIL_SIEMPRE"):
+            lote = semana if toca_semanal else new
+            asunto = f"Concursos arquitectura Europa · {len(lote)} nuevos"
+            if any(es_open_oproep(c) for c in lote):
+                asunto = "OPEN OPROEP · " + asunto
+            send(asunto, html(lote))
+            if toca_semanal:
+                estado["ultimo_mail_semanal"] = hoy.isoformat()
+            print("mail semanal enviado a", os.environ["MAIL_TO"])
+        else:
+            print(f"sin mail semanal hoy (último: {ultimo}); {len(new)} nuevos en la base")
+    json.dump(estado, open(ESTADO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

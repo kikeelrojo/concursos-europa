@@ -9,6 +9,7 @@ LIST = "https://www.vlaamsbouwmeester.be/nl/projecten"
 UA = {"User-Agent": "Mozilla/5.0 (concursos-arrova)"}
 CODE = re.compile(r"\b(OO|OAG)\s?(\d{4})\b")
 DATE = re.compile(r"(\d{2})\.(\d{2})\.(\d{4})\s+(\d{2})\.(\d{2})\s*uur")
+FICHA = re.compile(r"Deadline:?\s*(\d{2})\.(\d{2})\.(\d{4})")
 SKIP = ("Meesterproef", "MP")  # solo para recién titulados
 
 
@@ -71,6 +72,15 @@ def fetch():
                 items.setdefault(k, v)           # la portada (con plazo) manda
         except Exception as e:                    # una fuente caída no tumba el mail
             print("bouwmeester:", url, e)
+    for v in items.values():                      # sin plazo: se lee de la ficha del proyecto
+        if not v["deadline"]:
+            try:
+                t = requests.get(v["url"], headers=UA, timeout=60).text
+                m = FICHA.search(BeautifulSoup(t, "html.parser").get_text(" ", strip=True))
+                if m:
+                    v["deadline"] = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+            except Exception as e:
+                print("bouwmeester ficha:", v["url"], e)
     return list(items.values())
 
 
