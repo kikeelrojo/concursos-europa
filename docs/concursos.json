@@ -17915,7 +17915,7 @@
 "title": "Redacción del proyecto y dirección de las obras de renovación de la red de distribución de agua en distintas zonas del centro de Irun",
 "buyer": "TXINZER-Directora-Gerente",
 "country": "ESP",
-"pub": "2026-10-06",
+"pub": "2026-10-13",
 "deadline": "2026-10-22 11:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743932/es_doc/index.html",
@@ -17925,8 +17925,8 @@
 "value": "96137",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13505373&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13505374&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13549751&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13549752&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-10-07"
@@ -19694,6 +19694,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261527ES",
 "num": "COAVN-20261527ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261519ES",
+"num": "COAVN-20261519ES"
 }
 ]
 },
@@ -21060,7 +21065,7 @@
 "title": "85-26SC Desmontaje, traslado y montaje edificios prefabricados 29009004",
 "buyer": "Agencia Pública Andaluza de Educación",
 "country": "ESP",
-"pub": "2026-10-09",
+"pub": "2026-10-13",
 "deadline": "2026-10-27 09:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1014598",
@@ -21962,5 +21967,217 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71221000, 71247000",
 "first_seen": "2026-10-13"
+},
+{
+"num": "707858-2026",
+"title": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Prestation de maîtrise d'oeuvre pour la construction d'une maison des associations à Villers le lac",
+"buyer": "MAIRIE de VILLERS LE LAC",
+"country": "FRA",
+"pub": "2026-10-14",
+"deadline": "2026-11-10T18:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Le présent concours porte sur la désignation d'une équipe de maîtrise d'oeuvre pour la construction d'une maison des associations à Villers le lac",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/707858-2026",
+"source": "TED",
+"first_seen": "2026-10-14",
+"title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Prestación de dirección de obra para la construcción de una casa de asociaciones en Villers le lac",
+"desc_es": "El presente concurso trata sobre la designación de un equipo de dirección de obra para la construcción de una casa de asociaciones en Villers le lac"
+},
+{
+"num": "709490-2026",
+"title": "Alemania – Servicios de arquitectura, ingeniería y planificación – Bernd-Ryke-Grundschule Erweiterung und Gesamtsanierung der Schulanlage Fachplanung Tragwerk",
+"buyer": "Bezirksamt Spandau von Berlin",
+"country": "DEU",
+"pub": "2026-10-14",
+"deadline": "2026-11-12T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "oth-mult",
+"desc": "Das Bezirksamt Spandau von Berlin beabsichtigt die Erweiterung und Gesamtsanierung der Schulanlage Bernd-Ryke-Grundschule. Da kein Ausweichstandort zur Verfügung steht, muss die Erweiterung im laufenden Betrieb erfolgen. Gegenstand der vorliegenden Vergabe sind die Planungsleistungen (Grundleistungen) der Leistungsphasen 1 bis 6 des Leistungsbildes Fachplanung Tragwerk gemäß HOAI sowie besondere Leistungen. Weitere Details entnehmen Sie bitte der Leistungsbeschreibung sowie dem Vertragsentwurf.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/709490-2026",
+"source": "TED",
+"first_seen": "2026-10-14",
+"title_es": "Alemania – Servicios de arquitectura, ingeniería y planificación – Ampliación Bernd-Ryke-Grundschule y rehabilitación integral de la instalación escolar Planificación de estructuras",
+"desc_es": "La Oficina del Distrito de Spandau de Berlín tiene la intención de ampliar y rehabilitar integralmente la instalación escolar Bernd-Ryke-Grundschule. Como no hay ubicación alternativa disponible, la ampliación debe realizarse durante la operación. El objeto de la presente licitación son los servicios de planificación (prestaciones básicas) de las fases de prestación 1 a 6 del cuadro de prestaciones"
+},
+{
+"num": "BOAMP-26-98742",
+"title": "Concours restreint de maitrise d'oeuvre sur Avant-Projet Sommaire pour la construction d'un nouveau théâtre",
+"buyer": "Ville de Bourgoin-Jallieu",
+"country": "FRA",
+"pub": "2026-10-14",
+"deadline": "2026-11-23 11:00",
+"place": "dép. 38",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-98742",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/708620-2026",
+"num": "708620-2026"
+}
+],
+"first_seen": "2026-10-14",
+"title_es": "concours restreint de dirección de obra sobre Anteproyecto Esquemático para la construcción de un nuevo teatro",
+"desc_es": "Procedimiento restringido · Dirección de obra"
+},
+{
+"num": "KO-gesamtleistungswettbewerb-teil-ruckbau-und-neubau-alterszent",
+"title": "Gesamtleistungswettbewerb (Teil-) Rückbau und Neubau Alterszentrum Hofmatt 1, Weggis (Gesamtleistungswettbewerb, selektives Verfahren)",
+"buyer": "Stiftung APW",
+"country": "CHE",
+"pub": "2026-10-14",
+"deadline": "2026-12-11",
+"place": "6353 Weggis",
+"url": "https://konkurado.ch/de/gesamtleistungswettbewerb-teil-ruckbau-und-neubau-alterszentrum-hofmatt-1-weggis",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Das bestehende Alterszentrum Hofmatt wurde von 1982 bis 1984 realisiert und im Jahr 1984 eröffnet. Das Alterszentrum wurde im Jahr 2006 um einen Erweiterungsbau ergänzt. Um einen qualitativen und zeitgemässen Betrieb zu gewährleisten, soll nun ein umfassender (Teil-) Rückbau und Neubau des Alterszentrums geplant und realisiert werden. Aufgrund einer mehrstufigen Machbarkeitsstudie im Jahr 2025 resultierte ein Rückbau- und Neubaukonzept: die drei bestehenden Untergeschosse sollen übernommen werden und darüber ein mehrgeschossiger Neubau platziert werden. Während die Untergeschosse in ihr",
+"first_seen": "2026-10-14",
+"title_es": "Concurso de prestación completa (parcial) Demolición y construcción nueva Centro de mayores Hofmatt 1, Weggis (Concurso de prestación completa, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · El existente Centro de mayores Hofmatt fue realizado de 1982 a 1984 y abierto en el año 1984. El Centro de mayores fue complementado en 2006 con una ampliación. Para garantizar una operación cualitativa y contemporánea, se pretende ahora planificar una demolición (parcial) y construcción nueva integrales del Centro de mayores"
+},
+{
+"num": "KO-praqualifikation-planerleistungen-generalplanung-arealentwic",
+"title": "Präqualifikation Planerleistungen Generalplanung Arealentwicklung Hüslimatt Etappe 1 (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "BLT Baselland Transport AG",
+"country": "CHE",
+"pub": "2026-10-14",
+"deadline": "2026-11-17",
+"place": "4104 Oberwil",
+"url": "https://konkurado.ch/de/praqualifikation-planerleistungen-generalplanung-arealentwicklung-huslimatt-etappe-1",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die BLT AG schreibt mit dem vorliegenden Verfahren die Erbringung von Generalplanerleistungen für die Etappe 1 der Arealentwicklung Hüslimatt in Oberwil aus. Der Leistungsumfang umfasst die Planung und Projektierung der vorgesehenen Bauvorhaben über sämtliche erforderlichen Fachdisziplinen hinweg. Grundlage bilden die bestehende Machbarkeitsstudie sowie das Vorprojekt für die Gesamtentwicklung des Areals. Der Auftrag beinhaltet insbesondere die Überprüfung und Weiterentwicklung des bestehenden Vorprojekts, die Erarbeitung wirtschaftlicher und betrieblich optimierter Lösungen für die Etappe 1 s",
+"first_seen": "2026-10-14",
+"title_es": "Precalificación Prestaciones de planificación Planificación general Desarrollo de área Hüslimatt Etapa 1 (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · BLT AG convoca con el presente procedimiento la prestación de servicios de planificación general para la Etapa 1 del desarrollo de área Hüslimatt en Oberwil. El alcance de las prestaciones incluye la planificación y proyectación de los proyectos de construcción previstos en todas las disciplinas especializadas requeridas. La base la forman"
+},
+{
+"num": "KO-studienauftrag-entwicklung-zvb-areal-oberageri",
+"title": "Studienauftrag Entwicklung ZVB-Areal Oberägeri (Projektstudie, selektives Verfahren)",
+"buyer": "Einwohnergemeinde Oberägeri / Zugerland Verkehrsbetriebe AG",
+"country": "CHE",
+"pub": "2026-10-14",
+"deadline": "2026-11-12",
+"place": "6315 Oberägeri",
+"url": "https://konkurado.ch/de/studienauftrag-entwicklung-zvb-areal-oberageri",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die Zugerland Verkehrsbetriebe AG (ZVB) will ihr zentrales Grundstück im Dorfzentrum von Ober­ägeri, auf dem sich heute das alte Busdepot befindet, weiterentwickeln. Auf einem Teil des Areals plant die Gemeinde Oberägeri ein Pflegezentrum, auf der übrigen Fläche möchte die ZVB insbesondere Familienwohnungen realisieren. Mit dem vorliegenden Studienauftrag im selektiven Verfahren wird ein ortsbaulich, architektonisch, freiräumlich und wirtschaftlich überzeugendes Projekt gesucht, welches die nutzerspezifischen Vorgaben erfüllt und in einem nächsten Schritt als Basis für den ordentlichen Bebauun",
+"first_seen": "2026-10-14",
+"title_es": "Studienauftrag Desarrollo de Área ZVB Oberägeri (Estudio de proyecto, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · Zugerland Verkehrsbetriebe AG (ZVB) desea desarrollar su propiedad central en el centro de la localidad de Oberägeri, donde actualmente se encuentra el antiguo depósito de autobuses. En una parte del área, el municipio de Oberägeri planifica un centro de cuidados; en la superficie restante, ZVB desea realizar particularmente viviendas familiares"
+},
+{
+"num": "PLACE-35/2026",
+"title": "L'objecte del contracte és disposar d'un servei d'enginyeria per redactar els projectes bàsics i els plecs de prescripcions tècniques particulars associats a les tres actuacions solars del CAT, incloent visites i presa d",
+"buyer": "Consorci d'Aigües de Tarragona",
+"country": "ESP",
+"pub": "2026-10-13",
+"deadline": "2026-10-29 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/33a21fc0-6c3d-4965-b1ac-5e024c1a162a/300907215",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "80000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302674713/0905611B155CD186BE771DFEB5DA526E",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302674712/3FB8B2024F601E745CE5B0D6B200B19D"
+],
+"desc": "Abierto · Servicios · CPV 71320000, 71242000, 71300000, 71323100",
+"first_seen": "2026-10-14"
+},
+{
+"num": "PLACE-12/2026/CSOS",
+"title": "Direcció Facultativa i Coordinació de Seguretat i Salut de les obres compreses en el “Projecte bàsic i d’execució per a la construcció d’un refugi per a gats”",
+"buyer": "Ajuntament de Rubí",
+"country": "ESP",
+"pub": "2026-10-13",
+"deadline": "2026-10-28 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/964ef65d-3075-443a-ac8e-ff890d6b883a/300906567",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "9863",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302672252/43A869545C39A6C9FB5327857620EE71",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302672254/0A2FF33A4DDFF113DFE5B4246265E64C"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71247000",
+"first_seen": "2026-10-14"
+},
+{
+"num": "PLACE-CEB-2026-596",
+"title": "Serveis de PROJECT MANAGER corresponent a les obres del \"Projecte d'ubicació de l'institut escola Xirinacs, de dues línies d'ensenyament del segon cicle d'educació infantil, de primària i d'ESO; d'un nou pavelló PAV-3; d",
+"buyer": "Consorci d'Educació de Barcelona",
+"country": "ESP",
+"pub": "2026-10-13",
+"deadline": "2026-10-30 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/4199de94-807e-49af-87eb-94488fb3bf8b/300906383",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "194674",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302671598/D910E69320F5D7E955755AE159AC4CAA",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302671768/A9B32B183FAF1287D794813A5000BAB4"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"first_seen": "2026-10-14"
+},
+{
+"num": "PLACE-EI. EI-CPB-26057",
+"title": "Contracte de serveis per a l'assistència tècnica per a la redacció de l'estudi informatiu \"Nou enllaç a la C-17 entre els PK 41+000i 43+000. Aiguafreda-Centelles\". Clau: EI-CPB-26057",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-13",
+"deadline": "2026-11-02 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/4a8e1008-89fc-4734-80f7-dcdaece06978/300903584",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "150658",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302672842/6033E101B18888F50F5FA3CA5DE3737D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302662225/07DD176AEC46CB7F21934096897B5A92"
+],
+"desc": "Abierto · Servicios · CPV 71242000",
+"first_seen": "2026-10-14"
+},
+{
+"num": "PLACE-Septiembre-2026",
+"title": "Enajenación de bienes inmuebles titularidad de la Agencia de Vivienda y Rehabilitación de Andalucía mediante los procedimientos de Subasta y Concurso público de ofertas de compra de suelo residencial para construir vivie",
+"buyer": "Agencia de Vivienda y Rehabilitación de Andalucía (AVRA)",
+"country": "ESP",
+"pub": "2026-10-13",
+"deadline": "2027-01-14 14:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1014459",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "20728904",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · 50 · CPV 70110000",
+"first_seen": "2026-10-14"
 }
 ]
