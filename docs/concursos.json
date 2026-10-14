@@ -17862,7 +17862,7 @@
 },
 {
 "num": "CA-renovation-et-extension-des-ecoles-communales-de-s",
-"title": "Héron, La Commune repense ses écoles, une nouvelle étape pour MODUL R, Avis de marché, — Héron, La Commune repense ses écoles, une nouvelle étape pour MODUL R, Avis de marché,",
+"title": "Héron, La Commune repense ses écoles et ouvre la voie à MODUL R, Avis de marché, — Héron, La Commune repense ses écoles et ouvre la voie à MODUL R, Avis de marché,",
 "buyer": "Cellule architecture FWB",
 "country": "BEL",
 "pub": "",
@@ -22179,5 +22179,22 @@
 "docs": [],
 "desc": "Abierto · 50 · CPV 70110000",
 "first_seen": "2026-10-14"
+},
+{
+"num": "PA-34510",
+"title": "Galleria Borghese, al via il concorso di architettura per l'ampliamento",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-10-14",
+"deadline": "2026-11-13",
+"place": "Lazio",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34510/galleria-borghese-al-via-il-concorso-di-architettura-per-lampliamento",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di progettazione · Procedura internazionale ristretta · due fasi · Montepremi circa 600.000 euro · Consegna fase preselettiva entro le ore 12 del 13 novembre 2026 · PROGER S.p.A., sponsor tecnico del museo, ha indetto un concorso per acquisire una proposta progettuale che preveda nuovi spazi espositivi, percorsi accessibili, servizi rinnovati e collegamenti con Villa Borghese. Il bando arriva dopo mesi di accesi dibattiti sul futuro della Galleria.",
+"first_seen": "2026-10-14",
+"title_es": "Galería Borghese, se abre el concurso de arquitectura para la ampliación",
+"desc_es": "concurso de proyectación · Procedimiento internacional restringido · dos fases · Premio aproximado de 600.000 euros · Entrega fase de preselección antes de las 12 horas del 13 de noviembre de 2026 · PROGER S.p.A., patrocinador técnico del museo, ha convocado un concurso para adquirir una propuesta de proyecto que prevea nuevos espacios expositivos, recorridos accesibles, servicios rennov"
 }
 ]
