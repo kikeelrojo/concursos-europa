@@ -24849,5 +24849,37 @@
 "docs": [],
 "desc": "Abierto · Servicios · CPV 77231900",
 "first_seen": "2026-10-17"
+},
+{
+"num": "BOAMP-26-100232",
+"title": "CONCOURS DE MAITRISE D’OEUVRE SUR ESQUISSE + POUR LA CONSTRUCTION D'UN BATIMENT DEDIE AUX METIERS DE BOUCHE ET DU REAMENAGEMENT DU BATIMENT EXISTANT CAMPUS DE L’ALTERNANCE",
+"buyer": "CCI de Grenoble",
+"country": "FRA",
+"pub": "2026-10-17",
+"deadline": "",
+"place": "dép. 38",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100232",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-17",
+"title_es": "CONCOURS DE MAÎTRISE D'ŒUVRE SUR ESQUISSE + PARA LA CONSTRUCCIÓN DE UN EDIFICIO DEDICADO A LOS OFICIOS DE BOCA Y LA REORGANIZACIÓN DEL EDIFICIO EXISTENTE CAMPUS DE LA ALTERNANCIA",
+"desc_es": "concours restreint · Dirección de obra"
+},
+{
+"num": "BOAMP-26-100238",
+"title": "CONCOURS DE MAITRISE D'OEUVRE POUR LA CONSTRUCTION D'UNE SALLE DES FETES",
+"buyer": "Mairie de Roost-Warendin",
+"country": "FRA",
+"pub": "2026-10-17",
+"deadline": "",
+"place": "dép. 59",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100238",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-17",
+"title_es": "CONCOURS DE MAÎTRISE D'ŒUVRE PARA LA CONSTRUCCIÓN DE UNA SALA DE FIESTAS",
+"desc_es": "concours restreint · Dirección de obra"
 }
 ]
