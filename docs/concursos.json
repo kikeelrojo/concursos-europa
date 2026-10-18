@@ -4638,6 +4638,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261554ES",
 "num": "COAVN-20261554ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261586ES",
+"num": "COAVN-20261586ES"
 }
 ],
 "first_seen": "2026-09-14"
@@ -20131,17 +20136,28 @@
 "buyer": "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.",
 "country": "ESP",
 "pub": "2026-10-09",
-"deadline": "",
+"deadline": "2026-11-09 23:59",
 "place": "Castilla y León",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261555ES",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261555ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
-"value": "",
-"cur": "",
+"value": "450000",
+"cur": "EUR",
 "desc": "Publicado en: DOUE",
-"first_seen": "2026-10-09"
+"first_seen": "2026-10-09",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=WYhAwb1B%2BVLprQTc5lSprDxdjkryIm5Yn9aFJoQd2couvwWo%2B%2BnQJwV0ip00liIYiRLatVoUYb6LNZeFS8minbe0xsobg/afF785TgN6qs36CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=JON50xQi%2B/GKq61oXfv/ieJse1puNEyJLw2e%2BhJRqyaun8EpDLHusQfrfRvGS3As76bNSkaIBOkjXKnGp/p3v0NRhuIdhv95qNAk64xUgI/VTD3T98KC0nSgQFM0q%2B5s"
+],
+"alt": [
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=A8Fd%2FvCBgEB%2BF6L2uCfUWg%3D%3D",
+"num": "PLACE-CS/2026/47"
+}
+]
 },
 {
 "num": "COAVN-20261557ES",
@@ -21098,13 +21114,13 @@
 "title": "2027 Skyscraper Competition",
 "buyer": "",
 "country": "POL",
-"pub": "2026-10-10",
+"pub": "2026-10-12",
 "deadline": "",
 "place": "",
 "url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/2027_skyscraper_competition",
 "source": "architektura.info",
 "proc": "",
-"desc": "",
+"desc": "Participants are encouraged to consider advances in technology, the exploration of sustainable systems, and the development of new urban and architectural methodologies capable of addressing the ec...",
 "first_seen": "2026-10-10",
 "title_es": "Competencia de Rascacielos 2027"
 },
@@ -22284,9 +22300,18 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/711735-2026",
 "num": "711735-2026"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/69e1e410-1ffd-43a6-88db-b4336a2fbe13/300907293",
+"num": "PLACE-PE+DO. SAT-20234"
 }
 ],
-"first_seen": "2026-10-15"
+"first_seen": "2026-10-15",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302674976/C015C73C97E8D9D1D3F910207B800A83",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302674977/0FE267956ED1409AF423B884339720C1"
+]
 },
 {
 "num": "714441-2026",
@@ -24881,5 +24906,38 @@
 "first_seen": "2026-10-17",
 "title_es": "CONCOURS DE MAÎTRISE D'ŒUVRE PARA LA CONSTRUCCIÓN DE UNA SALA DE FIESTAS",
 "desc_es": "concours restreint · Dirección de obra"
+},
+{
+"num": "BOAMP-26-100529",
+"title": "Concours de maîtrise d’œuvre pour la construction d’une cuisine centrale sur le territoire de la Communauté d’Agglomération Gaillac Graulhet",
+"buyer": "Communauté d'Agglomération Gaillac-Graulhet (81)",
+"country": "FRA",
+"pub": "2026-10-18",
+"deadline": "",
+"place": "dép. 81",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100529",
+"source": "BOAMP",
+"proc": "abierto",
+"desc": "Procédure Ouverte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-18",
+"title_es": "Concurso de dirección de obra para la construcción de una cocina central en el territorio de la Comunidad de Aglomeración Gaillac Graulhet",
+"desc_es": "Procedimiento Abierto · Dirección de obra"
+},
+{
+"num": "TN-444948",
+"title": "Nieuwbouw IKC Lijsterweg",
+"buyer": "Gemeente Sliedrecht",
+"country": "NLD",
+"pub": "2026-10-18",
+"deadline": "2026-11-18 12:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/444948",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Niet-openbaar · Gemeente Sliedrecht is op zoek naar een integraal ontwerpteam voor de nieuwbouw van IKC Lijsterweg. Daarvoor wordt een Europese concurrentiegerichte dialoog georganiseerd, met eerst een selectiefase en daarna een dialoog- en inschrij-vingsfase. In de selectiefase vindt de selectie van eerst alleen e",
+"first_seen": "2026-10-18",
+"title_es": "Construcción nueva IKC Lijsterweg",
+"desc_es": "Anuncio de encargo · No abierto · El Municipio de Sliedrecht busca un equipo de diseño integral para la construcción nueva de IKC Lijsterweg. Para ello se organiza un diálogo competitivo europeo, con primero una fase de selección y después una fase de diálogo e inscripción. En la fase de selección tiene lugar la selección de primero solo e"
 }
 ]
