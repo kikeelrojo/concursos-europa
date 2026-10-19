@@ -24881,7 +24881,7 @@
 "buyer": "CCI de Grenoble",
 "country": "FRA",
 "pub": "2026-10-17",
-"deadline": "",
+"deadline": "2026-11-20T12:00",
 "place": "dép. 38",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100232",
 "source": "BOAMP",
@@ -24889,7 +24889,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-17",
 "title_es": "CONCOURS DE MAÎTRISE D'ŒUVRE SUR ESQUISSE + PARA LA CONSTRUCCIÓN DE UN EDIFICIO DEDICADO A LOS OFICIOS DE BOCA Y LA REORGANIZACIÓN DEL EDIFICIO EXISTENTE CAMPUS DE LA ALTERNANCIA",
-"desc_es": "concours restreint · Dirección de obra"
+"desc_es": "concours restreint · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/720279-2026",
+"num": "720279-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-100238",
@@ -24897,7 +24905,7 @@
 "buyer": "Mairie de Roost-Warendin",
 "country": "FRA",
 "pub": "2026-10-17",
-"deadline": "",
+"deadline": "2026-11-23T12:00",
 "place": "dép. 59",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100238",
 "source": "BOAMP",
@@ -24905,7 +24913,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-17",
 "title_es": "CONCOURS DE MAÎTRISE D'ŒUVRE PARA LA CONSTRUCCIÓN DE UNA SALA DE FIESTAS",
-"desc_es": "concours restreint · Dirección de obra"
+"desc_es": "concours restreint · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/720298-2026",
+"num": "720298-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-100529",
@@ -24939,5 +24955,79 @@
 "first_seen": "2026-10-18",
 "title_es": "Construcción nueva IKC Lijsterweg",
 "desc_es": "Anuncio de encargo · No abierto · El Municipio de Sliedrecht busca un equipo de diseño integral para la construcción nueva de IKC Lijsterweg. Para ello se organiza un diálogo competitivo europeo, con primero una fase de selección y después una fase de diálogo e inscripción. En la fase de selección tiene lugar la selección de primero solo e"
+},
+{
+"num": "719647-2026",
+"title": "Francia – Servicios de arquitectura, ingeniería y planificación – RESTRUCTURATION LOURDE ET RÉNOVATION ÉNERGÉTIQUE DU COLLÈGE DES 4 VENTS AU LUDE (72800)",
+"buyer": "Département de la Sarthe",
+"country": "FRA",
+"pub": "2026-10-19",
+"deadline": "2026-11-13T11:30",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Le présent concours restreint est organisé afin de choisir un projet en vue de l'attribution ultérieure du marché de maîtrise d'oeuvre pour la restructuration lourde et rénovation énergétique du collège des 4 Vents au Lude (72800). Le niveau de conception des prestations demandées est « l'esquisse + ». Le groupement devra disposer des compétences minimales suivantes : - Architecture - Démolition - Structure - VRD - CVC - Plomberie Sanitaire (compris STD et FLJ) - Électricité (compris VDI) - Acoustique - Cuisine collective - Économie de la construction - Synthèse - Coordination SSI - OPC La mission confiée au maître d'oeuvre est une mission de base pour les opérations de réhabilitation au sens du Livre IV du Code de la Commande Publique. La mission de base sera complétée par les missions complémentaires suivantes : - Coordination SSI - Simulation Thermique Dynamique (STD) - OPC La part de l'enveloppe financière prévisionnelle affectée aux travaux est estimée à 6 700 000 euro(s) HT (valeur juin 2026)",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/719647-2026",
+"source": "TED",
+"first_seen": "2026-10-19",
+"title_es": "Francia – Servicios de arquitectura, ingeniería y planificación – REESTRUCTURACIÓN PESADA Y RENOVACIÓN ENERGÉTICA DEL COLEGIO LES 4 VENTS EN LE LUDE (72800)",
+"desc_es": "El presente concours restreint se organiza para elegir un proyecto con vistas a la posterior adjudicación del contrato de dirección de obra para la reestructuración pesada y renovación energética del colegio Les 4 Vents en Le Lude (72800). El nivel de diseño de las prestaciones solicitadas es «el anteproyecto +». El agrupamiento deberá disponer de las competencias m"
+},
+{
+"num": "722325-2026",
+"title": "Italia – Servicios de arquitectura, ingeniería y planificación – Riqualificazione e interconnessione Corso Vittorio Emanuele - Via Oberdan - Piazza Battisti - Vico Teatro",
+"buyer": "Comune di Foggia",
+"country": "ITA",
+"pub": "2026-10-19",
+"deadline": "2026-11-27T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Procedura concorsuale aperta in due fasi e in forma anonima finalizzata all'acquisizione di un PFTE",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/722325-2026",
+"source": "TED",
+"first_seen": "2026-10-19",
+"title_es": "Italia – Servicios de arquitectura, ingeniería y planificación – Recualificación e interconexión Corso Vittorio Emanuele - Via Oberdan - Piazza Battisti - Vico Teatro",
+"desc_es": "Procedimiento concursal abierto en dos fases y en forma anónima finalizado a la adquisición de un PFTE"
+},
+{
+"num": "PL-potencjal_rozwojowy_przestrzeni_wojewodztwa_podkar",
+"title": "Potencjał rozwojowy przestrzeni Województwa Podkarpackiego - II edycja konkursu",
+"buyer": "",
+"country": "POL",
+"pub": "2026-10-19",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/potencjal_rozwojowy_przestrzeni_wojewodztwa_podkarpackiego_ii_edycja_konkursu",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-10-19",
+"title_es": "Potencial de desarrollo del espacio de la Voivodía de Podcarpatia - II edición del concurso"
+},
+{
+"num": "PLACE-021SV/2026",
+"title": "Redacción del proyecto básico, de ejecución y la dirección facultativa para la construcción de aproximadamente 32 viviendas de protección oficial en la parcela SZR-1 y 11 alojamientos dotacionales en la parcela EAD-1, en",
+"buyer": "Gobierno Vasco-Dirección de Servicios",
+"country": "ESP",
+"pub": "2026-10-18",
+"deadline": "2026-11-16 10:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740941/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "470000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13609692&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13609697&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71221000",
+"first_seen": "2026-10-19"
 }
 ]
