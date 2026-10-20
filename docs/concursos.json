@@ -25638,5 +25638,38 @@
 ],
 "desc": "Abierto · Servicios · CPV 64214200",
 "first_seen": "2026-10-20"
+},
+{
+"num": "FI-hameen-ammattikorkeakoulun-keskustakampus",
+"title": "Hämeen ammattikorkeakoulun keskustakampus (kutsukilpailu)",
+"buyer": "",
+"country": "FIN",
+"pub": "",
+"deadline": "",
+"place": "",
+"url": "https://www.safa.fi/kilpailu/hameen-ammattikorkeakoulun-keskustakampus/",
+"source": "safa.fi",
+"proc": "seleccion",
+"desc": "próximo",
+"first_seen": "2026-10-20",
+"title_es": "Campus central de la Universidad de Ciencias Aplicadas de Häme (kutsukilpailu)",
+"desc_es": "próximo"
+},
+{
+"num": "PA-34523",
+"title": "Ridisegnare connessioni e spazi verdi del centro storico di Foggia",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-10-20",
+"deadline": "2026-11-27",
+"place": "Puglia",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34523/ridisegnare-connessioni-e-spazi-verdi-del-centro-storico-di-foggia",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 64.000 euro · Consegna 1a fase entro il 27 novembre 2026, ore 12 · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 64.000 euro",
+"first_seen": "2026-10-20",
+"title_es": "Rediseñar conexiones y espacios verdes del centro histórico de Foggia",
+"desc_es": "concurso de proyectos · Concurso de proyectos · procedimiento abierto · dos fases · Dotación: 64.000 euros · Entrega 1ª fase antes del 27 de noviembre de 2026, 12:00 · Concurso de proyectos · procedimiento abierto · dos fases · Dotación: 64.000 euros"
 }
 ]
