@@ -2013,6 +2013,11 @@
 "source": "PLACE",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=e8JWb%2B1myBe2gkLQ8TeYKA%3D%3D",
 "num": "PLACE-2026-0631"
+},
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260343G",
+"num": "COAVN-20260343G"
 }
 ]
 },
@@ -2589,13 +2594,13 @@
 "title": "Idekonkurranse for byrom i haugesund",
 "buyer": "",
 "country": "NOR",
-"pub": "2026-08-28",
+"pub": "2026-10-21",
 "deadline": "",
 "place": "",
-"url": "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/idekonkurranse-for-byrom-i-haugesund/byrom-i-haugesund/",
+"url": "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/idekonkurranse-for-byrom-i-haugesund/aatte-team-videre-i-haugesund/",
 "source": "arkitektforbundet.no",
 "proc": "abierto",
-"desc": "Idékonkurranse: Byrom i Haugesund Haugesund kommune ønsker å hente frem sterke og framtidsrettede ideer for videreutvikling av Haraldsgata med tilgrensende byrom og tverrgater.",
+"desc": "Åtte team videre i Haugesund Både erfarne og nye kontor er representert blant teamene som går videre i idekonkurransen om utforming av byrom.",
 "first_seen": "2026-09-12",
 "title_es": "Concurso de ideas para espacio público en Haugesund",
 "desc_es": "Concurso de ideas: Espacio público en Haugesund. El municipio de Haugesund desea obtener ideas fuertes y orientadas al futuro para el desarrollo de Haraldsgata con espacio público adyacente y calles transversales."
@@ -24847,7 +24852,7 @@
 "country": "ESP",
 "pub": "2026-10-16",
 "deadline": "2026-11-23 18:00",
-"place": "",
+"place": "Eibar",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso749336/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -24859,7 +24864,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13590254&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
-"first_seen": "2026-10-17"
+"first_seen": "2026-10-17",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260338G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260338G",
+"num": "COAVN-20260338G"
+}
+]
 },
 {
 "num": "PLACE-PcPG/2026/829371",
@@ -25038,7 +25051,7 @@
 "country": "ESP",
 "pub": "2026-10-18",
 "deadline": "2026-11-16 10:00",
-"place": "",
+"place": "Portugalete",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740941/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -25050,7 +25063,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13609697&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71221000",
-"first_seen": "2026-10-19"
+"first_seen": "2026-10-19",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260339B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260339B",
+"num": "COAVN-20260339B"
+}
+]
 },
 {
 "num": "OAG2619",
@@ -25565,7 +25586,7 @@
 "country": "ESP",
 "pub": "2026-10-19",
 "deadline": "2026-11-03 23:59",
-"place": "",
+"place": "Lezo",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751169/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -25577,7 +25598,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13620704&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71520000",
-"first_seen": "2026-10-20"
+"first_seen": "2026-10-20",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260342G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260342G",
+"num": "COAVN-20260342G"
+}
+]
 },
 {
 "num": "PLACE-CONTR 2026 0000253374",
@@ -25920,5 +25949,65 @@
 ],
 "desc": "Concurso de proyectos · Servicios · CPV 71240000, 71000000",
 "first_seen": "2026-10-21"
+},
+{
+"num": "COAVN-20260340CV",
+"title": "Control externo de certificaciones energéticas de los Inmuebles de Gestión Unificada del Gobierno Vasco",
+"buyer": "Gobierno Vasco - Eusko Jaurlaritza",
+"country": "ESP",
+"pub": "2026-10-19",
+"deadline": "2026-11-03 10:00",
+"place": "C.A.V.",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260340CV",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260340CV",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "28925",
+"cur": "EUR",
+"desc": "Presupuesto: 28.925 euros (IVA excluido) · Publicado en: www.euskadi.eus (19/10/2026)",
+"first_seen": "2026-10-21"
+},
+{
+"num": "COAVN-20260341N",
+"title": "Contrato de servicios de asesoramiento y asistencia técnica en materia de urbanismo y actividades con incidencia ambiental",
+"buyer": "Aoiz Ayuntamiento",
+"country": "ESP",
+"pub": "2026-10-20",
+"deadline": "2026-11-04 23:59",
+"place": "Aoiz",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260341N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260341N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "33000",
+"cur": "EUR",
+"desc": "Presupuesto: 33.000,00 Euros (IVA excluido) · Publicado en: www.navarra.es (20/10/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261019102743C2D5D077",
+"num": "PLACE-3229_3229_3229-12-2026-Asesoramiento urbanístico"
+}
+],
+"first_seen": "2026-10-21"
+},
+{
+"num": "PA-34513",
+"title": "Brugnera, un vivace quartiere contemporaneo nell'ex sito industriale",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-10-21",
+"deadline": "2026-12-18",
+"place": "Friuli",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34513/26-febbraiomasterplan-e-strategia-urbanistica-per-brugnera-futura",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee in 2 fasi · Montepremi: 30.000 euro · Iscrizione anticipata entro il 18 dicembre 2026 | Consegna entro il 26 febbraio 2027 · TerraViva Competitions lancia Brugnera Futura, un concorso di idee in due fasi per trasformare un'area industriale dismessa di 20.000 mq, in provincia di Pordenone, in un nuovo quartiere con spazi per la formazione, la cultura e la residenza. Il progetto prevede una piazza pubblica, un campus tecnologico, un auditorium e circa 100 alloggi.",
+"first_seen": "2026-10-21",
+"title_es": "Brugnera, un barrio vívido contemporáneo en el antiguo sitio industrial",
+"desc_es": "concurso de ideas · Concurso de ideas en 2 fases · Dotación: 30.000 euros · Inscripción anticipada hasta el 18 de diciembre de 2026 | Entrega hasta el 26 de febrero de 2027 · TerraViva Competitions lanza Brugnera Futura, un concurso de ideas en dos fases para transformar un área industrial abandonada de 20.000 m², en la provincia de Pordenone, en un nuevo barrio co"
 }
 ]
