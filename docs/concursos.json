@@ -4671,6 +4671,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261586ES",
 "num": "COAVN-20261586ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261632ES",
+"num": "COAVN-20261632ES"
 }
 ],
 "first_seen": "2026-09-14"
@@ -18962,7 +18967,7 @@
 "title": "Redacción de la totalidad de la documentación técnica precisa para definir y ejecutar las obras del Nuevo Edificio para el Conservatorio Municipal de Chella.",
 "buyer": "Alcaldía del Ayuntamiento de Chella",
 "country": "ESP",
-"pub": "2026-10-15",
+"pub": "2026-10-24",
 "deadline": "2026-10-29 00:00",
 "place": "Valencia/València",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ems7C6HFv94QyBAnWzHfCg%3D%3D",
@@ -26156,17 +26161,26 @@
 "source": "COAVN estatal",
 "proc": "abierto",
 "kind": "concurso",
-"value": "",
-"cur": "",
+"value": "440955",
+"cur": "EUR",
 "desc": "Publicado en: DOUE",
 "alt": [
 {
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/731706-2026",
 "num": "731706-2026"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/5da6c650-38d0-4db5-9575-2f49f6aa52bd/300914358",
+"num": "PLACE-PE+DO. IAA-22299"
 }
 ],
-"first_seen": "2026-10-22"
+"first_seen": "2026-10-22",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302700841/86FE954EC6DB1160F552E2357B4FC3AF",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302700842/2F22AC87308E61DB0368ADF982507753"
+]
 },
 {
 "num": "733416-2026",
@@ -28800,5 +28814,21 @@
 }
 ],
 "first_seen": "2026-10-24"
+},
+{
+"num": "BOAMP-26-103222",
+"title": "Concours restreint de Maîtrise d'Œuvre pour la restructuration lourde du complexe sportif Matter-Victor à Nancy-.",
+"buyer": "Ville de Nancy",
+"country": "FRA",
+"pub": "2026-10-25",
+"deadline": "",
+"place": "dép. 54",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103222",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-25",
+"title_es": "Concours restreint de Dirección de obra para la reestructuración integral del complejo deportivo Matter-Victor en Nancy.",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
 }
 ]
