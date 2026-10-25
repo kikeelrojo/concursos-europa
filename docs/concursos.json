@@ -28830,5 +28830,37 @@
 "first_seen": "2026-10-25",
 "title_es": "Concours restreint de Dirección de obra para la reestructuración integral del complejo deportivo Matter-Victor en Nancy.",
 "desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-103429",
+"title": "Concours restreint de maîtrise d'Oeuvre sur ESQUISSE PLUS pour la construction d'une brigade de Gendarmerie à POLLIAT (01) - Stade Candidatures",
+"buyer": "IN TERRA",
+"country": "FRA",
+"pub": "2026-10-25",
+"deadline": "",
+"place": "dép. 1",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103429",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-25",
+"title_es": "concours restreint de dirección de obra sobre ESQUISSE PLUS para la construcción de una brigada de Gendarmería en POLLIAT (01) - Etapa Candidaturas",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-103250",
+"title": "Concours restreint de maitrise d'oeuvre pour la construction d'une halle de sport sur le site des Grandes Combes",
+"buyer": "Mairie de Courchevel",
+"country": "FRA",
+"pub": "2026-10-25",
+"deadline": "",
+"place": "dép. 73",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103250",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-25",
+"title_es": "concours restreint de dirección de obra para la construcción de una sala de deportes en el sitio de Grandes Combes",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
 }
 ]
