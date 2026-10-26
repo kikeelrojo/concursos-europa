@@ -21313,7 +21313,7 @@
 "country": "ESP",
 "pub": "2026-10-09",
 "deadline": "2026-11-09 13:00",
-"place": "",
+"place": "Barcelona",
 "url": "https://contractaciopublica.cat/ca/detall-publicacio/c946b3ea-d691-4ca2-897d-c9dd79175b20/300904352",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -21325,7 +21325,14 @@
 "https://contractaciopublica.cat/portal-api/descarrega-document/302665064/8B02B32391FFA32C3EB069DB5B997FE8"
 ],
 "desc": "Abierto · Servicios · CPV 71541000, 71242000",
-"first_seen": "2026-10-10"
+"first_seen": "2026-10-10",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/739905-2026",
+"num": "739905-2026"
+}
+]
 },
 {
 "num": "PLACE-1DGT2AP00047",
@@ -28821,7 +28828,7 @@
 "buyer": "Ville de Nancy",
 "country": "FRA",
 "pub": "2026-10-25",
-"deadline": "",
+"deadline": "2026-11-26T12:00",
 "place": "dép. 54",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103222",
 "source": "BOAMP",
@@ -28829,7 +28836,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-25",
 "title_es": "Concours restreint de Dirección de obra para la reestructuración integral del complejo deportivo Matter-Victor en Nancy.",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/740901-2026",
+"num": "740901-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-103429",
@@ -28837,7 +28852,7 @@
 "buyer": "IN TERRA",
 "country": "FRA",
 "pub": "2026-10-25",
-"deadline": "",
+"deadline": "2026-11-30T12:00",
 "place": "dép. 1",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103429",
 "source": "BOAMP",
@@ -28845,7 +28860,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-25",
 "title_es": "concours restreint de dirección de obra sobre ESQUISSE PLUS para la construcción de una brigada de Gendarmería en POLLIAT (01) - Etapa Candidaturas",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/739533-2026",
+"num": "739533-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-103250",
@@ -28862,5 +28885,123 @@
 "first_seen": "2026-10-25",
 "title_es": "concours restreint de dirección de obra para la construcción de una sala de deportes en el sitio de Grandes Combes",
 "desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "KO-college-des-platanes-primarschule-madretsch-bielbienne",
+"title": "Collège des Platanes / Primarschule Madretsch, Biel/Bienne (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Stadt Biel - Hochbau",
+"country": "CHE",
+"pub": "2026-10-26",
+"deadline": "2026-09-30",
+"place": "2503 Biel",
+"url": "https://konkurado.ch/de/college-des-platanes-primarschule-madretsch-bielbienne",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Ausgangslage Das Collège des Platanes (französischsprachige Sekundarschule) und das Primarschulhaus Madretsch (je ein Klassenzug pro Sprache)",
+"first_seen": "2026-10-26",
+"title_es": "Collège des Platanes / Primarschule Madretsch, Biel/Bienne (Projektwettbewerb, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/GATT · anónimo · Situación inicial La Collège des Platanes (escuela secundaria de habla francesa) y la escuela primaria Madretsch (un grupo de clases por idioma cada una)"
+},
+{
+"num": "KO-nouveau-cycle-dorientation-des-collines-avec-piscine-couvert",
+"title": "Nouveau Cycle d’Orientation des Collines avec piscine couverte à Sion (Projektwettbewerb, offenes Verfahren)",
+"buyer": "Association des Cycles d’orientation régionaux de Sion",
+"country": "CHE",
+"pub": "2026-10-26",
+"deadline": "2026-10-26",
+"place": "1950 Sion",
+"url": "https://konkurado.ch/de/nouveau-cycle-dorientation-des-collines-avec-piscine-couverte-a-sion",
+"source": "konkurado",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · anónimo · Pluridisziplinärer Projektwettbewerb (Architektur-, Bauingenieurbüros) Das Projekt sieht den Neubau einer regionalen Orientierungsschule für mehr als 600 Schülerinnen und Schüler sowie eines Hallenbads vor, das hauptsächlich dem schulischen Schwimmunterricht dient. Die Gestaltung der schulischen, städtischen und landschaftlichen Freiräume ist integraler Bestandteil des Projekts, das hinsichtlich Nachhaltigkeit vorbildlich sein soll.",
+"first_seen": "2026-10-26",
+"title_es": "Nuevo Cycle d'Orientation des Collines con piscina cubierta en Sion (Projektwettbewerb, procedimiento abierto)",
+"desc_es": "Restricción regional: OMC/GATT · anónimo · Concurso de proyectos multidisciplinario (oficinas de arquitectura e ingeniería civil) El proyecto contempla la construcción nueva de una escuela regional de orientación para más de 600 estudiantes, así como una piscina cubierta destinada principalmente a la enseñanza de natación escolar. El diseño de lo escolar, urbano"
+},
+{
+"num": "PL-architecture_of_knowledge",
+"title": "ARCHITECTURE OF KNOWLEDGE",
+"buyer": "",
+"country": "POL",
+"pub": "2026-10-26",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/architecture_of_knowledge",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-10-26",
+"title_es": "ARCHITECTURE OF KNOWLEDGE"
+},
+{
+"num": "PL-konkurs_architektoniczno_urbanistyczny_na_opracowa",
+"title": "Konkurs architektoniczno-urbanistyczny na opracowanie koncepcji przebudowy ulic w rejonie Mariensztatu w Warszawie.",
+"buyer": "",
+"country": "POL",
+"pub": "2026-10-26",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_architektoniczno_urbanistyczny_na_opracowanie_koncepcji_przebudowy_ulic_w_rejonie_mariensztatu_w_warszawie",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-10-26",
+"title_es": "Concurso arquitectónico-urbanístico para la elaboración de un concepto de reconstrucción de calles en la zona de Mariensztatu en Varsovia."
+},
+{
+"num": "BOAMP-26-103733",
+"title": "Concours restreint de maîtrise d'uvre sur Esquisse renforcée - Ilot Croix Bosset à Sèvres",
+"buyer": "SPL SEINE OUEST AMENAGEMENT",
+"country": "FRA",
+"pub": "2026-10-25",
+"deadline": "",
+"place": "dép. 92",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103733",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-26",
+"title_es": "concours restreint de maîtrise d'uvre sobre Esquisse renforcée - Ilot Croix Bosset en Sèvres",
+"desc_es": "Procedimiento restringido · Dirección de obra"
+},
+{
+"num": "PLACE-300/2026/02447",
+"title": "Servicios de Auxiliares de información, atención al público y control de entradas, necesarios para el normal funcionamiento de las actividades que se desarrollan en los edificios y equipamientos adscritos al Distrito de ",
+"buyer": "Distrito de Usera",
+"country": "ESP",
+"pub": "2026-10-25",
+"deadline": "",
+"place": "Madrid",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Ozi%2BZ0CKhxPkY6rls5tG9A%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "1312960",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 98341130",
+"first_seen": "2026-10-26"
+},
+{
+"num": "PLACE-GST26-0072",
+"title": "Asistencia Técnica para el Servicio de Ordenación, Coordinación y Control de Tráfico Marítimo Portuario en el puerto de Alcúdia.",
+"buyer": "Presidencia de la Autoridad Portuaria de Baleares",
+"country": "ESP",
+"pub": "2026-10-25",
+"deadline": "2026-11-23 14:00",
+"place": "Mallorca",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4ZsROH8NYrd9Zh%2FyRJgM8w%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "163926",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yrMvsGyqoj7zM3K9rZ6QWd8cNieiyE3P0JTavCEYbD3DeGQmaHMIec%2BkcjIks3Un7Tu93BUkyviOnwYfsWPzT77asRiRqYTKLdbezcg%2BGZcC1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BMT/xt3y/vF1I06wvXFkkPanXOETDafUXUK8oLUO9TYM6UsVxzgBdwMP3CnwsSF6dM%2BqYglSVHz3JDhKUR/dQuuzLdJFHhOnBXdOmpmbkZGHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9G0q/GYmbs33BF4H5kR5zC3mWkrlqbYYwSUw1YHoP6mplec4ynXC1OX4v00cTyBxbvWmH2Rh5WHRv4LLidvDSfnC792JqKXVEwkzJPFg7h3VTD3T98KC0nSgQFM0q%2B5s"
+],
+"desc": "Abierto · Servicios · CPV 63712700, 63720000",
+"first_seen": "2026-10-26"
 }
 ]
