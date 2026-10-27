@@ -6991,7 +6991,20 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=LxmVLWUHDpFBjmK1E%2Be3fO8dp7f%2BpRuvl/8t0k0NTlbn0fW8BYJPjL7CgRqUGmNmMUAIdAP4xZm0Pxi684WRfiR4Mm7xRnUkhjeifc1rppAZyAJWGsSt0OzTSTyw9JAs"
 ],
 "desc": "Abierto · Servicios · CPV 71310000",
-"first_seen": "2026-09-18"
+"first_seen": "2026-09-18",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261597ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261597ES",
+"num": "COAVN-20261597ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261626ES",
+"num": "COAVN-20261626ES"
+}
+]
 },
 {
 "num": "PLACE-77/2026",
@@ -15067,13 +15080,13 @@
 "buyer": "",
 "country": "ITA",
 "pub": "2026-10-01",
-"deadline": "2026-12-15",
+"deadline": "2026-12-18",
 "place": "Veneto",
 "url": "https://www.professionearchitetto.it/concorsi/notizie/34469/padova-un-nuovo-istituto-superiore-all-arcella",
 "source": "professionearchitetto.it",
 "proc": "abierto",
 "kind": "concurso",
-"desc": "concorso di progettazione · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 406.000 euro · Consegna 1a fase entro le ore 12 del 15 dicembre 2026 · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 406.000 euro",
+"desc": "concorso di progettazione · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 406.000 euro · Consegna 1a fase entro le ore 12 del 18 dicembre 2026 · Concorso di progettazione · procedura aperta · due fasi · Montepremi: 406.000 euro",
 "first_seen": "2026-10-01",
 "title_es": "Padova, un nuevo instituto superior en Arcella",
 "desc_es": "concurso de proyectos · Concurso de proyectos · procedimiento abierto · dos fases · Premio total: 406.000 euros · Entrega 1ª fase antes de las 12:00 del 15 de diciembre de 2026 · Concurso de proyectos · procedimiento abierto · dos fases · Premio total: 406.000 euros"
@@ -28962,7 +28975,7 @@
 "buyer": "SPL SEINE OUEST AMENAGEMENT",
 "country": "FRA",
 "pub": "2026-10-25",
-"deadline": "",
+"deadline": "2026-11-24T13:00",
 "place": "dép. 92",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103733",
 "source": "BOAMP",
@@ -28970,7 +28983,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-10-26",
 "title_es": "concours restreint de maîtrise d'uvre sobre Esquisse renforcée - Ilot Croix Bosset en Sèvres",
-"desc_es": "Procedimiento restringido · Dirección de obra"
+"desc_es": "Procedimiento restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/742798-2026",
+"num": "742798-2026"
+}
+]
 },
 {
 "num": "PLACE-300/2026/02447",
@@ -29303,5 +29324,162 @@
 ],
 "desc": "Abierto simplificado · Suministros · CPV 39293200, 39298900, 39298500, 03121210",
 "first_seen": "2026-10-26"
+},
+{
+"num": "COAVN-20261632ES",
+"title": "Concurso de proyectos para la asistencia técnica para la redacción del proyecto básico y ejecutivo y la posterior dirección las obras de la ampliación y adecuación del instituto 4/2 L + ciclos formativos en el Instituto ",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-23",
+"deadline": "2026-11-26T13:00",
+"place": "Barcelona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261632ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261632ES",
+"source": "COAVN estatal",
+"proc": "abierto",
+"kind": "concurso",
+"value": "545146",
+"cur": "EUR",
+"desc": "Presupuesto: 545.146,78 euros (IVA excluido) · Publicado en: Plataforma de contratación de Cataluña",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/744381-2026",
+"num": "744381-2026"
+}
+],
+"first_seen": "2026-10-27"
+},
+{
+"num": "744940-2026",
+"title": "Italia – Servicios de diseño arquitectónico – Realizzazione di un nuovo istituto scolastico superiore in Via Guido Reni a Padova",
+"buyer": "Provincia di Padova",
+"country": "ITA",
+"pub": "2026-10-27",
+"deadline": "2026-12-18T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Trattasi di procedura concorsuale aperta in due fasi, in forma anonima, finalizzata all’acquisizione di un progetto di fattibilità tecnica ed economica, ai sensi dell’art. 46 del codice.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/744940-2026",
+"source": "TED",
+"first_seen": "2026-10-27",
+"title_es": "Italia – Servicios de diseño arquitectónico – Realización de un nuevo instituto escolar superior en Via Guido Reni en Padova",
+"desc_es": "Procedimiento concursal abierto en dos fases, en forma anónima, destinado a la adquisición de un proyecto de viabilidad técnica y económica, conforme al art. 46 del código."
+},
+{
+"num": "BOAMP-26-103811",
+"title": "Concours de maîtrise d'œuvre pour le regroupement des écoles Ile Napoléon à Rixheim",
+"buyer": "Ville de Rixheim",
+"country": "FRA",
+"pub": "2026-10-27",
+"deadline": "",
+"place": "dép. 68",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103811",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Assistance à maîtrise d'ouvrage",
+"first_seen": "2026-10-27",
+"title_es": "Concours de maîtrise d'œuvre para la agrupación de escuelas Ile Napoléon en Rixheim",
+"desc_es": "concours restreint · Asistencia a dirección de obra"
+},
+{
+"num": "BOAMP-26-103757",
+"title": "DESIGNATION DU LAUREAT DU CONCOURS DE MAITRISE D'OEUVRE POUR LA RENOVATION URBAINE DU QUARTIER CABIAC",
+"buyer": "MONTELIMAR AGGLOMERATION HABITAT",
+"country": "FRA",
+"pub": "2026-10-27",
+"deadline": "",
+"place": "dép. 26",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103757",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-27",
+"title_es": "Designación del ganador del concours de maîtrise d'œuvre para la renovación urbana del barrio Cabiac",
+"desc_es": "concours restreint · Dirección de obra"
+},
+{
+"num": "PLACE-884/2026",
+"title": "Redacció de la modificació puntual del Pla General d’Ordenació Urbana per delimitar un nou àmbit per a la transformació global d’usos d’industrial a residencial, així com modificar la delimitació i ordenació de la Unitat",
+"buyer": "Ajuntament de les Franqueses del Vallès",
+"country": "ESP",
+"pub": "2026-10-26",
+"deadline": "2026-11-10 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/d73fdc48-8318-4129-b15b-5ab949619560/300919069",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "30000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719861/828636984CCDE98CD2C41B13AA036DD2",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719860/D8608EDA3AC88C861845B7693CB36BC4"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71410000, 71400000",
+"first_seen": "2026-10-27"
+},
+{
+"num": "PLACE-C054_26",
+"title": "L'objecte del present contracte son els serveis per a la redacció del projecte executiu i la posterior direcció facultativa de les obres de l’estació de tractament d’aigua potable (ETAP) de la Mina de l’Arquebisbe i pous",
+"buyer": "Empresa Municipal Mixta d'Aigües de Tarragona, SA",
+"country": "ESP",
+"pub": "2026-10-26",
+"deadline": "2026-11-16 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c3640799-4fd6-4bee-8fba-e6711a365489/300919151",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "52774",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719951/EC10795ECDD38FDEDE83A83917CBFB10",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719952/73EE83F450A8C8444A53DB105BDF0DCB"
+],
+"desc": "Abierto · Servicios · CPV 71300000",
+"first_seen": "2026-10-27"
+},
+{
+"num": "PLACE-3185_0005-CP01-2026-000206",
+"title": "Contratación del servicio de adaptación del proyecto, así como la dirección de las obras, de la segunda fase de construcción del módulo de atletismo",
+"buyer": "el Director Gerente del Instituto Navarro del Deporte y de la Actividad Física",
+"country": "ESP",
+"pub": "2026-10-26",
+"deadline": "2026-11-10 23:59",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26102214012974873C33",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "64602",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-27"
+},
+{
+"num": "PLACE-PE+DO CAP-26324",
+"title": "Concurso de proyectos para la asistencia técnica para la redacción del proyecto básico y ejecutivo y la posterior dirección de las obras del nuevo Centro de Atención Primaria de Vic. Clave: CAP-26324",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-10-26",
+"deadline": "2026-11-09 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/939a4a34-baa9-4815-8f75-5a6a52c3eafc/300917866",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "834624",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302715689/F73336E13E9B2961ED77C7D89A713393",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302715690/4EE905B0600BFDB7976F210CC094545F"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71242000, 71541000",
+"first_seen": "2026-10-27"
 }
 ]
