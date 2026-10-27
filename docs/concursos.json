@@ -27279,7 +27279,7 @@
 "country": "ESP",
 "pub": "2026-10-21",
 "deadline": "2026-11-10 23:59",
-"place": "",
+"place": "Zarautz",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751468/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -27291,7 +27291,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13634914&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
-"first_seen": "2026-10-22"
+"first_seen": "2026-10-22",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260344G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260344G",
+"num": "COAVN-20260344G"
+}
+]
 },
 {
 "num": "PLACE-2026-0314-OSE",
@@ -29481,5 +29489,84 @@
 ],
 "desc": "Concurso de proyectos · Servicios · CPV 71242000, 71541000",
 "first_seen": "2026-10-27"
+},
+{
+"num": "COAVN-20260345B",
+"title": "Redacción del proyecto de ejecución y dirección facultativa de las obras de reforma de cubierta del CIFP Repelega LHII de Portugalete (Bizkaia)",
+"buyer": "Gobierno Vasco - Eusko Jaurlaritza",
+"country": "ESP",
+"pub": "2026-10-21",
+"deadline": "2026-11-06 09:00",
+"place": "Portugalete",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260345B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260345B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "119000",
+"cur": "EUR",
+"desc": "Presupuesto: 119.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (21/10/2026)",
+"first_seen": "2026-10-27"
+},
+{
+"num": "COAVN-20260346A",
+"title": "Concurso de proyectos con intervención de jurado para la redacción del plan director del yacimiento arqueológico de Iruña-Veleia",
+"buyer": "Diputación Foral de Alava",
+"country": "ESP",
+"pub": "2026-10-22",
+"deadline": "2026-11-06 23:59",
+"place": "Iruña de Oca",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260346A",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260346A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "concurso",
+"value": "16528",
+"cur": "EUR",
+"desc": "Presupuesto: 16.528,93 euros (IVA excluido) · Publicado en: www.euskadi.eus (22/10/2026)",
+"first_seen": "2026-10-27"
+},
+{
+"num": "COAVN-20260347N",
+"title": "Contratación relativa a la adaptación del proyecto, así como la Dirección de las obras, de la segunda fase de construcción del módulo de Atletismo en el Centro de Tecnificación Deportiva Estadio Larrabide, en Pamplona, N",
+"buyer": "Instituto Navarro del Deporte y de la Actividad Física",
+"country": "ESP",
+"pub": "2026-10-26",
+"deadline": "2026-11-10 23:59",
+"place": "Pamplona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260347N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260347N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "64602",
+"cur": "EUR",
+"desc": "Presupuesto: 64.602,40 Euros (IVA excluido) · Publicado en: www.navarra.es (26/10/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26102214012974873C33",
+"num": "PLACE-3185_0005-CP01-2026-000206"
+}
+],
+"first_seen": "2026-10-27"
+},
+{
+"num": "BMA-piscine-sur-le-toit-de-manufakture",
+"title": "Piscine sur le toit de Manufakture",
+"buyer": "Société d’Aménagement Urbain – SAU",
+"country": "BEL",
+"pub": "2026-10-27",
+"deadline": "",
+"place": "Rue Ropsy Chaudron 24/bte 48, 1070 Anderlecht",
+"url": "https://bma.brussels/piscine-sur-le-toit-de-manufakture/",
+"source": "bma.brussels",
+"proc": "seleccion",
+"value": "",
+"cur": "",
+"desc": "Retribución: Pour la participation à la phase ‘offre initiale’, les soumissionnaires qui ont introduit une offre régulière reçoivent un défraiement de 20.000 euros. Pour la participation à la phase ‘2ième offre’, ils reçoivent un défraiement de 40.000 euros · La Région de Bruxelles-Capitale souhaite développer une nouvelle infrastructure publique de natation sur le toit du bâtiment Manufakture , sur le site des Abattoirs à Anderlecht. Coordonné par la Société d’Aménagement Urbain (SAU), en collaboration avec la Vlaamse Gemeenschapscommissie (VGC) et la Commune d’Anderlecht, le projet entend répondre au manque de piscines publiques à Bruxelles, notamment pour l’apprentissage de la natation, la pratique en club et la baignade en plein air. Il s’inscrit plus largement dans la transformation d’ensemble du site des Abattoirs. La procédure lancée est un marché de type DBFMO : le partenaire retenu sera chargé de la conception, de la construction, du financement, de la maintenance et de l’exploitation de l’infrastructure. Le projet s’adresse donc aux équipes et opérateurs capables d’associer expertises architecturales et techniques, expérience de la ",
+"first_seen": "2026-10-27",
+"title_es": "Piscina en la azotea de Manufakture",
+"desc_es": "Retribución: Por la participación en la fase 'oferta inicial', los licitadores que hayan presentado una oferta regular reciben una compensación de 20.000 euros. Por la participación en la fase 'segunda oferta', reciben una compensación de 40.000 euros · La Región de Bruselas-Capital desea desarrollar una nueva infraestructura pública d"
 }
 ]
