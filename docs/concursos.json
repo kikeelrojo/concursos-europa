@@ -29705,11 +29705,6 @@
 "desc": "Concurso de proyectos · Servicios · CPV 71242000, 71541000",
 "alt": [
 {
-"source": "TED",
-"url": "https://ted.europa.eu/es/notice/-/detail/744381-2026",
-"num": "744381-2026"
-},
-{
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261632ES",
 "num": "COAVN-20261632ES"
@@ -29980,5 +29975,22 @@
 ],
 "desc": "Abierto · Servicios · CPV 71221000",
 "first_seen": "2026-10-28"
+},
+{
+"num": "PA-34555",
+"title": "Un centro per le arti a Limassol, sulla costa di Cipro",
+"buyer": "",
+"country": "INT",
+"pub": "2026-10-28",
+"deadline": "2027-03-22",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34555/un-centro-per-le-arti-a-limassol-sulla-costa-di-cipro",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso internazionale di progettazione · unica fase · Montepremi: 265.000 euro · Consegna entro il 22 marzo 2027 · Il Comune di Limassol ha bandito un concorso internazionale di progettazione per realizzare un centro culturale contemporaneo. Il nuovo edificio dovrà ospitare spazi flessibili per produzione artistica, ricerca, sperimentazione e attività pubbliche, con un'identità architettonica riconoscibile e particolare attenzione a sostenibilità e accessibilità.",
+"first_seen": "2026-10-28",
+"title_es": "Un centro para las artes en Limassol, en la costa de Chipre",
+"desc_es": "concurso de proyectos · Concurso internacional de proyectos · fase única · Premio total: 265.000 euros · Entrega antes del 22 de marzo de 2027 · El Municipio de Limassol ha convocado un concurso internacional de proyectos para realizar un centro cultural contemporáneo. El nuevo edificio deberá albergar espacios flexibles para producción artística, ri"
 }
 ]
