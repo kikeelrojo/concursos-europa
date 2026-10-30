@@ -25244,7 +25244,7 @@
 },
 {
 "num": "OAG2619",
-"title": "Ontwikkelingsvisie Ronde Kom en Kleine Bassin in Roeselare (Oproep aan geïnteresseerden)",
+"title": "Roeselare - Ontwikkelingsvisie Ronde Kom en Kleine Bassin (Oproep aan geïnteresseerden)",
 "buyer": "Vlaams Bouwmeester",
 "country": "BEL",
 "pub": "",
@@ -30056,7 +30056,7 @@
 "country": "ESP",
 "pub": "2026-10-27",
 "deadline": "2026-11-11 10:00",
-"place": "",
+"place": "Bilbao",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751889/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -30068,7 +30068,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13690867&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71210000",
-"first_seen": "2026-10-28"
+"first_seen": "2026-10-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260349B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260349B",
+"num": "COAVN-20260349B"
+}
+]
 },
 {
 "num": "PLACE-2026085",
@@ -30588,7 +30596,7 @@
 "country": "ESP",
 "pub": "2026-10-28",
 "deadline": "2026-11-28 23:57",
-"place": "",
+"place": "Donostia-San Sebastian",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751576/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -30600,7 +30608,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13704431&R01HNoPortal=true"
 ],
 "desc": "Abierto · 999 · CPV 71200000",
-"first_seen": "2026-10-29"
+"first_seen": "2026-10-29",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260350G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260350G",
+"num": "COAVN-20260350G"
+}
+]
 },
 {
 "num": "PLACE-PcPG/2026/829451",
@@ -31889,7 +31905,7 @@
 "country": "ESP",
 "pub": "2026-10-29",
 "deadline": "2026-11-13 14:00",
-"place": "",
+"place": "Sopelana",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753143/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -31901,7 +31917,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13713020&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
-"first_seen": "2026-10-30"
+"first_seen": "2026-10-30",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260351B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260351B",
+"num": "COAVN-20260351B"
+}
+]
 },
 {
 "num": "PLACE-AZPILUR15/2026",
@@ -31910,7 +31934,7 @@
 "country": "ESP",
 "pub": "2026-10-29",
 "deadline": "2026-11-20 13:00",
-"place": "",
+"place": "Arkaute",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753771/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -31922,6 +31946,74 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13712925&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-10-30",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260352A",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260352A",
+"num": "COAVN-20260352A"
+}
+]
+},
+{
+"num": "COAVN-20260348N",
+"title": "Contrato de redacción de los proyectos y en su caso dirección de las obras del derribo y de la construcción de nuevo edificio de viviendas JARAUTA 84-86 de Pamplona",
+"buyer": "Pamplona Ciudad Habitable-Iruña Biziberritzen, SA",
+"country": "ESP",
+"pub": "2026-10-28",
+"deadline": "2026-12-15 15:00",
+"place": "Pamplona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260348N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260348N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "183146",
+"cur": "EUR",
+"desc": "Presupuesto: 183.146,60 Euros (IVA excluido) · Publicado en: www.euskadi.eus (28/10/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261027123352418EE846",
+"num": "PLACE-3165_CONT SER 2026/1"
+}
+],
 "first_seen": "2026-10-30"
+},
+{
+"num": "COAVN-20260353B",
+"title": "Atrp Y Ata Adaptación Del Edificio Terminal, Plataforma Y Aparcamientos Al Nuevo Diseño Funcional Del Aeropuerto De Bilbao",
+"buyer": "Aena, Aeropuestos Españoles y Navegación Aérea.",
+"country": "ESP",
+"pub": "2026-10-30",
+"deadline": "2026-11-30 12:00",
+"place": "Loiu",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260353B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260353B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "17406000",
+"cur": "EUR",
+"desc": "Presupuesto: 17.406.000 euros (IVA excluido) · Publicado en: Plataforma Contratación del Estado (30/10/2026)",
+"first_seen": "2026-10-30"
+},
+{
+"num": "PA-34562",
+"title": "Funes House, una casa in due tempi pensata per la vita all'aperto",
+"buyer": "",
+"country": "INT",
+"pub": "2026-10-30",
+"deadline": "2027-01-29",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34562/funes-house-una-casa-in-due-tempi-pensata-per-la-vita-allaperto",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Montepremi: 8.000 dollari · Iscrizione early entro il 29 gennaio 2027 | Consegna entro il 30 aprile · Terraviva Competitions lancia un concorso di idee per una casa a Funes, alle porte di Rosario, in Argentina. Pensata per una giovane coppia e per crescere in due fasi con la famiglia, dovrà conservare l'atmosfera di una residenza per le vacanze, con giardino, piscina e spazi all'aperto al centro della vita domestica.",
+"first_seen": "2026-10-30",
+"title_es": "Casa Funes, una casa en dos tiempos pensada para la vida al aire libre",
+"desc_es": "concurso de ideas · Concurso de ideas · Dotación: 8.000 dólares · Inscripción anticipada hasta el 29 de enero de 2027 | Entrega hasta el 30 de abril · Terraviva Competitions lanza un concurso de ideas para una casa en Funes, a las puertas de Rosario, en Argentina. Pensada para una joven pareja y para crecer en dos fases con la familia, deberá conservar la atmósfera"
 }
 ]
