@@ -32384,5 +32384,37 @@
 ],
 "desc": "Abierto · Servicios · CPV 71311100",
 "first_seen": "2026-10-31"
+},
+{
+"num": "BOAMP-26-105407",
+"title": "Concours restreint de maîtrise d’œuvre sur esquisse + pour la réalisation d’un Centre Médico-Social et d’une antenne du\nCentre Hospitalier de Mayotte à Kawéni - Phase candidature.",
+"buyer": "Département-Région de Mayotte",
+"country": "FRA",
+"pub": "2026-10-31",
+"deadline": "",
+"place": "dép. 976",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105407",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Ingénierie",
+"first_seen": "2026-10-31",
+"title_es": "Concours restreint de maestría de obra sobre esquicio + para la realización de un Centro Médico-Social y una antena del Centro Hospitalario de Mayotte en Kawéni - Fase candidatura.",
+"desc_es": "Procedimiento restringido · Ingeniería"
+},
+{
+"num": "BOAMP-26-105541",
+"title": "26V0143COR - CONCOURS POUR L' ATTRIBUTION D'UN MARCHE NEGOCIE DE MAITRISE D'OEUVRE - RENOVATION ET EXTENSION DE LA MATERNELLE LEO LAGRANGE",
+"buyer": "Ville de Toulouse",
+"country": "FRA",
+"pub": "2026-10-31",
+"deadline": "",
+"place": "dép. 31",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105541",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-10-31",
+"title_es": "26V0143COR - CONCURSO PARA LA ADJUDICACIÓN DE UN CONTRATO NEGOCIADO DE MAESTRÍA DE OBRA - RENOVACIÓN Y EXTENSIÓN DE LA ESCUELA INFANTIL LÉO LAGRANGE",
+"desc_es": "Procedimiento restringido · Maestría de obra"
 }
 ]
