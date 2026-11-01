@@ -4702,6 +4702,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261646ES",
 "num": "COAVN-20261646ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261653ES",
+"num": "COAVN-20261653ES"
 }
 ],
 "first_seen": "2026-09-14"
@@ -29066,7 +29071,7 @@
 "pub": "2026-10-26",
 "deadline": "",
 "place": "",
-"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/architecture_of_knowledge",
+"url": "https://architektura.info/pl/wiadomosci/konkursy_architektoniczne/architecture_of_knowledge",
 "source": "architektura.info",
 "proc": "",
 "desc": "",
@@ -29081,7 +29086,7 @@
 "pub": "2026-10-26",
 "deadline": "",
 "place": "",
-"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_architektoniczno_urbanistyczny_na_opracowanie_koncepcji_przebudowy_ulic_w_rejonie_mariensztatu_w_warszawie",
+"url": "https://architektura.info/pl/wiadomosci/konkursy_architektoniczne/konkurs_architektoniczno_urbanistyczny_na_opracowanie_koncepcji_przebudowy_ulic_w_rejonie_mariensztatu_w_warszawie",
 "source": "architektura.info",
 "proc": "",
 "desc": "",
@@ -29505,9 +29510,18 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/744381-2026",
 "num": "744381-2026"
+},
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/c1ab6ccf-0d5a-4987-9e81-7d06087bd68b/300918954",
+"num": "PLACE-PE+DO. CAP-26434"
 }
 ],
-"first_seen": "2026-10-27"
+"first_seen": "2026-10-27",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719250/6AA360C45254E133E602F508EBDA170D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302719252/7F8959B8B9423EB1A3E8BE5F984DC718"
+]
 },
 {
 "num": "744940-2026",
