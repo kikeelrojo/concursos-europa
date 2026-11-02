@@ -27533,6 +27533,11 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/733923-2026",
 "num": "733923-2026"
+},
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/760264-2026",
+"num": "760264-2026"
 }
 ],
 "first_seen": "2026-10-23",
@@ -32405,7 +32410,7 @@
 "buyer": "Département-Région de Mayotte",
 "country": "FRA",
 "pub": "2026-10-31",
-"deadline": "",
+"deadline": "2026-12-03T12:00",
 "place": "dép. 976",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105407",
 "source": "BOAMP",
@@ -32413,7 +32418,15 @@
 "desc": "Procédure Restreinte · Ingénierie",
 "first_seen": "2026-10-31",
 "title_es": "Concours restreint de maestría de obra sobre esquicio + para la realización de un Centro Médico-Social y una antena del Centro Hospitalario de Mayotte en Kawéni - Fase candidatura.",
-"desc_es": "Procedimiento restringido · Ingeniería"
+"desc_es": "Procedimiento restringido · Ingeniería",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/758820-2026",
+"num": "758820-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-105541",
@@ -32446,5 +32459,161 @@
 "first_seen": "2026-11-01",
 "title_es": "Concours restreint de dirección de obra para la construcción de un gimnasio intercomunal en CHAUMONT EN VEXIN (60)",
 "desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "759998-2026",
+"title": "Portugal – Servicios de arquitectura, construcción, ingeniería e inspección – Aquisição de serviços elaboração do projeto de restauro e requalificação do Palácio Burnay",
+"buyer": "Museus e Monumentos de Portugal, EPE",
+"country": "PRT",
+"pub": "2026-11-02",
+"deadline": "2027-01-28T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "oth-mult",
+"desc": "Aquisição de serviços elaboração do projeto de restauro e requalificação do Palácio Burnay",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/759998-2026",
+"source": "TED",
+"first_seen": "2026-11-02",
+"title_es": "Portugal – Servicios de arquitectura, construcción, ingeniería e inspección – Adquisición de servicios elaboración del proyecto de restauro y requalificación del Palacio Burnay",
+"desc_es": "Adquisición de servicios elaboración del proyecto de restauro y requalificación del Palacio Burnay"
+},
+{
+"num": "760255-2026",
+"title": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Contrato administrativo de Servicios de redacción del proyecto básico y de ejecución y dirección facultativa de las obras del nuevo parque central de bomberos de Córdoba en la parcela situada en la avenida de Menéndez Pidal, paraje Alameda del Obispo, parcela 91 del polígono 109 (subparcela A).",
+"buyer": "Presidencia del Consejo Rector de la Gerencia Municipal de Urbanismo del Ayuntamiento de Córdoba",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-11-29T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Concurso de proyectos con intervención de jurado.",
+"place": "Córdoba",
+"url": "https://ted.europa.eu/es/notice/-/detail/760255-2026",
+"source": "TED",
+"first_seen": "2026-11-02"
+},
+{
+"num": "KO-ersatzneubau-mehrzweckgebaude",
+"title": "Ersatzneubau Mehrzweckgebäude (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Gemeinde Beinwil (Freiamt)",
+"country": "CHE",
+"pub": "2026-11-02",
+"deadline": "2026-12-07",
+"place": "5637 Beinwil (Freiamt)",
+"url": "https://konkurado.ch/de/ersatzneubau-mehrzweckgebaude",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Die Schulanlage der Gemeinde Beinwil (Freiamt) besteht aus dem historischen Schulhaus aus dem Jahr 1934, dem Anbau aus dem Jahr 2014, dem Mehrzweckgebäude aus dem Jahr 1973 und den Aussenraumanlagen mit Pausenbereich, Spiel- und Sportanlagen. Das Mehrzweckgebäude wurde mehrfach umgebaut und saniert. Trotzdem genügen weder die Bausubstanz noch das Raumangebot den heutigen Bedürfnissen. Detaillierte Studien haben ergeben, dass eine Sanierung und Erweiterung des Gebäudes aus ökonomischer Sicht nicht sinnvoll ist. Das bestehende Mehrzweckgebäude soll rückgebaut werden. An seiner Stelle ist ein neu",
+"first_seen": "2026-11-02",
+"title_es": "Reconstrucción edificio multiusos (Projektwettbewerb, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · anónimo · La instalación escolar del municipio de Beinwil (Freiamt) consta del edificio escolar histórico de 1934, la ampliación de 2014, el edificio multiusos de 1973 y las áreas exteriores con zonas de recreo, instalaciones de juego y deporte. El edificio multiusos ha sido remodelado y restaurado varias veces. A pesar de"
+},
+{
+"num": "KO-studienauftrag-kva-plus",
+"title": "Studienauftrag KVA Plus (Projektstudie, selektives Verfahren)",
+"buyer": "AVAG KVA AG",
+"country": "CHE",
+"pub": "2026-10-31",
+"deadline": "2026-11-25",
+"place": "3600 Thun",
+"url": "https://konkurado.ch/de/studienauftrag-kva-plus",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die AVAG KVA AG veranstaltet einen Studienauftrag im selektiven Verfahren für die Kehrichtverwertungsanlage (KVA) in Thun für die Vergabe der Leistungen in den Disziplinen Architektur, Bauingenieurwesen und Landschaftsarchitektur. In diesem Studienauftrag geht es um die Konzeption der architektonischen und konstruktiven Gestaltung der Anlagen und deren Umgebung. Dabei müssen betriebliche, architektonische/städtebauliche, landschaftsarchitektonische, verkehrstechnische, und soziale Anforderungen aufeinander abgestimmt und gleichzeitig einen angemessenen Handlungsspielraum für die künftige Entwi",
+"first_seen": "2026-11-02",
+"title_es": "Studienauftrag KVA Plus (Proyecto de estudio, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · La AVAG KVA AG convoca un Studienauftrag mediante procedimiento selectivo para la planta de valorización de residuos (KVA) en Thun para la adjudicación de servicios en las disciplinas de arquitectura, ingeniería civil y arquitectura paisajista. Este Studienauftrag trata sobre la concepción arquitectónica y constructiva"
+},
+{
+"num": "PLACE-PAS 2/2026",
+"title": "Contrato para la redacción del proyecto de recrecido de taludes de la fase V del Depósito Controlado de Colmenar Viejo, Estudio de Impacto Ambiental y demás documentación para solicitar modificación sustancial de la AAI ",
+"buyer": "Junta de Gobierno de la Mancomunidad de Municipios del Noroeste",
+"country": "ESP",
+"pub": "2026-11-01",
+"deadline": "2026-11-23 19:00",
+"place": "Madrid",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XLhqg6J2VBt%2BF6L2uCfUWg%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "119000",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=arAk9L4DqlFt63nb28JoXJaCbaMk5DD41VNqptSCT5jBAywwgJmdwETm4Y4xveUYncULOrX/4jpwAPvu37WaTOk7c4ja0QkfmZQvbLpTO9T3GVhXrFFqN7yFncy7YfRK",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gn3wrGmLj6KIGit3bUm4gYPFk/6RPDPfP2eK1YzMrA94ru%2B08fD9N7GTt3QIW3/J9mHBFUL6d0TutFlruk9VyJ0rYsnE63x0lavsXPwTpOaHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XuTwjMY97XNBb7llccMQ1avrfi7GE4R9fxMs60TZzYIeQDEx%2BrE2TjelNn1CfN/T7ZnJEv0l2d/H0mLFny/HJ8fZ0TCZXi5HDfFaPyt2jcr3GVhXrFFqN7yFncy7YfRK"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"first_seen": "2026-11-02"
+},
+{
+"num": "PLACE-SER/2026/0000005488",
+"title": "El objeto del presente pliego es definir las condiciones administrativas para lacontratacion del servicio de adecuacion de los jardines de la parcela anexa al edificio de laDireccion General de Seguridad en San Cristobal",
+"buyer": "Dirección General de Seguridad del Gobierno de Canarias",
+"country": "ESP",
+"pub": "2026-11-01",
+"deadline": "2026-11-16 23:59",
+"place": "Canarias",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8MC1UhJIAq5q1DdmE7eaXg%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "35000",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=P2tedeK54hwedWw%2BlcY%2BKNt5mIizTj1rM2kvjm1hsMevCMYGW0DMTtSEf2IMFov7RY5B2NkHuW8ZxHw77Y7ZNTm2tnYRz2HsXvpMEfFmVu21aXEvq3KHa/AEHgtDrQw0",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BMT/xt3y/vF1I06wvXFkkJMv6pSoxOR9L5HrNJuKJgT0Mls1LtjPT6wEFoPEkK134/qnCQ/vOfTXEBP5uQuHifGTJtqnuQQABUVLHLuy2prDdQD9RyhUmzT4jZ2In4zL"
+],
+"desc": "Abierto simplificado · Servicios · CPV 77311000",
+"first_seen": "2026-11-02"
+},
+{
+"num": "PLACE-32/2026",
+"title": "Contrato administrativo de Servicios de redacción del proyecto básico y de ejecución y dirección facultativa de las obras del nuevo parque central de bomberos de Córdoba en la parcela situada en la avenida de Menéndez Pi",
+"buyer": "Presidencia del Consejo Rector de la Gerencia Municipal de Urbanismo del Ayuntamiento de Córdoba",
+"country": "ESP",
+"pub": "2026-11-01",
+"deadline": "2027-01-31 23:59",
+"place": "Córdoba",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cJE8rNfqma%2BP%2Bo96UAV7cQ%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "concurso",
+"value": "572876",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=54V/7BcbIUhnQ6DZCJtbhBXxkTszxSnTCoo1UMOM5mWtc1ZyBildVZVS1kNueTk9FhOlkuFWZLzjtyolrRfSoQa2wS88bo6FxNF8JB46S4OHAj0WEJrB5sP7amrh2jBD",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9IRIUcwyGR3M/drZskxv0h6JPHnCsqrAPSQPtAsQNBXaTjmAhwUWU/eMU%2BV8cBUpSAS7XHvuAj3t7q1ryc8VI2U5QY91aPG%2BnMZo33n5dzr6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jQlL/i6Ght2WLyY4YkhDS%2B9LfZQd5Dlsi4hhYjanAiSsOPTSKErAznIamLifDZMvArJyGlqwzM9x1m%2BZJIWC7M/499Emb1GTNatbBtJAvA545ClyWkoJ44mKM70IFcOu"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71000000",
+"first_seen": "2026-11-02"
+},
+{
+"num": "PLACE-CMAYOR/2026/44Y05/0010",
+"title": "Redacción del proyecto de construcción de la Ronda de Benimarfull de la carretera CV-700. Benimarfull (Alicante)",
+"buyer": "Vicepresidente Tercero y Conseller de Medio Ambiente, Infraestructuras, Territorio y de la Recuperación",
+"country": "ESP",
+"pub": "2026-11-01",
+"deadline": "2026-12-02 14:00",
+"place": "Alicante/Alacant",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IQW9ziR2HrweIBJRHQiPkQ%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "273795",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GwhMEEmfC2jvyKhbKoCis1YC2wc4kEgtsGe9sOavf/K3qYJXpVoJiOjLNuU/unOfbgFMiU1UJU5GbGozcR0gy7tGz/lHRaBFdEv6V5surFV7QB3HKyQaFUExmUVQCerk",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UJrG7u8HTuWctZbqyHtelNHy/b13i3INoa6caXf/C5ysDo8LDpRj/Wz14/yOl/U48YHoEYxTJ%2BNbzKlvrUdynyk7%2BO7gNQqCxzsJiz3Z57pJOVDbGCDM%2BMigrvuVS7Rv",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kQbTWvUhsDIVm5OV1o057N9INx5SK/hV2y0n5uS9k23omWJY9fHEgHTDa3XN20%2BlqzzGA6T9xFsTActIQuv2NoNRjNH%2BGcS9EuiJAQtrtPj6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VPunzezY5c9%2BZVJ2VfJby/ejiPxbFOh8yK2LpVTZIHcYIs4eotFAFob8EwfYzf/gKjRnDHPzjyp2wcdYhoiSUYdCwg4NCKABELhUbOg5OVT6CYyL7SIrUOBFfNf52ZqA"
+],
+"desc": "Abierto · Servicios · CPV 71310000, 71356300",
+"first_seen": "2026-11-02"
 }
 ]
