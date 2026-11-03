@@ -2616,7 +2616,7 @@
 "url": "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/idekonkurranse-for-byrom-i-haugesund/aatte-team-videre-i-haugesund/",
 "source": "arkitektforbundet.no",
 "proc": "abierto",
-"desc": "Åtte team videre i Haugesund Både erfarne og nye kontor er representert blant teamene som går videre i idekonkurransen om utforming av byrom.",
+"desc": "Åtte team videre i Haugesund",
 "first_seen": "2026-09-12",
 "title_es": "Concurso de ideas para espacio público en Haugesund",
 "desc_es": "Concurso de ideas: Espacio público en Haugesund. El municipio de Haugesund desea obtener ideas fuertes y orientadas al futuro para el desarrollo de Haraldsgata con espacio público adyacente y calles transversales."
@@ -2658,13 +2658,13 @@
 "title": "Dokken soer",
 "buyer": "",
 "country": "NOR",
-"pub": "2026-02-18",
+"pub": "2026-11-03",
 "deadline": "",
 "place": "",
-"url": "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/dokken-soer/plan-og-designkonkurranse-for-byrom-og-landskap-i-dokken-soer/",
+"url": "https://arkitektforbundet.no/konkurranser/paagaaende-konkurranser/dokken-soer/vinner-kaaret-paa-dokken/",
 "source": "arkitektforbundet.no",
 "proc": "",
-"desc": "Plan- og designkonkurranse for byrom og landskap i Dokken Sør",
+"desc": "Vinner kåret på Dokken Bjørbekk & Lindheim, med Vill arkitektur, Spacescape og House of Telle vinner på Dokken.",
 "first_seen": "2026-09-12",
 "title_es": "Dokken Sur",
 "desc_es": "Concurso de planificación y diseño para espacio público y paisaje en Dokken Sør"
@@ -29636,7 +29636,7 @@
 "country": "ESP",
 "pub": "2026-10-26",
 "deadline": "2026-11-10 23:59",
-"place": "",
+"place": "Pamplona",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26102214012974873C33",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -29645,7 +29645,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71240000",
-"first_seen": "2026-10-27"
+"first_seen": "2026-10-27",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260347N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260347N",
+"num": "COAVN-20260347N"
+}
+]
 },
 {
 "num": "PLACE-PE+DO CAP-26324",
@@ -32450,7 +32458,7 @@
 "buyer": "COMMUNAUTE DE COMMUNES DU VEXIN THELLE",
 "country": "FRA",
 "pub": "2026-11-01",
-"deadline": "",
+"deadline": "2026-11-30T17:00",
 "place": "dép. 60",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105862",
 "source": "BOAMP",
@@ -32458,7 +32466,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-11-01",
 "title_es": "Concours restreint de dirección de obra para la construcción de un gimnasio intercomunal en CHAUMONT EN VEXIN (60)",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/763394-2026",
+"num": "763394-2026"
+}
+]
 },
 {
 "num": "759998-2026",
@@ -32836,5 +32852,187 @@
 ],
 "desc": "Abierto · Servicios · CPV 71240000, 71400000, 71410000, 71354000",
 "first_seen": "2026-11-02"
+},
+{
+"num": "760715-2026",
+"title": "Francia – Servicios de arquitectura paisajística – RUCAP - CONCOURS RESTREINT DE MAITRISE D'oeUVRE POUR L'AMENAGEMENT DU PARC DE CHANZY ET DU SQUARE DE BERGEVIN A POINTE A PITRE",
+"buyer": "Société Immobilière de la Guadeloupe",
+"country": "FRA",
+"pub": "2026-11-03",
+"deadline": "2026-11-30T17:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Le détail des missions confiées au titulaire figure au cahier des charges. Les prestations sont réglées par des prix forfaitaires. Nature principale : Prestation intellectuelle",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/760715-2026",
+"source": "TED",
+"first_seen": "2026-11-03",
+"title_es": "Francia – Servicios de arquitectura paisajística – RUCAP - CONCOURS RESTREINT DE MAITRISE D'ŒUVRE PARA LA ADECUACIÓN DEL PARQUE DE CHANZY Y LA PLAZA DE BERGEVIN EN POINTE À PITRE",
+"desc_es": "El detalle de las misiones confiadas al adjudicatario figura en el pliego de condiciones. Las prestaciones se regulan por precios forfaitarios. Naturaleza principal: Prestación intelectual"
+},
+{
+"num": "IT-baronia-parco-idee",
+"title": "BARONIA - Parco delle idee (Concorso di Idee)",
+"buyer": "Comune di Vallesaccarda",
+"country": "ITA",
+"pub": "",
+"deadline": "",
+"place": "Vallesaccarda",
+"url": "https://concorsiawn.it/baronia-parco-idee/",
+"source": "concorsiawn.it",
+"proc": "abierto",
+"desc": "dos fases · primera fase abierta, segunda con premio a los seleccionados",
+"first_seen": "2026-11-03",
+"title_es": "BARONIA - Parco delle idee (Concurso de Ideas)",
+"desc_es": "dos fases · primera fase abierta, segunda con premio a los seleccionados"
+},
+{
+"num": "PLACE-2026-07",
+"title": "Es objeto del presente contrato el servicio de retirada, transporte, gestión y eliminación de residuos biosanitarios, animales de experimentación, residuos químicos y otros residuos industriales generados en los edificio",
+"buyer": "Fundació Parc Científic de Barcelona",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-12-02 15:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/9595506a-a13b-40c6-9065-af463ad7a209/300926543",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "584557",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302749666/AC625E78C904225B0E1BC497D192A525",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302749667/2A791CCA1222DEEE2228104C4F7C978E"
+],
+"desc": "Abierto · Servicios · CPV 90511100, 90524300, 90523000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-AZPILUR16/2026",
+"title": "Dirección de las obras para la construcción de un ascensor y una pasarela en las antiguas instalaciones de Arcelor en Zumárraga",
+"buyer": "AZPILUR EUSKADI, S.A.M.P.-Consejo de Administración",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-11-23 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso755507/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "45000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13746852&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13746854&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71520000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-ICSOL-2027-4",
+"title": "MAG/OBT Serveis de redacció del projecte executiu d'urbanització del subsector 1 del sector C-SUD a Salt",
+"buyer": "Institut Català del Sòl (INCASÒL)",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-11-17 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/5d2e53fc-01b6-47d4-9e5a-fb366a83d892/300924254",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "129319",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302748027/ED6652F811765988ABC9973D051D2758",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302740168/82AAC01DA4CF6CB88740E911935AA694"
+],
+"desc": "Abierto · Servicios · CPV 71220000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-8/2026",
+"title": "Redacción del proyecto de ejecución de rehabilitación del Palacio Uriarte de la Calle Zapatari nº 31 de Agurain",
+"buyer": "Ayuntamiento de Agurain-Junta de Gobierno Local",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-11-18 14:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso755307/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "72000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13741230&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13741231&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71200000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-2026ST0238AC",
+"title": "Serveis de redacció del projecte executiu, direcció facultativa i coordinació de seguretat i salut de la nova xarxa integral de comunicacions del Palau Sant Jordi",
+"buyer": "Barcelona de Serveis Municipals SA",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-12-02 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/40d01290-09f2-4a90-8ec8-3e7007550a58/300924261",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "410000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302740308/D83C81F71B0777973F38A4A1AE3BD5C4",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302740309/32C8A3CF95330D5DA8AF1C7D3E01EF0E"
+],
+"desc": "Abierto · Servicios · CPV 71000000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-4305420002-2026-0001621",
+"title": "Contracte de serveis per la redacció del projecte bàsic i executiu ,direcció i coordinació de seguretat i salut de l'obra del projecte de l'Escola de Música de l'Espluga de Francolí",
+"buyer": "Ajuntament de l'Espluga de Francolí",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-11-17 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/bd89d6ea-9273-4e50-bcf4-e2fb43cf5ee7/300920023",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "53579",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302722852/C45285808357A3C6F1C67AE82D2EC66D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302724951/DECBF923FCAA58AA00E789B6F7EE9B78"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71240000",
+"first_seen": "2026-11-03"
+},
+{
+"num": "PLACE-26/056",
+"title": "26/056 Servicio de recepción y atención al público de las dependencias del ’Institut Municipal de l’Habitatge i Rehabilitació de Barcelona (IMHAB) de los edificios de la calle Doctor Aiguader, número 22-24 y Doctor Aigua",
+"buyer": "Institut Municipal de l'Habitatge i Rehabilitació de Barcelona",
+"country": "ESP",
+"pub": "2026-11-02",
+"deadline": "2026-12-03 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/0c414693-4656-4b46-bffa-85c65ccc8a7b/300924407",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "97012",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302740906/9100C025B242B83B2D580D65487704DB",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302740907/CDDE95CEFB7F88AB3025CFBA20EA64A6"
+],
+"desc": "Abierto · Servicios · CPV 98341130",
+"first_seen": "2026-11-03"
 }
 ]
