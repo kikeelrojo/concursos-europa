@@ -18651,6 +18651,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261536ES",
 "num": "COAVN-20261536ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261671ES",
+"num": "COAVN-20261671ES"
 }
 ]
 },
@@ -25877,18 +25882,18 @@
 "title": "Contratación de un servicio de Contact Center para la atención a cualquier persona interesada de dudas y/o consultas relacionadas con la rehabilitación de viviendas gestionada por el Consorcio de la Vivienda del Área Met",
 "buyer": "Consorci de l'Habitatge de l'Àrea Metropolitana de Barcelona",
 "country": "ESP",
-"pub": "2026-10-19",
-"deadline": "2026-11-18 23:59",
+"pub": "2026-11-03",
+"deadline": "2026-12-02 23:59",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/53c47bea-9ee8-44fb-8a9e-3684d02cc66a/300911550",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/53c47bea-9ee8-44fb-8a9e-3684d02cc66a/300926253",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "108000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302690147/8D2DEA28E44160BFA2B13E4B04634DCF",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302690148/4F20B269659C3EBFCA86C263C19DC875"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302748559/8D2DEA28E44160BFA2B13E4B04634DCF",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302748560/4F20B269659C3EBFCA86C263C19DC875"
 ],
 "desc": "Abierto · Servicios · CPV 64214200",
 "first_seen": "2026-10-20"
@@ -26036,7 +26041,7 @@
 "title": "pr 150/2024-sevilla-contratación mixta, que comprende por una parte la concesión del servicio de cafetería, y por otra, el servicio de manutención del personal autorizado, del hospital de rehabilitación y traumatología, ",
 "buyer": "Servicio Andaluz de Salud",
 "country": "ESP",
-"pub": "2026-10-28",
+"pub": "2026-11-03",
 "deadline": "",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=947280",
@@ -26046,7 +26051,7 @@
 "value": "1166872",
 "cur": "EUR",
 "docs": [],
-"desc": "Restringido · 22 · CPV 15894200, 55300000, 55330000",
+"desc": "Restringido · 22 · CPV 55300000, 15894200, 55330000",
 "first_seen": "2026-10-21"
 },
 {
@@ -26117,20 +26122,20 @@
 "title": "Servei d’assistència jurídica i tècnica per a la redacció d’una modificació puntual del POUM.",
 "buyer": "Ajuntament de Valls",
 "country": "ESP",
-"pub": "2026-10-20",
+"pub": "2026-11-03",
 "deadline": "2026-11-04 23:59",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/bfcc5c76-32ea-418e-9ad9-73c70ce957ae/300912550",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/bfcc5c76-32ea-418e-9ad9-73c70ce957ae/300926685",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "48500",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302694245/D1C49316CB60577156237BEBBF9A48CA",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302694247/3DC5E544C18F262859CCF26CA8EC3067"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302749942/D1C49316CB60577156237BEBBF9A48CA",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302749943/3DC5E544C18F262859CCF26CA8EC3067"
 ],
-"desc": "Abierto simplificado · Servicios · CPV 71400000, 71200000, 79311410, 71242000",
+"desc": "Abierto simplificado · Servicios · CPV 71200000, 71410000, 90712100, 71400000",
 "first_seen": "2026-10-21"
 },
 {
@@ -27369,7 +27374,7 @@
 "title": "Asistencia técnica para la dirección facultativa de las obras delProyecto de ejecución de obra para almacén y garaje de uso privado.",
 "buyer": "Ayuntamiento de Zarautz-Alcalde",
 "country": "ESP",
-"pub": "2026-10-21",
+"pub": "2026-11-03",
 "deadline": "2026-11-10 23:59",
 "place": "Zarautz",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751468/es_doc/index.html",
@@ -27379,8 +27384,8 @@
 "value": "32231",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13634912&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13634914&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13758328&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13758330&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
 "first_seen": "2026-10-22",
@@ -33342,5 +33347,153 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71400000, 71410000",
 "first_seen": "2026-11-03"
+},
+{
+"num": "766465-2026",
+"title": "Alemania – Servicios de diseño arquitectónico – Architektenwettbewerb: Bildungscampus Nienburg",
+"buyer": "Landkreis Nienburg/Weser",
+"country": "DEU",
+"pub": "2026-11-04",
+"deadline": "2026-12-03T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Der Landkreis Nienburg/ Weser plant die Umgestaltung der Schulstandorte am Berliner Ring zu einem Bildungscampus. Aktuell befinden sich hier die Berufsbildenden Schulen (BBS) inkl. einer Cafeteria und einer Dreifeld-Sporthalle, die Integrierte Gesamtschule (IGS) und diverse Parkplatzflächen. Teil des Planungswettbewerbes werden der Ersatzneubau für den A-Trakt und die Cafeteria der BBS, der Neubau des Campusforums sowie die Neugestaltung von Campuspassage und -platz, BBS Höfe und die Außenanlagen der IGS Sporthalle, des E-Trakts und der Cafeteria. Der Planungswettbewerb wird als nichtoffener einphasiger Wettbewerb für eine Gebäudeplanung und Freianlagenplanung im anonymen Verfahren innerhalb eines VgV-Verfahrens als RPW-Verfahren ausgelobt (§ 3 (3) RPW). Der Auslober wird bei der Umsetzung des Projekts den/die Entwurfsverfasser/in des 1. Preises - sofern dies vom Preisgericht empfohlen wird und keine schwerwiegenden Gründe dem entgegen stehen - nach Verhandlungen beauftragen (§ 8 (2) RPW in Verbindung mit § 14 (4) [8] VgV). Sofern der 1. Preis mehrfach vergeben wird, werden Verhandlungen mit allen Entwurfsverfassern/innen geführt, die einen 1. Preis erhalten haben. Der Auftraggeber behält sich das Recht vor, auf das Erstangebot den Zuschlag zu erteilen. Der Auftraggeber behält sich vor, die an der Wettbewerbsarbeit des 1. Preisträgers beteiligten Fachplanungsbüros (Fachplanung Tragwerksplanung und Fachplanung Technische Ausrüstung) ebenfalls mit Einzelverträgen zu beauftragen",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/766465-2026",
+"source": "TED",
+"first_seen": "2026-11-04",
+"title_es": "Alemania – Servicios de diseño arquitectónico – Architektenwettbewerb: Campus Educativo Nienburg",
+"desc_es": "El distrito de Nienburg/Weser planea la transformación de los sitios escolares en Berliner Ring en un campus educativo. Actualmente alberga las Escuelas de Formación Profesional (BBS) incluida una cafetería y un pabellón deportivo de tres campos, la Escuela Secundaria Integrada (IGS) y diversas áreas de estacionamiento. Parte del concurso de diseño será la construcción de reemplazo para"
+},
+{
+"num": "764520-2026",
+"title": "Alemania – Servicios de planificación urbana y de arquitectura paisajística – Freiraum- und verkehrsplanerischer Planungswettbewerb für den Arnulf-Klett-Platz in Stuttgart",
+"buyer": "Amt für Stadtplanung und Wohnen Stuttgart - Beschaffung",
+"country": "DEU",
+"pub": "2026-11-04",
+"deadline": "2026-12-02T18:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Mit der Inbetriebnahme des neuen Stuttgarter Tiefbahnhofs und den damit verbundenen Veränderungen im Bahnhofsumfeld ergeben sich weitreichende Chancen für eine Neuordnung des öffentlichen Raums rund um den Hauptbahnhof. Davon ist insbesondere der Arnulf-Klett-Platz betroffen. Ziel des Planungswettbewerbs ist es, den Charakter des Arnulf-Klett-Platzes neu zu definieren und eine zeitgemäße freiraum- und verkehrsplanerische Gesamtkonzeption für den Platz und die Schillerstraße zu entwickeln. Das Dokument \"Gegenstand und Ziel\", welches den Vergabeunterlagenbeigefügt ist, enthält weitere Informationen.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/764520-2026",
+"source": "TED",
+"first_seen": "2026-11-04",
+"title_es": "Alemania – Servicios de planificación urbana y arquitectura paisajística – Concurso de planificación de espacio libre y tráfico para la Arnulf-Klett-Platz en Stuttgart",
+"desc_es": "Con la entrada en operación de la nueva estación de tren subterráneo de Stuttgart y los cambios asociados en el entorno de la estación, surgen oportunidades significativas para una reorganización del espacio público alrededor de la estación central. La Arnulf-Klett-Platz se ve particularmente afectada. El objetivo del concurso de planificación es redefinir el carácter de la Arnulf-Klett-Platz"
+},
+{
+"num": "766235-2026",
+"title": "Francia – Servicios de arquitectura y servicios conexos – Mission de maîtrise d'oeuvre relative à l'opération de restructuration et surélévation d'un ensemble immobilier, au 6 rue Simart à Paris 18ème",
+"buyer": "Paris Habitat - OPH",
+"country": "FRA",
+"pub": "2026-11-04",
+"deadline": "2026-12-04T16:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Surélévation de 2 étages et restructuration avec amélioration de la performance énergétique d'un ensemble immobilier Création d'une pension de famille de 24 logements",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/766235-2026",
+"source": "TED",
+"first_seen": "2026-11-04",
+"title_es": "Francia – Servicios de arquitectura y servicios relacionados – Misión de dirección de obra relativa a la operación de reestructuración y elevación de un conjunto inmobiliario en 6 rue Simart, París 18º",
+"desc_es": "Elevación de 2 pisos y reestructuración con mejora del desempeño energético de un conjunto inmobiliario. Creación de una pensión familiar de 24 viviendas"
+},
+{
+"num": "KO-selektiver-gesamtleistungswettbewerb-ersatzneubau-schulhaus-",
+"title": "Selektiver Gesamtleistungswettbewerb Ersatzneubau Schulhaus Alpen C (Gesamtleistungswettbewerb, selektives Verfahren)",
+"buyer": "Stadt Wallisellen",
+"country": "CHE",
+"pub": "2026-11-04",
+"deadline": "2026-12-01",
+"place": "8304  Wallisellen",
+"url": "https://konkurado.ch/de/selektiver-gesamtleistungswettbewerb-ersatzneubau-schulhaus-alpen-c",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Die Stadt Wallisellen plant auf der Schulanlage Alpen den Ersatzneubau «Alpen C» mit sechs Klassenzimmern und den zugehörigen Gruppen-, Förder- und Nebenräumen. Der heutige Pavillon erfüllt die funktionalen, pädagogischen und technischen Anforderungen an einen zeitgemässen Schulbetrieb nicht mehr und soll durch einen kompakten, nachhaltigen Neubau ersetzt werden. Der Aussenraum ist heute teilweise funktional unzureichend. Im Rahmen des Bauvorhabens ist er insgesamt aufzuwerten und auf die heutigen Bewegungs-, Aufenthalts- und Lernbedürfnisse der Kinder auszurichten. Der Ersatzneubau soll die R",
+"first_seen": "2026-11-04",
+"title_es": "Concurso selectivo de prestaciones globales Construcción de reemplazo Escuela Alpen C (concurso de prestaciones globales, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · anónimo · La ciudad de Wallisellen planea en el complejo escolar Alpen la construcción de reemplazo «Alpen C» con seis aulas y las correspondientes salas de grupo, apoyo y complementarias. El pabellón actual no cumple con los requisitos funcionales, pedagógicos y técnicos para una operación escolar moderna y debe ser"
+},
+{
+"num": "KO-generalplanersubmission-neubau-tiefgarage-mitte-schluechti-w",
+"title": "Generalplanersubmission Neubau Tiefgarage Mitte (Schlüechti), Weiningen (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "Gemeinde Weiningen",
+"country": "CHE",
+"pub": "2026-11-03",
+"deadline": "2026-12-18",
+"place": "8104 Weiningen",
+"url": "https://konkurado.ch/de/generalplanersubmission-neubau-tiefgarage-mitte-schluechti-weiningen",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die Gemeinde Weiningen beabsichtigt einen Neubau «Tiefgarage Mitte» (Schlüechti) zu erstellen. Im Rahmen eines Quartierplans (QP) wurde eine Machbarkeitsstudie (datiert: 03.07.2020, rev. 03.01.2022) erstellt. Der Quartierplan sieht für die Tiefgarage Mitte insgesamt 122 Parkplätze vor. Die aktuelle Grobkostenschätzung mit einer Genauigkeit von ±25 % geht für die Maximalvariante mit 122 Parkplätzenvon Baukosten von ca. CHF 4.9 Mio. aus.",
+"first_seen": "2026-11-04",
+"title_es": "Selección de planificador general Construcción nueva Garaje subterráneo Centro (Schlüechti), Weiningen (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · El municipio de Weiningen tiene la intención de construir un nuevo «Garaje subterráneo Centro» (Schlüechti). En el marco de un plan de barrio (QP) se elaboró un estudio de viabilidad (fechado: 03.07.2020, rev. 03.01.2022). El plan de barrio prevé para el garaje subterráneo Centro un total de 122 espacios de estacionamiento. La actual estimación de costos brutos"
+},
+{
+"num": "TN-447677",
+"title": "260033GDD Architectenselectie restauratie Toren Grote Kerk Dordrecht gemeente Dordrecht",
+"buyer": "Gemeente Dordrecht",
+"country": "NLD",
+"pub": "2026-11-04",
+"deadline": "2026-12-14 12:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/447677",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Niet-openbaar · De Gemeente Dordrecht (hierna: de aanbesteder), organiseert een aanbesteding volgens de Europese niet-openbare procedure (aanbesteding met voorafgaande selectie) om te komen tot het contracteren van een architect ten behoeve van het ontwerp en uitvoeringsbegeleiding[Jv1.1] van de restauratie van de ",
+"first_seen": "2026-11-04",
+"title_es": "260033GDD architectenselectie restauración Torre Gran Iglesia Dordrecht municipio Dordrecht",
+"desc_es": "Anuncio de encargo · No público · El Municipio de Dordrecht (en lo sucesivo: el contratante), organiza una licitación conforme al procedimiento no abierto europeo (licitación con preselección previa) para contratar a un arquitecto para el diseño y dirección de ejecución de la restauración de la"
+},
+{
+"num": "PLACE-008_26000137",
+"title": "Serveis per a la redacció dels Estudis Històrico-arquitectònics de diversos Mercats Municipals de Barcelona",
+"buyer": "Institut Municipal de Mercats de Barcelona",
+"country": "ESP",
+"pub": "2026-11-03",
+"deadline": "2026-11-18 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/d2b086cb-6d0e-4e65-b2c2-73ef4d1d691d/300927692",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "97857",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302753169/5E1B074CF649D6DD000531A87CEEC87F",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302753175/1D23BCBDB419FAE0D48E7782849210C2"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"first_seen": "2026-11-04"
+},
+{
+"num": "PLACE-29/2027-S",
+"title": "Servicio de vigilancia de los edificios sede de la Delegación Territorial de Salud de Araba, y el servicio Acuda en el Centro Comarcal de Llodio.",
+"buyer": "Gobierno Vasco-Dirección de Régimen Jurídico, Económico y Servicios Generales",
+"country": "ESP",
+"pub": "2026-11-03",
+"deadline": "2026-11-19 10:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso754978/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "113764",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13749858&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13749859&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 79714000",
+"first_seen": "2026-11-04"
 }
 ]
