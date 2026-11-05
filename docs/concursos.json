@@ -8640,20 +8640,20 @@
 "title": "Seguro de daños a edificios e instalaciones - Seguro de vida del personal laboral, funcionario y cargos electos - Seguro de accidentes del personal laboral, funcionario y cargos electos - Seguro de responsabilidad de car",
 "buyer": "Mancomunitat DeltaGestió",
 "country": "ESP",
-"pub": "2026-10-22",
-"deadline": "2026-10-28 14:00",
+"pub": "2026-11-04",
+"deadline": "2026-11-12 14:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/7695952b-cb91-4570-b274-9f5a27e55159/300915258",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7695952b-cb91-4570-b274-9f5a27e55159/300929068",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "1200000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302705268/4BA9F9E807BB2B69E901645897F2EB68",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302705269/9CDA8775B797DF637CDCEA3028EA1D9C"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302758127/4BA9F9E807BB2B69E901645897F2EB68",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302758128/9CDA8775B797DF637CDCEA3028EA1D9C"
 ],
-"desc": "Abierto · Servicios · CPV 66512100, 66513100, 66514110, 66516000",
+"desc": "Abierto · Servicios · CPV 66516000, 66511000, 66512100, 66516500",
 "first_seen": "2026-09-18"
 },
 {
@@ -22331,8 +22331,8 @@
 "title": "Studienauftrag Entwicklung ZVB-Areal Oberägeri (Projektstudie, selektives Verfahren)",
 "buyer": "Einwohnergemeinde Oberägeri / Zugerland Verkehrsbetriebe AG (Suter von Känel Wild AG)",
 "country": "CHE",
-"pub": "2026-10-14",
-"deadline": "2026-11-12",
+"pub": "2026-11-05",
+"deadline": "2026-11-13",
 "place": "6315 Oberägeri",
 "url": "https://konkurado.ch/de/studienauftrag-entwicklung-zvb-areal-oberageri",
 "source": "konkurado",
@@ -22431,7 +22431,7 @@
 "title": "Enajenación de bienes inmuebles titularidad de la Agencia de Vivienda y Rehabilitación de Andalucía mediante los procedimientos de Subasta y Concurso público de ofertas de compra de suelo residencial para construir vivie",
 "buyer": "Agencia de Vivienda y Rehabilitación de Andalucía (AVRA)",
 "country": "ESP",
-"pub": "2026-10-30",
+"pub": "2026-11-04",
 "deadline": "2027-01-14 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1014459",
@@ -28108,7 +28108,7 @@
 "title": "El servicio a prestar tendrá como objetivo primordial realizar los servicios necesarios para la prevención, reparación y conservación en perfecto estado del edificio PRIME y de las instalaciones y sistemas de que dispone",
 "buyer": "Fundación IMDEA MATERIALES",
 "country": "ESP",
-"pub": "2026-10-28",
+"pub": "2026-11-04",
 "deadline": "2026-11-30 17:00",
 "place": "",
 "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-integral-fundacion-imdea-materiales-2026",
@@ -28121,7 +28121,7 @@
 "https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pliego_juridico_mantenimiento_2026.pdf",
 "https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pliego_tecnico_mantenimiento_2026.pdf"
 ],
-"desc": "Abierto · Servicios · CPV 50711000, 50730000, 50331000, 50720000",
+"desc": "Abierto · Servicios · CPV 50711000, 50413200, 50331000, 50712000",
 "first_seen": "2026-10-23"
 },
 {
@@ -29789,7 +29789,15 @@
 "place": "Barcelona",
 "url": "https://ted.europa.eu/es/notice/-/detail/746452-2026",
 "source": "TED",
-"first_seen": "2026-10-28"
+"first_seen": "2026-10-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261664ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261664ES",
+"num": "COAVN-20261664ES"
+}
+]
 },
 {
 "num": "747851-2026",
@@ -29818,14 +29826,31 @@
 "pub": "2026-10-28",
 "deadline": "2027-01-14T14:00",
 "kind": "concurso",
-"value": "",
-"cur": "",
+"value": "5186056",
+"cur": "EUR",
 "proc": "open",
 "desc": "Diseño global del Sistema de Parques Metropolitanos de Valencia y redacción de los proyectos de construcción de los tramos Paiporta-Alfafar y Valencia-Quart de Poblet.",
 "place": "Valencia",
 "url": "https://ted.europa.eu/es/notice/-/detail/748309-2026",
 "source": "TED",
-"first_seen": "2026-10-28"
+"first_seen": "2026-10-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261661ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261661ES",
+"num": "COAVN-20261661ES"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jKaXSf6Sm2TXOjazN1Dw9Q%3D%3D",
+"num": "PLACE-CMAYOR/2026/44Y03/0036"
+}
+],
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ljg55PX3tiWQxBH7PF5/tK27J8dIEhJlEge%2BIaNEQIF4VdvYguBQ6HGz5DMvb1gBgv%2BH8kKB0iXHgX08FN3KGGB0U4tYS9ya9k0vJ0n6y1r6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=47r1xi%2Bc5qB5MpwcYxWYKRWoN1LbvaUdycxsBhPBeEe0ndIWR2PBJemXXy6/DL7h6zKAVrRsKMbk6iGQ1XDznYABWCSfxEnMW2dA6DtEJ2yHAj0WEJrB5sP7amrh2jBD"
+]
 },
 {
 "num": "747487-2026",
@@ -30088,7 +30113,7 @@
 "country": "ESP",
 "pub": "2026-10-28",
 "deadline": "2026-12-15 15:00",
-"place": "",
+"place": "Pamplona",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261027123352418EE846",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -30097,7 +30122,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71242000",
-"first_seen": "2026-10-28"
+"first_seen": "2026-10-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260348N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260348N",
+"num": "COAVN-20260348N"
+}
+]
 },
 {
 "num": "PLACE-F260000668",
@@ -30667,7 +30700,7 @@
 "title": "Prestación de servicios de asistencia técnica especializada para analizar la viabilidad de una actuación de levante en el edificio de viviendas de protección pública sito en Berrabehea 5-15 de Donostia-San Sebastián, pro",
 "buyer": "Entidad Pública Empresarial de Vivienda, Donostiako Etxegintza-Presidente del Consejo de Administración",
 "country": "ESP",
-"pub": "2026-10-28",
+"pub": "2026-11-04",
 "deadline": "2026-11-28 23:57",
 "place": "Donostia-San Sebastian",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751576/es_doc/index.html",
@@ -30677,8 +30710,8 @@
 "value": "30000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13704425&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13704431&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772052&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772056&R01HNoPortal=true"
 ],
 "desc": "Abierto · 999 · CPV 71200000",
 "first_seen": "2026-10-29",
@@ -32005,7 +32038,7 @@
 "title": "Contrato para la Redacción del Proyecto de Rehabilitación y Mejoras del Campo de Tiro de la Academia Vasca de Policías y Emergencias de Arkaute.",
 "buyer": "AZPILUR EUSKADI, S.A.M.P.-Consejo de Administración",
 "country": "ESP",
-"pub": "2026-10-29",
+"pub": "2026-11-04",
 "deadline": "2026-11-20 13:00",
 "place": "Arkaute",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753771/es_doc/index.html",
@@ -32015,8 +32048,8 @@
 "value": "43388",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13712918&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13712925&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772697&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772699&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-10-30",
@@ -33511,7 +33544,7 @@
 "title": "Servicio de vigilancia de los edificios sede de la Delegación Territorial de Salud de Araba, y el servicio Acuda en el Centro Comarcal de Llodio.",
 "buyer": "Gobierno Vasco-Dirección de Régimen Jurídico, Económico y Servicios Generales",
 "country": "ESP",
-"pub": "2026-11-03",
+"pub": "2026-11-04",
 "deadline": "2026-11-19 10:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso754978/es_doc/index.html",
@@ -33521,8 +33554,8 @@
 "value": "113764",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13749858&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13749859&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13766479&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13766480&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 79714000",
 "first_seen": "2026-11-04"
@@ -33966,5 +33999,190 @@
 ],
 "desc": "Restringido · Servicios · CPV 71000000",
 "first_seen": "2026-11-04"
+},
+{
+"num": "770942-2026",
+"title": "España – Servicios de arquitectura para edificios – Concurso de proyectos con intervención de Jurado para la contratación de los servicios de redacción del proyecto básico y de ejecución, dirección facultativa y coordinación de seguridad y salud del edificio de la Junta General del Principado de Asturias, situado en la calle Principado nº 3 de Oviedo, incluida la obtención de la certificación ambiental.",
+"buyer": "Mesa de la Cámara de la Junta General del Principado de Asturias",
+"country": "ESP",
+"pub": "2026-11-05",
+"deadline": "2027-01-04T15:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Concurso de proyectos con intervención de Jurado para la contratación de los servicios de redacción del proyecto básico y de ejecución, dirección facultativa y coordinación de seguridad y salud del edificio de la Junta General del Principado de Asturias, situado en la calle Principado nº 3 de Oviedo, incluida la obtención de la certificación ambiental.",
+"place": "Asturias",
+"url": "https://ted.europa.eu/es/notice/-/detail/770942-2026",
+"source": "TED",
+"first_seen": "2026-11-05"
+},
+{
+"num": "770782-2026",
+"title": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Concurso de proyectos, con intervención de jurado, para la contratación de los servicios de redacción del proyecto de edificación y dirección de obra de una promoción de 30 viviendas protegidas en régimen de alquiler asequible y garajes, en Renedo de Cabuérniga (Cantabria).",
+"buyer": "Consejo de Administración de Gestión de Viviendas e Infraestructuras en Cantabria S.L. (GESVICAN, S.L.)",
+"country": "ESP",
+"pub": "2026-11-05",
+"deadline": "2026-12-08T18:30",
+"kind": "licitación con concurso",
+"value": "243420.45",
+"cur": "EUR",
+"proc": "open",
+"desc": "El objeto del presente concurso es la selección de la propuesta arquitectónica de mayor calidad para la promoción descrita, a ejecutar en la parcela sita en la U.E. EL SOLAR, Carretera CA-280 Carretera CA-816, Renedo de Cabuérniga, municipio de Cabuérniga (Cantabria).",
+"place": "Cantabria",
+"url": "https://ted.europa.eu/es/notice/-/detail/770782-2026",
+"source": "TED",
+"first_seen": "2026-11-05"
+},
+{
+"num": "KO-illnau-effretikon-hinterbuelstrasse-11",
+"title": "Illnau-Effretikon - Hinterbüelstrasse 11 (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "Stadt Illnau-Effretikon",
+"country": "CHE",
+"pub": "2026-11-05",
+"deadline": "2026-12-10",
+"place": "8307 Effretikon",
+"url": "https://konkurado.ch/de/illnau-effretikon-hinterbuelstrasse-11",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Planerischen Leistungen für die ganzheitliche Projektierung, Ausschreibung und Begleitung der Realisierung für die bauliche Weiterentwicklung der Liegenschaft und bessere Ausnützung des Grundstücks. Ort",
+"first_seen": "2026-11-05",
+"title_es": "Illnau-Effretikon - Hinterbüelstrasse 11 (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/APPG · Prestaciones de planificación para la proyección integral, licitación y acompañamiento de la realización para el desarrollo constructivo de la propiedad y mejor aprovechamiento del terreno. Ubicación"
+},
+{
+"num": "BOAMP-26-107066",
+"title": "Concours de maîtrise d'oeuvre pour la construction du bâtiment 11 Learning commons et réhabilitation du bâtiment 17 de l'INSA de Toulouse",
+"buyer": "INSA de Toulouse",
+"country": "FRA",
+"pub": "2026-11-05",
+"deadline": "",
+"place": "dép. 31",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107066",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-11-05",
+"title_es": "concours restreint para la construcción del edificio 11 Learning commons y rehabilitación del edificio 17 de la INSA de Toulouse",
+"desc_es": "concours restreint · Dirección de obra"
+},
+{
+"num": "TN-447851",
+"title": "Integraal ontwerpteam kleedkamers Rijnvliet",
+"buyer": "Gemeente Utrecht",
+"country": "NLD",
+"pub": "2026-11-05",
+"deadline": "2026-12-09 10:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/447851",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Concurrentiegerichte dialoog · De gemeente Utrecht is voornemens één overeenkomst te sluiten met een integraal ontwerpteam voor het ontwerpen van een kleedaccommodatie met acht kleedkamers op Sportpark Rijnvliet ten behoeve van Hockeyclub Rijnvliet.\nDe opdracht omvat de integrale ontwerp- en advieswerkzaamheden vanaf de ontwerpfa",
+"first_seen": "2026-11-05",
+"title_es": "Equipo de diseño integral vestuarios Rijnvliet",
+"desc_es": "Anuncio de licitación · Diálogo competitivo · El municipio de Utrecht tiene la intención de celebrar un contrato con un equipo de diseño integral para el diseño de una instalación de vestuarios con ocho vestuarios en el Sportpark Rijnvliet para el Hockeyclub Rijnvliet.\nEl contrato incluye los servicios íntegros de diseño y asesoría a partir del desarrollo"
+},
+{
+"num": "PLACE-8280_269191C",
+"title": "Contrato de servicios de asistencia técnica especializada para el análisis, diseño y viabilidad del modelo supramunicipal de movilidad, la evaluación del piloto y la transferencia de sus resultados, en el marco del proye",
+"buyer": "Alcaldía del Ayuntamiento de Murillo el Fruto",
+"country": "ESP",
+"pub": "2026-11-05",
+"deadline": "2026-11-19 12:00",
+"place": "",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261104085203D44929EE",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "39256",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71241000, 71356200, 71600000",
+"first_seen": "2026-11-05"
+},
+{
+"num": "PLACE-B047-2026-00002",
+"title": "Gizaburuagako HAPO prozeduran aholkularitza eta idazketarako zerbitzu-kontratua",
+"buyer": "Ayuntamiento de Gizaburuaga-Pleno",
+"country": "ESP",
+"pub": "2026-11-04",
+"deadline": "2026-12-05 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3717787/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "148760",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772554&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772555&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71410000",
+"first_seen": "2026-11-05"
+},
+{
+"num": "PLACE-FIRA-2026-38",
+"title": "(FIRA-2026-38) Servei de redaccio de projecte executiu, direcció d'obra, seguretat i salut i control de qualitat de les obres de millora dels exutoris del Pavelló 7 del recinte Fira de Barcelona Gran Via.",
+"buyer": "Fira 2000, SA",
+"country": "ESP",
+"pub": "2026-11-04",
+"deadline": "2026-11-20 10:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/443de5ab-f695-43c4-9a0c-29ef6dee4c37/300928929",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "55614",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302757870/BFF1BE037AFD8398E7EAB086F98063D9",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302757872/C8CC8DC1B7C72A8CAA9029876FA1FD61"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71200000",
+"first_seen": "2026-11-05"
+},
+{
+"num": "PLACE-5-BI-85/2025-B-AT",
+"title": "Servicios para la redacción de proyecto de construcción del tramo de vía ciclista Eskoriatza muga con Araba (I04-018F). Fase B. Tramo entre los PK 61,860 y PK 65,122 (5-BI-85/2025-B-AT)",
+"buyer": "Diputación Foral de Gipuzkoa-Dirección General de Infraestructuras Viarias",
+"country": "ESP",
+"pub": "2026-11-04",
+"deadline": "2026-11-20 18:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753157/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "33360",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13766670&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13766671&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71310000",
+"first_seen": "2026-11-05"
+},
+{
+"num": "PLACE-ADM1-2026-0000004556",
+"title": "Creación de una oficina de transición energética para el asesoramiento en materia de comunidades energéticas, rehabilitación y eficiencia energética en el Territorio Histórico de Álava.",
+"buyer": "Diputación Foral de Álava-Consejo de Gobierno Foral",
+"country": "ESP",
+"pub": "2026-11-04",
+"deadline": "2026-11-18 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso755324/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "223140",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13762209&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13762211&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71314000",
+"first_seen": "2026-11-05"
 }
 ]
