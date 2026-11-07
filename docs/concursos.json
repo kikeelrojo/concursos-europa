@@ -35996,5 +35996,37 @@
 ],
 "desc": "Abierto · Servicios · CPV 71500000, 71200000",
 "first_seen": "2026-11-07"
+},
+{
+"num": "KO-freigleisbrucke-stadt-luzern",
+"title": "Freigleisbrücke, Stadt Luzern (Projektwettbewerb, selektives Verfahren)",
+"buyer": "Stadt Luzern, Umwelt- und Mobilitätsdirektion, Tiefbauamt",
+"country": "CHE",
+"pub": "2026-11-09",
+"deadline": "2027-01-22",
+"place": "6003 Luzern",
+"url": "https://konkurado.ch/de/freigleisbrucke-stadt-luzern",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · anónimo · Mit einer Brücke über den Bahneinschnitt soll einerseits die Netzlücke des Velohauptroutennetzes geschlossen werden und gleichzeitig die Querung von Anergie- und Wärmeleitungen (See-Energie), welche im Rahmen des thermischen Netzbaus erforderlich sind, sicherstellen. Die Brücke hat somit die Funktion einer Mehrfachnutzung für Fuss- und Veloverkehr sowie Rohrleitungen. Sie befindet sich im innerstädtischen Raum und verbindet stark frequentierte Quartiere über die Gleisanlagen der",
+"first_seen": "2026-11-07",
+"title_es": "Puente Freigleisbrücke, Ciudad de Lucerna (concurso de proyectos, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/GPA · anónimo · Un puente sobre el corte ferroviario debe cerrar, por un lado, la brecha de la red de rutas principales de bicicleta y, al mismo tiempo, garantizar el cruce de líneas de anergia y calor (energía del lago), que son necesarias en el marco de la construcción de la red térmica. El puente tiene así la función de una"
+},
+{
+"num": "BOAMP-26-107791",
+"title": "Site de Grand-Pont à Chasseneuil-du-Poitou (86)  Création de l'école régionale de la restauration collective -Concours  restreint de maitrise d'oeuvre- Phase 1: appel à candidatures",
+"buyer": "Région Nouvelle-Aquitaine",
+"country": "FRA",
+"pub": "2026-11-07",
+"deadline": "",
+"place": "dép. 86",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107791",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-11-07",
+"title_es": "Sitio de Grand-Pont en Chasseneuil-du-Poitou (86) Creación de la escuela regional de restauración colectiva - concours restreint de maitrise d'oeuvre - Fase 1: convocatoria de candidatos",
+"desc_es": "Procedimiento restringido · Dirección de obra"
 }
 ]
