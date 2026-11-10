@@ -32263,6 +32263,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261719ES",
 "num": "COAVN-20261719ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261702ES",
+"num": "COAVN-20261702ES"
 }
 ]
 },
@@ -32651,16 +32656,23 @@
 "pub": "2026-11-02",
 "deadline": "2027-01-28T23:59",
 "kind": "concurso",
-"value": "",
-"cur": "",
+"value": "8035000",
+"cur": "EUR",
 "proc": "oth-mult",
 "desc": "Aquisição de serviços elaboração do projeto de restauro e requalificação do Palácio Burnay",
-"place": "",
+"place": "Lisboa",
 "url": "https://ted.europa.eu/es/notice/-/detail/759998-2026",
 "source": "TED",
 "first_seen": "2026-11-02",
 "title_es": "Portugal – Servicios de arquitectura, construcción, ingeniería e inspección – Adquisición de servicios elaboración del proyecto de restauro y requalificación del Palacio Burnay",
-"desc_es": "Adquisición de servicios elaboración del proyecto de restauro y requalificación del Palacio Burnay"
+"desc_es": "Adquisición de servicios elaboración del proyecto de restauro y requalificación del Palacio Burnay",
+"alt": [
+{
+"source": "oasrs encomenda",
+"url": "https://encomenda.oasrs.org/concursos/detalhe/EYnfqO/requalificacao-do-palacio-burnay-lisboa",
+"num": "OASRS-EYnfqO"
+}
+]
 },
 {
 "num": "760255-2026",
@@ -32677,7 +32689,15 @@
 "place": "Córdoba",
 "url": "https://ted.europa.eu/es/notice/-/detail/760255-2026",
 "source": "TED",
-"first_seen": "2026-11-02"
+"first_seen": "2026-11-02",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261697ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261697ES",
+"num": "COAVN-20261697ES"
+}
+]
 },
 {
 "num": "KO-ersatzneubau-mehrzweckgebaude",
@@ -34323,7 +34343,7 @@
 "title": "Creación de una oficina de transición energética para el asesoramiento en materia de comunidades energéticas, rehabilitación y eficiencia energética en el Territorio Histórico de Álava.",
 "buyer": "Diputación Foral de Álava-Consejo de Gobierno Foral",
 "country": "ESP",
-"pub": "2026-11-04",
+"pub": "2026-11-09",
 "deadline": "2026-11-18 23:59",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso755324/es_doc/index.html",
@@ -34333,8 +34353,8 @@
 "value": "223140",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13762209&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13762211&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13823346&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13823348&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71314000",
 "first_seen": "2026-11-05"
@@ -34421,9 +34441,9 @@
 "desc": "Abierto · Servicios · CPV 71000000",
 "alt": [
 {
-"source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261702ES",
-"num": "COAVN-20261702ES"
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/770782-2026",
+"num": "770782-2026"
 }
 ],
 "first_seen": "2026-11-05",
@@ -35421,7 +35441,7 @@
 "title": "Servicio de gestión, control, delimitación y ordenación del estacionamiento de vehículos en determinadas vías del municipio de Etxebarri",
 "buyer": "Ayuntamiento de Etxebarri-Alcalde",
 "country": "ESP",
-"pub": "2026-11-05",
+"pub": "2026-11-09",
 "deadline": "2026-12-09 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso747514/es_doc/index.html",
@@ -35431,8 +35451,8 @@
 "value": "648298",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13774704&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13774706&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13811791&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13811793&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 63712400",
 "first_seen": "2026-11-06"
@@ -36626,5 +36646,191 @@
 ],
 "desc": "Abierto simplificado · 50 · CPV 98000000",
 "first_seen": "2026-11-09"
+},
+{
+"num": "781414-2026",
+"title": "Alemania – Servicios de arquitectura y servicios conexos – Nichtoffener zweiphasiger hochbaulicher und freiraumplanerischer Realisierungswettbewerb mit Ideenteil \"Bildungscampus - Grundschule und KiTa\"",
+"buyer": "Stadt Kaiserslautern",
+"country": "DEU",
+"pub": "2026-11-10",
+"deadline": "2026-12-02T10:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Das Verfahren wird als nichtoffener zweiphasiger hochbaulich-freiraumplanerischer Realisierungs-wettbewerb mit Ideenteil durchgeführt. Eine maximale Teilnehmerzahl in der ersten Phase von 40 und in der 2. Phase von 8 wird angestrebt. Der Durchführung des Wettbewerbs liegen die RPW 2013 in der aktuellen Fassung, eingeführt in Rheinland-Pfalz durch den Erlass des Ministeriums der Finanzen vom 22. Mai 2013 sowie durch die Verwaltungsvorschrift vom 01. Juni 2014, zugrunde. Die Anwendung und Anerkennung der RPW 2013 ist für die Ausloberin und Teilnehmer sowie alle übrigen Beteiligten verbindlich, soweit diese Auslobung nicht ausdrücklich davon abweicht. Ausloberin, Teilnehmer sowie alle am Verfahren Beteiligten erkennen den Inhalt dieser Auslobung an. An der Vorbereitung dieses Wettbewerbs hat der Ausschuss Wettbewerb und Vergabe der Architektenkammer Rheinland-Pfalz beratend mitgewirkt. Die Auslobung wurde dort unter der Nummer 4/09/26 registriert. Das Wettbewerbsverfahren ist bis zum Abschluss der Preisgerichtssitzung anonym. Eine Aufhebung der Anonymität erfolgt ausschließlich im Rahmen der Benachrichtigung der Teilnehmer der 2. Phase / Absagen an die Teilnehmer der 1. Phase durch die Verfahrensbetreuung zur Wahrung der Anonymität.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/781414-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Alemania – Servicios de arquitectura y servicios conexos – Concurso de realización no abierto de dos fases en construcción y planificación de espacios libres con parte de ideas \"Campus Educativo - Escuela Primaria y Guardería\"",
+"desc_es": "El procedimiento se lleva a cabo como concurso de realización no abierto de dos fases en construcción y planificación de espacios libres con parte de ideas. Se aspira a un número máximo de participantes de 40 en la primera fase y 8 en la segunda fase. El concurso se rige por las RPW 2013 en su versión actual, introducidas en Renania-Palatinado"
+},
+{
+"num": "779293-2026",
+"title": "Países Bajos – Servicios de arquitectura, construcción, ingeniería e inspección – AI 2026-0108 - Het nieuwe hart van Kraaiennest met OBA Next",
+"buyer": "Gemeente Amsterdam, Ingenieursbureau",
+"country": "NLD",
+"pub": "2026-11-10",
+"deadline": "2026-11-23T23:09",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Voor het project ‘Het nieuwe hart van Kraaiennest met OBA Next’ organiseert de gemeente Amsterdam een internationale prijsvraag. Dit is geen reguliere aanbesteding, maar een ontwerpwedstrijd waarbij we op zoek zijn naar de beste creatieve oplossing. De opgave omvat een samenhangend ontwerp voor de openbare ruimte, de maatschappelijke functies, sociaaleconomische groei en de ruimtelijke integratie van het woonprogramma. Samenhang tussen stedenbouw, landschap, architectuur en sociaaleconomische betekenis is hierbij van groot belang. Onderhavige aanbestedingsprocedure bestaat uit twee fasen: - Fase 1 Aanmeldingsfase - Fase 2 Ontwerpfase",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/779293-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Países Bajos – Servicios de arquitectura, construcción, ingeniería e inspección – AI 2026-0108 - El nuevo corazón de Kraaiennest con OBA Next",
+"desc_es": "Para el proyecto 'El nuevo corazón de Kraaiennest con OBA Next', el municipio de Ámsterdam organiza un concurso internacional de ideas. No se trata de una licitación ordinaria, sino de un concurso de diseño en el que buscamos la mejor solución creativa. La tarea incluye un diseño coherente para el espacio público, las funciones sociales"
+},
+{
+"num": "782706-2026",
+"title": "Francia – Servicios de arquitectura, ingeniería y planificación – Mission de maîtrise d’œuvre pour l’opération : Création d’un institut de recherche clinique en santé et bien-être animal (Réhabilitation et création de bâtiments)",
+"buyer": "Comue de Toulouse",
+"country": "FRA",
+"pub": "2026-11-10",
+"deadline": "2026-12-07T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Mission de maîtrise d’œuvre pour l’opération : Création d’un institut de recherche clinique en santé et bien-être animal (Réhabilitation et création de bâtiments)",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/782706-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Francia – Servicios de arquitectura, ingeniería y planificación – Misión de dirección de obra para la operación: Creación de un instituto de investigación clínica en salud y bienestar animal (Rehabilitación y creación de edificios)",
+"desc_es": "Misión de dirección de obra para la operación: Creación de un instituto de investigación clínica en salud y bienestar animal (Rehabilitación y creación de edificios)"
+},
+{
+"num": "780838-2026",
+"title": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – 0039 MOE construction logements collectifs",
+"buyer": "RMD (Rive de Moselle Développement)",
+"country": "FRA",
+"pub": "2026-11-10",
+"deadline": "2026-12-11T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "0039 MOE construction d'une résidence de logements collectifs",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/780838-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – 0039 Dirección de obra construcción viviendas colectivas",
+"desc_es": "0039 Dirección de obra de construcción de una residencia de viviendas colectivas"
+},
+{
+"num": "779840-2026",
+"title": "Noruega – Servicios de arquitectura, construcción, ingeniería e inspección – Competition for framework agreements for consultancy services",
+"buyer": "Fredrikstad kirkelige fellesråd",
+"country": "NOR",
+"pub": "2026-11-10",
+"deadline": "2026-12-14T11:00",
+"kind": "licitación con concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Fredrikstad Church Council invites tenderers to an open tender contest for framework agreements for consultancy services. The competition will be held in accordance with the public procurement regulation part III. The framework agreements shall cover the contracting authority ́s need for technical consultancy services, consultancy services and engineering design services for the total portfolio of church buildings. The aim is to ensure access to relevant competence in connection with renovation and maintenance, including culturally historically valuable buildings. Assignments are ordered through call-offs and can include both individual resources, large teams and limited project assignments. The competition is divided into three sub-contracts: project management, technical consultancy services as well as architect services and responsible applicant. A framework agreement will be signed with one tenderer per sub-contract. Tenderers can submit tenders for one or more sub-contracts. The framework agreements will be valid for four years from when the contract is signed. Call-offs can be made in accordance with NS 8401 or NS 8402, and the contracting authority sets the relevant standards in the order form.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/779840-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Noruega – Servicios de arquitectura, construcción, ingeniería e inspección – Concurso para acuerdos marco de servicios de asesoramiento",
+"desc_es": "El Consejo de la Iglesia de Fredrikstad invita a los licitadores a participar en una licitación abierta para acuerdos marco de servicios de asesoramiento. El concurso se llevará a cabo de conformidad con la normativa de contratación pública parte III. Los acuerdos marco cubrirán las necesidades de servicios de asesoramiento técnico, servicios de asesoramiento e ingeniería"
+},
+{
+"num": "781102-2026",
+"title": "Noruega – Servicios de asesoramiento – Competition - C07094 - Consultancy services for the NATO Security Investment Programme - Oslo - 200105",
+"buyer": "Forsvarsbygg",
+"country": "NOR",
+"pub": "2026-11-10",
+"deadline": "2026-12-03T11:00",
+"kind": "licitación con concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "The Norwegian Defence Estates Agency, the Project and Development Department, would like tenders for one (1) consultant to assist into the NATO office in section \"early phase\". Scope: The expected job percentage is approx. 50-75% position for one year, with an option on extending the assistance for two years, in periods of up to one year at a time. The Norwegian Defence Estates Agency will not require more than 50% assistance, but will accept up to 75%. Triggering of option(s) requires approval from the tenderer. The work place is The Norwegian Defence Estates Agency ́s office location in Oslo, Grev Wedels plass 5. Travel costs and travel time in connection with attendance are not covered. Security: The tenderer's consultant must be able to be security cleared to level Secret/Nato Secret (H/NS). Lacking clearance is tentatively not an obstacle to start-up, but The Norwegian Defence Estates Agency reserves the right to accelerate or reduce the scope until the security clearance is in place. Deadlines: It is recommended to ask questions within the deadline for asking questions, as well as to note that \"wants to offer\" within the same deadline. These deadlines are a guideline. The tender deadline is, however, absolute. The following assignments must be expected, but are not necessarily limited to: Coordinate and follow-up awarded NATO Security Investment Programme/NSIP projects. Assist and consult internally in FB and externally in the sector within the NSIP area. Prepare and pa",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/781102-2026",
+"source": "TED",
+"first_seen": "2026-11-10",
+"title_es": "Noruega – Servicios de asesoramiento – Concurso - C07094 - Servicios de asesoramiento para el Programa de Inversión en Seguridad de la OTAN - Oslo - 200105",
+"desc_es": "La Agencia Noruega de Instalaciones de Defensa, Departamento de Proyectos y Desarrollo, solicita ofertas para un (1) consultor que asista a la oficina de la OTAN en la sección \"fase inicial\". Alcance: El porcentaje de trabajo esperado es aproximadamente 50-75% a tiempo completo durante un año, con opción de extender la asistencia dos años adicionales, en períodos de hasta un año cada vez."
+},
+{
+"num": "BOAMP-26-108838",
+"title": "Concours restreint de maîtrise d'oeuvre sur esquisse + pour la construction d'un groupe scolaire sur la commune de Bercenay-en-Othe",
+"buyer": "S.I.A.B.A",
+"country": "FRA",
+"pub": "2026-11-10",
+"deadline": "",
+"place": "dép. 10",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108838",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Prestations de services",
+"first_seen": "2026-11-10",
+"title_es": "concours restreint de dirección de obra sobre esquema + para la construcción de un grupo escolar en el municipio de Bercenay-en-Othe",
+"desc_es": "Procedimiento restringido · Prestaciones de servicios"
+},
+{
+"num": "TN-448506",
+"title": "AI 2026-0108 - Het nieuwe hart van Kraaiennest met OBA Next",
+"buyer": "Gemeente Amsterdam, Ingenieursbureau",
+"country": "NLD",
+"pub": "2026-11-10",
+"deadline": "2026-12-14 14:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/448506",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "concurso",
+"desc": "Aankondiging opdracht · Niet-openbaar · Voor het project ‘Het nieuwe hart van Kraaiennest met OBA Next’ organiseert de gemeente Amsterdam een internationale prijsvraag. Dit is geen reguliere aanbesteding, maar een ontwerpwedstrijd waarbij we op zoek zijn naar de beste creatieve oplossing. De opgave omvat een samenhangend ontwerp voor de o",
+"first_seen": "2026-11-10",
+"title_es": "AI 2026-0108 - El nuevo corazón de Kraaiennest con OBA Next",
+"desc_es": "Anuncio de licitación · No abierto · Para el proyecto 'El nuevo corazón de Kraaiennest con OBA Next', el municipio de Ámsterdam organiza un concurso internacional de ideas. No se trata de una licitación ordinaria, sino de un concurso de diseño en el que buscamos la mejor solución creativa. La tarea incluye un diseño coherente para"
+},
+{
+"num": "PLACE-CONTR 2026 0000179890",
+"title": "dirección de obra coord. seguridad salud obras depuración varias provincias",
+"buyer": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. D.G. de Infraestructuras del Agua (En Transición)",
+"country": "ESP",
+"pub": "2026-11-09",
+"deadline": "2026-12-15 14:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1036697",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "1152356",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71317210, 71310000, 90492000, 71520000",
+"first_seen": "2026-11-10"
+},
+{
+"num": "PLACE-32/2026-06335",
+"title": "Redacción del proyecto de urbanización de la AEDP-6 VILLAR incluyendo planificación por fases de las obras a ejecutar por el Ayuntamiento",
+"buyer": "Ayuntamiento de Santurtzi-Concejalía Delegada de Urbanismo, Medio Ambiente, Promoción Económica, Turismo y Empleo",
+"country": "ESP",
+"pub": "2026-11-09",
+"deadline": "2026-11-25 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743886/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "47000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13819350&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13819352&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71320000",
+"first_seen": "2026-11-10"
 }
 ]
