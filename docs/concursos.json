@@ -26104,7 +26104,7 @@
 "title": "pr 150/2024-sevilla-contratación mixta, que comprende por una parte la concesión del servicio de cafetería, y por otra, el servicio de manutención del personal autorizado, del hospital de rehabilitación y traumatología, ",
 "buyer": "Servicio Andaluz de Salud",
 "country": "ESP",
-"pub": "2026-11-03",
+"pub": "2026-11-10",
 "deadline": "",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=947280",
@@ -26114,7 +26114,7 @@
 "value": "1166872",
 "cur": "EUR",
 "docs": [],
-"desc": "Restringido · 22 · CPV 55300000, 15894200, 55330000",
+"desc": "Restringido · 22 · CPV 15894200, 55330000, 55300000",
 "first_seen": "2026-10-21"
 },
 {
@@ -30208,7 +30208,7 @@
 "title": "Servicios de consultoría de arquitectura, urbanismo, planificación y gestión en inmuebles a gestionar por Gogora.",
 "buyer": "Gobierno Vasco-Director/a del Instituto de la Memoria, la Convivencia y los Derechos Humanos",
 "country": "ESP",
-"pub": "2026-10-27",
+"pub": "2026-11-10",
 "deadline": "2026-11-11 10:00",
 "place": "Bilbao",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751889/es_doc/index.html",
@@ -30218,8 +30218,8 @@
 "value": "58110",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13690865&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13690867&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13835387&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13835389&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71210000",
 "first_seen": "2026-10-28",
@@ -30708,7 +30708,7 @@
 "title": "Servicio de guías para la realización de visitas culturales del Cementerio municipal de Bilbao y otros edificios dependientes de Bilbao Zerbitzuak",
 "buyer": "Bilbao Zerbitzuak-Dirección",
 "country": "ESP",
-"pub": "2026-10-28",
+"pub": "2026-11-10",
 "deadline": "2026-11-13 13:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso752397/es_doc/index.html",
@@ -30718,8 +30718,8 @@
 "value": "91560",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13707274&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13707273&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13833452&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13833454&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 92000000",
 "first_seen": "2026-10-29"
@@ -32114,7 +32114,7 @@
 "title": "Contrato para la Redacción del Proyecto de Rehabilitación y Mejoras del Campo de Tiro de la Academia Vasca de Policías y Emergencias de Arkaute.",
 "buyer": "AZPILUR EUSKADI, S.A.M.P.-Consejo de Administración",
 "country": "ESP",
-"pub": "2026-11-04",
+"pub": "2026-11-10",
 "deadline": "2026-11-20 13:00",
 "place": "Arkaute",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753771/es_doc/index.html",
@@ -32124,8 +32124,8 @@
 "value": "43388",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772697&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13772699&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13834400&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13834402&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-10-30",
@@ -33069,12 +33069,20 @@
 "cur": "",
 "proc": "restricted",
 "desc": "Le détail des missions confiées au titulaire figure au cahier des charges. Les prestations sont réglées par des prix forfaitaires. Nature principale : Prestation intellectuelle",
-"place": "",
+"place": "Les Abymes (Francia)",
 "url": "https://ted.europa.eu/es/notice/-/detail/760715-2026",
 "source": "TED",
 "first_seen": "2026-11-03",
 "title_es": "Francia – Servicios de arquitectura paisajística – RUCAP - CONCOURS RESTREINT DE MAITRISE D'ŒUVRE PARA LA ADECUACIÓN DEL PARQUE DE CHANZY Y LA PLAZA DE BERGEVIN EN POINTE À PITRE",
-"desc_es": "El detalle de las misiones confiadas al adjudicatario figura en el pliego de condiciones. Las prestaciones se regulan por precios forfaitarios. Naturaleza principal: Prestación intelectual"
+"desc_es": "El detalle de las misiones confiadas al adjudicatario figura en el pliego de condiciones. Las prestaciones se regulan por precios forfaitarios. Naturaleza principal: Prestación intelectual",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261705IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261705IN",
+"num": "COAVN-20261705IN"
+}
+]
 },
 {
 "num": "IT-baronia-parco-idee",
@@ -36800,7 +36808,7 @@
 "title": "dirección de obra coord. seguridad salud obras depuración varias provincias",
 "buyer": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. D.G. de Infraestructuras del Agua (En Transición)",
 "country": "ESP",
-"pub": "2026-11-09",
+"pub": "2026-11-10",
 "deadline": "2026-12-15 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1036697",
@@ -36810,7 +36818,7 @@
 "value": "1152356",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 71317210, 71310000, 90492000, 71520000",
+"desc": "Abierto · Servicios · CPV 90492000, 71520000, 71317210, 71000000",
 "first_seen": "2026-11-10"
 },
 {
@@ -37090,5 +37098,302 @@
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-11-10"
+},
+{
+"num": "784021-2026",
+"title": "Francia – Servicios de arquitectura y servicios conexos – Marché public de maîtrise d'oeuvre pour la construction d'un pôle enfance comprenant une école maternelle et un établissement d'accueil du jeune enfant (EAJE)",
+"buyer": "Mairie de MORILLON",
+"country": "FRA",
+"pub": "2026-11-11",
+"deadline": "2026-12-16T16:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Les missions à confier au titulaire sont les éléments de mission de base (ESQ, APS, APD, PRO, ACT, EXE/VISA, DET, AOR) et les éléments complémentaires suivants: OPC, CSSI, STD, E-M, mobilier/signalétique, assistance demandes de subvention). Le marché est constitué d'un lot unique et est décomposé en une tranche ferme et 3 tranches optionnelles: Tranche ferme: pôle enfance : éléments de mission ESQ, APS, APD et équipement « école maternelle + réfectoire » : éléments de mission PRO, ACT, EXE/VISA, DET, AOR, OPC, CSSI, STD, E-M, dossiers subventions. Tranche optionnelle 1 : équipement « EAJE » : éléments de mission PRO, ACT, EXE/VISA, DET, AOR, OPC, CSSI, STD, E-M, dossiers subventions Tranche optionnelle 2 : équipement « école maternelle + réfectoire » : élément de mission « mobilier et signalétique » Tranche optionnelle 3 : équipement « EAJE » : élément de mission « mobilier et signalétique »",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/784021-2026",
+"source": "TED",
+"first_seen": "2026-11-11",
+"title_es": "Francia – Servicios de arquitectura y servicios conexos – Contrato público de dirección de obra para la construcción de un polo infantil que comprende una escuela maternal y un establecimiento de acogida de la primera infancia (EAJE)",
+"desc_es": "Las misiones a encargar al contratista son los elementos de misión básica (ESQ, APS, APD, PRO, ACT, EXE/VISA, DET, AOR) y los elementos complementarios siguientes: OPC, CSSI, STD, E-M, mobiliario/señalización, asistencia en solicitudes de subvención). El contrato consta de un lote único y se desglosa en una tranche ferme y 3 tranches opcionales."
+},
+{
+"num": "785796-2026",
+"title": "Alemania – Servicios de arquitectura paisajística – Freiraumplanerischer und städtebaulicher Realisierungswettbewerb \"Innenstadt\"",
+"buyer": "Stadt Kellinghusen, über Amt Kellinghusen",
+"country": "DEU",
+"pub": "2026-11-11",
+"deadline": "2026-12-01T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Der Wettbewerb wird als anonymer, nichtoffener, einstufiger freiraum- und städtebaulicher Realisierungswettbewerb gemäß den Richtlinien für Planungswettbewerbe (RPW 2013) im Rahmen eines UVgO durchgeführt. | Die Auslobung hat der Architektenkammer Schleswig-Holstein vorgelegen; diese hat die Übereinstimmung mit den Richtlinien bestätigt bzw. den Abweichungen zugestimmt und den Wettbewerb unter der Nummer 1173-26 registriert. | Einsendeschluss Bewerbungen 10.12.2026 | Ausgabe der Unterlagen 20.01.2027 | Kolloquium (digital) 03.02.2027 | Abgabe der Wettbewerbsarbeiten 29.03.2027 | Preisgerichtssitzung 20.05.2027 | Rechtsgrundlage: Richtlinie 2014/24/EU | Unterschwellenvergabeordnung (UVgO) | Deutsch RPW 2013 - Richtlinie für Planungswettbewerbe - Deutsch",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/785796-2026",
+"source": "TED",
+"first_seen": "2026-11-11",
+"title_es": "Alemania – Servicios de arquitectura paisajística – Concurso de realización espacial y urbanístico \"Centro urbano\"",
+"desc_es": "El concurso se lleva a cabo como concurso de realización espacial y urbanístico anónimo, no abierto, de una fase, conforme a las Directrices para Concursos de Planificación (RPW 2013) en el marco de una UVgO. | La convocatoria fue revisada por la Cámara de Arquitectos de Schleswig-Holstein; esta confirmó la conformidad con las directrices."
+},
+{
+"num": "BOAMP-26-109107",
+"title": "concours de maîtrise d'œuvre relatif à la rénovation et l'extension du groupe scolaire Ariane à Villabé",
+"buyer": "Mairie de Villabé",
+"country": "FRA",
+"pub": "2026-11-11",
+"deadline": "2026-12-10T11:00",
+"place": "dép. 91",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109107",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/786134-2026",
+"num": "786134-2026"
+}
+],
+"first_seen": "2026-11-11",
+"title_es": "Concurso de dirección de obra relativo a la renovación y extensión del grupo escolar Ariane en Villabé",
+"desc_es": "concours restreint · Dirección de obra"
+},
+{
+"num": "784340-2026",
+"title": "Alemania – Servicios de urbanismo – Zweiphasiger städtebaulich-freiraumplanerischer Wettbewerb nach RPW 2013 - Produktives Quartier Gutleut-West",
+"buyer": "Stadt Frankfurt am Main – Der Magistrat – vertreten durch das Stadtplanungsamt",
+"country": "DEU",
+"pub": "2026-11-11",
+"deadline": "2026-12-09T16:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Gegenstand des Wettbewerbes ist ein städtebaulich-freiraumplanerischer Entwurf in dem gezeigt wird, wie die Transformation eines gewerblich geprägten Bestandsareals zu einem nutzungsgemischten, klimaangepassten und gemeinwohlorientierten Quartier gelingen kann. In einer Stadt mit hoher Flächennachfrage und begrenzten innerstädtischen Entwicklungsreserven treffen hier Ansprüche unmittelbar aufeinander, die sich andernorts oft räumlich aus dem Weg gehen: Wohnen und Gewerbe, Logistik und Aufenthalt, soziale Infrastruktur und Produktion, Freiraum und Verdichtung. Die entscheidende Frage lautet deshalb nicht, welche Nutzung sich am Ende durchsetzt. Interessanter ist, wie aus dieser Konkurrenz ein Stück Stadt entstehen kann. Das Gutleut-West ist kein isoliertes Entwicklungsprojekt, sondern ein Baustein der Frankfurter Innen-entwicklung – und ein Ort, an dem sich exemplarisch zeigen soll, wie produktive, gerechte und grüne Stadtentwicklung im Bestand gelingen kann. Mainufer und Sommerhoffpark gehören zu den besonderen räumlichen Potenzialen des Gebiets. Ihre Qualitäten sollen aufgegriffen und mit neuen Freiräumen und Wegen zu einem zusammen-hängenden Freiraumgerüst weiterentwickelt werden, das Aufenthalt ermöglicht, das Quartier verbindet und zugleich auf Hitze, Starkregen und ökologische Anforderungen reagiert. Die Verbindung unterschiedlicher Nutzungen und Anforderungen auf begrenzter Fläche ist genau die Aufgabe, auf die das Förderprogramm „Multifunktional und flächensparsam: Das",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/784340-2026",
+"source": "TED",
+"first_seen": "2026-11-11",
+"title_es": "Alemania – Servicios de urbanismo – Concurso urbanístico-espacial en dos fases conforme RPW 2013 - Barrio Productivo Gutleut-West",
+"desc_es": "El objeto del concurso es un proyecto urbanístico-espacial que demuestre cómo puede lograrse la transformación de un área industrial existente en un barrio de uso mixto, adaptado al clima y orientado al bien común. En una ciudad con alta demanda de espacio y oportunidades limitadas de desarrollo urbano."
+},
+{
+"num": "784634-2026",
+"title": "Noruega – Servicios de arquitectura, construcción, ingeniería e inspección – Competition for framework agreements for consultancy services",
+"buyer": "Fredrikstad kirkelige fellesråd",
+"country": "NOR",
+"pub": "2026-11-11",
+"deadline": "2026-12-14T12:00",
+"kind": "licitación con concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Fredrikstad Church Council invites tenderers to an open tender contest for framework agreements for consultancy services. The competition will be held in accordance with the public procurement regulation part III. The framework agreements shall cover the contracting authority ́s need for technical consultancy services, consultancy services and engineering design services for the total portfolio of church buildings. The aim is to ensure access to relevant competence in connection with renovation and maintenance, including culturally historically valuable buildings. Assignments are ordered through call-offs and can include both individual resources, large teams and limited project assignments. The competition is divided into three sub-contracts: project management, technical consultancy services as well as architect services and responsible applicant. A framework agreement will be signed with one tenderer per sub-contract. Tenderers can submit tenders for one or more sub-contracts. The framework agreements will be valid for four years from when the contract is signed. Call-offs can be made in accordance with NS 8401 or NS 8402, and the contracting authority sets the relevant standards in the order form.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/784634-2026",
+"source": "TED",
+"first_seen": "2026-11-11",
+"title_es": "Noruega – Servicios de arquitectura, construcción, ingeniería e inspección – Concurso para acuerdos marco de servicios de consultoría",
+"desc_es": "El Consejo de la Iglesia de Fredrikstad invita a licitadores a una convocatoria abierta de concurso para acuerdos marco de servicios de consultoría. El concurso se llevará a cabo de conformidad con la normativa de contratación pública parte III. Los acuerdos marco cubrirán las necesidades de la autoridad contratante de servicios técnicos de consultoría, servicios de consultoría e ingeniería."
+},
+{
+"num": "KO-gesamtleistungssubmission-neubau-werkhofsgebaude-birmenstorf",
+"title": "Gesamtleistungssubmission Neubau Werkhofsgebäude, Birmenstorf (Gesamtleistungswettbewerb, selektives Verfahren)",
+"buyer": "Gemeinde Birmenstorf",
+"country": "CHE",
+"pub": "2026-11-11",
+"deadline": "2026-12-22",
+"place": "5413 Birmenstorf",
+"url": "https://konkurado.ch/de/gesamtleistungssubmission-neubau-werkhofsgebaude-birmenstorf",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Die Gemeinde Birmenstorf beabsichtigt, ein neues Werkhofgebäude zu realisieren. Als planerische Grundlage liegt das Vorprojekt der Plarea AG mit Planstand vom 19. Februar 2024 vor. Das Vorprojekt umfasst unter anderem Grundrisse, Ansichten und Schnitte des vorgesehenen Werkhofgebäudes. Die Feuerwehr ist nicht Bestandteil des Projekts. Dem Gemeinderat ist es wichtig ein zielführendes, effizientes und kostengünstiges Verfahren durchzuführen, aus welchem ein optimales Projekt mit einem Kostendach resultiert. Auf Grund dessen hat er sich für die Durchführung einer Gesamtleistungssubmission entschi",
+"first_seen": "2026-11-11",
+"title_es": "Presentación de prestación integral Nueva construcción edificio taller, Birmenstorf (Concurso de prestación integral, procedimiento selectivo)",
+"desc_es": "El municipio de Birmenstorf tiene la intención de realizar un nuevo edificio taller. Como base de planificación, se cuenta con el anteproyecto de Plarea AG con estado de planos del 19 de febrero de 2024. El anteproyecto incluye, entre otros, planos de planta, alzados y secciones del edificio taller previsto. Los bomberos no son parte del proyecto."
+},
+{
+"num": "KO-erweiterung-sanierung-oberstufenzentrum-wiedlisbach-ozw",
+"title": "Erweiterung & Sanierung Oberstufenzentrum Wiedlisbach OZW (Planerwahlverfahren, offenes Verfahren)",
+"buyer": "Oberstufenzentrum Wiedlisbach OZW",
+"country": "CHE",
+"pub": "2026-11-11",
+"deadline": "2026-12-21",
+"place": "4537 Wiedlisbach",
+"url": "https://konkurado.ch/de/erweiterung-sanierung-oberstufenzentrum-wiedlisbach-ozw",
+"source": "konkurado",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · Der Oberstufenverband Wiedlisbach betreibt das Oberstufenzentrum (OZW) für die Verbandsgemeinden Wiedlisbach, Oberbipp, Attiswil, Rumisberg und Farnern. Aufgrund steigender Schülerinnen- und Schülerzahlen besteht zusätzlicher Schulraumbedarf. Gleichzeitig weisen die bestehenden Schulgebäude baulichen, energetischen und funktionalen Anpassungsbedarf auf. Das Projekt beinhaltet die Sanierung des Schulgebäudes aus dem Jahr 1958 und den Ausbau der angrenzenden alten Turnhallen. Mit dem Planerwahlverfahren soll ein geeignetes Planungsteam als Gesamtleiter (nach SIA 102) für die Projektierung und Re",
+"first_seen": "2026-11-11",
+"title_es": "Ampliación y rehabilitación Centro de Educación Secundaria Wiedlisbach OZW (Planerwahlverfahren, procedimiento abierto)",
+"desc_es": "Restricción regional: OMC/GPA · La asociación de educación secundaria Wiedlisbach gestiona el centro de educación secundaria (OZW) para los municipios asociados Wiedlisbach, Oberbipp, Attiswil, Rumisberg y Farnern. Debido al aumento del número de estudiantes, existe una necesidad adicional de espacio escolar. Simultáneamente, los edificios escolares existentes presentan deficiencias constructivas y energéticas."
+},
+{
+"num": "PLACE-3/2026-Permuta",
+"title": "Concurso Público de ofertas para la adjudicación de un derecho de adquisición preferente para la posterior permuta de la finca registral 57.587 del Registro de la Propiedad número 9 de Málaga sita en la calle Parras/Alta",
+"buyer": "Agencia de Vivienda y Rehabilitación de Andalucía (AVRA)",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2027-02-04 13:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1036982",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "831953",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · 50 · CPV 70122100",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-2026/121",
+"title": "Contratación de informes de inspección de puentes municipales.",
+"buyer": "Ayuntamiento de Mungia-Alcalde",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-12-10 18:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso761724/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "35200",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13831244&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13831246&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-X2026005256",
+"title": "L’objecte del present contracte es la prestació, per part de l’empresa contractada, d’uns serveis d’assessorament jurídic i suport legal especialitzat en matèria d’urbanisme per a l’Ajuntament de Sant Vicenç de Castellet",
+"buyer": "Ajuntament de Sant Vicenç de Castellet",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-11-25 11:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/50ca63d6-a12b-44d1-8926-9a6c492f6750/300934419",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "42900",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302781085/AA18D1667B1C53079DAA2E123929373B",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302781087/0E9C9D43388A8DCEA5768894533692A6"
+],
+"desc": "Abierto simplificado · Servicios · CPV 79111000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-B057-2026-00019",
+"title": "Redacción proyecto de ejecución y dirección de obras para la habilitación del local Sareginak Plaza",
+"buyer": "Ayuntamiento de Lekeitio-Junta de Gobierno",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-11-25 23:59",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3724810/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "66666",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13827840&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13827841&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-2026/0021682",
+"title": "Redacció del projecte executiu de reurbanització del carrer Convent del barri de Miralles de Castellví de Rosanes i del projecte executiu de reurbanització del carrer del Pla de Rajadell, dividit en 2 lots",
+"buyer": "Diputació de Barcelona",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-11-25 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/383ce0e4-1e77-4762-9e0a-1fa0237d77dd/300933828",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "37074",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302779340/36923DCC9EB307C649CD2D1EC3DDF6A2",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302779345/EBBC4B0274CBF2AD88C866FF9C1C65D5"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71240000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-2026/1390",
+"title": "Redacció del projecte executiu per a l'adequació i impermeabilització del vas de la fase 5.2.2. del dipòsit controlat comarcal",
+"buyer": "Consell Comarcal de l'Alt Empordà",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-11-24 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/defd1c3b-06a2-4e22-99d9-2bcfc4cb3bf7/300933412",
+"source": "PLACE (CCAA)",
+"proc": "",
+"kind": "licitación",
+"value": "55653",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302780545/9720D3B3A7B5DA60290F89AF108C0D12",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302777408/5AD2DD5C439E7001828A1A8D28D307EC"
+],
+"desc": "999 · Servicios · CPV 71242000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-PC. PC-CIL-23079",
+"title": "Contrato de servicios para la asistencia técnica para la redacción del proyecto constructivo \"Acondicionamiento de la C-28 del PK 58+000 al 59+550. Sorpe (Alt Àneu)\". Clave: PC-CIL-23079",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-12-14 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/4f69821d-9f11-4cd6-ae80-2e07e7fdb32c/300932886",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "368288",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302774926/CA43D35FFEF60F59424707CFADBB1242",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302774731/0C5F0CAF36CA21600F467F317192AF8E"
+],
+"desc": "Abierto · Servicios · CPV 71242000",
+"first_seen": "2026-11-11"
+},
+{
+"num": "PLACE-999.2026.031",
+"title": "El objeto del presente contrato corresponde a los servicios de asistencia técnica de apoyo para la gestión y coordinación de obras para el Departamento de Edificación de Obra Nueva de Barcelona d’Infraestructures Municip",
+"buyer": "Barcelona d'Infraestructures Municipals SA",
+"country": "ESP",
+"pub": "2026-11-10",
+"deadline": "2026-12-07 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/3bfbf4aa-e7e8-4a9f-a32a-1eed4e5759e1/300929252",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "83570",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302772125/3B219A3C9A7D3EB043FDB2B0D2A5DF6A",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302772126/FC5E98972F010C1E791F3E6256B8C21B"
+],
+"desc": "Abierto · Servicios · CPV 71356200",
+"first_seen": "2026-11-11"
 }
 ]
