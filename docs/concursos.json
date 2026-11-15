@@ -32134,8 +32134,8 @@
 "title": "Redacción de proyecto y dirección obras de reurbanización de la plaza Urgitxeta y entorno.",
 "buyer": "Ayuntamiento de Sopela-Alcaldía",
 "country": "ESP",
-"pub": "2026-10-30",
-"deadline": "2026-11-13 14:00",
+"pub": "2026-11-14",
+"deadline": "2026-11-16 23:59",
 "place": "Sopelana",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753143/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -32144,8 +32144,8 @@
 "value": "42000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13725292&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13725291&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13865073&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13865074&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
 "first_seen": "2026-10-30",
@@ -38796,9 +38796,18 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/791671-2026",
 "num": "791671-2026"
+},
+{
+"source": "PLACE",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MNokr74wPTbL1rX3q%2FMAPA%3D%3D",
+"num": "PLACE-GSERV_26_009"
 }
 ],
-"first_seen": "2026-11-13"
+"first_seen": "2026-11-13",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=rZERL3Ql0k3l3jczFd%2Bm3Gig1QucaB0ekZFFaAA7PptrM9evuYcJy6iWnw6dWuC/tGairMV69XE%2BW5PGApguHX85/ydp%2BXUv1e2AmefNX/pJOVDbGCDM%2BMigrvuVS7Rv",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Gmazn46JfXYZdsRkoFuP7uKbaITIll5o85nY8pqGjO%2BM6plyJZf1IjpxDta6AB1MesoRIQbbeybhwtScMXReRtKiXUqcEn95jergc6fqq2G1aXEvq3KHa/AEHgtDrQw0"
+]
 },
 {
 "num": "791076-2026",
@@ -40121,5 +40130,64 @@
 ],
 "desc": "Abierto · Servicios · CPV 71242000",
 "first_seen": "2026-11-14"
+},
+{
+"num": "BOAMP-26-110385",
+"title": "Concours de maîtrise d’oeuvre sur \" esquisse + \" pour la création d’une nouvelle cuisine centrale.",
+"buyer": "COMMUNE DE LAON",
+"country": "FRA",
+"pub": "2026-11-15",
+"deadline": "",
+"place": "dép. 2",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110385",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-11-15",
+"title_es": "Concours de dirección de obra sobre \"esquisse +\" para la creación de una nueva cocina central.",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "BOAMP-26-110543",
+"title": "Concours restreint de maitrise d'oeuvre - Pôle Scolaire-.",
+"buyer": "Commune de  Rehon",
+"country": "FRA",
+"pub": "2026-11-15",
+"deadline": "",
+"place": "dép. 54",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110543",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-11-15",
+"title_es": "Concours restreint de dirección de obra - Polo Escolar.",
+"desc_es": "Procedimiento Restringido · Dirección de obra"
+},
+{
+"num": "PLACE-8643/2026",
+"title": "Servicios de redacción de proyecto, dirección de obra, dirección de ejecución, coordinación de seguridad y salud y elaboración del Libro del Edificio de los proyectos 8 y 10 del Plan de Actuación Integrado de Ponteareas.",
+"buyer": "Alcaldía del Ayuntamiento de Ponteareas",
+"country": "ESP",
+"pub": "2026-11-13",
+"deadline": "2026-11-30 23:59",
+"place": "Pontevedra",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oKOfhCKCcnqP%2Bo96UAV7cQ%3D%3D",
+"source": "PLACE",
+"proc": "abierto",
+"kind": "licitación",
+"value": "208524",
+"cur": "EUR",
+"docs": [
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=wR%2B2a1WRcaRGTZ2e59QYPZwYBNyfPGO04dlEUMgDPFZhcyMdrZnGsS/mzwfVUc0%2BxMoqlvEwzZoed1vAONJGHdU3qMevGa0OePMiJEzOwixt/o8fNevwsujgRzaBbugn",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tuSFGgYE2Sjl%2BzDMTdZtxpEgWBSpi2adh3Q81dtY78HwnXbD4vQcoGf7tDz9mnAo%2B1wPKfPDVC7V/cyktk9WCmutN2wkSxmPxoc5WzDIVscZyAJWGsSt0OzTSTyw9JAs",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cnmSRGfKltSJnwW1nAHELO4idUgcCv2m2oPAv%2BaArSvWBd9%2BYvK6Wng2WWIk4Z5WoUCsM9TVrtDE4Jq7F%2BprOimcWWvTDGz5yoYUv8MVkKoC1/zDIE0Kw/PWNnLS0Z0z",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vL1rOXAvdxoZqp%2B16FStnpuNU4P9Wg461swA/zhUZPo9wZgeqWwSO%2Bq%2BhyniQR0rJSVQyob03w06tBOURLpxfWZ7M2ZLQXKZofqV3qItd6CB0nvVKRzfe4rpHcnlPhSZ",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bUvbzQjaUbnxn2niKxKoWxEAo7yOuEwloODUYrdPrYMA3XRDyvvwdMavSDM//4TSwOZsoQe0rjbfloIThj9oMg/MMrevCbYuoYQr99iI3IOCx2e6p7hqtlp2aFupgHMr",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pucaekTQP1VM/Me6%2BIdp2DqHAVrNPzWANusgx%2B9j3XamL%2Birh9mq3XkqoKVqcj7xe7DRFRWkbDZa7Uxd6a01QsCo/d58pRYYx4muBLTvYMVt/o8fNevwsujgRzaBbugn",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ALuvrPOYScxg/cHqEtk9P/yKmasVcrcoLo7diVBuTOs37vqUgpQwtu6KIl1yjksQahBRFDVnLwbsndx9wZ448D1ruOpfeYGREWY45p78Prb6CYyL7SIrUOBFfNf52ZqA",
+"https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f94W4RBcNnZwJr1ZOxmrdZNOXLmFlFqixermWC%2BCvabK2eUsWXP83Ta4Sx2dNqLAH%2B9gwXS7X2tP1MGeyYge%2BihEu31c3a3FcUqwcw%2BqlEYC1/zDIE0Kw/PWNnLS0Z0z"
+],
+"desc": "Abierto · Servicios · CPV 71000000, 71317200, 71322000, 71242000",
+"first_seen": "2026-11-15"
 }
 ]
