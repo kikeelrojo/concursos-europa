@@ -16422,9 +16422,9 @@
 "desc": "Concurso de proyectos · Servicios · CPV 71200000",
 "alt": [
 {
-"source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261489ES",
-"num": "COAVN-20261489ES"
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/794243-2026",
+"num": "794243-2026"
 }
 ],
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261489ES",
@@ -39547,7 +39547,7 @@
 "url": "https://www.safa.fi/kilpailu/allas-pool/",
 "source": "safa.fi",
 "proc": "seleccion",
-"desc": "próximo",
+"desc": "en curso",
 "first_seen": "2026-11-13",
 "title_es": "Allas Pool (kutsukilpailu)",
 "desc_es": "próximo"
@@ -40153,7 +40153,7 @@
 "buyer": "Commune de  Rehon",
 "country": "FRA",
 "pub": "2026-11-15",
-"deadline": "",
+"deadline": "2026-12-16T12:00",
 "place": "dép. 54",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110543",
 "source": "BOAMP",
@@ -40161,7 +40161,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-11-15",
 "title_es": "Concours restreint de dirección de obra - Polo Escolar.",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/792926-2026",
+"num": "792926-2026"
+}
+]
 },
 {
 "num": "PLACE-8643/2026",
@@ -40246,7 +40254,14 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=L9ZqqcktaCGz%2Bes9ddeZuzBeDQa8OdEHHH3ees2GU5jWMZQx7R62YVvZOxwPq840wKiiA3SRq12P0g/6cDhA4ovwaAdZQ8S034umc77YZvbDdQD9RyhUmzT4jZ2In4zL"
 ],
 "desc": "Concurso de proyectos · Servicios · CPV 71240000, 71242000",
-"first_seen": "2026-11-15"
+"first_seen": "2026-11-15",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/795940-2026",
+"num": "795940-2026"
+}
+]
 },
 {
 "num": "PLACE-CMBIT1626_CP",
@@ -40268,7 +40283,14 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=D0YJp5dcx6imuJIyV5h6Hqk1D0FRV6QLjbvZJOdr/svPHkoLkT9vL/%2BpwVy4bK2PVBsOvXk2YAu/IsGLrDU2R1vv2BfS8fqvDWv6XNsXfeZJOVDbGCDM%2BMigrvuVS7Rv"
 ],
 "desc": "Concurso de proyectos · Servicios · CPV 71000000, 71200000, 71242000, 71240000",
-"first_seen": "2026-11-15"
+"first_seen": "2026-11-15",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/796487-2026",
+"num": "796487-2026"
+}
+]
 },
 {
 "num": "PLACE-SUOB33-26",
@@ -40310,5 +40332,74 @@
 ],
 "desc": "Abierto · 50",
 "first_seen": "2026-11-15"
+},
+{
+"num": "793079-2026",
+"title": "Alemania – Servicios de arquitectura, ingeniería y planificación – Neugestaltung Innenstadt Brake - Nicht offener, einphasiger, freiraumplanerischer Wettbewerb mit verkehrsplanerischen Aspekten und Konzeptteil mit Teilnahmewettbewerb und nachg. Verhandlungsverfahren",
+"buyer": "Stadt Brake, Die Bürgermeisterin",
+"country": "DEU",
+"pub": "2026-11-16",
+"deadline": "2026-12-09T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Die Stadt Brake (Unterweser) beabsichtigt, ihre Innenstadt umfassend aufzuwerten und neu zu ordnen. Als Kreisstadt des Landkreises Wesermarsch liegt Brake am westlichen Ufer der Unterweser im nordwestlichen Niedersachsen, im Städteviereck Wilhelmshaven - Bremerhaven - Bremen - Oldenburg. Der Landkreis ist überwiegend ländlich geprägt und gilt als strukturschwach. Hintergrund der angestrebten Innenstadtumgestaltung ist ein erkennbarer Handlungs- und Steuerungsbedarf der im Kontext der Erstellung eines Integrierte Stadtentwicklungskonzept (ISEK) identifiziert wurde. Nach Einschätzung des ISEKs gelingt es der Innenstadt in jüngerer Zeit nicht mehr ausreichend, ihr Potenzial als Versorgungszentrum für die Region und ihre Bewohnenden zu entfalten. In der Folge erstellte die Stadt Brake (Unterweser) ein Integriertes Handlungskonzept - den sogenannten \"Masterplan Innenstadt Brake (Unterweser) - und bewarb sich mit diesem Konzept zur Neuordnung der Innenstadt im Städtebauförderprogramm \"Lebendige Zentren. Der Aufnahmebescheid ging im Dezember 2023 ein. Vor diesem Hintergrund soll der Stadterneuerungsprozess über einen freiraumplanerischen Wettbewerb mit verkehrlichen Aspekten und Konzeptteil vorangetrieben werden. Ziel ist es, die architektonische und freiraumplanerische Qualität ebenso wie die funktionale Leistungsfähigkeit der Innenstadt durch vergleichende Entwurfsansätze abzusichern. Dazu werden Planungsteams aus der Landschaftsarchitektur und Verkehrsplanung eingeladen einen Ent",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/793079-2026",
+"source": "TED",
+"first_seen": "2026-11-16",
+"title_es": "Alemania – Servicios de arquitectura, ingeniería y planificación – Remodelación del centro urbano de Brake - Concurso cerrado, monofásico, de planificación de espacios libres con aspectos de planificación del tráfico y parte conceptual con concurso de participación y procedimiento de negociación posterior",
+"desc_es": "La ciudad de Brake (Unterweser) tiene la intención de revalorizar y reorganizar completamente su centro urbano. Como ciudad cabecera del distrito de Wesermarsch, Brake se encuentra en la orilla occidental del Unterweser en el noroeste de Baja Sajonia, en el cuadrilátero de ciudades Wilhelmshaven - Bremerhaven - Bremen - Oldenburg. El distrito se caracteriza principalmente por ser rural y se considera s"
+},
+{
+"num": "796168-2026",
+"title": "Finlandia – Trabajos de construcción – Hanasaaren idea- ja toteutuskilpailu",
+"buyer": "City of Helsinki, Urban Environment Division",
+"country": "FIN",
+"pub": "2026-11-16",
+"deadline": "2027-02-01T10:00",
+"kind": "licitación con concurso",
+"value": "1120000000",
+"cur": "EUR",
+"proc": "oth-mult",
+"desc": "The City is organising an idea and implementation competition (hereinafter referred to as \"the Competition\") to find a partner for the development and implementation of the Hanasaari area. In the Competition, the Hanasaari area is divided into the following sub-areas: 1) Starting Area 2) Power Plant Area and 3) Option Areas, which are to be handed over to the Competition Winner, if the defined conditions are met. The Competition is divided into the following three phases: 1) Call for Requests to Participate Phase 2) Negotiation Phase and 3) Actual Idea and Implementation Competition. The Call for Requests to Participate is published as a procurement notice, where the project and procurement procedure for the Hanasaari area is described as well as in the description of the project and procurement procedure for the Hanasaari idea and implementation competition, which is its attachment. The procurement is governed by the Act on Public Procurement and Concession Contracts (1397/2016, hereinafter referred to as \"the Procurement Act\"). This is a concession contract that exceeds the threshold values, and it will be put out to tender, in accordance with the provisions of Chapter 13 of the Procurement Act. The City is inviting Competition Groups to participate in a Co-Development Procedure. In the first phase of the Co-Development Procedure, the City will publish a Call for Requests to Participate, and all Competition Groups that meet the suitability and minimum requirements set out i",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/796168-2026",
+"source": "TED",
+"first_seen": "2026-11-16",
+"title_es": "Finlandia – Trabajos de construcción – Concurso de idea e implementación Hanasaari",
+"desc_es": "La ciudad organiza un concurso de idea e implementación (en lo sucesivo denominado «el Concurso») para encontrar un socio para el desarrollo e implementación del área de Hanasaari. En el Concurso, el área de Hanasaari se divide en las siguientes subáreas: 1) Área de inicio 2) Área de la central eléctrica y 3) Áreas opcionales, que deben ser entregadas"
+},
+{
+"num": "KO-restauration-et-reamenagement-de-leglise-du-college-saint-mi",
+"title": "Restauration et réaménagement de l’église du Collège Saint-Michel à Fribourg (MEP SIA 143) (Projektstudie, selektives Verfahren)",
+"buyer": "Etat de Fribourg",
+"country": "CHE",
+"pub": "2026-11-16",
+"deadline": "2027-05-26",
+"place": "1700 Fribourg",
+"url": "https://konkurado.ch/de/restauration-et-reamenagement-de-leglise-du-college-saint-michel-a-fribourg-mep-sia-143",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · L’église du Collège Saint-Michel, érigée entre 1606 et 1613 et transformée au XVIIIᵉ siècle en sanctuaire rococo, constitue l’un des monuments patrimoniaux les plus importants du canton de Fribourg. L’église joue un rôle central dans la vie culturelle, pédagogique et touristique du canton. Elle accueille de nombreux concerts, notamment le Festival International de Musiques Sacrées (FIMS), ainsi que des activités du Collège Saint-Michel, du Conservatoire et de la Haute École de Musique. L’évolution des usages et la forte fréquentation nécessitent une mise à niveau des équipements techniques, ac",
+"first_seen": "2026-11-16",
+"title_es": "Restauración y reacondicionamiento de la iglesia del Colegio Saint-Michel en Friburgo (MEP SIA 143) (Estudio de proyecto, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/ACP · La iglesia del Colegio Saint-Michel, erigida entre 1606 y 1613 y transformada en el siglo XVIII en santuario rococó, constituye uno de los monumentos patrimoniales más importantes del cantón de Friburgo. La iglesia juega un papel central en la vida cultural, pedagógica y turística del cantón. Acoge numerosas"
+},
+{
+"num": "PL-konkurs_na_koncepcje_budynku_stolowki_wraz_z_kotlo",
+"title": "Konkurs na koncepcję budynku stołówki wraz z kotłownią i zagospodarowaniem terenu na terenie Szkoły Policyjnej w Katowicach",
+"buyer": "",
+"country": "POL",
+"pub": "2026-11-16",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_na_koncepcje_budynku_stolowki_wraz_z_kotlownia_i_zagospodarowaniem_terenu_na_terenie_szkoly_policyjnej_w_katowicach",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-11-16",
+"title_es": "Concurso de concepto para edificio de comedor con sala de calderas y acondicionamiento del terreno en el terreno de la Escuela de Policía en Katowice"
 }
 ]
