@@ -16799,8 +16799,8 @@
 "title": "0000452/2026 servicio de redacción de proyecto, estudio básico de seguridad y salud, dirección facultativa y coordinación de seguridad y salud para la instalación de energía solar fotovoltaica en distintos centros sanita",
 "buyer": "Servicio Andaluz de Salud",
 "country": "ESP",
-"pub": "2026-10-30",
-"deadline": "2026-11-13 14:00",
+"pub": "2026-11-16",
+"deadline": "2026-11-23 14:00",
 "place": "Cádiz",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1011656",
 "source": "PLACE (CCAA)",
@@ -16809,7 +16809,7 @@
 "value": "392147",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 71500000, 71300000",
+"desc": "Abierto · Servicios · CPV 71300000, 71500000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261482ES",
 "alt": [
 {
@@ -23498,25 +23498,25 @@
 "title": "Concurso de proyectos para la redacción del proyecto básico y ejecutivo y la posterior dirección de obra de las obras de ampliación en Institut Escola 2L en la Escola l'Arrabassada de Tarragona. Clave: SAT-20234",
 "buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
 "country": "ESP",
-"pub": "2026-10-15",
-"deadline": "2026-11-13 13:00",
+"pub": "2026-11-16",
+"deadline": "2026-11-17 13:00",
 "place": "Tarragona",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/69e1e410-1ffd-43a6-88db-b4336a2fbe13/300907293",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/69e1e410-1ffd-43a6-88db-b4336a2fbe13/300939287",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "concurso",
 "value": "368570",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302674976/C015C73C97E8D9D1D3F910207B800A83",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302674977/0FE267956ED1409AF423B884339720C1"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302798034/C015C73C97E8D9D1D3F910207B800A83",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302798035/0FE267956ED1409AF423B884339720C1"
 ],
 "desc": "Concurso de proyectos · Servicios · CPV 71242000, 71541000",
 "alt": [
 {
-"source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261586ES",
-"num": "COAVN-20261586ES"
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/798679-2026",
+"num": "798679-2026"
 }
 ],
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261586ES",
@@ -24420,17 +24420,28 @@
 "buyer": "Barcelona D`infraestructures Municipals S.A.",
 "country": "ESP",
 "pub": "2026-10-16",
-"deadline": "",
+"deadline": "2026-11-17 13:00",
 "place": "Barcelona",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261578ES",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261578ES",
 "source": "COAVN estatal",
-"proc": "",
+"proc": "abierto",
 "kind": "licitación",
 "value": "339510",
 "cur": "EUR",
 "desc": "Presupuesto: 339.510,25 euros (IVA excluido) · Publicado en: Plataforma de contratación de Cataluña",
-"first_seen": "2026-10-16"
+"first_seen": "2026-10-16",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302801406/7819A6EC7880AB33E40BC71E161B75F6",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302801407/8D02584DC1A0B282F4B72F3B56D6EB59"
+],
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/b14efc47-5221-49bc-b1f6-f91893208b7c/300940078",
+"num": "PLACE-604.2026.041"
+}
+]
 },
 {
 "num": "COAVN-20261579ES",
@@ -32633,7 +32644,7 @@
 "title": "Servicio de Apoyo a la Dirección de las Obras de los Proyectos Constructivos de la Variante Sur Ferroviaria de Bilbao. Fase 1. Tramos: Orconera - Durañona y Durañona - Burtxako",
 "buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
 "country": "ESP",
-"pub": "2026-10-30",
+"pub": "2026-11-16",
 "deadline": "2026-12-11 12:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753624/es_doc/index.html",
@@ -32643,8 +32654,8 @@
 "value": "3309600",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13725116&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13725114&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13871596&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13871597&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71311100",
 "first_seen": "2026-10-31"
@@ -34444,7 +34455,7 @@
 "title": "Servicios para la redacción de proyecto de construcción del tramo de vía ciclista Eskoriatza muga con Araba (I04-018F). Fase B. Tramo entre los PK 61,860 y PK 65,122 (5-BI-85/2025-B-AT)",
 "buyer": "Diputación Foral de Gipuzkoa-Dirección General de Infraestructuras Viarias",
 "country": "ESP",
-"pub": "2026-11-05",
+"pub": "2026-11-16",
 "deadline": "2026-11-20 18:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753157/es_doc/index.html",
@@ -34454,8 +34465,8 @@
 "value": "33360",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13775556&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13775557&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13875244&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13875245&R01HNoPortal=true"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71310000",
 "first_seen": "2026-11-05"
@@ -35583,7 +35594,7 @@
 "title": "Servicios de seguridad de los cinco edificios y el parking",
 "buyer": "Fundación Donostia International Physics Center-Director",
 "country": "ESP",
-"pub": "2026-11-05",
+"pub": "2026-11-16",
 "deadline": "2026-12-02 15:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso756723/es_doc/index.html",
@@ -35593,8 +35604,8 @@
 "value": "225881",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13774766&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13774768&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13879468&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13879470&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 79710000",
 "first_seen": "2026-11-06"
@@ -36723,7 +36734,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71240000",
-"first_seen": "2026-11-09"
+"first_seen": "2026-11-09",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261734ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261734ES",
+"num": "COAVN-20261734ES"
+}
+]
 },
 {
 "num": "PLACE-307/2026",
@@ -37097,6 +37116,11 @@
 "source": "COAVN Euskadi-Navarra",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260364B",
 "num": "COAVN-20260364B"
+},
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260365B",
+"num": "COAVN-20260365B"
 }
 ]
 },
@@ -37545,7 +37569,7 @@
 "title": "Contratación de informes de inspección de puentes municipales.",
 "buyer": "Ayuntamiento de Mungia-Alcalde",
 "country": "ESP",
-"pub": "2026-11-12",
+"pub": "2026-11-16",
 "deadline": "2026-11-27 18:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso761724/es_doc/index.html",
@@ -37555,8 +37579,8 @@
 "value": "35200",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13857666&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13857663&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13876031&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13876033&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71240000",
 "first_seen": "2026-11-11"
@@ -38715,9 +38739,9 @@
 "desc": "Abierto · Servicios · CPV 71221000",
 "alt": [
 {
-"source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261781ES",
-"num": "COAVN-20261781ES"
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/786647-2026",
+"num": "786647-2026"
 }
 ],
 "first_seen": "2026-11-12",
@@ -39559,7 +39583,7 @@
 "country": "ESP",
 "pub": "2026-11-12",
 "deadline": "2026-12-09 13:30",
-"place": "",
+"place": "Lemoa",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3541193/es_doc/index.html",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -39571,7 +39595,15 @@
 "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13854428&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71210000",
-"first_seen": "2026-11-13"
+"first_seen": "2026-11-13",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260367B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260367B",
+"num": "COAVN-20260367B"
+}
+]
 },
 {
 "num": "PLACE-2026CSP23",
@@ -40006,7 +40038,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bQaL%2BtLKsDaX9Vde4TzG2GO1%2BKWpDCiIj1SsXvm2QRcEMUwuN9lvWoOFFObZehM7jS/NtcS7uaAZa8KTb7rxAPBiN56p3vWvT02xm0EmURv3GVhXrFFqN7yFncy7YfRK"
 ],
 "desc": "Abierto · Servicios · CPV 71242000, 71311000",
-"first_seen": "2026-11-13"
+"first_seen": "2026-11-13",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260368G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260368G",
+"num": "COAVN-20260368G"
+}
+]
 },
 {
 "num": "PLACE-020026C00115",
@@ -40204,7 +40244,7 @@
 "buyer": "COLLECTIVITE TERRITORIALE DE GUYANE",
 "country": "FRA",
 "pub": "2026-11-15",
-"deadline": "",
+"deadline": "2026-12-22T16:00",
 "place": "dép. 973",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110715",
 "source": "BOAMP",
@@ -40212,7 +40252,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-11-15",
 "title_es": "concours restreint de dirección de obra en esquisse para la construcción de un complejo deportivo-cultural territorial en Saint-Laurent du Maroni",
-"desc_es": "Procedimiento Restringido · Dirección de obra"
+"desc_es": "Procedimiento Restringido · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/798798-2026",
+"num": "798798-2026"
+}
+]
 },
 {
 "num": "TN-449421",
@@ -40374,11 +40422,11 @@
 {
 "num": "KO-restauration-et-reamenagement-de-leglise-du-college-saint-mi",
 "title": "Restauration et réaménagement de l’église du Collège Saint-Michel à Fribourg (MEP SIA 143) (Projektstudie, selektives Verfahren)",
-"buyer": "Etat de Fribourg",
+"buyer": "Irbis Consulting SA",
 "country": "CHE",
 "pub": "2026-11-16",
 "deadline": "2027-05-26",
-"place": "1700 Fribourg",
+"place": "1701 Fribourg",
 "url": "https://konkurado.ch/de/restauration-et-reamenagement-de-leglise-du-college-saint-michel-a-fribourg-mep-sia-143",
 "source": "konkurado",
 "proc": "seleccion",
@@ -40401,5 +40449,305 @@
 "desc": "",
 "first_seen": "2026-11-16",
 "title_es": "Concurso de concepto para edificio de comedor con sala de calderas y acondicionamiento del terreno en el terreno de la Escuela de Policía en Katowice"
+},
+{
+"num": "799721-2026",
+"title": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Concours restreint de maîtrise d’œuvre- Restructuration et extension des bâtiments de l’établissement de santé du Pôle IURC site d’Illkirch (67400)",
+"buyer": "UGECAM ALSACE",
+"country": "FRA",
+"pub": "2026-11-17",
+"deadline": "2026-12-04T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Concours restreint de maîtrise d’œuvre - Restructuration et extension des bâtiments de l’établissement de santé du Pôle IURC site d’Illkirch . Le capacitaire passera de 106 lits et 53 places à 208 lits et 185 places.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/799721-2026",
+"source": "TED",
+"first_seen": "2026-11-17",
+"title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – concours restreint de dirección de obra - Reestructuración y ampliación de los edificios del establecimiento de salud del Polo IURC sitio Illkirch (67400)",
+"desc_es": "concours restreint de dirección de obra - Reestructuración y ampliación de los edificios del establecimiento de salud del Polo IURC sitio Illkirch. La capacidad aumentará de 106 camas y 53 plazas a 208 camas y 185 plazas."
+},
+{
+"num": "800098-2026",
+"title": "Polonia – Servicios de diseño arquitectónico – Opracowanie koncepcji architektonicznej Centrum Pomocy Społecznej przy ul. Chodeckiej 11 w Warszawie.",
+"buyer": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"country": "POL",
+"pub": "2026-11-17",
+"deadline": "2026-12-08T16:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Przedmiotem konkursu jest wykonanie koncepcji architektonicznej Centrum Pomocy Społecznej z funkcją biurową uzupełnioną o dom dziennego pobytu dla osób starszych z niepełnosprawnościami, ośrodek wsparcia dla dorosłych osób z autyzmem oraz punkt usług usprawniających przy ul. Chodeckiej 11 w Warszawie. Teren inwestycji zlokalizowany jest przy ulicy Chodeckiej 11, bezpośrednio przy skrzyżowaniu z ulicą Łojewską. W skład nieruchomości wchodzą działki o numerach ewidencyjnych 28/1, 28/2, 28/3, 28/4, 28/5, 28/6, 28/7, 28/8, 28/10, 28/11, 28/12, 28/13, 28/14, 28/15, 29/1, 29/2 z obrębu 4-08-08 w dzielnicy Targówek m. st. Warszawy. Powierzchnia terenu inwestycji 2 512 m2. Przedmiot konkursu obejmuje również zagospodarowanie terenu w zakresie wymaganym do uzyskania pozwolenia na użytkowanie wraz z zagospodarowaniem strefy wejściowej do budynku i parkingu na terenie dla osób korzystających z usług krótkoterminowych.",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/800098-2026",
+"source": "TED",
+"first_seen": "2026-11-17",
+"title_es": "Polonia – Servicios de diseño arquitectónico – Elaboración de concepto arquitectónico del Centro de Ayuda Social en la calle Chodecka 11 en Varsovia",
+"desc_es": "El objeto del concurso es la elaboración de un concepto arquitectónico del Centro de Ayuda Social con función administrativa complementada con centro de día para personas mayores con discapacidades, centro de apoyo para adultos con autismo y punto de servicios de rehabilitación en la calle Chodecka 11 en Varsovia. El terreno de la inversión se localiza en la calle"
+},
+{
+"num": "798656-2026",
+"title": "Austria – Servicios de arquitectura, construcción, ingeniería e inspección – Neuplanung der Salztorbrücke in Wien",
+"buyer": "Stadt Wien - Abteilung Architektur und Stadtgestaltung",
+"country": "AUT",
+"pub": "2026-11-17",
+"deadline": "2026-12-16T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "open",
+"desc": "Planung für den Neubau der Salztorbrücke über den Donaukanal vom 1. zum 2. Wiener Gemeindebezirk für Fußgänger*innen, Radfahrer*innen und motorisierten Individualverkehr",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/798656-2026",
+"source": "TED",
+"first_seen": "2026-11-17",
+"title_es": "Austria – Servicios de arquitectura, construcción, ingeniería e inspección – Nuevo diseño del puente Salztorbrücke en Viena",
+"desc_es": "Planificación para la nueva construcción del puente Salztorbrücke sobre el canal Donau entre el 1.º y 2.º distrito de Viena para peatones, ciclistas y tráfico motorizado individual"
+},
+{
+"num": "COAVN-20260369N",
+"title": "Regeneración y definición de nuevos usos antiguo campamento militar",
+"buyer": "Ayuntamiento Tiebas-Muruarte de Reta",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2027-01-18 11:00",
+"place": "Tiebas",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260369N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260369N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "8264",
+"cur": "EUR",
+"desc": "Presupuesto: 8.264,46 Euros (IVA excluido) · Publicado en: www.navarra.es (17/11/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoConcursoProyectos.aspx?cod=26111614584532041951",
+"num": "PLACE-8225_428/2026"
+}
+],
+"first_seen": "2026-11-17"
+},
+{
+"num": "COAVN-20260370A",
+"title": "Servicio de redacción del proyecto de ejecución, de dirección facultativa de las obras, y coordinación de seguridad y salud en las obras de “Mejora del saneamiento en Antoñana (Álava)”.",
+"buyer": "Junta Administrativa de Antoñana",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2026-12-02 23:59",
+"place": "Antoñana",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260370A",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260370A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "79091",
+"cur": "EUR",
+"desc": "Presupuesto: 79.091,39 euros (IVA excluido) · Publicado en: www.euskadi.eus (17/11/2026)",
+"first_seen": "2026-11-17"
+},
+{
+"num": "COAVN-20260371B",
+"title": "Redacción de Proyecto constructivo y dirección técnica de la obra muro Arangoiti",
+"buyer": "Ayuntamiento de Gueñes",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2026-12-02 14:00",
+"place": "Gueñes",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260371B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260371B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "77272",
+"cur": "EUR",
+"desc": "Presupuesto: 77.272,73 euros (IVA excluido) · Publicado en: www.euskadi.eus (17/11/2026)",
+"first_seen": "2026-11-17"
+},
+{
+"num": "COAVN-20260372G",
+"title": "Dirección facultativa y coordinación de seguridad y salud de las obras de sustitución del césped natural por césped artificial y renovación del campo de fútbol Hondartza",
+"buyer": "Ayuntamiento de Hondarribia",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-02 12:00",
+"place": "Hondarribia",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260372G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260372G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "28524",
+"cur": "EUR",
+"desc": "Presupuesto: 28.524,05 euros (IVA excluido) · Publicado en: www.euskadi.eus (16/11/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso763121/es_doc/index.html",
+"num": "PLACE-2026K1150019"
+}
+],
+"first_seen": "2026-11-17"
+},
+{
+"num": "COAVN-20260373G",
+"title": "Concurso de ideas con intervención de jurado de los trabajos de redacción del proyecto de ampliación del cementerio de Orio",
+"buyer": "Orio Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2027-01-18 23:59",
+"place": "Orio",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260373G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260373G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "concurso",
+"value": "57851",
+"cur": "EUR",
+"desc": "Presupuesto: 57.851,24 euros (IVA excluido) · Publicado en: www.euskadi.eus (17/11/2026)",
+"first_seen": "2026-11-17"
+},
+{
+"num": "COAVN-20260374G",
+"title": "Redacción del estudio de alternativas y anteproyecto para la creación de una zona de juegos de agua en Irun",
+"buyer": "Irun Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2026-12-02 14:00",
+"place": "Irun",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260374G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260374G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "16528",
+"cur": "EUR",
+"desc": "Presupuesto: 16.528,93 euros (IVA excluido) · Publicado en: www.euskadi.eus (17/11/2026)",
+"first_seen": "2026-11-17"
+},
+{
+"num": "CA-renovation-et-de-reamenagement-des-annexes-des-hal",
+"title": "Schaerbeek, Halles de Schaerbeek - optimiser l'outil au départ du coeur d'ilôt, Avis de marché, — Schaerbeek, Halles de Schaerbeek - optimiser l'outil au départ du coeur d'ilôt, Avis de marché,",
+"buyer": "Cellule architecture FWB",
+"country": "BEL",
+"pub": "",
+"deadline": "",
+"place": "Schaerbeek",
+"url": "https://cellule.archi/marches/renovation-et-de-reamenagement-des-annexes-des-halles-de-schaerbeek",
+"source": "cellule.archi",
+"proc": "seleccion",
+"desc": "procédure concurrentielle avec négociation - publicité belge · administratif culture · rénovation/restauration réaffectation restructuration",
+"first_seen": "2026-11-17",
+"title_es": "Schaerbeek, Halles de Schaerbeek - optimizar la herramienta a partir del corazón de la manzana, Aviso de licitación",
+"desc_es": "procedimiento competitivo con negociación - publicidad belga · administrativo cultura · renovación/restauración reasignación reestructuración"
+},
+{
+"num": "PLACE-4845/2026",
+"title": "Contracte dels serveis tècnics especialitzats necessaris per a la redacció de la modificació puntual de les Normes Subsidiàries de planejament de Sant Feliu de Codines per a la reordenació urbanística de l'àmbit de l'Esc",
+"buyer": "Ajuntament de Sant Feliu de Codines",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-01 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/a1adae47-02f2-4df5-9fc8-be72f7cac31b/300939708",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "34000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302802439/F099F710453F0645860F5B8FF410E745",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302802440/5C2359CCFAD1188C350B6E786ACEB2B1"
+],
+"desc": "Abierto · Servicios · CPV 71410000",
+"first_seen": "2026-11-17"
+},
+{
+"num": "PLACE-ICSOL-2026-94",
+"title": "VCG-PHB Serveis de redacció del projecte executiu d'urbanització de l'àrea residencial estratègica \"Les Bassetes\" al terme municipal de Vilafranca del Penedés.",
+"buyer": "Institut Català del Sòl (INCASÒL)",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-01 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/7f506832-c238-4522-8da3-a8a763c5f776/300939418",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "104964",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302798569/0DF10A9623B5F068A8851F5465B452AF",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302800436/6CE225143A4A2C26756CF8A26584555B"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71220000",
+"first_seen": "2026-11-17"
+},
+{
+"num": "PLACE-GCON2026000060",
+"title": "L’objecte del present contracte és la prestació del servei de conservació i millora dels espais lliures i zones verdes urbanes i periurbanes, espais blaus urbans, zones boscoses urbanes, parcs infantils en espais públics",
+"buyer": "Ajuntament del Vendrell",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-16 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/704d1542-aba3-4898-bdcc-c85feb8add24/300891496",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "5293063",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302785149/9FD6585656ECA0DE0844A28EEC78FC0D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302785154/8901D68FC2395436ADA38D0BEB649F49"
+],
+"desc": "Abierto · Servicios · CPV 77312000, 77310000, 71421000, 77311000",
+"first_seen": "2026-11-17"
+},
+{
+"num": "PLACE-F260000707-709",
+"title": "Servicios de apoyo al despliegue de la Oficina de Rehabilitación Municipal para la información, dinamización, acompañamiento técnico y social, y gestión de las ayudas a la rehabilitación de viviendas y edificios, con med",
+"buyer": "Foment de Ciutat SA",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-21 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/60c67907-7470-4342-b5b0-f3f6eac605b4/300938435",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "853757",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302796580/F154DCD6A4B0854EF670B0055F918350",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302795988/E78B29F3F29A7748F78A1834F640823E"
+],
+"desc": "Abierto · Servicios · CPV 85300000, 71210000, 79400000",
+"first_seen": "2026-11-17"
+},
+{
+"num": "PLACE-2026-0276-OSE",
+"title": "Servicio de ingeniería para la Dirección de obra, la Coordinación de Seguridad y Salud, la redacción del documento de la obra ejecutada (D.O.E) de las obras descritas al proyecto de “Proyecto constructivo de renovación d",
+"buyer": "Ens d'Abastament d'Aigua Ter-Llobregat (ATL)",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2027-01-19 13:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/db6e708f-da12-4f05-9afe-8168df8b49b7/300937364",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "560310",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302791365/CDEE2FADC11E8258A68AE39899DD2BFC",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302791366/C16D25B9B904C0D85BAFF20835CB6D65"
+],
+"desc": "Abierto · Servicios · CPV 71520000",
+"first_seen": "2026-11-17"
 }
 ]
