@@ -38037,7 +38037,25 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lIfXzN8n/pUR2xBGlTfJ/lp6EwUQIrUgKezehSnQdTQFa8dPTJHO2M4lUSj7nnZbWM3/n5W29SpNAhiHObrr%2B0hSa7xEs1z2Z/jRr7tnr6o//q7NB2iMZvNyf0xrJmjt"
 ],
 "desc": "100 · Servicios · CPV 71200000",
-"first_seen": "2026-11-11"
+"first_seen": "2026-11-11",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261776ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261776ES",
+"num": "COAVN-20261776ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261777ES",
+"num": "COAVN-20261777ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261784ES",
+"num": "COAVN-20261784ES"
+}
+]
 },
 {
 "num": "PLACE-SER030/2026",
@@ -38765,6 +38783,11 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/786647-2026",
 "num": "786647-2026"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261781ES",
+"num": "COAVN-20261781ES"
 }
 ],
 "first_seen": "2026-11-12",
@@ -41712,5 +41735,70 @@
 ],
 "desc": "Abierto · Servicios · CPV 71242000, 71240000, 71310000",
 "first_seen": "2026-11-18"
+},
+{
+"num": "PA-34609",
+"title": "Un padiglione per raccontare l'identità plurale di un Paese",
+"buyer": "",
+"country": "INT",
+"pub": "2026-11-18",
+"deadline": "2027-07-19",
+"place": "",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34609/un-padiglione-per-raccontare-lidentita-plurale-di-un-paese",
+"source": "professionearchitetto.it",
+"proc": "",
+"kind": "concurso",
+"desc": "concorso di idee · Concorso di idee · Montepremi: 50.000 euro · Iscrizione early bird entro il 20 gennaio | Consegna entro il 19 luglio 2027 · Seconda edizione del concorso di idee di Buildner che invita a raccontare l'identità di un Paese attraverso l'architettura. I partecipanti dovranno progettare un padiglione simbolico, ispirato a storia, cultura e tradizioni locali, con massima libertà nella scelta di forme, materiali e contesto.",
+"first_seen": "2026-11-18",
+"title_es": "Un pabellón para contar la identidad plural de un País",
+"desc_es": "concurso de ideas · Concurso de ideas · Premio en metálico: 50.000 euros · Inscripción tarifa anticipada antes del 20 de enero | Entrega antes del 19 de julio de 2027 · Segunda edición del concurso de ideas de Buildner que invita a contar la identidad de un País a través de la arquitectura. Los participantes deberán proyectar un pabellón simbólico, inspirado en historia, cult"
+},
+{
+"num": "BOAMP-26-111218",
+"title": "Concours de maitrise d'oeuvre pour la construction d'un équipement culturel et associatif public aux Hauts de Massane à Montpellier",
+"buyer": "Société d'Aménagement de Montpellier Méditerranée Métropole",
+"country": "FRA",
+"pub": "2026-11-18",
+"deadline": "2026-12-17T12:00",
+"place": "dép. 34",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111218",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/801476-2026",
+"num": "801476-2026"
+}
+],
+"first_seen": "2026-11-18",
+"title_es": "Concurso de dirección de obra para la construcción de un equipamiento cultural y asociativo público en los Altos de Massane en Montpellier",
+"desc_es": "Procédure Restreinte · Dirección de obra"
+},
+{
+"num": "BOAMP-26-111613",
+"title": "Concours de maîtrise d'oeuvre - Construction de la halle des fêtes de Wintzenheim",
+"buyer": "Commune de Wintzenheim",
+"country": "FRA",
+"pub": "2026-11-18",
+"deadline": "2026-12-22T11:00",
+"place": "dép. 68",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111613",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/801497-2026",
+"num": "801497-2026"
+}
+],
+"first_seen": "2026-11-18",
+"title_es": "Concurso de dirección de obra - Construcción de la sala de fiestas de Wintzenheim",
+"desc_es": "Procédure Restreinte · Dirección de obra"
 }
 ]
