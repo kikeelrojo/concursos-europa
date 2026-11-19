@@ -37509,12 +37509,20 @@
 "cur": "",
 "proc": "restricted",
 "desc": "Gegenstand des Wettbewerbes ist ein städtebaulich-freiraumplanerischer Entwurf in dem gezeigt wird, wie die Transformation eines gewerblich geprägten Bestandsareals zu einem nutzungsgemischten, klimaangepassten und gemeinwohlorientierten Quartier gelingen kann. In einer Stadt mit hoher Flächennachfrage und begrenzten innerstädtischen Entwicklungsreserven treffen hier Ansprüche unmittelbar aufeinander, die sich andernorts oft räumlich aus dem Weg gehen: Wohnen und Gewerbe, Logistik und Aufenthalt, soziale Infrastruktur und Produktion, Freiraum und Verdichtung. Die entscheidende Frage lautet deshalb nicht, welche Nutzung sich am Ende durchsetzt. Interessanter ist, wie aus dieser Konkurrenz ein Stück Stadt entstehen kann. Das Gutleut-West ist kein isoliertes Entwicklungsprojekt, sondern ein Baustein der Frankfurter Innen-entwicklung – und ein Ort, an dem sich exemplarisch zeigen soll, wie produktive, gerechte und grüne Stadtentwicklung im Bestand gelingen kann. Mainufer und Sommerhoffpark gehören zu den besonderen räumlichen Potenzialen des Gebiets. Ihre Qualitäten sollen aufgegriffen und mit neuen Freiräumen und Wegen zu einem zusammen-hängenden Freiraumgerüst weiterentwickelt werden, das Aufenthalt ermöglicht, das Quartier verbindet und zugleich auf Hitze, Starkregen und ökologische Anforderungen reagiert. Die Verbindung unterschiedlicher Nutzungen und Anforderungen auf begrenzter Fläche ist genau die Aufgabe, auf die das Förderprogramm „Multifunktional und flächensparsam: Das",
-"place": "",
+"place": "Frankfurt am Main (Alemania)",
 "url": "https://ted.europa.eu/es/notice/-/detail/784340-2026",
 "source": "TED",
 "first_seen": "2026-11-11",
 "title_es": "Alemania – Servicios de urbanismo – Concurso urbanístico-espacial en dos fases conforme RPW 2013 - Barrio Productivo Gutleut-West",
-"desc_es": "El objeto del concurso es un proyecto urbanístico-espacial que demuestre cómo puede lograrse la transformación de un área industrial existente en un barrio de uso mixto, adaptado al clima y orientado al bien común. En una ciudad con alta demanda de espacio y oportunidades limitadas de desarrollo urbano."
+"desc_es": "El objeto del concurso es un proyecto urbanístico-espacial que demuestre cómo puede lograrse la transformación de un área industrial existente en un barrio de uso mixto, adaptado al clima y orientado al bien común. En una ciudad con alta demanda de espacio y oportunidades limitadas de desarrollo urbano.",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261764IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261764IN",
+"num": "COAVN-20261764IN"
+}
+]
 },
 {
 "num": "784634-2026",
@@ -38783,11 +38791,6 @@
 "source": "TED",
 "url": "https://ted.europa.eu/es/notice/-/detail/786647-2026",
 "num": "786647-2026"
-},
-{
-"source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261781ES",
-"num": "COAVN-20261781ES"
 }
 ],
 "first_seen": "2026-11-12",
@@ -40824,12 +40827,12 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IHZRSVptYXhWXt6KupKJQuF5m0CIP8e4ejxgVNxEw84HTrlyeoRItWV5Ctb19/s9C/BqeDhiAysYzcxSgOwhp/tElKcVEcDUOPBYddW4NF/DdQD9RyhUmzT4jZ2In4zL"
 ],
 "desc": "100 · Servicios · CPV 71242000",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261777ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261787ES",
 "alt": [
 {
 "source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261777ES",
-"num": "COAVN-20261777ES"
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261787ES",
+"num": "COAVN-20261787ES"
 }
 ],
 "first_seen": "2026-11-17"
@@ -41800,5 +41803,190 @@
 "first_seen": "2026-11-18",
 "title_es": "Concurso de dirección de obra - Construcción de la sala de fiestas de Wintzenheim",
 "desc_es": "Procédure Restreinte · Dirección de obra"
+},
+{
+"num": "806324-2026",
+"title": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Contrat de maîtrise d'œuvre pour la construction de la halle gourmande, ZAC Saint Vincent à Blois",
+"buyer": "SPL AGGLOPOLYS AMENAGEMENT",
+"country": "FRA",
+"pub": "2026-11-19",
+"deadline": "2026-12-15T12:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Contrat de maîtrise d'œuvre pour la construction de la halle gourmande, ZAC Saint Vincent à Blois",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/806324-2026",
+"source": "TED",
+"first_seen": "2026-11-19",
+"title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Contrato de dirección de obra para la construcción de la sala gourmet, ZAC Saint Vincent en Blois",
+"desc_es": "Contrato de dirección de obra para la construcción de la sala gourmet, ZAC Saint Vincent en Blois"
+},
+{
+"num": "COAVN-20260375N",
+"title": "Redacción del proyecto y de la dirección facultativa de las obras de ejecución de un Centro de acogida deanimales de Tierra Estella (CAATE)",
+"buyer": "Mancomunidad de Montejurra",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2026-12-02 23:59",
+"place": "Estella",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260375N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260375N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "licitación",
+"value": "101104",
+"cur": "EUR",
+"desc": "Presupuesto: 101.104,00 Euros (IVA excluido) · Publicado en: www.navarra.es (17/11/2026)",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26111713225170ED3703",
+"num": "PLACE-8094_SER17/2026"
+}
+],
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260376B",
+"title": "Contrato de servicios de redacción de la modificación puntual del PGOU de Gorliz en el sector 1 Urezarantza.",
+"buyer": "Gorliz Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-18",
+"deadline": "2026-12-03 23:59",
+"place": "Gorliz",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260376B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260376B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "65000",
+"cur": "EUR",
+"desc": "Presupuesto: 65.000,00 euros (IVA excluido) · Publicado en: www.euskadi.eus (18/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260377G",
+"title": "Contratacion de la dirección facultativa y coordinación en materia de seguridad y salud para obras de construcción de una mota en Mendelu",
+"buyer": "Ayuntamiento de Hondarribia",
+"country": "ESP",
+"pub": "2026-11-18",
+"deadline": "2026-12-04 12:00",
+"place": "Hondarribia",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260377G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260377G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "9000",
+"cur": "EUR",
+"desc": "Presupuesto: 9.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (18/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260378B",
+"title": "Concurso de ideas abierto con jurado para la reforma de la Plaza Mikel Zarate de Lezama.",
+"buyer": "Lezama Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-17",
+"deadline": "2027-01-18",
+"place": "Lezama",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260378B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260378B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "abierto",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"desc": "Publicado en: B.O.B. (17/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260379G",
+"title": "Dirección de Obra del Proyecto Ascensores Pontika-Igantzi Fase 2.",
+"buyer": "Errenteria Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-19",
+"deadline": "2026-12-04 23:59",
+"place": "Errenteria",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260379G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260379G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "36363",
+"cur": "EUR",
+"desc": "Presupuesto: 36.363,64 euros (IVA excluido) · Publicado en: www.euskadi.eus (19/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260380G",
+"title": "Redacción del proyecto básico, proyecto de ejecución y dirección facultativa de las obras de rehabilitación de las fachadas y cubiertas del IES ZUMAIA BHI de Zumaia (Gipuzkoa)",
+"buyer": "Gobierno Vasco - Eusko Jaurlaritza",
+"country": "ESP",
+"pub": "2026-11-19",
+"deadline": "2026-12-04 20:00",
+"place": "Zumaia",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260380G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260380G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "90000",
+"cur": "EUR",
+"desc": "Presupuesto: 90.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (19/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "COAVN-20260381G",
+"title": "Prestación de los servicios de redacción de proyecto de ejecución y dirección de obra para la rehabilitación energética de la envolvente y mejora de la accesibilidad de los portales del edificio situado en los números 14",
+"buyer": "Entidad Pública Empresrial de Vivienda-Donostiako Etxegintza",
+"country": "ESP",
+"pub": "2026-11-19",
+"deadline": "2026-12-04 23:59",
+"place": "Donostia-San Sebastian",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260381G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260381G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "45000",
+"cur": "EUR",
+"desc": "Presupuesto: 45.000 euros (IVA excluido) · Publicado en: www.euskadi.eus (19/11/2026)",
+"first_seen": "2026-11-19"
+},
+{
+"num": "PL-international_aesthetic_design_competition_iadc202",
+"title": "International Aesthetic Design Competition - IADC2027",
+"buyer": "",
+"country": "POL",
+"pub": "2026-11-19",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/international_aesthetic_design_competition_iadc2027",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-11-19",
+"title_es": "Concurso Internacional de Diseño Estético - IADC2027"
+},
+{
+"num": "PLACE-FUE-96/2026",
+"title": "A.T. Redacción De Proyectos De Actuaciones Descentralizadas.-  Aeropuerto De Fuerteventura",
+"buyer": "Aena. Dirección del Aeropuerto de Fuerteventura",
+"country": "ESP",
+"pub": "2026-11-16",
+"deadline": "2026-12-03 12:00",
+"place": "Fuerteventura",
+"url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Wi1DrXhbfhBVq4S9zvaQpQ%3D%3D",
+"source": "PLACE",
+"proc": "",
+"kind": "licitación",
+"value": "300000",
+"cur": "EUR",
+"docs": [],
+"desc": "100 · Servicios · CPV 71242000",
+"first_seen": "2026-11-19"
 }
 ]
