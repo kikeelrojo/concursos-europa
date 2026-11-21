@@ -22533,7 +22533,7 @@
 "title": "Enajenación de bienes inmuebles titularidad de la Agencia de Vivienda y Rehabilitación de Andalucía mediante los procedimientos de Subasta y Concurso público de ofertas de compra de suelo residencial para construir vivie",
 "buyer": "Agencia de Vivienda y Rehabilitación de Andalucía (AVRA)",
 "country": "ESP",
-"pub": "2026-11-05",
+"pub": "2026-11-20",
 "deadline": "2027-01-14 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1014459",
@@ -35652,8 +35652,8 @@
 "title": "Servicios de seguridad de los cinco edificios y el parking",
 "buyer": "Fundación Donostia International Physics Center-Director",
 "country": "ESP",
-"pub": "2026-11-16",
-"deadline": "2026-12-02 15:00",
+"pub": "2026-11-20",
+"deadline": "2026-12-11 15:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso756723/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -35662,8 +35662,8 @@
 "value": "225881",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13879468&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13879470&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13971443&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13971446&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 79710000",
 "first_seen": "2026-11-06"
@@ -37137,7 +37137,7 @@
 "title": "dirección de obra coord. seguridad salud obras depuración varias provincias",
 "buyer": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. D.G. de Infraestructuras del Agua (En Transición)",
 "country": "ESP",
-"pub": "2026-11-10",
+"pub": "2026-11-20",
 "deadline": "2026-12-15 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1036697",
@@ -37147,7 +37147,7 @@
 "value": "1152356",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 90492000, 71520000, 71317210, 71000000",
+"desc": "Abierto · Servicios · CPV 71000000, 71310000, 90492000, 71317210",
 "first_seen": "2026-11-10"
 },
 {
@@ -40850,20 +40850,20 @@
 "title": "L’objecte del present contracte és la prestació del servei de conservació i millora dels espais lliures i zones verdes urbanes i periurbanes, espais blaus urbans, zones boscoses urbanes, parcs infantils en espais públics",
 "buyer": "Ajuntament del Vendrell",
 "country": "ESP",
-"pub": "2026-11-18",
-"deadline": "2026-12-16 14:00",
+"pub": "2026-11-20",
+"deadline": "2026-12-21 14:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/704d1542-aba3-4898-bdcc-c85feb8add24/300942220",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/704d1542-aba3-4898-bdcc-c85feb8add24/300945788",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "5293063",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302809921/9FD6585656ECA0DE0844A28EEC78FC0D",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302809922/8901D68FC2395436ADA38D0BEB649F49"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302823229/9FD6585656ECA0DE0844A28EEC78FC0D",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302823230/8901D68FC2395436ADA38D0BEB649F49"
 ],
-"desc": "Abierto · Servicios · CPV 77211500, 71421000, 77310000, 77340000",
+"desc": "Abierto · Servicios · CPV 77312000, 77310000, 77311000, 71421000",
 "first_seen": "2026-11-17"
 },
 {
@@ -43651,7 +43651,7 @@
 "title": "165sc desmontaje, traslado y montaje de un edificio modular29700722",
 "buyer": "Agencia Pública Andaluza de Educación",
 "country": "ESP",
-"pub": "2026-11-19",
+"pub": "2026-11-20",
 "deadline": "2026-12-09 09:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1038628",
@@ -44361,5 +44361,86 @@
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71410000",
 "first_seen": "2026-11-20"
+},
+{
+"num": "PLACE-F260000714-715",
+"title": "Servicios de asistencia técnica para el impulso y acompañamiento a la rehabilitación de edificios de viviendas privadas en el marco del Plan de Barrios. Lotes 1 y 2, con medidas de contratación pública sostenible.",
+"buyer": "Foment de Ciutat SA",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2026-12-23 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/b1ebd6cd-9283-4fd4-a133-3237a441516b/300942949",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "638031",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302812752/B4CEA243E6BB06B22D2399FBC48F51F4",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302813443/7B18F9C187D48E05FF18044B8C299142"
+],
+"desc": "Abierto · Servicios · CPV 79400000, 85300000, 71210000",
+"first_seen": "2026-11-21"
+},
+{
+"num": "PLACE-X2026000365",
+"title": "La intervenció té com a objectiu principal aprofundir en el coneixement de l’evolució històrica i arquitectònica del castell de Brunyola, a partir de la combinació de tres línies de treball complementàries: l’estudi arqu",
+"buyer": "Ajuntament de Brunyola i Sant Martí Sapresa",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2026-12-04 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/ea985ac4-6020-41dd-ace6-77e712f501b9/300946069",
+"source": "PLACE (CCAA)",
+"proc": "",
+"kind": "licitación",
+"value": "35000",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302824334/A50B17E11E574DF4BE786D50269FD665",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302824335/56057DEEA3173135A535AF15BC34870D"
+],
+"desc": "999 · Servicios · CPV 71351914",
+"first_seen": "2026-11-21"
+},
+{
+"num": "PLACE-ICSOL-2026-97",
+"title": "PHB/VCG Redacció del projecte bàsic i executiu, la redacció de l'Estudi de seguretat i salut i la direcció de les obres per a la Restauració de la coberta meridional de l'església, i la col·locació de les línies de vida ",
+"buyer": "Institut Català del Sòl (INCASÒL)",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2026-12-09 12:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/096c792c-c4ce-439b-bee1-47f0f64b4686/300945415",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "45017",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302821767/FB6107691051D0DEC7F3D57C157C3B25",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302821768/C4A982F3F08E4D986B45350B62F6F7F5"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71200000",
+"first_seen": "2026-11-21"
+},
+{
+"num": "PLACE-4/2026-Permuta",
+"title": "Concurso Público de ofertas para la adjudicación de un derecho de adquisición preferente para la posterior permutade la parcela 2 del Sector SUNC-O-LO.2 Villanueva del Rosario, sita en la calle Lili Álvarez, nº 6, en Mál",
+"buyer": "Agencia de Vivienda y Rehabilitación de Andalucía (AVRA)",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2027-02-11 14:00",
+"place": "",
+"url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1038485",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "837018",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · 50 · CPV 70123000",
+"first_seen": "2026-11-21"
 }
 ]
