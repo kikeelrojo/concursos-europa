@@ -44442,5 +44442,37 @@
 "docs": [],
 "desc": "Abierto · 50 · CPV 70123000",
 "first_seen": "2026-11-21"
+},
+{
+"num": "BOAMP-26-112691",
+"title": "Concours de maitrise d'œuvre construction d’un bâtiment expérimental pour élevage porcin sur esquisse +",
+"buyer": "INRAE - Centre BRETAGNE NORMANDIE",
+"country": "FRA",
+"pub": "2026-11-21",
+"deadline": "",
+"place": "dép. 35",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112691",
+"source": "BOAMP",
+"proc": "",
+"desc": "Procédure NC · Bâtiment",
+"first_seen": "2026-11-21",
+"title_es": "concours restreint de dirección de obra construcción de un edificio experimental para cría porcina en esquisse +",
+"desc_es": "Procedimiento NC · Edificio"
+},
+{
+"num": "BOAMP-26-112724",
+"title": "CONCOURS RESTREINT DE MAITRISE D'OEUVRE SUR ESQUISSE + PROJET DE CONSTRUCTION D’UN GROUPE SCOLAIRE AUX NORMES PARASISMIQUES POUR LA VILLE DU VAUCLIN",
+"buyer": "Ville du Vauclin",
+"country": "FRA",
+"pub": "2026-11-21",
+"deadline": "",
+"place": "dép. 75",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112724",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure NC · Maîtrise d'oeuvre",
+"first_seen": "2026-11-21",
+"title_es": "concours restreint de dirección de obra en esquisse + proyecto de construcción de un grupo escolar con normas antisísmicas para la ciudad de Vauclin",
+"desc_es": "Procedimiento NC · Dirección de obra"
 }
 ]
