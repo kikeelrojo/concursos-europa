@@ -30403,7 +30403,7 @@
 "buyer": "Baugenossenschaft Luegisland | Baugenossenschaft Glattal Zürich",
 "country": "CHE",
 "pub": "",
-"deadline": "2027-05-20",
+"deadline": "2027-05-27",
 "place": "8051 Zürich-Schwamendingen",
 "url": "https://konkurado.ch/de/Ersatzneubau-am-Ueberlandpark-B12",
 "source": "konkurado",
@@ -43540,7 +43540,7 @@
 "buyer": "Chambre de Métiers et de l’Artisanat de Région Bretagne",
 "country": "FRA",
 "pub": "2026-11-20",
-"deadline": "",
+"deadline": "2026-12-22T16:00",
 "place": "dép. 35",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111888",
 "source": "BOAMP",
@@ -43548,7 +43548,15 @@
 "desc": "Procédure Restreinte · Mission d'ordonnancement, pilotage, coordination (OPC)",
 "first_seen": "2026-11-20",
 "title_es": "Concurso de dirección de obra para la construcción de un edificio de enseñanza general y locales administrativos CFA-CMA en el emplazamiento de Ploufragan",
-"desc_es": "concours restreint · Misión de ordenamiento, pilotaje, coordinación (OPC)"
+"desc_es": "concours restreint · Misión de ordenamiento, pilotaje, coordinación (OPC)",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/812064-2026",
+"num": "812064-2026"
+}
+]
 },
 {
 "num": "PLACE-3008670J",
@@ -44491,7 +44499,7 @@
 "buyer": "Ville du Vauclin",
 "country": "FRA",
 "pub": "2026-11-21",
-"deadline": "",
+"deadline": "2027-01-12T12:00",
 "place": "dép. 75",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112724",
 "source": "BOAMP",
@@ -44499,7 +44507,15 @@
 "desc": "Procédure NC · Maîtrise d'oeuvre",
 "first_seen": "2026-11-21",
 "title_es": "concours restreint de dirección de obra en esquisse + proyecto de construcción de un grupo escolar con normas antisísmicas para la ciudad de Vauclin",
-"desc_es": "Procedimiento NC · Dirección de obra"
+"desc_es": "Procedimiento NC · Dirección de obra",
+"kind": "licitación con concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/813256-2026",
+"num": "813256-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-112745",
@@ -44515,7 +44531,15 @@
 "desc": "Procédure Ouverte · Prestations de services",
 "first_seen": "2026-11-22",
 "title_es": "Concours restreint de maîtrise d'œuvre en esquisse para la construcción del CCAS de Bandrélé y una guardería de 24 cunas.",
-"desc_es": "Procedimiento Abierto · Prestaciones de servicios"
+"desc_es": "Procedimiento Abierto · Prestaciones de servicios",
+"kind": "licitación con concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/811689-2026",
+"num": "811689-2026"
+}
+]
 },
 {
 "num": "BOAMP-26-112959",
@@ -44555,7 +44579,7 @@
 "buyer": "Ville de Corbas",
 "country": "FRA",
 "pub": "2026-11-22",
-"deadline": "",
+"deadline": "2026-12-16T12:00",
 "place": "dép. 69",
 "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113030",
 "source": "BOAMP",
@@ -44563,7 +44587,15 @@
 "desc": "Procédure Restreinte · Maîtrise d'oeuvre",
 "first_seen": "2026-11-22",
 "title_es": "Concours de dirección de obra para la construcción de una nave cubierta y un espacio de restauración del centro cultural Le Polaris",
-"desc_es": "Concours restreint · Dirección de obra"
+"desc_es": "Concours restreint · Dirección de obra",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/811058-2026",
+"num": "811058-2026"
+}
+]
 },
 {
 "num": "PLACE-669/2026",
@@ -44676,5 +44708,132 @@
 ],
 "desc": "Restringido · Servicios · CPV 55520000",
 "first_seen": "2026-11-22"
+},
+{
+"num": "812914-2026",
+"title": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Neubau der Friedrich-Harkort Schule in Hagen",
+"buyer": "Hagen Stadt der Fernuniversität Der Oberbürgermeister",
+"country": "DEU",
+"pub": "2026-11-23",
+"deadline": "2026-12-11T23:59",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "Nicht offener einphasiger Interdisziplinärer Realisierungswettbewerb \"Neubau der Friedrich-Harkort Schule\" in Hagen nach RPW 2013 im Rahmen der VgV",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/812914-2026",
+"source": "TED",
+"first_seen": "2026-11-23",
+"title_es": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Neubau der Friedrich-Harkort Schule in Hagen",
+"desc_es": "Concurso de realización interdisciplinario no abierto de una fase «Neubau der Friedrich-Harkort Schule» en Hagen conforme a RPW 2013 en el marco de la VgV"
+},
+{
+"num": "812344-2026",
+"title": "Francia – Servicios de arquitectura para edificios – Mission de maîtrise d'oeuvre relatif à l'opération de surélévation et la restructuration d'un bâtiment pour la création de 25 logements sociaux et d'un local d'activité (Agence Lefebvre) à Paris 15ème",
+"buyer": "Paris Habitat - OPH",
+"country": "FRA",
+"pub": "2026-11-23",
+"deadline": "2027-01-08T16:00",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"proc": "restricted",
+"desc": "La mission débutera en juillet 2027 Les attentes de Paris Habitat sur ce projet sont les suivants?: Le bâtiment devra s'intégrer harmonieusement dans le site vis-à-vis de son environnement Le projet devra favoriser l'innovation en termes de qualité d'usage, d'évolution et d'adaptabilité du logement. Le projet devra développer une efficience environnementale et répondant aux critères de la RE2020?: energie (systèmes et consommations) et carbone (éco-conception, biosourcé, économie circulaire et réemploi, diagnostic PEMD). Le projet devra intégrer une mixité des usages équilibrée, favorisant les interactions entre les différentes fonctions du programme et répondant aux besoins des habitants et usagers",
+"place": "",
+"url": "https://ted.europa.eu/es/notice/-/detail/812344-2026",
+"source": "TED",
+"first_seen": "2026-11-23",
+"title_es": "Francia – Servicios de arquitectura para edificios – Mission de maîtrise d'oeuvre relativo a la operación de sobrelevación y reestructuración de un edificio para la creación de 25 viviendas sociales y un local de actividad (Agence Lefebvre) en París 15º",
+"desc_es": "La misión comenzará en julio de 2027. Las expectativas de Paris Habitat en este proyecto son las siguientes: El edificio deberá integrarse armoniosamente en el sitio respecto a su entorno. El proyecto deberá favorecer la innovación en términos de calidad de uso, evolución y adaptabilidad de la vivienda. El proyecto deberá desarrollar una eficiencia ambiental"
+},
+{
+"num": "COAVN-20260382N",
+"title": "Redacción del proyecto de urbanización de la Unidad 22 de Buztintxuri Euntzetxiki - Santa Engracia, y ensu caso, dirección facultativa de las obras de urbanización",
+"buyer": "Ayuntamiento de Pamplona",
+"country": "ESP",
+"pub": "2026-11-19",
+"deadline": "2026-12-14 23:59",
+"place": "Pamplona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260382N",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260382N",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Presupuesto: 60.000,00 Euros (IVA excluido) · Publicado en: www.navarra.es (19/11/2026)",
+"first_seen": "2026-11-23"
+},
+{
+"num": "COAVN-20260383G",
+"title": "Servicio de apoyo a la dirección de la obra de reforma de la Estacion Unibertsitatea Eibar (Gipuzkoa) y obra de integración ambiental y paisajística de la obra de cubrición del tramo Eibar – Azitain de la línea férrea Bi",
+"buyer": "Euskal Trenbide Sarea",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2026-12-21 12:00",
+"place": "Eibar",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260383G",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260383G",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "1128800",
+"cur": "EUR",
+"desc": "Presupuesto: 1.128.800 euros (IVA excluido) · Publicado en: www.euskadi.eus (20/11/2026)",
+"first_seen": "2026-11-23"
+},
+{
+"num": "COAVN-20260384A",
+"title": "Redacción del proyecto de ejecución, de dirección facultativa de las obras, y coordinación de seguridad y salud en las obras de “Rehabilitación de la casa del embajador Juan Alonso de Gámiz”, en Armentia, Álava.",
+"buyer": "Junta Administrativa de Armentia",
+"country": "ESP",
+"pub": "2026-11-23",
+"deadline": "2026-12-14 23:59",
+"place": "Armentia",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260384A",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260384A",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "154502",
+"cur": "EUR",
+"desc": "Presupuesto: 154.502,21 euros (IVA excluido) · Publicado en: www.euskadi.eus (23/11/2026)",
+"first_seen": "2026-11-23"
+},
+{
+"num": "COAVN-20260385B",
+"title": "Servicio de asistencia técnica en la redacción proyecto de ejecución para las obras de mejora energética de la Casa Consistorial de Durango",
+"buyer": "Durango Ayuntamiento",
+"country": "ESP",
+"pub": "2026-11-20",
+"deadline": "2026-12-07 15:00",
+"place": "Durango",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260385B",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260385B",
+"source": "COAVN Euskadi-Navarra",
+"proc": "",
+"kind": "licitación",
+"value": "41322",
+"cur": "EUR",
+"desc": "Presupuesto: 41.322,31 euros (IVA excluido) · Publicado en: www.euskadi.eus (20/11/2026)",
+"first_seen": "2026-11-23"
+},
+{
+"num": "PA-34638",
+"title": "Adeguamento liturgico della cattedrale dei Santi Pietro e Paolo",
+"buyer": "",
+"country": "ITA",
+"pub": "2026-11-23",
+"deadline": "2026-12-02",
+"place": "Veneto",
+"url": "https://www.professionearchitetto.it/concorsi/notizie/34638/adeguamento-liturgico-della-cattedrale-dei-santi-pietro-e-paolo",
+"source": "professionearchitetto.it",
+"proc": "abierto",
+"kind": "concurso",
+"desc": "concorso di progettazione · Concorso di progettazione · due fasi · 4.000 euro + eventuale incarico al vincitore, rimborsi ai finalisti · Manifestazione di interesse entro il 2 dicembre 2026 · Concorso di progettazione · due fasi · 4.000 euro + eventuale incarico al vincitore, rimborsi ai finalisti",
+"first_seen": "2026-11-23",
+"title_es": "Adecuación litúrgica de la catedral de los Santos Pedro y Pablo",
+"desc_es": "Concurso de proyectos · Concurso de proyectos · dos fases · 4.000 euros + posible encargo al ganador, reembolsos a los finalistas · Manifestación de interés antes del 2 de diciembre de 2026 · Concurso de proyectos · dos fases · 4.000 euros + posible encargo al ganador, reembolsos a los finalistas"
 }
 ]
