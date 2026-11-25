@@ -41784,7 +41784,7 @@
 "country": "ESP",
 "pub": "2026-11-17",
 "deadline": "2026-12-02 23:59",
-"place": "",
+"place": "Estella",
 "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26111713225170ED3703",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -41793,7 +41793,15 @@
 "cur": "EUR",
 "docs": [],
 "desc": "Abierto · Servicios · CPV 71242000, 71540000",
-"first_seen": "2026-11-18"
+"first_seen": "2026-11-18",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260375N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260375N",
+"num": "COAVN-20260375N"
+}
+]
 },
 {
 "num": "PLACE-6/2026 PIS ZERBITZUAK",
@@ -45317,7 +45325,7 @@
 },
 {
 "num": "PA-34647",
-"title": "Trasformare la fortezza ottomana di Dzepane in un centro per la comunità macedone",
+"title": "Teatri, mercati e laboratori nell'ex polveriera ottomana di Dzepane",
 "buyer": "",
 "country": "INT",
 "pub": "2026-11-24",
@@ -45518,5 +45526,85 @@
 "first_seen": "2026-11-24",
 "title_es": "Bélgica – Servicios de arquitectura, construcción, ingeniería e inspección – Encargo de arquitectura e instalación de proyecto de vivienda social y oficina administrativa de sociedad de vivienda",
 "desc_es": "Procedimiento no abierto de contratación pública de servicios, múltiples criterios de adjudicación para la designación de equipo de diseño para encargo de arquitectura e instalación de proyecto de vivienda social y oficina de sociedad de vivienda"
+},
+{
+"num": "KO-arealtransformation-ludains",
+"title": "Arealtransformation - Ludains (Projektwettbewerb, offenes Verfahren)",
+"buyer": "Gemeinde St. Moritz",
+"country": "CHE",
+"pub": "2026-11-25",
+"deadline": "2027-05-28",
+"place": "7500 St. Moritz",
+"url": "https://konkurado.ch/de/arealtransformation-ludains",
+"source": "konkurado",
+"proc": "abierto",
+"desc": "Restricción regional: WTO/GPA · anónimo",
+"first_seen": "2026-11-25",
+"title_es": "Transformación de área - Ludains (Projektwettbewerb, procedimiento abierto)",
+"desc_es": "Restricción regional: OMC/GPA · anónimo"
+},
+{
+"num": "KO-b26068-magglingen-grand-hotel-und-bellavista",
+"title": "(b26068) Magglingen Grand Hotel und Bellavista (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "Bundesamt für Bauten und Logistik BBL",
+"country": "CHE",
+"pub": "2026-11-25",
+"deadline": "2026-12-21",
+"place": "2532 Magglingen",
+"url": "https://konkurado.ch/de/b26068-magglingen-grand-hotel-und-bellavista",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die Gebäude Grand Hotel und Bellavista befinden sich auf demselben Perimeter und werden vom Bundesamt für Sport (BASPO) betrieben. Das 1877 als Luft- und Kurhotel eröffnete Grand Hotel gilt als bedeutendster Vertreter dieses Bautyps in der Region und gehört zum Inventar schützenswerter Objekte der Stadt Biel. Zusammen mit dem Hotel Bellavista bildet es einen zentralen Bestandteil des BASPO-Standorts und erfüllt wichtige Funktionen in den Bereichen Unterkunft und Verpflegung. An den Gebäuden sollen zeitgleich Bauwerkserhaltungs- und Unterhaltsmassnahmen umgesetzt sowie Teile des Mobiliars erset",
+"first_seen": "2026-11-25",
+"title_es": "(b26068) Grand Hotel Magglingen y Bellavista (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "Restricción regional: OMC/GPA · Los edificios Grand Hotel y Bellavista se encuentran en el mismo perímetro y son operados por la Oficina Federal de Deportes (BASPO). El Grand Hotel, inaugurado en 1877 como hotel de aire y spa, es considerado el representante más importante de este tipo de construcción en la región y pertenece al inventario de objetos protegibles de la ciudad de Biel. Junto"
+},
+{
+"num": "SARP-konkurs-ograniczony-dwuetapowy-na-opraco",
+"title": "KONKURS OGRANICZONY, DWUETAPOWY NA OPRACOWANIE KONCEPCJI ARCHITEKTONICZNEJ SIEDZIBY PROKURATURY OKRĘGOWEJ I PROKURATURY REJONOWEJ W OSTROŁĘCE WRAZ Z ZAGOSPODAROWANIEM TERENU",
+"buyer": "Prokuratura Okręgowa w Ostrołęce",
+"country": "POL",
+"pub": "2026-11-25",
+"deadline": "2026-12-10T23:59",
+"place": "",
+"url": "https://sarp.warszawa.pl/sarp_konkurs/konkurs-ograniczony-dwuetapowy-na-opracowanie-koncepcji-architektonicznej-siedziby-prokuratury-okregowej-i-prokuratury-rejonowej-w-ostrolece-wraz-z-zagospodarowaniem-terenu/",
+"source": "sarp.warszawa.pl",
+"proc": "seleccion",
+"desc": "Bieżące Konkurs SARP",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/817852-2026",
+"num": "817852-2026"
+}
+],
+"first_seen": "2026-11-25",
+"title_es": "CONCURSO RESTRINGIDO, BIFÁSICO PARA LA ELABORACIÓN DE CONCEPTO ARQUITECTÓNICO DE LA SEDE DE LA FISCALÍA DISTRITAL Y LA FISCALÍA REGIONAL EN OSTROŁĘKA CON ACONDICIONAMIENTO DEL TERRENO",
+"desc_es": "Concurso SARP en curso"
+},
+{
+"num": "BOAMP-26-113639",
+"title": "Concours de maîtrise d'oeuvre pour la requalification de l'ancien collège, Place Allègre à La Londe Les Maures",
+"buyer": "Commune de la Londe Les Maures",
+"country": "FRA",
+"pub": "2026-11-25",
+"deadline": "2027-01-04T11:00",
+"place": "dép. 83",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113639",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/818235-2026",
+"num": "818235-2026"
+}
+],
+"first_seen": "2026-11-25",
+"title_es": "Concurso de dirección de obra para la recalificación de la antigua escuela, Place Allègre en La Londe Les Maures",
+"desc_es": "concours restreint · Dirección de obra"
 }
 ]
