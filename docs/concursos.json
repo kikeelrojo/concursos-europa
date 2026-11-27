@@ -3024,7 +3024,15 @@
 "value": "37190",
 "cur": "EUR",
 "desc": "Presupuesto: 37.190,08 euros (IVA excluido) · Publicado en: Plataforma Contratación del Estado (07/09/2026)",
-"first_seen": "2026-09-12"
+"first_seen": "2026-09-12",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261865ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261865ES",
+"num": "COAVN-20261865ES"
+}
+]
 },
 {
 "num": "BOAMP-26-87885",
@@ -4157,7 +4165,7 @@
 "country": "ESP",
 "pub": "2026-09-10",
 "deadline": "2026-10-14 13:00",
-"place": "",
+"place": "Llagostera (Girona)",
 "url": "https://contractaciopublica.cat/ca/detall-publicacio/d843324b-4122-4ad2-b08e-a96d98b7d99d/300878024",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -4169,7 +4177,15 @@
 "https://contractaciopublica.cat/portal-api/descarrega-document/302577833/21D217651150DB17D0F2AC1F2A507ACA"
 ],
 "desc": "Abierto · Servicios · CPV 71311000",
-"first_seen": "2026-09-12"
+"first_seen": "2026-09-12",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261884ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261884ES",
+"num": "COAVN-20261884ES"
+}
+]
 },
 {
 "num": "PLACE-CTN2600381",
@@ -9532,7 +9548,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kIsU/s1YGFZG4ZLChxO4F/kmteY3XcFHE32lXA0mH3g2YtLDAf/hiRaNbORLGhJuNmkls%2Bi3r7FUZLzx6ElHI67LzKm2%2B0DGa/Bp2cK6AeMZyAJWGsSt0OzTSTyw9JAs"
 ],
 "desc": "Abierto · Servicios · CPV 71221000",
-"first_seen": "2026-09-21"
+"first_seen": "2026-09-21",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261874ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261874ES",
+"num": "COAVN-20261874ES"
+}
+]
 },
 {
 "num": "PLACE-CEFCA-2026-00027",
@@ -11072,7 +11096,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YZyfZeU5l9jrpvQ8CEAcB22d1JOohadzPG1oeA7puw4%2BOeZqPcCORvfovnKozdn/7dL4jci/yc4A84QDdSy2/jaxLvhsE3ojsQJLBxTYJ6EC1/zDIE0Kw/PWNnLS0Z0z"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71311000, 71520000",
-"first_seen": "2026-09-27"
+"first_seen": "2026-09-27",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261879ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261879ES",
+"num": "COAVN-20261879ES"
+}
+]
 },
 {
 "num": "PLACE-3341/2026",
@@ -11364,7 +11396,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GSpgfLtFv9gUO22Gy2L32ShDGhGFQWa8TLGZQol9CS2DiCuITq4MzHjxl5sdmbF9vzXghLzAQBx0Hvv3eNuJ5NmjPbdCITHnibvJVnC0g3t45ClyWkoJ44mKM70IFcOu"
 ],
 "desc": "Abierto · Servicios · CPV 71200000",
-"first_seen": "2026-09-27"
+"first_seen": "2026-09-27",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261875ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261875ES",
+"num": "COAVN-20261875ES"
+}
+]
 },
 {
 "num": "PLACE-9972/2025",
@@ -14475,6 +14515,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261757ES",
 "num": "COAVN-20261757ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261847ES",
+"num": "COAVN-20261847ES"
 }
 ]
 },
@@ -24120,7 +24165,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YuESlLPQxGlFhTrBPn301EBdFLhytKRd7EsPzXA%2BtbQ2NFjtiC2QniwcuFcIG3ELvRILwrqywWTuV%2BK%2BLPIRH/nUiIQHr0/MxkmKVq8bZqY//q7NB2iMZvNyf0xrJmjt"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71247000, 71200000, 71317200",
-"first_seen": "2026-10-16"
+"first_seen": "2026-10-16",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261853ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261853ES",
+"num": "COAVN-20261853ES"
+}
+]
 },
 {
 "num": "PLACE-78/26",
@@ -26576,7 +26629,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=LqkNJQNfzWhG5Pf7CFezwlG8jaldhG4Ap8a73ze1zqBttiyyGIRz1zVIyol4HcZIWdIO2yXbi3X2xKE1PTRuRSX0D%2Bnaf2PQBmh2GZ9CKgR45ClyWkoJ44mKM70IFcOu"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71240000, 71317210",
-"first_seen": "2026-10-22"
+"first_seen": "2026-10-22",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261892ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261892ES",
+"num": "COAVN-20261892ES"
+}
+]
 },
 {
 "num": "PLACE-3513/2026",
@@ -26998,7 +27059,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=NPaR4gsv%2B/soxKwdWr4TF9sHlBTRKvketLpFnZWEEq%2BuNGGc6pn60/zigMsOon20SWDJBhkSMrdeU58g1wtr0S7nuKEnjaFPXNhY2IEdjEkC1/zDIE0Kw/PWNnLS0Z0z"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
-"first_seen": "2026-10-22"
+"first_seen": "2026-10-22",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261887ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261887ES",
+"num": "COAVN-20261887ES"
+}
+]
 },
 {
 "num": "PLACE-3008/2026",
@@ -30229,7 +30298,7 @@
 "country": "ESP",
 "pub": "2026-10-27",
 "deadline": "2026-11-12 14:00",
-"place": "",
+"place": "San Vicente de Alcántara (Badajoz)",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qQGyTQiOYIEQyBAnWzHfCg%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -30242,7 +30311,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qeycfd%2BZt%2BjLgjkmqZo7VpLIyn%2BMEIrDPys3ekXCZd2/cS4TdhpgMY6E5nl82NJae%2BhxzuzXdwYhOK31sCjONfxFNowwhXYtdqmFzBtZMjwC1/zDIE0Kw/PWNnLS0Z0z"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71200000",
-"first_seen": "2026-10-28"
+"first_seen": "2026-10-28",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261885ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261885ES",
+"num": "COAVN-20261885ES"
+}
+]
 },
 {
 "num": "PLACE-26A40090500",
@@ -32408,6 +32485,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261817ES",
 "num": "COAVN-20261817ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261871ES",
+"num": "COAVN-20261871ES"
 }
 ]
 },
@@ -36297,8 +36379,8 @@
 "title": "Redacción de proyecto para las instalaciones deportivas de Txenperenea.",
 "buyer": "Ayuntamiento de Irun -Junta de Gobierno Local",
 "country": "ESP",
-"pub": "2026-11-06",
-"deadline": "2026-12-04 14:00",
+"pub": "2026-11-26",
+"deadline": "2026-12-28 14:00",
 "place": "",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso755208/es_doc/index.html",
 "source": "PLACE (CCAA)",
@@ -36307,8 +36389,8 @@
 "value": "275000",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13791811&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13791812&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14023618&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14023619&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
 "first_seen": "2026-11-07"
@@ -37150,7 +37232,7 @@
 "title": "dirección de obra coord. seguridad salud obras depuración varias provincias",
 "buyer": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. D.G. de Infraestructuras del Agua (En Transición)",
 "country": "ESP",
-"pub": "2026-11-24",
+"pub": "2026-11-26",
 "deadline": "2026-12-15 14:00",
 "place": "",
 "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1036697",
@@ -37160,7 +37242,7 @@
 "value": "1152356",
 "cur": "EUR",
 "docs": [],
-"desc": "Abierto · Servicios · CPV 71317210, 71310000, 90492000, 71000000",
+"desc": "Abierto · Servicios · CPV 90492000, 71000000, 71317210, 71310000",
 "first_seen": "2026-11-10"
 },
 {
@@ -37432,6 +37514,11 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261754ES",
 "num": "COAVN-20261754ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261883ES",
+"num": "COAVN-20261883ES"
 }
 ]
 },
@@ -38053,12 +38140,12 @@
 ],
 "desc": "Abierto · Servicios · CPV 71200000, 71351914, 71317200, 71242000",
 "first_seen": "2026-11-11",
-"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261778ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261855ES",
 "alt": [
 {
 "source": "COAVN estatal",
-"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261778ES",
-"num": "COAVN-20261778ES"
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261855ES",
+"num": "COAVN-20261855ES"
 }
 ]
 },
@@ -38993,7 +39080,14 @@
 "source": "TED",
 "first_seen": "2026-11-13",
 "title_es": "Polonia – Servicios de diseño arquitectónico – Concurso arquitectónico para desarrollar un concepto de reconstrucción de la Panadería Rajcherta en Varsovia",
-"desc_es": "El objeto del concurso es la renovación de la Panadería Rajcherta histórica con ampliación y sobreelevación para fines culturales en el Distrito Praga-Sur de Varsovia en el marco de la tarea denominada: Modernización del edificio de la antigua panadería en la calle Grochowska 224 - trabajos preparatorios. El nuevo edificio debe constituir un moderno centro local de cultura y actividad de los residentes con"
+"desc_es": "El objeto del concurso es la renovación de la Panadería Rajcherta histórica con ampliación y sobreelevación para fines culturales en el Distrito Praga-Sur de Varsovia en el marco de la tarea denominada: Modernización del edificio de la antigua panadería en la calle Grochowska 224 - trabajos preparatorios. El nuevo edificio debe constituir un moderno centro local de cultura y actividad de los residentes con",
+"alt": [
+{
+"source": "architektura.info",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_architektoniczny_na_opracowanie_koncepcji_przebudowy_piekarni_rajcherta_w_warszawie",
+"num": "PL-konkurs_architektoniczny_na_opracowanie_koncepcji_"
+}
+]
 },
 {
 "num": "792764-2026",
@@ -42027,12 +42121,20 @@
 "cur": "",
 "proc": "restricted",
 "desc": "Contrat de maîtrise d'œuvre pour la construction de la halle gourmande, ZAC Saint Vincent à Blois",
-"place": "",
+"place": "Blois (Francia)",
 "url": "https://ted.europa.eu/es/notice/-/detail/806324-2026",
 "source": "TED",
 "first_seen": "2026-11-19",
 "title_es": "Francia – Servicios de arquitectura, construcción, ingeniería e inspección – Contrato de dirección de obra para la construcción de la sala gourmet, ZAC Saint Vincent en Blois",
-"desc_es": "Contrato de dirección de obra para la construcción de la sala gourmet, ZAC Saint Vincent en Blois"
+"desc_es": "Contrato de dirección de obra para la construcción de la sala gourmet, ZAC Saint Vincent en Blois",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261827IN",
+"alt": [
+{
+"source": "COAVN internacional",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261827IN",
+"num": "COAVN-20261827IN"
+}
+]
 },
 {
 "num": "COAVN-20260375N",
@@ -43232,6 +43334,16 @@
 "source": "COAVN estatal",
 "url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261805ES",
 "num": "COAVN-20261805ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261806ES",
+"num": "COAVN-20261806ES"
+},
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261807ES",
+"num": "COAVN-20261807ES"
 }
 ],
 "first_seen": "2026-11-20"
@@ -43987,7 +44099,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jFCK5IRTO%2BjrtZ%2B48BeQNwlm3JXVagcQOVMnpV8s3d/zDROot8ynAzAcItiYV5QRQxzJG%2BD90QmfC20PHk9Vmcp7Dd8vx5q9lRffhaDpSLOHAj0WEJrB5sP7amrh2jBD"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000",
-"first_seen": "2026-11-20"
+"first_seen": "2026-11-20",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261858ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261858ES",
+"num": "COAVN-20261858ES"
+}
+]
 },
 {
 "num": "PLACE-94/26 RTPA",
@@ -44116,7 +44236,7 @@
 "country": "ESP",
 "pub": "2026-11-20",
 "deadline": "2026-12-09 23:59",
-"place": "",
+"place": "Carrión de los Céspedes (Sevilla)",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OPrFK25BHeqGCFcHcNGIlQ%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -44128,7 +44248,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDKMH41mGEwS556GAH8EWOvbDepn7M5RWtfLW76uAh4TaemQ%2BwZucIFJJETA4kYTDRFcssJPHK4edZ6Kj1l8a3g7Su0r1jIp2qDHbwIoIIw//q7NB2iMZvNyf0xrJmjt"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71240000",
-"first_seen": "2026-11-20"
+"first_seen": "2026-11-20",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261857ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261857ES",
+"num": "COAVN-20261857ES"
+}
+]
 },
 {
 "num": "PLACE-P4102700D-2026/000011-PEA",
@@ -44431,7 +44559,7 @@
 "country": "ESP",
 "pub": "2026-11-20",
 "deadline": "2026-12-07 13:00",
-"place": "",
+"place": "Alicante",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wjlZdJI%2B8UL9pbnDwlaUlg%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -44443,7 +44571,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I9SfA6/P0AfAdwMmeKxIVxU3wQ65ytfUx6z6MZIHdKwYvJq1HAFiorPIEFN/D4h/8QTBN/8pgR4ZoeNJsnplxdHaVewUga063TMkohdwk1DfdyQgZAdTm3EfcUAC7CJ6"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71410000",
-"first_seen": "2026-11-20"
+"first_seen": "2026-11-20",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261844ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261844ES",
+"num": "COAVN-20261844ES"
+}
+]
 },
 {
 "num": "PLACE-F260000714-715",
@@ -44985,7 +45121,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=KoI/PGsCtGN1%2BIvbIypwRja3x8H2yiCQSRZlvWDX7LX1ENUAjvhN%2B/Tv%2BP6Ceo8QMteGazL5YCCe8Ql0vrJBrbQYjUv0hqcwDdgvOYxH1jdJOVDbGCDM%2BMigrvuVS7Rv"
 ],
 "desc": "Abierto · Servicios · CPV 71000000, 71200000, 71247000, 71242000",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261872ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261872ES",
+"num": "COAVN-20261872ES"
+}
+]
 },
 {
 "num": "PLACE-DEHCU-2027-01",
@@ -45034,7 +45178,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=hXH1%2BgiWA6m3dW1PH/C7n9Ep3OeO%2BNyy0z86wHj5bXtmVE%2BrwY69dbexTbB45D/i12rIE7x1MSd7aYc3PsT7tZhgCEraSENur0pdYfU5gpoC1/zDIE0Kw/PWNnLS0Z0z"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71242000, 71247000, 71520000, 71356200",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261873ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261873ES",
+"num": "COAVN-20261873ES"
+}
+]
 },
 {
 "num": "PLACE-91215N",
@@ -45059,7 +45211,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=azvOLOu4ZPcSWhsmxm78mMwEi3dlNsKUeneS2n0KsNks4mZgQOLTQop9zbP09RFRhQSYYRuglIpU4x2lB28cia5jJ1dQo/IHjp5LRmNFQVl45ClyWkoJ44mKM70IFcOu"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71410000, 71356000",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261869ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261869ES",
+"num": "COAVN-20261869ES"
+}
+]
 },
 {
 "num": "PLACE-cserv19/26",
@@ -45238,7 +45398,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=RdbgtodGoIiIFq5Lc8%2BjE1Y7Qavddwm3r/PdlhcJqoMELUGxBoVD6mmDqRjHVXmVkRoM5lPCbbLa%2BOGbgnasUMyo5f5zQyeZmdpm5b9SyNXVTD3T98KC0nSgQFM0q%2B5s"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000, 71242000",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261876ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261876ES",
+"num": "COAVN-20261876ES"
+}
+]
 },
 {
 "num": "PLACE-P4101300D-2026/000013-PEAS",
@@ -45247,7 +45415,7 @@
 "country": "ESP",
 "pub": "2026-11-26",
 "deadline": "2026-12-15 23:59",
-"place": "",
+"place": "Aznalcóllar (Sevilla)",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=NB1OV2jx2DNSYrkJkLlFdw%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -45259,7 +45427,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9%2Bie0ip025YauHEwlaUvw5CP6jWvG97Kx5XQEbVNtzpXHCLGjTbxoEHD%2BN7wuXYWw/SciqZarjYG5n1282ZgFMvGDaiXbp7XRf24UwXoyn7DdQD9RyhUmzT4jZ2In4zL"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71223000",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261877ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261877ES",
+"num": "COAVN-20261877ES"
+}
+]
 },
 {
 "num": "PLACE-SSCC PAS 333/26",
@@ -45282,7 +45458,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UuWBUhnJi1eUuUm%2Bti%2B4ndHYGJmGLKPmRM4d0dWJUQXRAv8RIteORuPgm3dy4xbV7ONWGuR38UcW%2BFHjIlgB/OxkWg4sDsM0DfH/lyNV/RHVTD3T98KC0nSgQFM0q%2B5s"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71200000, 71300000",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-24",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261868ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261868ES",
+"num": "COAVN-20261868ES"
+}
+]
 },
 {
 "num": "PLACE-2026-00853",
@@ -45363,23 +45547,23 @@
 },
 {
 "num": "PLACE-2026.02",
-"title": "Servicios de redacción de proyectos y dirección de obra, trabajos de seguridad y salud, redacción de proyectos de actividades, proyectos y legalizaciones de instalaciones, proyectos relacionados con el medio ambiente, y ",
+"title": "Serveis de redacció de projectes i direcció d'obra, treballs de seguretat i salut, redacció projectes d’activitats, projectes i legalitzacions d’instal·lacions, projectes relacionats amb el medi ambient, i altres prestac",
 "buyer": "Consorci Català pel Desenvolupament Local",
 "country": "ESP",
-"pub": "2026-11-23",
+"pub": "2026-11-26",
 "deadline": "2026-12-24 15:00",
 "place": "",
-"url": "https://contractaciopublica.cat/ca/detall-publicacio/8013d385-3cb1-4e8c-98a0-4679f1f08a9d/300946701",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/8013d385-3cb1-4e8c-98a0-4679f1f08a9d/300949915",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
 "kind": "licitación",
 "value": "64500000",
 "cur": "EUR",
 "docs": [
-"https://contractaciopublica.cat/portal-api/descarrega-document/302825333/8EB04C5908D32C27F20C2B7B3BC0EB28",
-"https://contractaciopublica.cat/portal-api/descarrega-document/302825335/C10C8DAA627AA2048A283C1A331D23B4"
+"https://contractaciopublica.cat/portal-api/descarrega-document/302837378/8EB04C5908D32C27F20C2B7B3BC0EB28",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302837380/C10C8DAA627AA2048A283C1A331D23B4"
 ],
-"desc": "Abierto · Servicios · CPV 90650000, 71317200, 71332000, 71000000",
+"desc": "Abierto · Servicios · CPV 71000000, 71352000, 71317200, 90650000",
 "first_seen": "2026-11-24"
 },
 {
@@ -45429,7 +45613,7 @@
 "title": "Redacción del proyecto de ejecución, de dirección facultativa de las obras, y coordinación de seguridad y salud en las obras de “Rehabilitación de la casa del embajador Juan Alonso de Gámiz”, en Armentia, Álava.",
 "buyer": "Junta Administrativa de Armentia-Concejo de Armentia",
 "country": "ESP",
-"pub": "2026-11-23",
+"pub": "2026-11-26",
 "deadline": "2026-12-14 23:59",
 "place": "Armentia",
 "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso765542/es_doc/index.html",
@@ -45439,8 +45623,8 @@
 "value": "154502",
 "cur": "EUR",
 "docs": [
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13973140&R01HNoPortal=true",
-"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13973142&R01HNoPortal=true"
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14023210&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14023213&R01HNoPortal=true"
 ],
 "desc": "Abierto · Servicios · CPV 71000000",
 "coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260384A",
@@ -45848,11 +46032,11 @@
 {
 "num": "KO-studienauftrag-fur-bietergemeinschaften-areal-grossacker-stg",
 "title": "Studienauftrag für Bietergemeinschaften Areal Grossacker, St.Gallen (Investorenwettbewerb / Baurechtsausschreibung, selektives Verfahren)",
-"buyer": "Ortsbürgergemeinde St.Gallen",
+"buyer": "Ortsbürgergemeinde St.Gallen, Ortsbürgergemeinde St.Gallen",
 "country": "CHE",
 "pub": "",
 "deadline": "2027-02-12",
-"place": "9006 St.Gallen",
+"place": "9000 St.Gallen",
 "url": "https://konkurado.ch/de/studienauftrag-fur-bietergemeinschaften-areal-grossacker-stgallen",
 "source": "konkurado",
 "proc": "seleccion",
@@ -46015,7 +46199,7 @@
 "country": "ESP",
 "pub": "2026-11-25",
 "deadline": "2026-12-10 13:00",
-"place": "",
+"place": "Gavà i Rubí",
 "url": "https://contractaciopublica.cat/ca/detall-publicacio/3f7e3c39-b2cf-4215-9dc7-8f954a6863fc/300948307",
 "source": "PLACE (CCAA)",
 "proc": "abierto",
@@ -46027,7 +46211,15 @@
 "https://contractaciopublica.cat/portal-api/descarrega-document/302832742/8D22F0FEE4520F423E3CF19A711C1C76"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71242000, 71317210",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261860ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261860ES",
+"num": "COAVN-20261860ES"
+}
+]
 },
 {
 "num": "PLACE-IT-2027-119",
@@ -46285,7 +46477,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yVG5MvwNAfK8n0eDy3V8rMtTM1Kvgeceo3wLsH8o/bU1kj3CP0WOrqtv0/DIAFAJj3XoGOOpasCTpyJUf1rX57Qi2qs1dMnIAmUzdJ4UsZyB0nvVKRzfe4rpHcnlPhSZ"
 ],
 "desc": "Abierto · Servicios · CPV 71313000, 71240000, 71356400, 71400000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261886ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261886ES",
+"num": "COAVN-20261886ES"
+}
+]
 },
 {
 "num": "PLACE-1/FDEDI2/26-27/2026/S/080",
@@ -46443,7 +46643,7 @@
 "country": "ESP",
 "pub": "2026-11-26",
 "deadline": "2027-01-29 13:00",
-"place": "",
+"place": "Astillero (Cantabria)",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BANelfUWhmh9PLkba5eRog%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -46455,7 +46655,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=JqrTEMTzviSkWSwGX2ejB5blNaymyb9nDEw4bKQbny3AiNm13SX41wSwOYV7V8RzGxP3yugLMjZw6ddyjoYeuu%2Bt03lnzf3fowdeRoE0stY//q7NB2iMZvNyf0xrJmjt"
 ],
 "desc": "Abierto · Servicios · CPV 71242000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261882ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261882ES",
+"num": "COAVN-20261882ES"
+}
+]
 },
 {
 "num": "PLACE-DGC 4/26",
@@ -46633,7 +46841,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EDa9R9mucoWcbMP%2BGOZO5QCuYEeJXAvx/gxY65koyMPrF6/f8Wdllb8dp72l6tYHtxfBOvQDxiJOCiBdlK9GbWemBQ5mw6AHDBt9fnwt5LSCx2e6p7hqtlp2aFupgHMr"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71400000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261889ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261889ES",
+"num": "COAVN-20261889ES"
+}
+]
 },
 {
 "num": "PLACE-SER035/2026",
@@ -46664,7 +46880,7 @@
 "country": "ESP",
 "pub": "2026-11-25",
 "deadline": "2026-12-11 15:00",
-"place": "",
+"place": "Sevilla",
 "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=04UcXusJmd8S7pcxhTeWOg%3D%3D",
 "source": "PLACE",
 "proc": "abierto",
@@ -46676,7 +46892,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lz69W0Y1BhlXO6j4FVeQ1rlvnwo6UpjQCG%2BBEfVblfTBTw2Dhu4tprt6h85P7AnCf5S1HFa7H96sS3Rat71zpUtEuR8TfXdP6aXlGnM1sqB7QB3HKyQaFUExmUVQCerk"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71200000, 71240000, 71242000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261888ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261888ES",
+"num": "COAVN-20261888ES"
+}
+]
 },
 {
 "num": "PLACE-350/2026",
@@ -46794,7 +47018,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ReKM7Nh3RAmsQ%2Bi5s82GcUcj/kAu33%2BAi4LdIa76zEPL6yEHb0EgDMlBRt%2BwNqXW8uOR2Yx3QLFkUSv/IhkDZfr3iEQOBC6wJwEpXBH79a7VTD3T98KC0nSgQFM0q%2B5s"
 ],
 "desc": "Abierto · Servicios · CPV 71200000, 71317200",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261859ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261859ES",
+"num": "COAVN-20261859ES"
+}
+]
 },
 {
 "num": "PLACE-09/RGCP/26-27/2026/S/099",
@@ -47069,7 +47301,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=p676djtCwEvHO2QMOCd2YfBoSYDAX/L7aWokv9V0gtqyZcaBESPJqJSC3JNi1VWjAoaqavrzpWkYyiQFAjf00P%2BidC415xxc0kWh87t48WPDdQD9RyhUmzT4jZ2In4zL"
 ],
 "desc": "Abierto · Servicios · CPV 71250000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261862ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261862ES",
+"num": "COAVN-20261862ES"
+}
+]
 },
 {
 "num": "PLACE-2026/CMY_03/000036",
@@ -47109,7 +47349,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jkDWO0l9/jkDd9cgXWQYmX7PNfnVEluqvI1e0FNLYibdBeeDmw6Sorr8w1hnqlyAozr8OAtR2V1byiylcyYHGwCiF9ELNtbDfn%2BDnvWdHEWB0nvVKRzfe4rpHcnlPhSZ"
 ],
 "desc": "Abierto · Servicios · CPV 71000000, 71200000, 71315000, 71240000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261863ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261863ES",
+"num": "COAVN-20261863ES"
+}
+]
 },
 {
 "num": "PLACE-SER/2026/0000221483",
@@ -47185,7 +47433,15 @@
 "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=DtUDZbm51rV8jQatWEb%2BiO53UC2fZ2e//tGE9wRuyq2n2HBtcJxmmJJzRdhPP771LxsePjK8AqJmqXNHEY37BN6j/NR1GS0Ne2tX5jjTl34ZyAJWGsSt0OzTSTyw9JAs"
 ],
 "desc": "Abierto simplificado · Servicios · CPV 71000000, 71242000, 71200000",
-"first_seen": "2026-11-26"
+"first_seen": "2026-11-26",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261870ES",
+"alt": [
+{
+"source": "COAVN estatal",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261870ES",
+"num": "COAVN-20261870ES"
+}
+]
 },
 {
 "num": "PLACE-2026/AR42U/00002698E",
@@ -47407,5 +47663,918 @@
 ],
 "desc": "Abierto · Servicios · CPV 85100000",
 "first_seen": "2026-11-26"
+},
+{
+"num": "COAVN-20261851IN",
+"title": "Concurso de arquitectura para la construcción de un centro de prácticas en el campus de CMA Formation en Fougères.",
+"buyer": "Chambre de Métiers et de l’Artisanat de Région Bretagne",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "2026-12-22T16:00",
+"place": "Rennes (Francia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261851IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261851IN",
+"source": "COAVN internacional",
+"proc": "abierto",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/812064-2026",
+"num": "812064-2026"
+}
+],
+"first_seen": "2026-11-27",
+"title_es": "Concurso de arquitectura para la construcción de un centro de prácticas en el campus de CMA Formation en Fougères.",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261842ES",
+"title": "Contratación del servicio de Redacción del Proyecto y Asistencia Técnica a la Dirección de las Obras y Coordinación de Seguridad y Salud de las obras de la nueva terminal de autobuses de Segovia.",
+"buyer": "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Segovia",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261842ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261842ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "240000",
+"cur": "EUR",
+"desc": "Presupuesto: 240.000,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261856ES",
+"title": "Servicio De Asistencia Técnica y Administrativa Para La Gestión y Desarrollo De Las Actuaciones Contempladas En El Programa De Erradicación De La Zona Degradada De La Urbanización La Paz, En El Polígono Residencial De Ar",
+"buyer": "Ayuntamiento de Agüimes",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Agüimes (Gran Canaria)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261856ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261856ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Presupuesto: 437.614,36 EUR (IVA excluido) · Publicado en: DOUE",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261891ES",
+"title": "Redacción del proyecto básico y ejecutivo para la rehabilitación integral del edificio municipal situado en la Plaza Imperial Tarraco",
+"buyer": "Ajuntament de Tarragona",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Tarragona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261891ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261891ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261843ES",
+"title": "Servicio de Redacción de Proyectos Básico y de Ejecución, dirección facultativa completa y coordinación de seguridad y salud en fase de ejecución de las Obras de reforma de la instalación de climatización de la Bibliotec",
+"buyer": "Ministerio de Educación, Cultura y Deporte",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Mérida (Badajoz)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261843ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261843ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "80000",
+"cur": "EUR",
+"desc": "Presupuesto: 80.000,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261845ES",
+"title": "Redacción del proyecto básico y ejecutivo, la redacción del Estudio de seguridad y salud y la dirección de las obras para la Restauración de la cubierta meridional de la iglesia, y la colocación de las líneas de vida en ",
+"buyer": "Institut Català del Sòl (INCASOL)",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Barcelona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261845ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261845ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "54020",
+"cur": "EUR",
+"desc": "Presupuesto: 54.020,89 euros (IVA excluido) · Publicado en: Plataforma de contratación de Cataluña",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261854ES",
+"title": "Servicios de elaboración de presupuesto, dirección de ejecución, control de calidad y gestión ambiental de las obras de construcción del edificio destinado a la investigación en el ámbito de las ciencias de la salud, en ",
+"buyer": "Institut Català del Sòl (INCASÒL)",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Barcelona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261854ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261854ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261846ES",
+"title": "AT, DF y CSS obras correctoras recinto Prado del Rey",
+"buyer": "Compras de la Corporación de Radio y Televisión Española S.A.",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Pozuelo de Alarcón (Madrid)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261846ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261846ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "106922",
+"cur": "EUR",
+"desc": "Presupuesto: 106.922,16 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261848ES",
+"title": "Contrato mixto, Obras y Servicios, por Lotes, consistente en la ejecución de las contenidas en el Proyecto de Demolición de la antigua estación de guaguas de Puerto de la Cruz, y el servicio consistente en la Dirección F",
+"buyer": "Ayuntamiento de Puerto de la Cruz",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Puerto de la Cruz (Tenerife)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261848ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261848ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "535698794",
+"cur": "EUR",
+"desc": "Presupuesto: 535.698.794,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261861ES",
+"title": "Contrato de servicio para la redacción de proyecto, dirección de obra, dirección de ejecución de las obras y coordinación de seguridad y salud de la \"Reforma Integral\" de las oficinas de la demarcación de carreteras del ",
+"buyer": "Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Salamanca",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261861ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261861ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "41997",
+"cur": "EUR",
+"desc": "Presupuesto: 41.997,49 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261864ES",
+"title": "Servicio de dirección facultativa durante la ejecución de las obras para la construcción de un Centro de Participación Activa y Centro de Día para personas mayores en la localidad de Haro",
+"buyer": "Gobierno de La Rioja",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Haro (La Rioja)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261864ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261864ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "125204",
+"cur": "EUR",
+"desc": "Presupuesto: 125.204,89 euros (IVA excluido) · Publicado en: Plataforma de contratación de La Rioja",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261866ES",
+"title": "Asistencia Técnica a la Dirección Facultativa de la obra, en materia de instalaciones, durante la ejecución de las obras, en la reforma integral del edificio situado en la calle Paseo de la Habana 140 (Madrid)",
+"buyer": "Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, S.A. (Segipsa)",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Madrid",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261866ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261866ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "53000",
+"cur": "EUR",
+"desc": "Presupuesto: 53.000,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261867ES",
+"title": "2027-17 MAG/RPS Servicios de elaboración de presupuesto, dirección de ejecución, control de calidad y gestión ambiental de las obras de construcción del edificio destinado a la investigación en el ámbito de las ciencias ",
+"buyer": "Institut Català del Sòl (INCASOL)",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Barcelona",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261867ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261867ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "1057598",
+"cur": "EUR",
+"desc": "Presupuesto: 1.057.598,60 euros (IVA excluido9 · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261878ES",
+"title": "Servicio de redacción del proyecto de instalaciones y dirección técnica de su ejecución para el edificio de oficinas y espacios flexibles en alquiler en el TechRioja de Albelda de Iregua (La Rioja).",
+"buyer": "Consejería de Economía, Innovación, Empresa y Trabajo Autónomo",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "2026-12-10 14:00",
+"place": "lbelda de Iregua (La Rioja)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261878ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261878ES",
+"source": "COAVN estatal",
+"proc": "abierto",
+"kind": "licitación",
+"value": "169980",
+"cur": "EUR",
+"desc": "Presupuesto: 169.980,00 euros (IVA excluido) · Publicado en: Plataforma de contratación de La Rioja",
+"alt": [
+{
+"source": "PLACE (CCAA)",
+"url": "https://www.larioja.org/contratacion-publica/es/licitaciones/consulta-expedientes?homepage=?p_colateral%3D19-7-2.01-0008%2F2026%26p_dia_ini%3D24%26p_mes_ini%3D11%26p_ano_ini%3D2026%26p_dia_fin%3D24%26p_mes_fin%3D11%26p_ano_fin%3D2026%26p_todas%3DN",
+"num": "PLACE-19-7-2.01-0008/2026"
+}
+],
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261880ES",
+"title": "Contratación del servicio de Redacción del Proyecto y Asistencia Técnica a la Dirección de Obra y Coordinación de Seguridad y Salud de las obras de la Estación de Autobuses de Arévalo.",
+"buyer": "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Arévalo (Ávila)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261880ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261880ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "48000",
+"cur": "EUR",
+"desc": "Presupuesto: 48.000,00 euros (IVA excluido) · Publicado en: Plataforma de contratación del Estado",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261881ES",
+"title": "Servicio de Redacción de proyectos básico y de ejecución, dirección facultativa completa y coordinación de seguridad y salud en fase de ejecución de las obras de subsanación de deficiencias e intervenciones de mejora en ",
+"buyer": "Ministerio de Educación, Cultura y Deporte",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Madrid",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261881ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261881ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "250000",
+"cur": "EUR",
+"desc": "Presupuesto: 250.000,00 euros (IVA excluido) · Publicado en: DOUE",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261890ES",
+"title": "Servicio de arquitectura e ingeniería por equipo facultativo, para la redacción de los proyectos y la dirección de las obras de reforma integral del Edificio Huerto Sogueros para Centro Sanitario Integrado en Castellón d",
+"buyer": "Dirección General de Gestión Económica, Contratación e Infraestructuras de la Conselleria de Sanidad",
+"country": "ESP",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Castellón de la Plana (Castellón)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261890ES",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=ES&numeroRegistro=20261890ES",
+"source": "COAVN estatal",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Presupuesto: Valor estimado, IVA excluido: 1 319 806,04 EUR · Publicado en: DOUE",
+"first_seen": "2026-11-27"
+},
+{
+"num": "COAVN-20261893IN",
+"title": "Concurso de proyectos de edificación con componentes de diseño de espacios exteriores: «Nueva construcción del parque de bomberos», municipio de Silberstedt",
+"buyer": "Gemeinde Silberstedt, der Bürgermeister vertreten durch GOS",
+"country": "DEU",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Kiel (Alemania)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261893IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261893IN",
+"source": "COAVN internacional",
+"proc": "abierto",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Concurso de proyectos de edificación con componentes de diseño de espacios exteriores: «Nueva construcción del parque de bomberos», municipio de Silberstedt",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261894IN",
+"title": "Concurso de diseño para la escuela de educación básica y el jardín de infancia de Pikaliiva",
+"buyer": "Tallinna Linnavaraamet",
+"country": "INT",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Tallinn (Estonia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261894IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261894IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Concurso de diseño para la escuela de educación básica y el jardín de infancia de Pikaliiva",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261895IN",
+"title": "Encargo de diseño y arquitectura para un proyecto de vivienda social y oficinas administrativas para una entidad de vivienda Bélgica, distrito de Dendermonde",
+"buyer": "Woonpijler",
+"country": "BEL",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Wetteren (Belgica)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261895IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261895IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Encargo de diseño y arquitectura para un proyecto de vivienda social y oficinas administrativas para una entidad de vivienda Bélgica, distrito de Dendermonde",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261896IN",
+"title": "CONCURSO PARA EL DESARROLLO DE UN CONCEPTO URBANO Y ARQUITECTÓNICO PARA LA ADAPTACIÓN Y AMPLIACIÓN DE UN EDIFICIO ESCOLAR Y SU TRANSFORMACIÓN EN UN CENTRO MULTIMEDIA Y BIBLIOTECA («MEDIATEKA»), SITUADO EN LA CALLE TADEUS",
+"buyer": "Gmina Miejska Ostróda",
+"country": "POL",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Ostróda (Polonia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261896IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261896IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Concurso para el desarrollo de un concepto urbano y arquitectónico para la adaptación y ampliación de un edificio escolar y su transformación en un centro multimedia y biblioteca («MEDIATEKA»), situado en la calle Tadeus",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261850IN",
+"title": "Misión de maestría relacionada con la gestión de seguros y la reestructuración de un edificio para la creación de 25 viviendas sociales y una empresa local (Agence Lefebvre) en París, siglo XV.",
+"buyer": "Paris Habitat - OPH",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "París (Francia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261850IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261850IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Misión de maestría relacionada con la gestión de seguros y la reestructuración de un edificio para la creación de 25 viviendas sociales y una empresa local (Agence Lefebvre) en París, siglo XV.",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261852IN",
+"title": "Sala cubierta y de un espacio de restauración del centro cultural Le Polaris",
+"buyer": "Ville de Corbas",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Corbas (Francia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261852IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261852IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Sala cubierta y espacio de restauración del centro cultural Le Polaris",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261849IN",
+"title": "Escuela Neubau der Friedrich-Harkort en Hagen",
+"buyer": "Hagen Stadt der Fernuniversität Der Oberbürgermeister",
+"country": "DEU",
+"pub": "2026-11-27",
+"deadline": "2026-12-11T23:59",
+"place": "Hagen (Alemania)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261849IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261849IN",
+"source": "COAVN internacional",
+"proc": "restricted",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/812914-2026",
+"num": "812914-2026"
+}
+],
+"first_seen": "2026-11-27",
+"title_es": "Neubau de la Escuela Friedrich-Harkort en Hagen",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261898IN",
+"title": "Concurso de arquitectura de una sola etapa para el diseño y la supervisión de la construcción del proyecto «Centro de Artes de Limassol»",
+"buyer": "Limassol Municipality",
+"country": "INT",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Limassol (Chipre)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261898IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261898IN",
+"source": "COAVN internacional",
+"proc": "abierto",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Concurso de arquitectura de una sola etapa para el diseño y supervisión de la construcción del proyecto «Centro de Artes de Limassol»",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261900IN",
+"title": "Sede de la Fiscalía de Distrito y la Fiscalía Local en Ostrołęka, incluyendo la ordenación del terreno.",
+"buyer": "Prokuratura Okręgowa w Ostrołęce",
+"country": "POL",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Ostrołęka (Polonia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261900IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261900IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Sede de la Fiscalía de Distrito y la Fiscalía Local en Ostrołęka, incluyendo la ordenación del terreno.",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261897IN",
+"title": "Rehabilitación y ampliación de la residencia para personas mayores",
+"buyer": "Centre Hospitalier de Béziers",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "Béziers (Francia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261897IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261897IN",
+"source": "COAVN internacional",
+"proc": "",
+"kind": "licitación",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"first_seen": "2026-11-27",
+"title_es": "Rehabilitación y ampliación de la residencia para personas mayores",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "COAVN-20261899IN",
+"title": "Concurso de dirección de obra para la reconversión del antiguo colegio, Place Allègre en La Londe-les-Maures Francia, Var (FRL05)",
+"buyer": "Commune de la Londe Les Maures",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "2027-01-04T11:00",
+"place": "La Londe Les Maures (Francia)",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261899IN",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_ei.jsp?idAmbitoTerritorial=IN&numeroRegistro=20261899IN",
+"source": "COAVN internacional",
+"proc": "abierto",
+"kind": "concurso",
+"value": "",
+"cur": "",
+"desc": "Publicado en: DOUE",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/818235-2026",
+"num": "818235-2026"
+}
+],
+"first_seen": "2026-11-27",
+"title_es": "Concurso de dirección de obra para la reconversión del antiguo colegio, Place Allègre en La Londe-les-Maures Francia, Var (FRL05)",
+"desc_es": "Publicado en: DOUE"
+},
+{
+"num": "KO-schulanlage-Sihlweid",
+"title": "Schulanlage Sihlweid (Planerwahlverfahren, selektives Verfahren)",
+"buyer": "Stadt Zürich | Hochbaudepartement | Amt für Hochbauten",
+"country": "CHE",
+"pub": "2026-11-27",
+"deadline": "2027-04-05",
+"place": "8041 Zürich",
+"url": "https://konkurado.ch/de/schulanlage-Sihlweid",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Die Schulanlage Sihlweid, inkl. dem Klassen- und Singsaaltrakt, der beiden Sporthallen sowie dem Personalbereich soll instandgesetzt werden. Die hindernisfreie Erschliessung der gesamten Anlage ist zu gewährleisten. Nach der Instandsetzung soll die Schulanlage Sihlweid als Tagesschule Platz für 12 Primarschulklassen bieten. Aufgrund der Entwicklung der",
+"first_seen": "2026-11-27",
+"title_es": "Schulanlage Sihlweid (Planerwahlverfahren, procedimiento selectivo)",
+"desc_es": "Restricción regional: WTO/GPA · La Schulanlage Sihlweid, incluyendo el ala de aulas y sala de canto, las dos piscinas cubiertas y el área de personal, debe ser rehabilitada. Se debe garantizar el acceso sin barreras para toda la instalación. Después de la rehabilitación, la Schulanlage Sihlweid como escuela de jornada completa debe ofrecer espacio para 12 clases de primaria"
+},
+{
+"num": "KO-epfl-3-construction-dun-nouveau-batiment-a-sion-pour-la-3eme",
+"title": "EPFL 3 - Construction d'un nouveau bâtiment à Sion pour la 3ème phase d'implantation de l'EPFL en Valais (Projektstudie, selektives Verfahren)",
+"buyer": "Etat du Valais, Service immobilier et patrimoine",
+"country": "CHE",
+"pub": "2026-11-27",
+"deadline": "2027-04-23",
+"place": "1950 Sion",
+"url": "https://konkurado.ch/de/epfl-3-construction-dun-nouveau-batiment-a-sion-pour-la-3eme-phase-dimplantation-de-lepfl-en-valais",
+"source": "konkurado",
+"proc": "seleccion",
+"desc": "Restricción regional: WTO/GPA · Construction d'un nouveau bâtiment à Sion dans le cadre de la 3ème phase d'implantation de l'EPFL en Valais. Ort",
+"first_seen": "2026-11-27",
+"title_es": "EPFL 3 - Construcción de un nuevo edificio en Sion para la tercera fase de implantación de la EPFL en Valais (Projektstudie, procedimiento selectivo)",
+"desc_es": "Restricción regional: WTO/GPA · Construcción de un nuevo edificio en Sion en el marco de la tercera fase de implantación de la EPFL en Valais. Ubicación"
+},
+{
+"num": "PL-konkurs_na_koncepcje_aranzacji_wnetrz_i_ekspozycji",
+"title": "Konkurs na koncepcję aranżacji wnętrz i ekspozycji stałej w Muzeum Mieszkańców - części Muzeum Poznania",
+"buyer": "",
+"country": "POL",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_na_koncepcje_aranzacji_wnetrz_i_ekspozycji_stalej_w_muzeum_mieszkancow_czesci_muzeum_poznania",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-11-27",
+"title_es": "Concurso para la concepción del interiorismo y la exposición permanente en el Museo de los Habitantes - parte del Museo de Poznań"
+},
+{
+"num": "PL-konkurs_ograniczony_dwuetapowy_na_opracowanie_konc",
+"title": "Konkurs ograniczony, dwuetapowy na opracowanie koncepcji architektonicznej siedziby Prokuratury Okręgowej i Prokuratury Rejonowej w Ostrołęce wraz...",
+"buyer": "Prokuratura Okręgowa w Ostrołęce",
+"country": "POL",
+"pub": "2026-11-27",
+"deadline": "2026-12-10T23:59",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/konkurs_ograniczony_dwuetapowy_na_opracowanie_koncepcji_architektonicznej_siedziby_prokuratury_okregowej_i_prokuratury_rejonowej_w_ostrolece_wraz_z_zagospodarowaniem_terenu",
+"source": "architektura.info",
+"proc": "seleccion",
+"desc": "Konkurs jest konkursem realizacyjnym tzn. takim, w którym Nagrodą jest nagroda pieniężna oraz zaproszenie autora (Uczestnika konkursu) wybranej Pracy konkursowej do negocjacji w trybie zamówienia z wolnej ręki, w celu wykonania usługi na podstawie Pracy konkursowej. Przedmiot usługi został opisany wstępnie w Istotnych postanowieniach umowy stanowiących Załącznik nr 1 do Regulaminu Przedmiotem konkursu jest koncepcja architektoniczna budynku siedziby Prokuratury Okręgowej w Ostrołęce i Prokuratury Rejonowej w Ostrołęce wraz z zagospodarowaniem terenu na działce ew. nr: 40522/2 obręb 0004 w Ostrołęce o łącznej powierzchni 14.674m2. Projektowany budynek powinien posiadać powierzchnię ok. 4624 m2, z czego część Prokuratury Okręgowej w Ostrołęce - 2826 m2, natomiast część Prokuratury Rejonowej w Ostrołęce - 1798 m2. Konkurs prowadzony jest w procedurze konkursu ograniczonego i dwuetapowego. a) Etap Kwalifikacyjny: – Podmioty zainteresowane udziałem w Konkursie składają wnioski o dopuszczenie do udziału w konkursie zgodnie z postanowieniami Rozdziału IV Regulaminu w terminie określonym w Harmonogramie konkursu; – Organizator dopuszcza do udziału w Konkursie i zaprasza do składania Opracowań studialnych Uczestników konkursu spełniających określone przez Organizatora obiektywne wymagania określone w Rozdziale IV Regulaminu. b) Etap I Konkursu - składanie i ocena Opracowań studialnych: – Składanie Opracowań studialnych przez Uczestników konkursu zaproszonych do składania Opracowań stu",
+"kind": "concurso",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/817852-2026",
+"num": "817852-2026"
+},
+{
+"source": "sarp.warszawa.pl",
+"url": "https://sarp.warszawa.pl/sarp_konkurs/konkurs-ograniczony-dwuetapowy-na-opracowanie-koncepcji-architektonicznej-siedziby-prokuratury-okregowej-i-prokuratury-rejonowej-w-ostrolece-wraz-z-zagospodarowaniem-terenu/",
+"num": "SARP-konkurs-ograniczony-dwuetapowy-na-opraco"
+}
+],
+"first_seen": "2026-11-27",
+"title_es": "Concurso restringido, de dos etapas, para la elaboración de la concepción arquitectónica de la sede de la Fiscalía de Distrito y la Fiscalía de Circunscripción en Ostrołęka junto con...",
+"desc_es": "El concurso es un concurso de ejecución, es decir, aquél en el que el Premio consiste en un premio en metálico y la invitación del autor (Participante del concurso) de la Obra concursante seleccionada a negociar en la modalidad de contratación directa, para la ejecución del servicio sobre la base de la Obra concursante. El objeto del servicio fue descrito preliminarmente en las Disposiciones esenciales del contrato que constituyen"
+},
+{
+"num": "PL-opracowanie_koncepcji_architektonicznej_centrum_po",
+"title": "OPRACOWANIE KONCEPCJI ARCHITEKTONICZNEJ CENTRUM POMOCY SPOŁECZNEJ",
+"buyer": "",
+"country": "POL",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "",
+"url": "https://architektura.info/wiadomosci/konkursy_architektoniczne/opracowanie_koncepcji_architektonicznej_centrum_pomocy_spolecznej",
+"source": "architektura.info",
+"proc": "",
+"desc": "",
+"first_seen": "2026-11-27",
+"title_es": "Elaboración de la concepción arquitectónica del Centro de Ayuda Social"
+},
+{
+"num": "BOAMP-26-114551",
+"title": "Concours restreint d'architecture pour des travaux de réhabilitation et construction d'une nouvelle salle omnisports à Fontenay Le Comte.",
+"buyer": "Communauté de Communes Pays de Fontenay Vendée (85)",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "dép. 85",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114551",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Bâtiment",
+"first_seen": "2026-11-27",
+"title_es": "Concours restreint de arquitectura para trabajos de rehabilitación y construcción de una nueva sala polideportiva en Fontenay Le Comte.",
+"desc_es": "Procedimiento restringido · Edificio"
+},
+{
+"num": "BOAMP-26-114769",
+"title": "Concours restreint de maîtrise d'oeuvre sur esquisse pour la restructuration du Pôle de vie de la Grivelière sur la commune de Biviers (38)",
+"buyer": "Pouvoir adjudicateur : COMMUNE DE BIVIERS",
+"country": "FRA",
+"pub": "2026-11-27",
+"deadline": "",
+"place": "dép. 38",
+"url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114769",
+"source": "BOAMP",
+"proc": "seleccion",
+"desc": "Procédure Restreinte · Maîtrise d'oeuvre",
+"first_seen": "2026-11-27",
+"title_es": "Concours restreint de dirección de obra en esquisse para la reestructuración del Pôle de vie de la Grivelière en el municipio de Biviers (38)",
+"desc_es": "Procedimiento restringido · Dirección de obra"
+},
+{
+"num": "TN-451012",
+"title": "Ontwerpteam Hart van Bolsward",
+"buyer": "Gemeente Súdwest-Fryslân",
+"country": "NLD",
+"pub": "2026-11-27",
+"deadline": "2027-01-11 10:00",
+"place": "",
+"url": "https://www.tenderned.nl/aankondigingen/overzicht/451012",
+"source": "TenderNed",
+"proc": "seleccion",
+"kind": "licitación con concurso",
+"desc": "Aankondiging opdracht · Niet-openbaar · De gemeente Súdwest-Fryslân besteedt een geïntegreerde ontwerp-opdracht aan voor het nieuwe Multifunctioneel Centrum (MFC) Hart van Bolsward met zwembad. De opdracht omvat de disciplines architectuur, constructies en installaties (elektrotechnisch en werktuigbouwkundig) voor de fasen Voorlopig Ontwe",
+"first_seen": "2026-11-27",
+"title_es": "Equipo de diseño Hart van Bolsward",
+"desc_es": "Anuncio de encargo · No público · El municipio Súdwest-Fryslân adjudica un encargo de diseño integrado para el nuevo Centro Multifuncional (MFC) Hart van Bolsward con piscina. El encargo abarca las disciplinas arquitectura, estructuras e instalaciones (técnicas y mecánicas) para las fases de Anteproyecto"
+},
+{
+"num": "PLACE-3121_2/2026",
+"title": "Contrato de servicios de asesoramiento y asistencia técnica en materia de urbanismo",
+"buyer": "Ayuntamiento de Urraúl Bajo",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-16 11:00",
+"place": "Urraúl Bajo",
+"url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261126122826E1D261BE",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "8000",
+"cur": "EUR",
+"docs": [],
+"desc": "Abierto · Servicios · CPV 71240000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260391N",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260391N",
+"num": "COAVN-20260391N"
+}
+],
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-2576/2026",
+"title": "El objeto del contrato es la dirección facultativa de las obras-dirección de obra y dirección de la ejecución de la obra correspondientes al Proyecto de ejecución de reforma del Polideportivo Municipal de Derio, Fase 1ª.",
+"buyer": "Ayuntamiento de Derio-Alcaldesa",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-11 23:59",
+"place": "Derio",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso766852/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "83000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14019419&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14019421&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260390B",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260390B",
+"num": "COAVN-20260390B"
+}
+],
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-2026K1150025",
+"title": "Redacción de proyecto y dirección de obra del Faro de Higer para destinarlo a usos culturales",
+"buyer": "Ayuntamiento de Hondarribia-Alcaldía",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-14 12:00",
+"place": "Hondarribia",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso766829/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "36371",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14018989&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14018990&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71200000",
+"coavn_url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260388G",
+"alt": [
+{
+"source": "COAVN Euskadi-Navarra",
+"url": "http://www.coavn.org/coavn/jsp/concursos/fichaConcurso_es.jsp?numeroRegistro=20260388G",
+"num": "COAVN-20260388G"
+}
+],
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-P20028473",
+"title": "Servicio de redacción del proyecto constructivo de renovación de vía de la estación de Deba",
+"buyer": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-23 12:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso767031/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "150000",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14017977&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14017979&R01HNoPortal=true"
+],
+"desc": "Abierto · Servicios · CPV 71240000",
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-EKP 011/2026",
+"title": "Servicios de redacción de proyecto de ejecución y de dirección facultativa de los trabajos para la ordenación de las embarcaciones náutico-recreativas en la ría de Plentzia.",
+"buyer": "Ente Público Euskadiko Kirol Portuak-Dirección de Euskadiko Kirol Portuak",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-18 13:00",
+"place": "",
+"url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso766633/es_doc/index.html",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "98900",
+"cur": "EUR",
+"docs": [
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14017857&R01HNoPortal=true",
+"https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=14017859&R01HNoPortal=true"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71300000",
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-08036391/2027/1",
+"title": "La contractació té per objecte prestar el servei de neteja dels espais de l'Institut Arquitecte Manuel Raspall de Cardedeu",
+"buyer": "Departament d'Educació i Formació Professional",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-11 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/712961c2-cbb5-41e6-bc0b-1ca80529d5be/300951651",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "83767",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302843825/6E1C26E3ECFB60F73E6235478A761C75",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302843827/2771630DDD6400911C1C0D010C492C1F"
+],
+"desc": "Abierto · Servicios · CPV 90919300",
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-SOC-2027-20",
+"title": "Serveis de redacció de projecte, estudi de seguretat i salut, direcció facultativa, coordinació de seguretat i salut, control de qualitat i tramitació de la llicència d'activitat per a les obres d'adequació d'una nova Of",
+"buyer": "Servei Públic d'Ocupació de Catalunya",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-11 14:00",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/076484b9-b111-4da9-9172-c6186269737e/300951370",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "38935",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302843014/60AD97BC9282B2E59607B5895342F1C2",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302842802/AEC427823821552AEA853B707632F612"
+],
+"desc": "Abierto simplificado · Servicios · CPV 71000000",
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-PE+DO. CAP-26433",
+"title": "Concurso de proyectos para la asistencia técnica para la redacción del proyecto básico y ejecutivo y la posterior dirección de las obras del nuevo Centro de Atención Primaria de Llagostera. Clave: CAP-26433",
+"buyer": "Infraestructures de la Generalitat de Catalunya, SAU",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2027-01-11 13:00",
+"place": "Girona",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/cbcd94ca-6a3b-4373-99a7-ec45ebaedcc3/300949819",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "concurso",
+"value": "347057",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302836977/B927858292D83B8AB5D4FD77C5395179",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302836980/667FE7DFADA914CFC860FB61D79599E8"
+],
+"desc": "Concurso de proyectos · Servicios · CPV 71242000, 71541000",
+"alt": [
+{
+"source": "TED",
+"url": "https://ted.europa.eu/es/notice/-/detail/822799-2026",
+"num": "822799-2026"
+}
+],
+"first_seen": "2026-11-27"
+},
+{
+"num": "PLACE-2026/009232",
+"title": "El objeto del contrato es el de contratar la prestación de los trabajos forestales sobre una superficie alrededor de 68HA de acuerdo con el PPT, para mantener una franja exterior de protección de veinticinco metros de an",
+"buyer": "Ajuntament de Roses",
+"country": "ESP",
+"pub": "2026-11-26",
+"deadline": "2026-12-28 23:59",
+"place": "",
+"url": "https://contractaciopublica.cat/ca/detall-publicacio/b8af632a-794b-4614-985f-5c735cf6e3c2/300933126",
+"source": "PLACE (CCAA)",
+"proc": "abierto",
+"kind": "licitación",
+"value": "143512",
+"cur": "EUR",
+"docs": [
+"https://contractaciopublica.cat/portal-api/descarrega-document/302775912/FB16C64F4F5C8F876860D40FB83A56EF",
+"https://contractaciopublica.cat/portal-api/descarrega-document/302775961/274EE54331B9E2EF4652862764A8C9D0"
+],
+"desc": "Abierto · Servicios · CPV 77211400, 77312000, 77200000",
+"first_seen": "2026-11-27"
 }
 ]
